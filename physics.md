@@ -11,13 +11,13 @@ nav_order: 5
 
 2. **Elementary Particles**: Matter is made of tiny building blocks called particles. Some examples are quarks (which make up protons and neutrons) and electrons. These particles interact with each other through different forces.
 
-3. **Fundamental Forces**: There are four main forces in nature:
+3. **Fundamental Forces**. There are four main forces in nature:
 * **Gravity**: Gravity is what makes things fall to the ground and keeps planets orbiting the sun.
 * **Electromagnetic Force**: Electromagnetic force is responsible for electricity and magnetism, like how magnets attract or repel each other.
 * **Strong Nuclear Force**: Strong nuclear force is what holds the parts of an atom's nucleus together.
 * **Weak Nuclear Force**: Weak nuclear force is involved in certain types of radioactive decay and how neutrinos (very tiny particles) behave.
 
-4. **Conservation Laws**: Conservation laws are rules that say certain things always stay the same in a closed system:
+4. **Conservation Laws**. Conservation laws are rules that say certain things always stay the same in a closed system:
 * **Mass-Energy**: You can change mass into energy (like in nuclear reactions) or energy into mass, but the total amount stays the same.
 * **Momentum**: The total amount of motion in a system doesn't change unless something from outside affects it.
 * **Angular Momentum**: The total amount of spinning motion in a system stays the same.
@@ -25,7 +25,7 @@ nav_order: 5
 
 5. **Symmetry and Invariance**: The laws of physics work the same way no matter where you are or which direction you're facing. This idea leads to some of the conservation laws mentioned above.
 
-6. **Newton's Laws of Motion**: Newton's Laws of Motion describe how objects move:
+6. **Newton's Laws of Motion**. Newton's Laws of Motion describe how objects move:
 * **First Law**: Things keep moving or stay still unless a force acts on them.
 * **Second Law**: The more force you apply to an object, the more it accelerates. Heavier objects need more force to accelerate the same amount.
 * **Third Law**: When you push on something, it pushes back with equal force.
@@ -42,7 +42,7 @@ nav_order: 5
 
 12. **Quantum Entanglement**: Sometimes two particles can be connected in a special way so that what happens to one instantly affects the other, no matter how far apart they are.
 
-13. **Building Up from Basics**: By using these basic ideas, scientists can explain more complicated things:
+13. **Building Up from Basics**. By using these basic ideas, scientists can explain more complicated things:
 * **Thermodynamics**: Thermodynamics explains how heat and energy work in big systems.
 * **Statistical Mechanics**: Statistical mechanics connects how individual particles behave to how big groups of particles behave.
 * **Electromagnetism and Optics**: Electromagnetism and optics explain how light and electromagnetic waves behave.
