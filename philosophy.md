@@ -10,13 +10,13 @@ has_children: true
 1. **What is Philosophy?** Philosophy is basically thinking deeply about big questions. It's like being curious about life's biggest mysteries and trying to figure them out using our brains. Unlike science, which looks at things we can see or measure, philosophy digs into ideas and concepts. It's all about using our minds to understand the world and our place in it.
 
 2. **What are the Key Questions of Philosophy?** Philosophy asks some really big questions that don't have easy answers. Here are the main types:
-* What's real? What actually exists in the world? (This is called metaphysics)
-* How do we know things? What counts as knowledge? (This is epistemology)
-* What's right and wrong? How should we act? (This is ethics)
-* How do we think correctly? What makes an argument good or bad? (This is logic)
-* What makes something beautiful? What counts as art? (This is aesthetics)
+    * What's real? What actually exists in the world? (This is called metaphysics)
+    * How do we know things? What counts as knowledge? (This is epistemology)
+    * What's right and wrong? How should we act? (This is ethics)
+    * How do we think correctly? What makes an argument good or bad? (This is logic)
+    * What makes something beautiful? What counts as art? (This is aesthetics)
 
-These questions are so basic and important that they apply to pretty much everyone and everything.
+    These questions are so basic and important that they apply to pretty much everyone and everything.
 
 3. **How Does Philosophy Seek Answers?** Philosophers don't use test tubes or telescopes. Instead, they use their brains to think really carefully about these big questions. They come up with arguments, look for holes in those arguments, and try to make their ideas as clear and solid as possible. It's like having a debate in your head (or with others) to see which ideas hold up best.
 
