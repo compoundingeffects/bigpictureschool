@@ -1,35 +1,147 @@
 ---
+layout: default
 title: Home
-layout: home
+nav_order: 1
 ---
 
-This is a *bare-minimum* template to create a Jekyll site that uses the [Just the Docs] theme. You can easily set the created site to be published on [GitHub Pages] – the [README] file explains how to do that, along with other details.
+# **Welcome to Big Picture School**
+<br/>
+The world is changing fast. A holistic perspective and nimble thinking are increasingly crucial. Big Picture School uses AI-assisted content to teach core principles of different academic fields in order to encourage people to combine knowledge from different areas. 
+<br />
+Big Picture School uses a first principles thinking approach to explain each subject. First principles thinking is a way to understand things by breaking them down to their most basic elements. Instead of relying on what others have said or done before, we start from scratch and build up our understanding from the core truths. 
+<br />
+Big Picture School uses plain English explanations. We want to make it easy for people to understand the fundamentals of each academic field without fluff or jargon. 
+<br />
+We aim to inspire a new generation of thinkers who can tackle complex problems, come up with new ideas, and drive positive change. Whether you're a student, a professional, or a lifelong learner, we want to help you build a comprehensive understanding of the world.
 
-If [Jekyll] is installed on your computer, you can also build and preview the created site *locally*. This lets you test changes before committing them, and avoids waiting for GitHub Pages.[^1] And you will be able to deploy your local build to a different platform than GitHub Pages.
+## Major Academic Disciplines
 
-More specifically, the created site:
+### 1. Natural Sciences
+* Astronomy
+* Biology
+* Chemistry
+* Earth Sciences
+  * Geology
+  * Meteorology
+  * Oceanography
+* Physics
 
-- uses a gem-based approach, i.e. uses a `Gemfile` and loads the `just-the-docs` gem
-- uses the [GitHub Pages / Actions workflow] to build and publish the site on GitHub Pages
+### 2. Social Sciences
+* Anthropology
+* Business Studies
+  * Accounting
+  * Finance
+  * Management
+  * Marketing
+  * Organizational Behavior
+* Cultural Studies
+* Economics
+* Education
+* Geography
+* Law
+  * Civil Procedure
+  * Constitutional Law
+  * Contract Law
+  * Criminal Law
+  * Property Law
+  * Tort Law
+* Linguistics
+* Media Studies
+  * Communication Studies
+* Political Science
+  * Civics
+  * Comparative Politics
+  * Game Theory 
+  * Geopolitics
+  * Public Administration
+* Psychology
+* Religious Studies
+* Social Work
+* Sociology
 
-Other than that, you're free to customize sites that you create with this template, however you like. You can easily change the versions of `just-the-docs` and Jekyll it uses, as well as adding further plugins.
+### 3. Humanities
+* Classics
+* History
+* Language
+* Literature
+* Performing Arts
+  * Dance
+  * Musicology
+  * Theater
+* Philosophy
+  * Aesthetics
+  * Epistemology
+  * Ethics
+  * Logic
+  * Metaphysics
+* Visual Arts
 
-[Browse our documentation][Just the Docs] to learn more about how to use this theme.
+### 4. Formal Sciences
+* Computer Science
+* Logic
+* Mathematics
+* Statistics
+* Systems Science
 
-To get started with creating a site, simply:
+### 5. Applied Sciences
+* Applied Physics
+  * Nanotechnology
+  * Nuclear Technology
+  * Optics
+* Architecture 
+* Actuarial Science 
+* Agriculture
+* Aquaculture
+* Engineering
+  * Aerospace Engineering
+  * Bioengineering
+    * Biomedical Engineering
+    * Biotechnology
+    * Systems Biology
+  * Chemical Engineering
+  * Civil Engineering
+  * Computer Engineering
+  * Electrical Engineering
+  * Environmental Engineering
+  * Industrial Engineering
+  * Materials Science and Engineering
+  * Mechanical Engineering
+  * Software Engineering
+  * Systems Engineering 
+* Environmental Science
+* Forensic Science
+* Health Sciences
+  * Anatomy
+  * Dentistry
+  * Optometry
+  * Medicine
+  * Nutrition
+  * Pharmacology
+  * Pharmacy
+  * Physical therapy
+  * Physiology
+  * Veterinary medicine
+* Permaculture
+* Military Science
+* Space Science
+  * Astronautics
+  * Astronomy
+  * Space Exploration
+* Spatial Science
 
-1. click "[use this template]" to create a GitHub repository
-2. go to Settings > Pages > Build and deployment > Source, and select GitHub Actions
-
-If you want to maintain your docs in the `docs` directory of an existing project repo, see [Hosting your docs from an existing project repo](https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md#hosting-your-docs-from-an-existing-project-repo) in the template README.
-
-----
-
-[^1]: [It can take up to 10 minutes for changes to your site to publish after you push the changes to GitHub](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll#creating-your-site).
-
-[Just the Docs]: https://just-the-docs.github.io/just-the-docs/
-[GitHub Pages]: https://docs.github.com/en/pages
-[README]: https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md
-[Jekyll]: https://jekyllrb.com
-[GitHub Pages / Actions workflow]: https://github.blog/changelog/2022-07-27-github-pages-custom-github-actions-workflows-beta/
-[use this template]: https://github.com/just-the-docs/just-the-docs-template/generate
+### 6. Interdisciplinary Fields
+* Art History
+* Bioinformatics
+* Cognitive Science
+* Cybersecurity
+* Data Science
+* Library and Information Science
+  * Information Science
+  * Library Science
+* Machine Learning
+* Neuroscience
+* Public Health
+* Robotics
+* Sustainability Studies
+* Urban Studies / Urban Planning
+  
