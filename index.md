@@ -12,7 +12,7 @@ Big Picture School uses a first principles thinking approach to explain each sub
 <br/>
 Big Picture School uses plain English explanations. We want to make it easy for people to understand the fundamentals of each academic field so we avoid using jargon. 
 <br/>
-We aim to inspire a new generation of thinkers who can tackle complex problems, come up with new ideas, and drive positive change. Whether you're a student, a professional, or a lifelong learner, we want to help you build a comprehensive understanding of the world.
+Our goal is to inspire a new generation of thinkers who can tackle complex problems, come up with new ideas, and drive positive change. Whether you're a student, a professional, or a lifelong learner, we want to help you build a comprehensive understanding of the world.
 
 ## Major Academic Disciplines
 
