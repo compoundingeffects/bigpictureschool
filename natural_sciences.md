@@ -6,8 +6,9 @@ has_children: true
 ---
 
 # **Natural Sciences**
-
+<p>
 1. **Natural Sciences**: Natural sciences refer to areas of study that try to figure out how the world around us works. They include subjects like physics (how things move and interact), chemistry (what things are made of and how they change), biology (how living things work), astronomy (study of space and celestial bodies), and earth sciences (study of our planet).
+</p>
 
 2. **The Natural World**: The natural world means everything that exists in the physical universe. It includes all the stuff we can touch and see (matter) and all the energy that makes things happen or change.
 
