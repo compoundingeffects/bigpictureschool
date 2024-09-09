@@ -9,7 +9,7 @@ has_children: true
 
 1. **Core Purpose**: At its heart, social sciences try to understand how people act, how they interact with each other, and how they organize themselves into groups and societies. It's all about figuring out what makes humans tick, both as individuals and in groups.
 
-2. **Basic Elements**:
+2. **Basic Elements**
 * **Human Behavior**: The study of human behavior is about understanding why people do what they do. It looks at what people need, what they want, and how they think.
 * **Social Interactions**: Humans are social creatures. This element focuses on studying how people talk to each other, work together, and sometimes fight with each other.
 * **Groups and Institutions**: Over time, the way people interact leads to organized systems like families, governments, and businesses. These systems then influence how people behave.
