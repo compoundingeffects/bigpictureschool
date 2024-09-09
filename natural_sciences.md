@@ -23,7 +23,7 @@ has_children: true
 
 8. **Building Up Natural Sciences**: Starting with these basic ideas, scientists try to explain more complicated things. For example, they use ideas about atoms to understand chemical reactions, or ideas about energy to understand how living things work.
 
-9. **The Scientific Method**: The scientific method is a step-by-step way that scientists use to learn new things about the world. It involves:
+9. **The Scientific Method**. The scientific method is a step-by-step way that scientists use to learn new things about the world. It involves:
 * Observing something interesting
 * Guessing why it happens (hypothesis)
 * Testing the guess through experiments
