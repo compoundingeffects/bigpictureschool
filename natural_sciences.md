@@ -6,6 +6,7 @@ has_children: true
 ---
 
 # **Natural Sciences**
+
 <p>
 1. **Natural Sciences**: Natural sciences refer to areas of study that try to figure out how the world around us works. They include subjects like physics (how things move and interact), chemistry (what things are made of and how they change), biology (how living things work), astronomy (study of space and celestial bodies), and earth sciences (study of our planet).
 </p>
