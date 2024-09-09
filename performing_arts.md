@@ -1,24 +1,21 @@
 ---
 layout: default
-title: Law
-parent: Social Sciences
-nav_order: 7
+title: Performing Arts
+parent: Humanities
+nav_order: 5
 has_children: true
 ---
-# **Law**
+# **Performing Arts**
 
-1. **Human Nature and Social Needs**: At its core, law exists because humans naturally want to live together in groups, but need some rules to make this work smoothly. We all want to feel safe, have ways to solve arguments without fighting, and be able to work together to get things done.
-
-2. **Norms and Rules**: To meet these basic needs, people come up with two kinds of guidelines. First, there are unwritten rules that everyone just knows and follows, like being polite or waiting your turn. Then there are official rules that are written down and have consequences if you break them.
-
-3. **Authority and Governance**: For official rules to work, someone needs to be in charge of making them, enforcing them, and deciding what they mean when there's confusion. This is why we have governments with different parts: one group makes the laws, another makes sure people follow them, and a third explains what the laws mean when there's a disagreement.
-
-4. **Rights and Obligations**: Laws try to balance what individuals are allowed to do (their rights) with what they must do (their obligations). Your rights protect your freedoms, while your obligations are things you have to do to avoid causing problems for others or to help your community.
-
-5. **Justice and Fairness**: A big goal of law is to make things fair. This means making sure people get what they deserve based on their actions, whether that's a reward or a punishment. It also means treating similar situations in similar ways, so nobody gets special treatment.
-
-6. **Adaptation and Evolution**: Because the world is always changing, laws need to be able to change too. New inventions, new ideas, or new problems might mean we need to update our laws. This is why laws are constantly being reviewed and improved.
-
-7. **Fundamental Principles**: There are some basic ideas that guide how we make and use laws. These include making sure everyone, even powerful people, has to follow the law; splitting up government power so no one group gets too strong; and respecting every person's basic worth and dignity.
-
-By breaking law down into these basic parts, we can better understand why we have laws, how they work, and what they're meant to do. It shows us that law is something humans created to help us live together peacefully, solve problems fairly, and adapt to new situations as our societies change over time.
+1. **Core Purpose**. The main goal of performing arts is to express ourselves as humans. It's about sharing ideas, feelings, stories, or important beliefs with other people. When someone performs, they're trying to make the audience feel something, think about something, or appreciate something beautiful.
+2. **Essential Elements**
+* **Human Performers**: Performers are the people who do the actual performing. They might be actors, dancers, singers, or musicians. We need performers because without them, there wouldn't be a performance. All humans can perform in some way because we all have bodies we can move, voices we can use, and the ability to express ourselves.
+* **Action or Movement**: Performing means doing something. This could be dancing, singing, speaking, or playing an instrument. These actions are important because they're how performers communicate their message. We can do these things because of how our bodies work and the basic laws of physics (like how we make sounds or move our bodies).
+* **Audience**: An audience is the group of people watching or listening to the performance. Without an audience, a performance wouldn't really be complete. The audience is important because they react to what they see or hear, which is the whole point of performing. As humans, we naturally respond to things other people do, so being an audience member comes naturally to us.
+* **Time and Space**: Every performance happens at a specific time and in a specific place. This could be on a stage, in a concert hall, or even online. Time and space matter because they set the boundaries for the performance. Everything that happens, happens within a certain amount of time and in a certain place – that's just how our world works.
+* **Story, Emotion, or Idea**: A performance needs to have something to communicate. This could be a story with a beginning, middle, and end. It could be a feeling like happiness or sadness. Or it could be an idea or concept. This content is what gives the performance its meaning. As humans, we're naturally good at understanding and sharing stories and feelings – it's how we make sense of the world.
+3. **How the Elements Interact**
+* Performers use their bodies and voices to share a message with the audience. This all happens at a specific time and place.
+* The audience watches the performance and tries to understand it. Even if they're quiet, their presence affects how the performers perform. It's like a back-and-forth between the performers and the audience.
+* The message being shared in the performance is influenced by many things, like the performer's culture or personal experiences. This message is expressed through the performer's movements, words, or sounds.
+4. **Conclusion**. When we break it down to its simplest parts, performing arts is really just a special way for humans to express themselves. It relies on our basic abilities to move, speak, and make others feel emotions. It happens in a shared space with an audience. The whole system works because, as social creatures, humans communicate through actions and reactions. This is the most basic way to understand performing arts: it's a way of communicating using our bodies to make others respond in some way.
