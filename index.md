@@ -5,9 +5,8 @@ nav_order: 1
 ---
 
 # **Welcome to Big Picture School**
-<p>
+<br/>
 The world is changing fast. A holistic perspective and nimble thinking are increasingly crucial. Big Picture School uses AI-assisted content to teach the core ideas of different academic fields in order to encourage people to combine knowledge from different areas. 
-</p>
 <p>
 Big Picture School uses a first principles thinking approach to explain each subject. First principles thinking is a way to understand things by breaking them down to their most basic elements. Instead of relying on what others have said or done before, we start from scratch and build up our understanding from the core truths. 
 </p>
