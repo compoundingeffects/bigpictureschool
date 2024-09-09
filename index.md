@@ -10,7 +10,7 @@ The world is changing fast. A holistic perspective and nimble thinking are incre
 <br/>
 Big Picture School uses a first principles thinking approach to explain each subject. First principles thinking is a way to understand things by breaking them down to their most basic elements. Instead of relying on what others have said or done before, we start from scratch and build up our understanding from the core truths. 
 <br/>
-Big Picture School uses plain English explanations. We want to make it easy for people to understand the fundamentals of each academic field without fluff or jargon. 
+Big Picture School uses plain English explanations. We want to make it easy for people to understand the fundamentals of each academic field so we avoid using jargon. 
 <br/>
 We aim to inspire a new generation of thinkers who can tackle complex problems, come up with new ideas, and drive positive change. Whether you're a student, a professional, or a lifelong learner, we want to help you build a comprehensive understanding of the world.
 
