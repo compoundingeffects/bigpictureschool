@@ -12,10 +12,10 @@ nav_order: 5
 2. **Elementary Particles**: Matter is made of tiny building blocks called particles. Some examples are quarks (which make up protons and neutrons) and electrons. These particles interact with each other through different forces.
 
 3. **Fundamental Forces**: There are four main forces in nature:
-* **Gravity**: This is what makes things fall to the ground and keeps planets orbiting the sun.
-* **Electromagnetic Force**: This is responsible for electricity and magnetism, like how magnets attract or repel each other.
-* **Strong Nuclear Force**: This is what holds the parts of an atom's nucleus together.
-* **Weak Nuclear Force**: This is involved in certain types of radioactive decay and how neutrinos (very tiny particles) behave.
+* **Gravity**: Gravity is what makes things fall to the ground and keeps planets orbiting the sun.
+* **Electromagnetic Force**: Electromagnetic force is responsible for electricity and magnetism, like how magnets attract or repel each other.
+* **Strong Nuclear Force**: Strong nuclear force is what holds the parts of an atom's nucleus together.
+* **Weak Nuclear Force**: Weak nuclear force is involved in certain types of radioactive decay and how neutrinos (very tiny particles) behave.
 
 4. **Conservation Laws**: Conservation laws are rules that say certain things always stay the same in a closed system:
 * **Mass-Energy**: You can change mass into energy (like in nuclear reactions) or energy into mass, but the total amount stays the same.
