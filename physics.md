@@ -7,7 +7,7 @@ nav_order: 5
 
 ## Physics
 
-1. **Fundamental Entities**: The universe is made up of two basic things: matter and energy. Matter is stuff you can touch or feel, like a rock or water. Energy is the ability to make things happen or change, like the heat from a fire or the movement of a car.
+1. **Fundamental Entities**. The universe is made up of two basic things: matter and energy. Matter is stuff you can touch or feel, like a rock or water. Energy is the ability to make things happen or change, like the heat from a fire or the movement of a car.
 
 2. **Elementary Particles**: Matter is made of tiny building blocks called particles. Some examples are quarks (which make up protons and neutrons) and electrons. These particles interact with each other through different forces.
 
