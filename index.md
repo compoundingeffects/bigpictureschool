@@ -147,5 +147,5 @@ Our goal is to inspire a new generation of thinkers who can tackle complex probl
 * Public Health
 * Robotics
 * Sustainability Studies
-* Urban Studies / Urban Planning
+* Urban Planning
   
