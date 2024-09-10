@@ -31,6 +31,7 @@ Our goal is to inspire a new generation of thinkers who can tackle complex probl
 
 ### 2. Social Sciences
 * Anthropology
+* Archaeology
 * Business Studies
   * Accounting
   * Finance
