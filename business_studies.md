@@ -25,7 +25,7 @@ has_children: true
 4. **Marketing**: Marketing is understanding what kind of food people want and how to tell them about your restaurant.
 5. **Human Resources**: Human Resources is taking care of your staff, keeping them happy and working well.
 
-- **What Are the Basic Objectives of a Business?** The main goals of a business are:
+- **What are the Basic Objectives of a Business?** The main goals of a business are:
 1. **Profitability**: Profitability is making more money than you spend.
 2. **Sustainability**: Sustainability is making sure your restaurant can stay open for years to come.
 3. **Customer Satisfaction**: Customer Satisfaction involves making food that people really enjoy.
@@ -33,7 +33,7 @@ has_children: true
 
     All of these should tie back to making good food (value) in a way that keeps your restaurant open (sustainable), treats people right (ethical), and makes money (profitable).
 
-- **How Do These Components Interact?** Now let's put all these pieces together to see how they work in a business:
+- **How do these Components Interact?** Now let's put all these pieces together to see how they work in a business:
     - **Strategy**: Strategy is your overall plan for your restaurant. It decides things like what kind of food you'll serve and how you'll run your kitchen.
     - **Operations**: Operations makes sure you're consistently making good food and running your restaurant efficiently.
     - **Finance**: Finance ensures you have enough money to buy ingredients and pay staff, and that you're making enough profit to keep the restaurant open.
