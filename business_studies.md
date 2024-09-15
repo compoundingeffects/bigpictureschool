@@ -39,4 +39,4 @@ has_children: true
     - **Finance**: Finance ensures you have enough money to buy ingredients and pay staff, and that you're making enough profit to keep the restaurant open.
     - **Marketing**: Marketng helps you figure out what kind of food people want, and how to let them know about your restaurant.
 
-- **Conclusion**: So, when we break it down, business studies is all about understanding how to create and deliver something valuable (like good food) by using your resources wisely, managing risks, understanding what people want, and making sure you can keep your business running and profitable. Every idea and concept in business studies is there to help with these basic goals.
+- **Conclusion**: So, when we break it down, business studies is all about understanding how to create and deliver something valuable (like good food) by using your resources wisely, managing risks, understanding what people want, and making sure you can keep your business running and profitable. Each idea and concept in business studies is there to help with these basic goals.
