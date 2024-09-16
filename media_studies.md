@@ -22,6 +22,7 @@ has_children: true
     - To try to change what others think or do
     - To make others feel good or think deeply
     - To make friends and stay in touch with people
+    
     At its heart, we use media because we need to talk to each other, understand the world, and feel connected to other people.
 
 5. **How does media change society?** Media can change how people see the world around them. It does this by controlling what information people get. This affects:
