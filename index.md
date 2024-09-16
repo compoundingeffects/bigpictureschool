@@ -51,7 +51,6 @@ Our goal is to inspire a new generation of thinkers who can tackle complex probl
   * Tort Law
 * Linguistics
 * Media Studies
-  * Communication Studies
 * Political Science
   * Civics
   * Comparative Politics
