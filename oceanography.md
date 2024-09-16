@@ -22,7 +22,7 @@ nav_order: 3
 
 7. **Human Interaction**: We humans have a big impact on the ocean, and it affects us too. We pollute the ocean with chemicals, plastics, and other waste, which can harm sea life. The ocean helps control our planet's climate by absorbing heat and carbon dioxide, but this is changing as we put more greenhouse gases into the air. We also get a lot of good things from the ocean, like food (fish), minerals, and even energy.
 
-**Putting It All Together**
+8. **Putting It All Together**:
 
 When we look at all these pieces together, we can see that the ocean is a complex system. Everything is connected - the water itself, the tiny plants and animals, the big sea creatures, the currents, and even the air above. Oceanography is the study of how all these pieces fit together and how they affect each other. It helps us understand how the ocean works, from the tiniest drop of water to the way it influences weather patterns around the world.
 
