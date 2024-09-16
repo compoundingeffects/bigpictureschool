@@ -19,7 +19,7 @@ nav_order: 3
 * **Serious Intent**: Both people must mean for this agreement to be official and legally binding, not just a casual comment.
 * **Ability to Make Decisions**: The people making the contract must be legally allowed to do so (like being old enough) and must be choosing freely, not being forced.
 
-4. **Making Sure Contracts Are Followed: The Role of Laws**: Laws help make sure people stick to their contracts. If someone doesn't do what they promised, the law provides ways to fix the situation or compensate the person who was let down.
+4. **Making Sure Contracts Are Followed - The Role of Laws**: Laws help make sure people stick to their contracts. If someone doesn't do what they promised, the law provides ways to fix the situation or compensate the person who was let down.
 
 5. **What Happens When Someone Breaks a Contract**:
 * **Money to Make Up for Losses**: If you lose money because someone broke their promise, they might have to pay you back.
