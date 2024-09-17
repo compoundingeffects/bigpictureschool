@@ -22,16 +22,22 @@ Our goal is to inspire a new generation of thinkers who can tackle complex probl
 ### 1. Natural Sciences
 * Astronomy
 * Biology
+  * Cell Biology
   * Ecology
+  * Genetics
   * Evolutionary Biology
   * Microbiology
-  * Molecular Biology
 * Chemistry
+  * Biochemistry
+  * Inorganic Chemistry
+  * Organic Chemistry
 * Earth Sciences
   * Geology
   * Meteorology
   * Oceanography
 * Physics
+  * Astrophysics
+  * Quantum Mechanics
 
 ### 2. Social Sciences
 * Anthropology
