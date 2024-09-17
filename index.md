@@ -62,11 +62,11 @@ Our goal is to inspire a new generation of thinkers who can tackle complex probl
 * Linguistics
 * Media Studies
 * Political Science
-  * Civics
   * Comparative Politics
-  * Game Theory 
-  * Geopolitics
+  * International Relations
+  * Political Theory
   * Public Administration
+  * Public Policy
 * Psychology
 * Religious Studies
 * Social Work
