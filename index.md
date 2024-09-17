@@ -47,7 +47,6 @@ Our goal is to inspire a new generation of thinkers who can tackle complex probl
   * Finance
   * Management
   * Marketing
-  * Organizational Behavior
 * Cultural Studies
 * Economics
 * Education
@@ -125,17 +124,10 @@ Our goal is to inspire a new generation of thinkers who can tackle complex probl
   * Optometry
   * Medicine
   * Nutrition
-  * Pharmacology
   * Pharmacy
-  * Physical therapy
-  * Physiology
-  * Veterinary medicine
 * Permaculture
 * Military Science
 * Space Science
-  * Astronautics
-  * Astronomy
-  * Space Exploration
 * Spatial Science
 
 ### 6. Interdisciplinary Fields
