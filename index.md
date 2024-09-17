@@ -22,6 +22,10 @@ Our goal is to inspire a new generation of thinkers who can tackle complex probl
 ### 1. Natural Sciences
 * Astronomy
 * Biology
+  * Ecology
+  * Evolutionary Biology
+  * Microbiology
+  * Molecular Biology
 * Chemistry
 * Earth Sciences
   * Geology
@@ -92,15 +96,11 @@ Our goal is to inspire a new generation of thinkers who can tackle complex probl
   * Nuclear Technology
   * Optics
 * Architecture 
-* Actuarial Science 
 * Agriculture
 * Aquaculture
 * Engineering
   * Aerospace Engineering
   * Bioengineering
-    * Biomedical Engineering
-    * Biotechnology
-    * Systems Biology
   * Chemical Engineering
   * Civil Engineering
   * Computer Engineering
