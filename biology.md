@@ -3,6 +3,7 @@ layout: default
 title: Biology
 parent: Natural Sciences
 nav_order: 2
+has_children: true
 ---
 
 ## Biology
