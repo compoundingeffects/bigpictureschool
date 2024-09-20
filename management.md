@@ -16,14 +16,14 @@ nav_order: 1
    - To help people work together and make decisions that help the company move forward.
 
 **3. Core Functions of Management**: Management has four main jobs:
-   - Planning: Figuring out what you want to achieve and how to get there.
-   - Organizing: Putting people and resources in the right places to get the job done.
-   - Leading: Guiding and motivating people to do their best work.
-   - Controlling: Checking progress and making changes if things aren't going as planned.
+   - **Planning**: Figuring out what you want to achieve and how to get there.
+   - **Organizing**: Putting people and resources in the right places to get the job done.
+   - **Leading**: Guiding and motivating people to do their best work.
+   - **Controlling**: Checking progress and making changes if things aren't going as planned.
 
 **4. Management Challenges**: When looking at common problems in management, it's important to find the root cause:
-   - Poor communication: This happens when information isn't shared clearly. It's like a game of telephone gone wrong.
-   - Low productivity: This occurs when people aren't working efficiently. It could be because they don't know what to do, or they don't have the right tools.
+   - **Poor communication**: This happens when information isn't shared clearly. It's like a game of telephone gone wrong.
+   - **Low productivity**: This occurs when people aren't working efficiently. It could be because they don't know what to do, or they don't have the right tools.
 
 **5. Management as Decision-Making**: At its heart, management is about making choices. It's like deciding how to spend your allowance - you have to choose what's most important because you can't buy everything.
 
