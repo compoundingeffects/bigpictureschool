@@ -1,6 +1,7 @@
 title: Big Picture School
 description: Using AI to teach the core principles of major disciplines for the purpose of encouraging interdisciplinary thought.
-remote_theme: just-the-docs/just-the-docs
+theme: just-the-docs
+# remote_theme: just-the-docs/just-the-docs
 
 url: https://compoundingeffects.github.io/bigpictureschool
 ga_tracking: G-1YB8FF6HCN
