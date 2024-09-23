@@ -20,13 +20,13 @@ Whether you're a student, a professional, or a lifelong learner, we hope you fin
 ## Major Academic Disciplines
 
 ### 1. Natural Sciences
-* Astronomy
-* Biology
-  * Cell Biology
-  * Ecology
-  * Genetics
-  * Evolutionary Biology
-  * Microbiology
+  * Astronomy
+  * Biology
+    * Cell Biology
+    * Ecology
+    * Genetics
+    * Evolutionary Biology
+    * Microbiology
 * Chemistry
   * Biochemistry
   * Inorganic Chemistry
