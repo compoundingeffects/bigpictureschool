@@ -15,6 +15,8 @@ Big Picture School uses plain English explanations. We want to make it easy for 
 </p>
 <p>
 Whether you're a student, a professional, or a lifelong learner, we hope you find this site helpful in building a more comprehensive understanding of the world.
+
+Interested in sharing your feedback or collaborating with us? We can be reached at hello@bigpictureschool.com.
 </p>
 
 ## Major Academic Disciplines
