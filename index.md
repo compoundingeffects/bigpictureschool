@@ -15,20 +15,21 @@ Big Picture School uses plain English explanations. We want to make it easy for 
 </p>
 <p>
 Whether you're a student, a professional, or a lifelong learner, we hope you find this site helpful in building a more comprehensive understanding of the world.
-
+</p>
+<p>
 Interested in sharing your feedback or collaborating with us? We can be reached at hello@bigpictureschool.com.
 </p>
 
 ## Major Academic Disciplines
 
 ### 1. Natural Sciences
-  * Astronomy
-  * Biology
-    * Cell Biology
-    * Ecology
-    * Genetics
-    * Evolutionary Biology
-    * Microbiology
+    * Astronomy
+    * Biology
+      * Cell Biology
+      * Ecology
+      * Genetics
+      * Evolutionary Biology
+      * Microbiology
 * Chemistry
   * Biochemistry
   * Inorganic Chemistry
