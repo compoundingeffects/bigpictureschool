@@ -23,13 +23,13 @@ Interested in sharing your feedback or collaborating with us? We can be reached 
 ## Major Academic Disciplines
 
 ### 1. Natural Sciences
-    * Astronomy
-    * Biology
-      * Cell Biology
-      * Ecology
-      * Genetics
-      * Evolutionary Biology
-      * Microbiology
+    - Astronomy
+    - Biology
+      - Cell Biology
+      - Ecology
+      - Genetics
+      - Evolutionary Biology
+      - Microbiology
 * Chemistry
   * Biochemistry
   * Inorganic Chemistry
