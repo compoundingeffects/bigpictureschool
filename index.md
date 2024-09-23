@@ -6,7 +6,7 @@ nav_order: 1
 
 # **Welcome to Big Picture School**
 <br/>
-The world is changing fast. A holistic perspective and nimble thinking are increasingly critical. Big Picture School uses AI-assisted content to teach the core ideas of different academic fields. Why? To help induce interdisciplinary thought, and the creativity that results from that.
+The world is changing fast. A holistic perspective and nimble thinking are increasingly essential. Big Picture School uses AI-assisted content to teach the core ideas of different academic fields. Why? To help induce interdisciplinary thought, and the creativity that results from that.
 <p>
 Big Picture School uses a first principles thinking approach to explain each subject. First principles thinking is a way to understand things by breaking them down to their most basic elements. Instead of relying on what others have said or done before, we start from scratch and build up our understanding from the core truths. 
 </p>
@@ -17,7 +17,7 @@ Big Picture School uses plain English explanations. We want to make it easy for 
 Whether you're a student, a professional, or a lifelong learner, we hope you find this site helpful in building a more comprehensive understanding of the world.
 </p>
 <p>
-Interested in sharing your feedback or collaborating with us? We would love to hear from you. We can be reached at hello@bigpictureschool.com.
+Interested in sharing your feedback or collaborating with us? We would love to hear from you. You can connect with us at hello@bigpictureschool.com.
 </p>
 
 ## Major Academic Disciplines
