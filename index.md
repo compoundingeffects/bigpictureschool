@@ -24,12 +24,12 @@ Interested in sharing your feedback or collaborating with us? We would love to h
 
 ### 1. Natural Sciences
 * Astronomy
-  * Biology
-  * Cell Biology
-  * Ecology
-  * Genetics
-  * Evolutionary Biology
-  * Microbiology
+* [Biology](biology.md)
+* Cell Biology
+* Ecology
+* Genetics
+* Evolutionary Biology
+* Microbiology
 * Chemistry
   * Biochemistry
   * Inorganic Chemistry
