@@ -1,23 +1,29 @@
 ---
 layout: default
-title: Evolutionary Biology
+title: Cell Biology
 parent: Biology
 grand_parent: Natural Sciences
-nav_order: 4
+nav_order: 1
 ---
 
-## Evolutionary Biology
+## Cell Biology
 
-1. **Life and Reproduction**: At its core, evolutionary biology is about how living things change over time. The most basic thing about living creatures is that they can make more of themselves - this is called reproduction. When living things reproduce, their offspring are similar but not exactly the same. These small differences are what we call variation.
+1. **Everything is made of tiny building blocks**: Cells, like everything else, are made of super small particles called atoms. These atoms join together to make slightly bigger things called molecules. These molecules follow the same rules as everything else in the world, like how energy works and how things attract or repel each other.
 
-2. **Genetic Information**: Every living thing has a set of instructions inside it, written in a special code called DNA (or sometimes RNA). This code tells the body how to grow and function. When living things reproduce, they pass on these instructions to their children. Sometimes, small changes happen in these instructions - we call these mutations. Also, when two parents have a child, their instructions get mixed up in new ways, creating unique combinations.
+2. **Living things are made of cells**: The cell is like the smallest package of life. Whether it's a tiny bacteria or a big human, all living things are made up of one or more cells. These cells do all the important jobs that keep things alive.
 
-3. **Natural Selection**: Because of these small differences between individuals, some creatures are better at surviving in their environment than others. There's only so much food, space, and potential mates to go around, so living things have to compete for these resources. Those that are better suited to their environment tend to live longer and have more babies. This means their traits get passed on more often, becoming more common over time.
+3. **Cells follow the same rules as everything else**: Cells aren't magic - they work just like other stuff in the world. They use chemical reactions and follow the laws of physics. The special thing about cells is how they organize these reactions to do complex things like grow and respond to their environment.
 
-4. **Descent with Modification**: As this process continues over many generations, small changes add up. Children are slightly different from their parents, and their children are slightly different again. Over a very long time, these small changes can lead to big differences. Sometimes, groups of the same type of creature get separated and start to become very different from each other, eventually becoming separate species.
+4. **Cells need energy to stay organized**: Things naturally want to get messy over time, but cells stay organized. To do this, they need energy. That's why cells break down food to make a special energy molecule called ATP, which they use to keep everything running smoothly.
 
-5. **Adaptation**: The process of becoming better suited to an environment is called adaptation. This can involve physical changes, like an animal developing thicker fur in a cold climate, or behavioral changes, like birds learning to migrate to avoid harsh winters.
+5. **The shape of things in cells matters**: In cells, how something is shaped determines what it does. For example, proteins fold into specific shapes that let them do their jobs, like breaking down food or moving things around. The way different parts of the cell are arranged also helps the cell do different tasks.
 
-6. **Common Ancestry**: If we trace these changes back far enough, we find that all living things are related. It's like a giant family tree for all life on Earth. Some creatures branched off from each other a very long time ago, while others are more closely related.
+6. **Cells have an instruction manual**: Every cell has a set of instructions called DNA or RNA. This is like a recipe book that tells the cell how to make everything it needs. These instructions are the same in all living things and are used to make proteins, which do most of the work in cells.
 
-7. **To sum it all up**: Living things make copies of themselves, but with small differences. Some of these differences help creatures survive and have more babies. Over time, this leads to creatures becoming better suited to their environments. This process, happening over millions of years, has led to all the different forms of life we see today. Despite all these differences, all living things are connected through a shared history that stretches back to the beginnings of life on Earth.
+7. **Cells are always changing**: Cells aren't static - they're always doing something. They take in and release materials, fix themselves, divide into new cells, and react to what's happening around them. This constant activity helps them survive, adapt, and evolve.
+
+8. **Cell walls control what goes in and out**: Cells have a special boundary called a membrane. This membrane is made of fats and controls what can enter or leave the cell. This helps the cell keep its inside environment just right, even if the outside changes.
+
+9. **All parts of a cell work together**: Cells have different parts inside them, like a nucleus (which holds the DNA), mitochondria (which make energy), and ribosomes (which make proteins). All these parts work together to keep the cell alive and functioning, kind of like how different parts of a machine work together.
+
+In simple terms, we can think of cells as tiny, complex machines. They're powered by energy, follow a set of instructions, and obey the same rules as everything else in the universe. The amazing thing about life comes from how all these small parts work together in precise and constantly changing ways inside cells.
