@@ -31,7 +31,7 @@ Interested in sharing your feedback or collaborating with us? We would love to h
   * [Evolutionary Biology](https://bigpictureschool.com/evolutionary_biology.html)
   * Microbiology
 * [Chemistry](https://bigpictureschool.com/chemistry.html)
-  * Biochemistry
+  * [Biochemistry](https://bigpictureschool.com/biochemistry.html)
   * Inorganic Chemistry
   * Organic Chemistry
 * [Earth Sciences](https://bigpictureschool.com/earth_sciences.html)
