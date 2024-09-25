@@ -7,6 +7,8 @@ nav_order: 1
 
 ## Astronomy
 
+Astronomy is the study of everything in space. It helps us understand the universe by looking at things in the sky. We use our eyes and special tools to see light from far-away objects. This light tells us about stars, planets, and other things in space. We also learn about how these objects move and change over time. By studying space, we can figure out important rules about how the universe works. This guide will explain the main ideas in astronomy, from what we can see in the night sky to big ideas about how the universe began.
+
 1. **Observation**: Observation refers to how we use our senses to understand the world around us, especially in astronomy. We mainly use our eyes to see things in the sky. Light from far-away objects travels to Earth, which lets us learn about these distant objects.
 
 2. **Light and Electromagnetic Spectrum**: Light is a type of energy that travels in waves. There are different types of light waves, from radio waves to gamma rays. We use special tools like telescopes to see these different types of light, which helps us learn different things about objects in space.
