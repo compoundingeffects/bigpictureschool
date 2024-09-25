@@ -11,11 +11,11 @@ nav_order: 1
 1. **Atoms and Molecules - The Building Blocks**: Everything in living things is made up of tiny particles called atoms. These atoms join together to form bigger structures called molecules. The most common atoms in living things are carbon, hydrogen, oxygen, nitrogen, phosphorus, and sulfur. Carbon is especially important because it can connect to many other atoms, allowing for the creation of complex molecules that are essential for life.
 
 2. **Chemical Bonds - Interactions of Energy and Matter**: Atoms stick together in different ways to form molecules. The main ways are:
-       - Sharing electrons (covalent bonds)
-       - Transferring electrons (ionic bonds)
-       - Weak attractions (hydrogen bonds)
+   - Sharing electrons (covalent bonds)
+   - Transferring electrons (ionic bonds)
+   - Weak attractions (hydrogen bonds)
 
-   These bonds form because atoms naturally try to find the most stable arrangement that uses the least energy.
+    These bonds form because atoms naturally try to find the most stable arrangement that uses the least energy.
 
 4. **Thermodynamics - The Energy Driving Life**: Life follows two important rules about energy:
    - Energy can't be created or destroyed, only changed from one form to another. Living things need to get energy from somewhere (like food or sunlight) and turn it into a usable form.
