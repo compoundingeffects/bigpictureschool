@@ -1,23 +1,34 @@
 ---
 layout: default
-title: Evolutionary Biology
-parent: Biology
+title: Biochemistry
+parent: Chemistry
 grand_parent: Natural Sciences
-nav_order: 4
+nav_order: 1
 ---
 
-## Evolutionary Biology
+## Biochemistry
 
-1. **Life and Reproduction**: At its core, evolutionary biology is about how living things change over time. The most basic thing about living creatures is that they can make more of themselves - this is called reproduction. When living things reproduce, their offspring are similar but not exactly the same. These small differences are what we call variation.
+1. **Atoms and Molecules - The Building Blocks**: Everything in living things is made up of tiny particles called atoms. These atoms join together to form bigger structures called molecules. The most common atoms in living things are carbon, hydrogen, oxygen, nitrogen, phosphorus, and sulfur. Carbon is especially important because it can connect to many other atoms, allowing for the creation of complex molecules that are essential for life.
 
-2. **Genetic Information**: Every living thing has a set of instructions inside it, written in a special code called DNA (or sometimes RNA). This code tells the body how to grow and function. When living things reproduce, they pass on these instructions to their children. Sometimes, small changes happen in these instructions - we call these mutations. Also, when two parents have a child, their instructions get mixed up in new ways, creating unique combinations.
+2. **Chemical Bonds - Interactions of Energy and Matter**: Atoms stick together in different ways to form molecules. The main ways are:
+       - Sharing electrons (covalent bonds)
+       - Transferring electrons (ionic bonds)
+       - Weak attractions (hydrogen bonds)
 
-3. **Natural Selection**: Because of these small differences between individuals, some creatures are better at surviving in their environment than others. There's only so much food, space, and potential mates to go around, so living things have to compete for these resources. Those that are better suited to their environment tend to live longer and have more babies. This means their traits get passed on more often, becoming more common over time.
+   These bonds form because atoms naturally try to find the most stable arrangement that uses the least energy.
 
-4. **Descent with Modification**: As this process continues over many generations, small changes add up. Children are slightly different from their parents, and their children are slightly different again. Over a very long time, these small changes can lead to big differences. Sometimes, groups of the same type of creature get separated and start to become very different from each other, eventually becoming separate species.
+4. **Thermodynamics - The Energy Driving Life**: Life follows two important rules about energy:
+   - Energy can't be created or destroyed, only changed from one form to another. Living things need to get energy from somewhere (like food or sunlight) and turn it into a usable form.
+   - Things naturally become more disorganized over time. Living things fight against this by constantly using energy to stay organized and alive.
 
-5. **Adaptation**: The process of becoming better suited to an environment is called adaptation. This can involve physical changes, like an animal developing thicker fur in a cold climate, or behavioral changes, like birds learning to migrate to avoid harsh winters.
+5. **Reaction Kinetics - Speed of Chemical Processes**: Chemical reactions in living things don't just happen on their own. Special proteins called enzymes help speed up these reactions. They do this by making it easier for the necessary molecules to come together and react.
 
-6. **Common Ancestry**: If we trace these changes back far enough, we find that all living things are related. It's like a giant family tree for all life on Earth. Some creatures branched off from each other a very long time ago, while others are more closely related.
+6. **Molecular Recognition and Interactions - The Basis of Function**: Molecules in living things work by recognizing and interacting with each other. This is based on their shape and electrical charge. It's like molecules having specific "handshakes" that allow them to work together and perform various functions in the body.
 
-7. **To sum it all up**: Living things make copies of themselves, but with small differences. Some of these differences help creatures survive and have more babies. Over time, this leads to creatures becoming better suited to their environments. This process, happening over millions of years, has led to all the different forms of life we see today. Despite all these differences, all living things are connected through a shared history that stretches back to the beginnings of life on Earth.
+7. **Information and Replication - DNA as a Molecular Code**: DNA is like a set of instructions for building and running living things. It's made up of four chemical letters that pair up in specific ways. This allows DNA to be copied and read, which is crucial for passing on genetic information and making proteins.
+
+8. **Cellular Metabolism - Energy Conversion**: Cells break down food molecules to get energy. This happens through a series of chemical reactions. The main idea is that cells transfer energy from food to a usable form called ATP, which acts like a rechargeable battery for the cell.
+
+9. **Emergent Properties - From Simplicity to Complexity**: All the complex things living organisms can do (like thinking or adapting to their environment) come from many simple chemical reactions working together. It's like how many simple Lego bricks can be combined to build complex structures.
+
+In summary, biochemistry explains life by looking at the basic chemical building blocks and reactions. It shows how simple atoms and molecules, following basic rules of chemistry and physics, can create all the amazing complexity we see in living things.
