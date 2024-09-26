@@ -1,29 +1,39 @@
 ---
 layout: default
-title: Cell Biology
+title: Ecology
 parent: Biology
 grand_parent: Natural Sciences
-nav_order: 1
+nav_order: 2
 ---
 
-## Cell Biology
+## Ecology
 
-1. **Everything is made of tiny building blocks**: Cells, like everything else, are made of super small particles called atoms. These atoms join together to make slightly bigger things called molecules. These molecules follow the same rules as everything else in the world, like how energy works and how things attract or repel each other.
+1. **What is Ecology**? Ecology is simply the study of how living things interact with each other and their surroundings. It's like studying the relationships in a neighborhood, but instead of people, we're looking at all living creatures and their homes.
 
-2. **Living things are made of cells**: The cell is like the smallest package of life. Whether it's a tiny bacteria or a big human, all living things are made up of one or more cells. These cells do all the important jobs that keep things alive.
+2.** Living Organisms (Biotic Components)**: Living things are the main characters in ecology. This includes all plants, animals, tiny microbes, and fungi. These living things do two important things:
+- They carry out life processes: This means they grow, have babies, and interact with other living things.
+- They need energy: Just like we need food to live, all living things need some form of energy, whether it's eating food or using sunlight.
 
-3. **Cells follow the same rules as everything else**: Cells aren't magic - they work just like other stuff in the world. They use chemical reactions and follow the laws of physics. The special thing about cells is how they organize these reactions to do complex things like grow and respond to their environment.
+3. **Environment (Abiotic Components)**: The environment is everything that's not alive but still important for life. Think of it as the stage where all the living things perform. This includes things like water, air, sunlight, soil, temperature, and nutrients. These non-living things provide what living things need to survive.
 
-4. **Cells need energy to stay organized**: Things naturally want to get messy over time, but cells stay organized. To do this, they need energy. That's why cells break down food to make a special energy molecule called ATP, which they use to keep everything running smoothly.
+4. **Interactions**: The key idea in ecology is that nothing lives alone. Everything is connected. These connections can be broken down into a few main types:
+- Energy Flow: This is about how energy moves through living things. It usually starts with the sun. Plants use sunlight to make food, then animals eat the plants, and other animals eat those animals. It's like a big game of "who eats who."
+- Matter Cycling: This is about how important stuff like water, carbon, and nitrogen move around. They go from the air, to living things, to the ground, and back again. It's nature's way of recycling.
+- Population Changes: This is about how the number of animals or plants in an area changes over time. It depends on how many are born, how many die, and how they interact with other living things.
 
-5. **The shape of things in cells matters**: In cells, how something is shaped determines what it does. For example, proteins fold into specific shapes that let them do their jobs, like breaking down food or moving things around. The way different parts of the cell are arranged also helps the cell do different tasks.
+5. **Systems Thinking (Feedback Loops)**: An ecosystem is like a big machine where all the parts affect each other. For example:
+- If there are more predators, they might eat more prey, which means less food for the predators later on.
+- If plants grow a lot because of good sunlight, there's more food for plant-eaters. But if the plant-eaters eat too much, there will be fewer plants.
 
-6. **Cells have an instruction manual**: Every cell has a set of instructions called DNA or RNA. This is like a recipe book that tells the cell how to make everything it needs. These instructions are the same in all living things and are used to make proteins, which do most of the work in cells.
+6. **Adaptation and Evolution**: Over long periods of time, living things change to better fit their environment. This happens because the ones that fit best are more likely to survive and have babies. Over many generations, this leads to species that are really good at living in specific places or doing specific things.
 
-7. **Cells are always changing**: Cells aren't static - they're always doing something. They take in and release materials, fix themselves, divide into new cells, and react to what's happening around them. This constant activity helps them survive, adapt, and evolve.
+7. **Core Principles**:
+- Energy: Ecosystems run on energy, mostly from the sun.
+- Matter: Life depends on stuff like carbon, nitrogen, and water being recycled.
+- Interactions: Living things are always affecting each other and their surroundings.
+- Feedback: Ecosystems are always changing and adjusting based on what's happening.
+- Adaptation: Over time, living things become better suited to where they live.
 
-8. **Cell walls control what goes in and out**: Cells have a special boundary called a membrane. This membrane is made of fats and controls what can enter or leave the cell. This helps the cell keep its inside environment just right, even if the outside changes.
+Using these basic ideas, we can understand more complex things in ecology, from small ecosystems like a pond to big ones like the whole Earth. Even though these systems are complicated, they all follow basic rules of science.
 
-9. **All parts of a cell work together**: Cells have different parts inside them, like a nucleus (which holds the DNA), mitochondria (which make energy), and ribosomes (which make proteins). All these parts work together to keep the cell alive and functioning, kind of like how different parts of a machine work together.
-
-In simple terms, we can think of cells as tiny, complex machines. They're powered by energy, follow a set of instructions, and obey the same rules as everything else in the universe. The amazing thing about life comes from how all these small parts work together in precise and constantly changing ways inside cells.
+In simple terms, ecology is about studying how energy moves around, how important materials get recycled, and how living things interact and change over time in their environments.
