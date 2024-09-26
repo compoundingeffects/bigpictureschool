@@ -10,7 +10,7 @@ nav_order: 2
 
 1. **What is Ecology**? Ecology is simply the study of how living things interact with each other and their surroundings. It's like studying the relationships in a neighborhood, but instead of people, we're looking at all living creatures and their homes.
 
-2.** Living Organisms (Biotic Components)**: Living things are the main characters in ecology. This includes all plants, animals, tiny microbes, and fungi. These living things do two important things:
+2. **Living Organisms (Biotic Components)**: Living things are the main characters in ecology. This includes all plants, animals, tiny microbes, and fungi. These living things do two important things:
 - They carry out life processes: This means they grow, have babies, and interact with other living things.
 - They need energy: Just like we need food to live, all living things need some form of energy, whether it's eating food or using sunlight.
 
@@ -34,6 +34,6 @@ nav_order: 2
 - Feedback: Ecosystems are always changing and adjusting based on what's happening.
 - Adaptation: Over time, living things become better suited to where they live.
 
-Using these basic ideas, we can understand more complex things in ecology, from small ecosystems like a pond to big ones like the whole Earth. Even though these systems are complicated, they all follow basic rules of science.
+    Using these basic ideas, we can understand more complex things in ecology, from small ecosystems like a pond to big ones like the whole Earth. Even though these systems are complicated, they all follow basic rules of science.
 
 In simple terms, ecology is about studying how energy moves around, how important materials get recycled, and how living things interact and change over time in their environments.
