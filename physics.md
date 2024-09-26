@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Physics
-parent: Natural Sciences
+parent: Natural Science
 nav_order: 5
 ---
 
