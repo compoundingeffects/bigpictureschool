@@ -22,7 +22,7 @@ Interested in sharing your feedback or collaborating with us? We would love to h
 
 ## Major Academic Disciplines
 
-### 1. [Natural Sciences](https://bigpictureschool.com/natural_science.html)
+### 1. [Natural Science](https://bigpictureschool.com/natural_science.html)
 * [Astronomy](https://bigpictureschool.com/astronomy.html)
 * [Biology](https://bigpictureschool.com/biology.html)
   * [Cell Biology](https://bigpictureschool.com/cell_biology.html)
