@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Earth Sciences
-parent: Natural Sciences
+parent: Natural Science
 nav_order: 4
 has_children: true
 ---
