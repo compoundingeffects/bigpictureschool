@@ -17,10 +17,10 @@ Whether you're a student, a professional, or a lifelong learner, we hope you fin
 Interested in sharing your feedback or collaborating with us? We would love to hear from you. You can connect with us at hello@bigpictureschool.com.
 </p>
 
-# Major Academic Disciplines
+## Major Academic Disciplines
 
-## 1. [Natural Science](https://bigpictureschool.com/natural_science.html)
-  ### A. Physical Science
+### 1. [Natural Science](https://bigpictureschool.com/natural_science.html)
+A. **Physical Science**
   - [Physics](https://bigpictureschool.com/physics.html)
     - Classical Physics
     - Modern Physics
@@ -29,12 +29,12 @@ Interested in sharing your feedback or collaborating with us? We would love to h
     - Inorganic Chemistry
     - Organic Chemistry
   - [Astronomy](https://bigpictureschool.com/astronomy.html)
-  ### B. [Earth Science](https://bigpictureschool.com/earth_sciences.html)
+B. [**Earth Science**](https://bigpictureschool.com/earth_sciences.html)
   - [Geology](https://bigpictureschool.com/geology.html)
   - [Meteorology](https://bigpictureschool.com/meteorology.html)
   - [Oceanography](https://bigpictureschool.com/oceanography.html)
   - Climatology
-  ### C. Life Science
+C. **Life Science**
   - [Biology](https://bigpictureschool.com/biology.html)
     - Molecular Biology
     - [Cellular Biology](https://bigpictureschool.com/cell_biology.html)
@@ -45,7 +45,7 @@ Interested in sharing your feedback or collaborating with us? We would love to h
   - Botany
   - Zoology
   - [Ecology](https://bigpictureschool.com/ecology.html)
-  ### D. Space Science
+D. **Space Science**
   - Astrophysics
   - Cosmology
 
