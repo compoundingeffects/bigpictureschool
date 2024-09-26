@@ -7,7 +7,7 @@ has_children: true
 
 # **Natural Science**
 
-1. **Natural Science**: Natural science is about studying everything in our physical world. Scientists observe things, do experiments, and use reasoning to figure out how the universe works.
+1. **Natural Science**: Natural science is the study of everything in our physical world. Scientists observe things, do experiments, and use reasoning to figure out how the universe works.
 
 2. **The basic ideas behind natural science are**:
 
