@@ -26,7 +26,7 @@ Interested in sharing your feedback or collaborating with us? We would love to h
 * [Astronomy](https://bigpictureschool.com/astronomy.html)
 * [Biology](https://bigpictureschool.com/biology.html)
   * [Cell Biology](https://bigpictureschool.com/cell_biology.html)
-  * Ecology
+  * [Ecology](https://bigpictureschool.com/ecology.html)
   * Genetics
   * [Evolutionary Biology](https://bigpictureschool.com/evolutionary_biology.html)
   * Microbiology
