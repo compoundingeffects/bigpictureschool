@@ -20,24 +20,34 @@ Interested in sharing your feedback or collaborating with us? We would love to h
 ## Major Academic Disciplines
 
 ### 1. [Natural Science](https://bigpictureschool.com/natural_science.html)
-* [Astronomy](https://bigpictureschool.com/astronomy.html)
-* [Biology](https://bigpictureschool.com/biology.html)
-  * [Cell Biology](https://bigpictureschool.com/cell_biology.html)
-  * [Ecology](https://bigpictureschool.com/ecology.html)
-  * Genetics
-  * [Evolutionary Biology](https://bigpictureschool.com/evolutionary_biology.html)
-  * Microbiology
-* [Chemistry](https://bigpictureschool.com/chemistry.html)
-  * [Biochemistry](https://bigpictureschool.com/biochemistry.html)
-  * Inorganic Chemistry
-  * Organic Chemistry
-* [Earth Sciences](https://bigpictureschool.com/earth_sciences.html)
-  * [Geology](https://bigpictureschool.com/geology.html)
-  * [Meteorology](https://bigpictureschool.com/meteorology.html)
-  * [Oceanography](https://bigpictureschool.com/oceanography.html)
-* [Physics](https://bigpictureschool.com/physics.html)
-  * Astrophysics
-  * Quantum Mechanics
+- Physical Science
+  - [Physics](https://bigpictureschool.com/physics.html)
+    - Classical Physics
+    - Modern Physics
+  - [Chemistry](https://bigpictureschool.com/chemistry.html)
+    - [Biochemistry](https://bigpictureschool.com/biochemistry.html)
+    - Inorganic Chemistry
+    - Organic Chemistry
+  - [Astronomy](https://bigpictureschool.com/astronomy.html)
+- [Earth Science](https://bigpictureschool.com/earth_sciences.html)
+  - [Geology](https://bigpictureschool.com/geology.html)
+  - [Meteorology](https://bigpictureschool.com/meteorology.html)
+  - [Oceanography](https://bigpictureschool.com/oceanography.html)
+  - Climatology
+- Life Science
+  - [Biology](https://bigpictureschool.com/biology.html)
+    - Molecular Biology
+    - [Cellular Biology](https://bigpictureschool.com/cell_biology.html)
+    - Genetics
+    - [Evolutionary Biology](https://bigpictureschool.com/evolutionary_biology.html)
+    - Microbiology
+    - Neurobiology
+  - Botany
+  - Zoology
+  - [Ecology](https://bigpictureschool.com/ecology.html)
+- Space Science
+  - Astrophysics
+  - Cosmology
 
 ### 2. [Social Sciences](https://bigpictureschool.com/social_sciences.html)
 * Anthropology
