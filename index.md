@@ -20,32 +20,32 @@ Interested in sharing your feedback or collaborating with us? We would love to h
 ## Major Academic Disciplines
 
 ### 1. [Natural Science](https://bigpictureschool.com/natural_science.html)
-A. **Physical Science**
-    - [Physics](https://bigpictureschool.com/physics.html)
-        - Classical Physics
-        - Modern Physics
-    - [Chemistry](https://bigpictureschool.com/chemistry.html)
-        - [Biochemistry](https://bigpictureschool.com/biochemistry.html)
-        - Inorganic Chemistry
-        - Organic Chemistry
-    - [Astronomy](https://bigpictureschool.com/astronomy.html)
-B. [**Earth Science**](https://bigpictureschool.com/earth_sciences.html)
-     - [Geology](https://bigpictureschool.com/geology.html)
-     - [Meteorology](https://bigpictureschool.com/meteorology.html)
-     - [Oceanography](https://bigpictureschool.com/oceanography.html)
-     - Climatology
-C. **Life Science**
+  A. **Physical Science**
+      - [Physics](https://bigpictureschool.com/physics.html)
+          - Classical Physics
+          - Modern Physics
+      - [Chemistry](https://bigpictureschool.com/chemistry.html)
+          - [Biochemistry](https://bigpictureschool.com/biochemistry.html)
+          - Inorganic Chemistry
+          - Organic Chemistry
+      - [Astronomy](https://bigpictureschool.com/astronomy.html)
+  B. [**Earth Science**](https://bigpictureschool.com/earth_sciences.html)
+      - [Geology](https://bigpictureschool.com/geology.html)
+      - [Meteorology](https://bigpictureschool.com/meteorology.html)
+      - [Oceanography](https://bigpictureschool.com/oceanography.html)
+      - Climatology
+  C. **Life Science**
       - [Biology](https://bigpictureschool.com/biology.html)
-          - Molecular Biology
-          - [Cellular Biology](https://bigpictureschool.com/cell_biology.html)
-          - Genetics
-          - [Evolutionary Biology](https://bigpictureschool.com/evolutionary_biology.html)
-          - Microbiology
-          - Neurobiology
+         - Molecular Biology
+         - [Cellular Biology](https://bigpictureschool.com/cell_biology.html)
+         - Genetics
+         - [Evolutionary Biology](https://bigpictureschool.com/evolutionary_biology.html)
+         - Microbiology
+         - Neurobiology
       - Botany
       - Zoology
       - [Ecology](https://bigpictureschool.com/ecology.html)
-D. **Space Science**
+  D. **Space Science**
       - Astrophysics
       - Cosmology
 
