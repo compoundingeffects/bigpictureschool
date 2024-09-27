@@ -40,6 +40,6 @@ has_children: true
     - The Laws of Thermodynamics are about how heat and energy behave.
     - Quantum Mechanics explains how very tiny things like atoms behave.
 
-These laws help us understand everything from how atoms work to how galaxies move.
+    These laws help us understand everything from how atoms work to how galaxies move.
 
 In conclusion, physical science tries to understand the non-living world by looking at its most basic parts: what things are made of, what makes them move or change, and how they interact. By breaking down big ideas into simpler ones, scientists can build up an understanding of how the whole universe works.
