@@ -13,6 +13,7 @@ has_children: true
 2. **Matter**: Everything you can touch or see is made of matter. Matter is anything that takes up space and has weight. 
     - **Atoms**: Atoms are incredibly small particles that make up matter. They're made of even smaller parts called protons, neutrons, and electrons.
     - **Molecules**: When atoms join together, they form molecules.
+
 Different combinations of atoms and molecules create all the different materials we see in the world.
 
 4. **Energy**: Energy is like the ability to do work or cause change. It comes in different forms, like the energy of movement, stored energy, heat, or light. The important thing to remember is that energy can't be created or destroyed – it just changes from one form to another.
