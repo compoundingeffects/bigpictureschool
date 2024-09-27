@@ -9,7 +9,7 @@ has_children: true
 
 1. **Natural Science**: Natural science is all about studying the world around us. It looks at everything we can see, touch, or measure in our universe. This includes living things like plants and animals, as well as non-living things like rocks and stars. Scientists try to figure out the rules that make everything work the way it does.
 
-2. **What is Nature**: Nature is everything that exists in our physical world. It's the stuff we can see and touch, but also things we can't see directly, like air or energy. Nature includes all living things, like trees and animals, and all non-living things, like mountains and oceans. It also includes natural processes, like how weather changes or how planets move around the sun.
+2. **What is Nature**? Nature is everything that exists in our physical world. It's the stuff we can see and touch, but also things we can't see directly, like air or energy. Nature includes all living things, like trees and animals, and all non-living things, like mountains and oceans. It also includes natural processes, like how weather changes or how planets move around the sun.
 
 3. **Branches of Natural Science**: Natural science is split into different areas of study:
 - Physics looks at how matter and energy work and interact.
