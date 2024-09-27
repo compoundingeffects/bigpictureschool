@@ -4,6 +4,7 @@ title: Physics
 parent: Physical Science
 grand_parent: Natural Science
 nav_order: 1
+has_children: true
 ---
 
 ## Physics
