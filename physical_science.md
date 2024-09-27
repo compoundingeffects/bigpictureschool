@@ -29,11 +29,11 @@ has_children: true
 8. **Astronomy and the Study of the Universe**: Astronomy looks at everything beyond Earth, like stars, planets, and galaxies. It tries to understand how the whole universe works and where it came from. It uses the same basic ideas about matter, energy, and forces that we use to understand things on Earth.
 
 9. **The Scientific Method in Physical Science**: Scientists use a step-by-step method to understand the world:
-1. They watch and gather information.
-2. They come up with an idea to explain what they see.
-3. They test their idea with experiments.
-4. If their idea explains a lot of things, it might become a theory.
-5. If a theory is proven right over and over, it might become a scientific law.
+    1. They watch and gather information.
+    2. They come up with an idea to explain what they see.
+    3. They test their idea with experiments.
+    4. If their idea explains a lot of things, it might become a theory.
+    5. If a theory is proven right over and over, it might become a scientific law.
 
 10. **Fundamental Laws in Physical Science**: Scientists have discovered some basic rules about how the universe works:
     - Newton's Laws of Motion explain how things move when forces act on them.
