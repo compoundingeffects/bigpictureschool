@@ -31,4 +31,4 @@ Different combinations of atoms and molecules create all the different materials
 - We measure energy, work, and power to understand how energy moves and changes.
 - We measure pressure, volume, and temperature to understand the state of gases, liquids, and solids.
 
-9. **The Big Picture**: Physical science is all about understanding how matter, energy, forces, space, and time work together following universal rules. These basic ideas help us explain everything from how galaxies move to how the tiniest particles behave.
+9. **Conclusion**: Physical science is all about understanding how matter, energy, forces, space, and time work together following universal rules. These basic ideas help us explain everything from how galaxies move to how the tiniest particles behave.
