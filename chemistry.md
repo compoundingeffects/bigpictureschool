@@ -1,8 +1,9 @@
 ---
 layout: default
 title: Chemistry
-parent: Natural Science
-nav_order: 3
+parent: Physical Science
+grand_parent: Natural Science
+nav_order: 2
 has_children: true
 ---
 
