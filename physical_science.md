@@ -1,35 +1,36 @@
 ---
 layout: default
-title: Earth Sciences
+title: Physical Science
 parent: Natural Science
-nav_order: 4
+nav_order: 1
 has_children: true
 ---
 
-## Earth Sciences
+## Physical Science
 
-1. **Matter and Energy**:
-* **Matter**: Everything on Earth is made up of tiny building blocks called atoms and molecules. These combine to form all the stuff we see around us, from rocks to water to air.
-* **Energy**: The Earth runs on energy, like a giant machine. Most of this energy comes from the Sun, but some also comes from heat inside the Earth itself, leftover from when it formed and from radioactive materials breaking down.
+1. **Physical Science**: At its core, physical science studies matter and energy and how they interact.
 
-2. **Fundamental Forces**:
-* **Gravitational Force**: Gravitational force is what keeps things on Earth and makes them fall down. It's why the Earth is round and why water flows downhill.
-* **Electromagnetic Force**: Electromagnetic force is responsible for how atoms stick together to form bigger things like rocks and minerals. It's also crucial for life processes like plants making food from sunlight.
+2. **Matter**: Everything you can touch or see is made of matter. Matter is anything that takes up space and has weight. The tiniest pieces of matter are called atoms, which are like the building blocks of everything around us.
 
-3. **Earth's Structure**: The Earth is like a layered ball. The center is the core, mostly made of metals like iron. Around that is the mantle, which is rocky but can flow slowly. The outer layer is the crust, which is the solid ground we walk on.
+3. **Atoms and Molecules**: Atoms are incredibly small particles that make up matter. They're made of even smaller parts called protons, neutrons, and electrons. When atoms join together, they form molecules. Different combinations of atoms and molecules create all the different materials we see in the world.
 
-4. **Plate Tectonics**: The Earth's outer shell is broken into big pieces called plates. These plates move around very slowly, pushed by heat from inside the Earth. Where they meet, we get things like earthquakes, volcanoes, and mountain ranges.
+4. **Energy**: Energy is like the ability to do work or cause change. It comes in different forms, like the energy of movement, stored energy, heat, or light. The most important thing to remember is that energy can't be created or destroyed – it just changes from one form to another.
 
-5. **Rock Cycle**: Rocks are constantly changing. They can melt, cool down and harden, get worn down into tiny pieces, or get squashed and changed by heat and pressure. This ongoing process creates different types of rocks: igneous (from melted rock), sedimentary (from bits of other rocks), and metamorphic (changed by heat and pressure).
+5. **Forces Govern Interactions**: Forces are pushes or pulls that make things move or stop moving. There are four main forces in nature: gravity (which makes things fall), electromagnetism (which involves electricity and magnets), and two forces that work inside atoms (the strong and weak nuclear forces).
 
-6. **Hydrosphere**: The hydrosphere refers to water on Earth. Water is always moving in a cycle - it evaporates into the air, forms clouds, falls as rain or snow, flows in rivers, and collects in oceans. The oceans are also really important for controlling Earth's temperature.
+6. **Newton's Laws of Motion**: Newton's Laws of Motion are rules that explain how things move. They help us understand why objects start moving, keep moving, or stop moving when forces act on them.
 
-7. **Atmosphere**: The atmosphere is the layer of gases surrounding Earth. It's mostly nitrogen and oxygen, with small amounts of other gases. It has different layers with different properties. The atmosphere is responsible for our weather and climate.
+7. **Space and Time**: Space is where everything exists, and time is how we measure when things happen. In physics, we think of space and time as being connected, calling it "spacetime."
 
-8. **Biosphere**: The biosphere is the part of Earth where life exists. All living things, from tiny bacteria to huge whales, are part of the biosphere. Living things interact with and change their environment, and also depend on it.
+8. **Relativity**: Relavity is an idea that says space and time can change depending on how fast you're moving or if you're near something very heavy like a planet. It means that what we see as space and time can be different for different people.
 
-9. **Geological Time**: Earth is incredibly old - about 4.5 billion years. Over this huge amount of time, many things have happened, like continents moving, life evolving, and mass extinctions. Scientists use various methods to figure out when things happened in Earth's past.
+9. **Laws of Physics**: The laws of physics are rules that explain how the universe works. They apply everywhere and help us predict what will happen in different situations. Some important laws include those about motion, energy, heat, tiny particles, and light.
 
-10. **Human Impact**: Humans have become a major force changing the Earth. Our activities, like cutting down forests, polluting, and burning fossil fuels, are altering the planet's systems in significant ways, including changing the climate and reducing biodiversity.
+10. **Mathematics in Physics**: We use math to describe and measure changes in the physical world. This helps us make precise predictions about how things will behave.
 
-Understanding these basic principles helps us see how all parts of the Earth system are connected and work together. It's like understanding the rules of a very complex game, which then allows us to make sense of all the different things happening on our planet.
+11. **Quantifying Change**: In physics, we measure different things to understand how they change:
+- We measure distance, speed, and acceleration to understand movement.
+- We measure energy, work, and power to understand how energy moves and changes.
+- We measure pressure, volume, and temperature to understand the state of gases, liquids, and solids.
+
+12. **The Big Picture**: Physical science is all about understanding how matter, energy, forces, space, and time work together following universal rules. These basic ideas help us explain everything from how galaxies move to how the tiniest particles behave.
