@@ -20,7 +20,7 @@ Interested in sharing your feedback or collaborating with us? We would love to h
 ## Major Academic Disciplines
 
 ### 1. [Natural Science](https://bigpictureschool.com/natural_science.html)
-- Physical Science
+- [Physical Science](https://bigpictureschool.com/physical_science.html)
   - [Physics](https://bigpictureschool.com/physics.html)
     - Classical Physics
     - Modern Physics
