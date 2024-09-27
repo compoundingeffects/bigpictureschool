@@ -1,8 +1,9 @@
 ---
 layout: default
 title: Astronomy
-parent: Natural Science
-nav_order: 1
+parent: Physical Science
+grand_parent: Natural Science
+nav_order: 3
 ---
 
 ## Astronomy
