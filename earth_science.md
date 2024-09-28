@@ -14,16 +14,16 @@ has_children: true
 2. **What is Earth**? Earth is a rocky planet in our solar system. It's made up of different layers - rock, metals, gases, and liquids. Earth formed about 4.5 billion years ago from leftover dust and gas around the young Sun. It has three main parts: a rocky outer layer called the crust, a thick middle layer called the mantle that moves slowly, and a central core mostly made of iron and nickel.
 
 3. **Earth's major components**: Earth has four main systems that work together:
-       - **The lithosphere**: This is the hard outer shell of Earth, including the crust and top part of the mantle. It's where things like earthquakes and volcanoes happen.
-       - **The hydrosphere**: This is all the water on Earth - oceans, rivers, lakes, ice, and underground water. Water is always moving around in a cycle of evaporation, forming clouds, and falling as rain.
-       - **The atmosphere**: This is the layer of air around Earth, mostly nitrogen and oxygen. It controls temperature, weather, and protects us from harmful radiation from space.
-       - **The biosphere**: This includes all living things on Earth and how they interact with the other systems.
-       These systems are all connected, so a change in one can affect the others.
+    - **The lithosphere**: This is the hard outer shell of Earth, including the crust and top part of the mantle. It's where things like earthquakes and volcanoes happen.
+    - **The hydrosphere**: This is all the water on Earth - oceans, rivers, lakes, ice, and underground water. Water is always moving around in a cycle of evaporation, forming clouds, and falling as rain.
+    - **The atmosphere**: This is the layer of air around Earth, mostly nitrogen and oxygen. It controls temperature, weather, and protects us from harmful radiation from space.
+    - **The biosphere**: This includes all living things on Earth and how they interact with the other systems.
+    These systems are all connected, so a change in one can affect the others.
 
 4. **What powers Earth's processes**: Earth's processes are powered by two main energy sources:
-       - **The Sun**: Sunlight drives things like the water cycle, weather patterns, and helps plants grow through photosynthesis.
-       - **Earth's internal heat**: Heat from deep inside Earth causes things like plate movements, volcanoes, and the creation of new crust.
-       These energy sources are what make Earth's systems change and work.
+    - **The Sun**: Sunlight drives things like the water cycle, weather patterns, and helps plants grow through photosynthesis.
+    - **Earth's internal heat**: Heat from deep inside Earth causes things like plate movements, volcanoes, and the creation of new crust.
+    These energy sources are what make Earth's systems change and work.
 
 6. **Plate tectonics**: Plate tectonics is a key idea in Earth Science. It says that Earth's outer layer is split into large pieces called plates that float on the softer layer underneath. These plates are always moving because of heat-driven currents in the mantle below. When plates interact at their edges, it can cause earthquakes, volcanoes, and mountain formation. This theory explains many geological events we see on Earth.
 
