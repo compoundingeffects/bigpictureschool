@@ -1,35 +1,47 @@
 ---
 layout: default
-title: Earth Sciences
-parent: Natural Science
-nav_order: 4
+title: Earth Science
+parent: Physical Science
+grand_parent: Natural Science
+nav_order: 2
 has_children: true
 ---
 
-## Earth Sciences
+## Earth Science
 
-1. **Matter and Energy**:
-* **Matter**: Everything on Earth is made up of tiny building blocks called atoms and molecules. These combine to form all the stuff we see around us, from rocks to water to air.
-* **Energy**: The Earth runs on energy, like a giant machine. Most of this energy comes from the Sun, but some also comes from heat inside the Earth itself, leftover from when it formed and from radioactive materials breaking down.
+1. **Earth Science**: Earth Science is all about studying our planet Earth. It looks at how Earth is built, how it works, and its history. It also explores Earth's place in space. The main goal is to understand our home planet, how it operates, and all the natural systems that make it change over time.
 
-2. **Fundamental Forces**:
-* **Gravitational Force**: Gravitational force is what keeps things on Earth and makes them fall down. It's why the Earth is round and why water flows downhill.
-* **Electromagnetic Force**: Electromagnetic force is responsible for how atoms stick together to form bigger things like rocks and minerals. It's also crucial for life processes like plants making food from sunlight.
+2. **What is Earth**? Earth is a rocky planet in our solar system. It's made up of different layers - rock, metals, gases, and liquids. Earth formed about 4.5 billion years ago from leftover dust and gas around the young Sun. It has three main parts: a rocky outer layer called the crust, a thick middle layer called the mantle that moves slowly, and a central core mostly made of iron and nickel.
 
-3. **Earth's Structure**: The Earth is like a layered ball. The center is the core, mostly made of metals like iron. Around that is the mantle, which is rocky but can flow slowly. The outer layer is the crust, which is the solid ground we walk on.
+3. **Earth's major components**: Earth has four main systems that work together:
+       - **The lithosphere**: This is the hard outer shell of Earth, including the crust and top part of the mantle. It's where things like earthquakes and volcanoes happen.
+       - **The hydrosphere**: This is all the water on Earth - oceans, rivers, lakes, ice, and underground water. Water is always moving around in a cycle of evaporation, forming clouds, and falling as rain.
+       - **The atmosphere**: This is the layer of air around Earth, mostly nitrogen and oxygen. It controls temperature, weather, and protects us from harmful radiation from space.
+       - **The biosphere**: This includes all living things on Earth and how they interact with the other systems.
+       These systems are all connected, so a change in one can affect the others.
 
-4. **Plate Tectonics**: The Earth's outer shell is broken into big pieces called plates. These plates move around very slowly, pushed by heat from inside the Earth. Where they meet, we get things like earthquakes, volcanoes, and mountain ranges.
+4. **What powers Earth's processes**: Earth's processes are powered by two main energy sources:
+       - **The Sun**: Sunlight drives things like the water cycle, weather patterns, and helps plants grow through photosynthesis.
+       - **Earth's internal heat**: Heat from deep inside Earth causes things like plate movements, volcanoes, and the creation of new crust.
+       These energy sources are what make Earth's systems change and work.
 
-5. **Rock Cycle**: Rocks are constantly changing. They can melt, cool down and harden, get worn down into tiny pieces, or get squashed and changed by heat and pressure. This ongoing process creates different types of rocks: igneous (from melted rock), sedimentary (from bits of other rocks), and metamorphic (changed by heat and pressure).
+6. **Plate tectonics**: Plate tectonics is a key idea in Earth Science. It says that Earth's outer layer is split into large pieces called plates that float on the softer layer underneath. These plates are always moving because of heat-driven currents in the mantle below. When plates interact at their edges, it can cause earthquakes, volcanoes, and mountain formation. This theory explains many geological events we see on Earth.
 
-6. **Hydrosphere**: The hydrosphere refers to water on Earth. Water is always moving in a cycle - it evaporates into the air, forms clouds, falls as rain or snow, flows in rivers, and collects in oceans. The oceans are also really important for controlling Earth's temperature.
+7. **The water cycle**: The water cycle is a crucial process that describes how water moves around on Earth. It's powered by the Sun and involves:
+    - **Evaporation**: The Sun heats water, turning it into vapor.
+    - **Condensation**: Water vapor cools and forms clouds.
+    - **Precipitation**: Water falls back to Earth as rain, snow, etc.
+    - **Runoff and infiltration**: Water flows over land or soaks into the ground.
+    This cycle helps control Earth's climate, supports life, and shapes landscapes by eroding and depositing material.
 
-7. **Atmosphere**: The atmosphere is the layer of gases surrounding Earth. It's mostly nitrogen and oxygen, with small amounts of other gases. It has different layers with different properties. The atmosphere is responsible for our weather and climate.
+8. **The atmosphere's role**: The atmosphere is vital for life on Earth. It regulates temperature, protects us from harmful radiation from space, and controls weather and climate. Air is mostly nitrogen and oxygen, with small amounts of other gases. Weather happens when different masses of air (with different temperatures and humidity) interact. Climate is the long-term weather pattern in an area, influenced by things like sunlight, Earth's tilt, ocean currents, and how air moves around the planet.
 
-8. **Biosphere**: The biosphere is the part of Earth where life exists. All living things, from tiny bacteria to huge whales, are part of the biosphere. Living things interact with and change their environment, and also depend on it.
+9. **How Earth's systems change over time**: Earth's history is shaped by slow, gradual processes and sudden, dramatic events. Slow processes include erosion (where rock is worn away), sedimentation (where eroded material builds up in layers), and fossilization (where remains of living things are preserved in rock). Sudden events might be meteor impacts or volcanic eruptions. These processes are ongoing and have shaped Earth's land, oceans, and life forms throughout its long history.
 
-9. **Geological Time**: Earth is incredibly old - about 4.5 billion years. Over this huge amount of time, many things have happened, like continents moving, life evolving, and mass extinctions. Scientists use various methods to figure out when things happened in Earth's past.
+10. **How Earth Science connects to other sciences**: Earth Science doesn't stand alone - it connects with many other scientific fields:
+   - It uses chemistry to understand what rocks, minerals, water, and air are made of.
+   - It uses physics to study forces, energy, and how materials behave under different conditions.
+   - It connects with biology to understand how living things interact with their environment and change over time.
+   - It relates to astronomy because Earth is part of the solar system, and events in space can affect our planet.
 
-10. **Human Impact**: Humans have become a major force changing the Earth. Our activities, like cutting down forests, polluting, and burning fossil fuels, are altering the planet's systems in significant ways, including changing the climate and reducing biodiversity.
-
-Understanding these basic principles helps us see how all parts of the Earth system are connected and work together. It's like understanding the rules of a very complex game, which then allows us to make sense of all the different things happening on our planet.
+In essence, Earth Science combines knowledge from different areas to explain how our planet works and has changed over time. It breaks down complex systems into basic parts to understand the big picture of our planet's past, present, and future.
