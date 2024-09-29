@@ -2,6 +2,8 @@
 layout: default
 title: Biochemistry
 parent: Chemistry
+grand_parent: Physical Science
+ancestor: Natural Science
 nav_order: 1
 ---
 
