@@ -36,10 +36,11 @@ nav_order: 1
 8. **How living things use energy**: All the chemical reactions that happen in living things to keep them alive are called metabolism. This includes breaking down food to get energy and using that energy to build new parts of the body.
 
 9. **How cells make energy**: Cells break down food molecules like sugar to make energy. This happens in a few steps:
-       - First, sugar is broken down into smaller pieces, releasing a bit of energy.
-       - These pieces are broken down further, releasing more energy.
-       - Finally, the leftover parts are used to make lots of energy in a process that uses oxygen.
-       The energy is stored in a molecule called ATP, which cells use like a battery to power their activities.
+    1. First, sugar is broken down into smaller pieces, releasing a bit of energy.
+    2. These pieces are broken down further, releasing more energy.
+    3. Finally, the leftover parts are used to make lots of energy in a process that uses oxygen.
+    
+    The energy is stored in a molecule called ATP, which cells use like a battery to power their activities.
 
 10. **Enzymes - nature's helpers**: Enzymes are special proteins that help chemical reactions happen faster. They work by grabbing onto the molecules involved in a reaction and helping them change more easily.
 
