@@ -25,10 +25,10 @@ has_children: true
     - **Complex cells (eukaryotic)**: These have a central compartment for DNA and other specialized parts.
 
     Cells have some basic parts:
-        - A membrane that separates the inside from the outside
-        - A jelly-like substance inside (cytoplasm)
-        - DNA, which contains instructions for the cell
-        - In complex cells, specialized structures that do specific jobs
+    - A membrane that separates the inside from the outside
+    - A jelly-like substance inside (cytoplasm)
+    - DNA, which contains instructions for the cell
+    - In complex cells, specialized structures that do specific jobs
 
 4. **What is DNA**? DNA is like a instruction manual for living things. It's made up of small pieces called nucleotides. These pieces form a twisted ladder shape. DNA:
 - Contains instructions for how living things grow and work
