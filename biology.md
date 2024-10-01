@@ -1,24 +1,71 @@
 ---
 layout: default
 title: Biology
-parent: Natural Science
-grant_parent: Life Science
+parent: Life Science
+grant_parent: Natural Science
 nav_order: 1
 has_children: true
 ---
 
 ## Biology
 
-1. **Atoms and Molecules**: At the most basic level, everything in biology is made of tiny particles called atoms. These atoms join together to form molecules. It's like how Lego bricks can be joined to make different shapes. The main atoms in living things are carbon, hydrogen, oxygen, nitrogen, and phosphorus. When these atoms combine, they make important molecules like water, carbon dioxide, and bigger molecules that are crucial for life, such as proteins, fats, sugars, and DNA. The key idea here is that life is basically a bunch of chemical reactions between these molecules.
+1. **What is Biology**? Biology is the study of living things. It tries to understand what makes something alive, how living things work, and how they interact with each other and their surroundings.
 
-2. **Emergence of Cells**: Cells are like tiny living factories. They're the smallest things we can call "alive." Every living thing, from the tiniest bacteria to the largest whale, is made up of cells. Each cell is like a little bag filled with molecules arranged in a way that lets the cell do important jobs like eating, growing, and making more cells. The main point here is that to understand how any living thing works, we need to understand how its cells work.
+2. **What is Life**? Life is what separates living things from non-living things. Some key features of life include:
+- **Organization**: Living things have complex structures, from tiny parts to whole bodies.
+- **Metabolism**: Living things can take in energy, change it, and use it to stay alive.
+- **Homeostasis**: Living things can keep their insides stable, like maintaining body temperature.
+- **Growth and Development**: Living things get bigger and change over time.
+- **Reproduction**: Living things can make more of themselves.
+- **Response to Stimuli**: Living things can sense and react to changes around them.
+- **Evolution**: Groups of living things can change over long periods of time.
 
-3. **Proteins and Enzymes**: Proteins are like the tools and machines inside cells. They're made of smaller building blocks called amino acids. Some special proteins called enzymes are like workers that speed up chemical reactions in the cell. DNA and RNA are like instruction manuals that tell the cell how to make these protein tools. The key idea is that most of the important work in a cell is done by these protein machines.
+3. **What is a Cell**? A cell is the smallest unit of life. All living things are made of one or more cells. There are two main types:
+    - **Simple cells (prokaryotic)**: These don't have a central compartment for DNA.
+    - **Complex cells (eukaryotic)**: These have a central compartment for DNA and other specialized parts.
 
-4. **Energy Flow**: Just like we need food for energy, all living things need energy to stay alive. They get this energy from their surroundings and change it into a form they can use. For example, plants use sunlight to make sugar in a process called photosynthesis. Animals and other organisms break down sugar to release energy in a process called cellular respiration. This energy is used to power all the activities of life. The main point here is that managing energy is crucial for life.
+    Cells have some basic parts:
+        - A membrane that separates the inside from the outside
+        - A jelly-like substance inside (cytoplasm)
+        - DNA, which contains instructions for the cell
+        - In complex cells, specialized structures that do specific jobs
 
-5. **Genetic Information and Evolution**: All living things have a set of instructions inside them called DNA. This DNA is like a recipe book that tells the organism how to make all its parts and run all its processes. Sometimes, there are small changes (mutations) in this DNA recipe. Over many generations, these changes can lead to new features in organisms. If these new features help the organism survive and have babies, they become more common. This process is called evolution by natural selection, and it explains why we see so many different types of living things.
+4. **What is DNA**? DNA is like a instruction manual for living things. It's made up of small pieces called nucleotides. These pieces form a twisted ladder shape. DNA:
+- Contains instructions for how living things grow and work
+- Can be copied and passed down when living things reproduce
+- Can change over time, which leads to evolution
 
-6. **Homeostasis**: Living things need to keep their insides just right, even when things change outside. This is called homeostasis. It's like how we sweat when it's hot to cool down, or shiver when it's cold to warm up. Our bodies are always adjusting to keep things balanced inside. This happens through systems that can sense changes and respond to them, kind of like a thermostat in a house. The key idea is that maintaining this internal balance is essential for life.
+5. **What is Evolution**? Evolution is how groups of living things change over time. This happens because:
+    - Individuals in a group are slightly different from each other.
+    - Some individuals are better suited to their environment and are more likely to survive and have offspring.
+    - Random changes in DNA can create new traits.
+    - Different groups can mix and share traits.
+    - In small groups, traits can become more or less common by chance.
+    
+    Evolution explains why there are so many different types of living things and how they become suited to their environments.
 
-In conclusion, when we break down biology to its most basic ideas, we find that life is built on a foundation of chemistry, with cells as the basic units. These cells use protein machines to do their work, constantly manage energy, pass on genetic information that can change over time, and maintain a delicate internal balance. Understanding these core principles helps us make sense of the amazing complexity we see in living things.
+6. **What is Metabolism**? Metabolism is all the chemical reactions that happen inside living things to keep them alive. There are two main types:
+    - Breaking down substances to release energy
+    - Building up substances using energy
+
+    Living things get energy from different sources, like sunlight or food. They use a special energy-carrying molecule called ATP to power many of their functions.
+
+7. **What is Homeostasis**? Homeostasis is how living things keep their insides stable. This includes:
+    - Keeping the right temperature
+    - Maintaining the right balance of acidity
+    - Controlling the amount of water and important minerals
+
+    Homeostasis is crucial for survival. It involves systems in the body that constantly check and adjust internal conditions.
+
+8. **Reproduction and Genetics**: Reproduction is how living things make more of themselves. There are two main types:
+    - **Asexual reproduction**: One parent makes an identical copy of itself.
+    - **Sexual reproduction**: Two parents combine their genetic material to make offspring with a mix of traits.
+    
+    Genes are sections of DNA that carry instructions for specific traits. These traits are passed from parents to offspring.
+
+9. **Ecosystems and Ecology**: An ecosystem includes all the living things in an area and the non-living parts of their environment. In ecosystems:
+    - Energy flows from plants (which make food using sunlight) to animals and decomposers.
+    - Important substances like carbon, nitrogen, and water cycle through the system.
+    - Living things often form relationships with each other, which can be beneficial, neutral, or harmful.
+    
+    Biology, at its heart, is about studying life. It looks at everything from the tiniest parts of living things (cells) to how different living things interact with each other and their surroundings.
