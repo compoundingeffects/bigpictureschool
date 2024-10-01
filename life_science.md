@@ -39,11 +39,11 @@ has_children: true
 8. **Ecosystems and Interdependence**: Living things don't exist alone. They live in communities called ecosystems, where they interact with each other and their environment. These interactions include eating each other, helping each other, and competing for resources. The flow of energy and recycling of nutrients are important for keeping ecosystems balanced.
 
 9. **How Life Science Works - The Scientific Method**: Life scientists use a step-by-step process to study living things:
-1. Notice something interesting.
-2. Come up with a possible explanation.
-3. Test the explanation through experiments.
-4. If the explanation holds up, it becomes a broader theory.
-5. Some well-established ideas become scientific laws.
+    1. Notice something interesting.
+    2. Come up with a possible explanation.
+    3. Test the explanation through experiments.
+    4. If the explanation holds up, it becomes a broader theory.
+    5. Some well-established ideas become scientific laws.
 
 10. **Fundamental Principles in Life Science**: Life science has discovered some basic rules about how life works:
 - All living things are made of cells, and all cells come from other cells.
