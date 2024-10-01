@@ -2,7 +2,8 @@
 layout: default
 title: Biology
 parent: Natural Science
-nav_order: 2
+grant_parent: Life Science
+nav_order: 1
 has_children: true
 ---
 
