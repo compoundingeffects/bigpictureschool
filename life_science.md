@@ -1,49 +1,54 @@
 ---
 layout: default
-title: Earth Science
+title: Life Science
 parent: Natural Science
-nav_order: 2
+nav_order: 3
 has_children: true
 ---
 
-## Earth Science
+## Life Science
 
-1. **Earth Science**: Earth Science is all about studying our planet Earth. It looks at how Earth is built, how it works, and its history. It also explores Earth's place in space. The main goal is to understand our home planet, how it operates, and all the natural systems that make it change over time.
+1. **What is Life Science**? Life science is the study of living things and how they work. It tries to understand what life is, how it starts, how it functions, and how living things interact with their surroundings and each other.
 
-2. **What is Earth**? Earth is a rocky planet in our solar system. It's made up of different layers - rock, metals, gases, and liquids. Earth formed about 4.5 billion years ago from leftover dust and gas around the young Sun. It has three main parts: a rocky outer layer called the crust, a thick middle layer called the mantle that moves slowly, and a central core mostly made of iron and nickel.
+2. **What is Life**? Life refers to things that can do certain activities:
+- Use energy from their environment to stay alive (metabolism)
+- Make more of themselves (reproduction)
+- Get bigger and more complex over time (growth and development)
+- React to changes around them (response to stimuli)
+- Keep their internal conditions stable (homeostasis)
+- Change over time to survive better in their environment (adaptation)
 
-3. **Earth's major components**: Earth has four main systems that work together:
-    - **The lithosphere**: This is the hard outer shell of Earth, including the crust and top part of the mantle. It's where things like earthquakes and volcanoes happen.
-    - **The hydrosphere**: This is all the water on Earth - oceans, rivers, lakes, ice, and underground water. Water is always moving around in a cycle of evaporation, forming clouds, and falling as rain.
-    - **The atmosphere**: This is the layer of air around Earth, mostly nitrogen and oxygen. It controls temperature, weather, and protects us from harmful radiation from space.
-    - **The biosphere**: This includes all living things on Earth and how they interact with the other systems.
-    
-    These systems are all connected, so a change in one can affect the others.
+3. **What are Cells**? Cells are the basic building blocks of all living things. They're like tiny factories made up of different parts (molecules) that work together. The main parts are proteins, fats, DNA/RNA, and sugars. Some cells have a central control center (nucleus), while others don't.
 
-4. **What powers Earth's processes**: Earth's processes are powered by two main energy sources:
-    - **The Sun**: Sunlight drives things like the water cycle, weather patterns, and helps plants grow through photosynthesis.
-    - **Earth's internal heat**: Heat from deep inside Earth causes things like plate movements, volcanoes, and the creation of new crust.
-    
-    These energy sources are what make Earth's systems change and work.
+4. **What are Biochemical Molecules**? These are the chemical building blocks of life:
+- **Proteins**: Do most of the work in cells, like speeding up chemical reactions and giving cells structure
+- **DNA**: Stores the instructions for making proteins and guides how an organism develops and works
+- **Lipids**: Fats and oils that make up cell walls and store energy
+- **Carbohydrates**: Sugars that provide energy and structure
 
-6. **Plate tectonics**: Plate tectonics is a key idea in Earth Science. It says that Earth's outer layer is split into large pieces called plates that float on the softer layer underneath. These plates are always moving because of heat-driven currents in the mantle below. When plates interact at their edges, it can cause earthquakes, volcanoes, and mountain formation. This theory explains many geological events we see on Earth.
+5. **What is Metabolism**? Metabolism is all the chemical reactions that happen in a living thing to keep it alive. It involves breaking down molecules to release energy and building up molecules to store energy. Cells use a special molecule called ATP as an energy source.
 
-7. **The water cycle**: The water cycle is a crucial process that describes how water moves around on Earth. It's powered by the Sun and involves:
-    - **Evaporation**: The Sun heats water, turning it into vapor.
-    - **Condensation**: Water vapor cools and forms clouds.
-    - **Precipitation**: Water falls back to Earth as rain, snow, etc.
-    - **Runoff and infiltration**: Water flows over land or soaks into the ground.
-    
-    This cycle helps control Earth's climate, supports life, and shapes landscapes by eroding and depositing material.
+6. **What is DNA and Heredity**? DNA is like a recipe book for making proteins. It's made up of four chemical letters arranged in a specific order. When living things reproduce, they pass copies of their DNA to their offspring. Sometimes small changes (mutations) occur in the DNA, which can lead to new traits.
 
-8. **The atmosphere's role**: The atmosphere is vital for life on Earth. It regulates temperature, protects us from harmful radiation from space, and controls weather and climate. Air is mostly nitrogen and oxygen, with small amounts of other gases. Weather happens when different masses of air (with different temperatures and humidity) interact. Climate is the long-term weather pattern in an area, influenced by things like sunlight, Earth's tilt, ocean currents, and how air moves around the planet.
+7. **What is Evolution**? Evolution is how species change over time. It happens because:
+- There are differences between individuals in a population.
+- Some individuals are better suited to their environment and survive longer.
+- These better-suited individuals have more offspring.
+- Over time, the helpful traits become more common in the population.
 
-9. **How Earth's systems change over time**: Earth's history is shaped by slow, gradual processes and sudden, dramatic events. Slow processes include erosion (where rock is worn away), sedimentation (where eroded material builds up in layers), and fossilization (where remains of living things are preserved in rock). Sudden events might be meteor impacts or volcanic eruptions. These processes are ongoing and have shaped Earth's land, oceans, and life forms throughout its long history.
+8. **Ecosystems and Interdependence**: Living things don't exist alone. They live in communities called ecosystems, where they interact with each other and their environment. These interactions include eating each other, helping each other, and competing for resources. The flow of energy and recycling of nutrients are important for keeping ecosystems balanced.
 
-10. **How Earth Science connects to other sciences**: Earth Science doesn't stand alone - it connects with many other scientific fields:
-   - It uses chemistry to understand what rocks, minerals, water, and air are made of.
-   - It uses physics to study forces, energy, and how materials behave under different conditions.
-   - It connects with biology to understand how living things interact with their environment and change over time.
-   - It relates to astronomy because Earth is part of the solar system, and events in space can affect our planet.
+9. **How Life Science Works - The Scientific Method**: Life scientists use a step-by-step process to study living things:
+1. Notice something interesting.
+2. Come up with a possible explanation.
+3. Test the explanation through experiments.
+4. If the explanation holds up, it becomes a broader theory.
+5. Some well-established ideas become scientific laws.
 
-In essence, Earth Science combines knowledge from different areas to explain how our planet works and has changed over time. It breaks down complex systems into basic parts to understand the big picture of our planet's past, present, and future.
+10. **Fundamental Principles in Life Science**: Life science has discovered some basic rules about how life works:
+- All living things are made of cells, and all cells come from other cells.
+- Species change over time to better fit their environment.
+- Information in cells flows from DNA to RNA to proteins.
+- Traits are passed from parents to offspring in predictable ways.
+
+These principles help explain how life works at all levels, from the tiniest parts of cells to entire ecosystems.
