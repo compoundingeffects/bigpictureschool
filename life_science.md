@@ -51,4 +51,4 @@ has_children: true
 - Information in cells flows from DNA to RNA to proteins.
 - Traits are passed from parents to offspring in predictable ways.
 
-These principles help explain how life works at all levels, from the tiniest parts of cells to entire ecosystems.
+By breaking down these complex ideas into simpler parts, scientists can better understand how life works at every level, from the tiniest molecules to entire ecosystems.
