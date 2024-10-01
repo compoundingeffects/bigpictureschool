@@ -33,7 +33,7 @@ Interested in sharing your feedback or collaborating with us? We would love to h
     - [Geology](https://bigpictureschool.com/geology.html)
     - [Meteorology](https://bigpictureschool.com/meteorology.html)
     - [Oceanography](https://bigpictureschool.com/oceanography.html)
-    - Climatology
+    - [Climatology](https://bigpictureschool.com/climatology.html)
 - [Life Science](https://bigpictureschool.com/life_science.html)
   - [Biology](https://bigpictureschool.com/biology.html)
     - Molecular Biology
