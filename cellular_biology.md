@@ -1,29 +1,38 @@
 ---
 layout: default
-title: Cell Biology
+title: Cellular Biology
 parent: Biology
-grand_parent: Natural Science
-nav_order: 1
+grand_parent: Life Science
+ancestor: Natural Science
+nav_order: 2
 ---
 
-## Cell Biology
+## Cellular Biology
 
-1. **Everything is made of tiny building blocks**: Cells, like everything else, are made of super small particles called atoms. These atoms join together to make slightly bigger things called molecules. These molecules follow the same rules as everything else in the world, like how energy works and how things attract or repel each other.
+1. **What is cellular biology**? Cellular biology is the study of cells, which are the smallest living things that make up all life. It looks at how cells work, how they interact with each other, and how they make more of themselves. Basically, it's about understanding the tiniest parts of life and how they function.
 
-2. **Living things are made of cells**: The cell is like the smallest package of life. Whether it's a tiny bacteria or a big human, all living things are made up of one or more cells. These cells do all the important jobs that keep things alive.
+2. **What is life**? Life is what makes living things different from non-living things. Living things can grow, make more of themselves, react to their surroundings, keep themselves stable, and change to fit their environment better. At its most basic, life happens because of chemical reactions in cells, following instructions stored in DNA.
 
-3. **Cells follow the same rules as everything else**: Cells aren't magic - they work just like other stuff in the world. They use chemical reactions and follow the laws of physics. The special thing about cells is how they organize these reactions to do complex things like grow and respond to their environment.
+3. **What is a cell**? A cell is the smallest thing that can be alive on its own. There are two main types: simple ones without a center (like bacteria) and complex ones with a center (like the cells in plants and animals). Cells have a protective outer layer, a jelly-like inside, and special parts that do specific jobs. Complex cells also have a control center where the DNA is kept and parts that make energy.
 
-4. **Cells need energy to stay organized**: Things naturally want to get messy over time, but cells stay organized. To do this, they need energy. That's why cells break down food to make a special energy molecule called ATP, which they use to keep everything running smoothly.
+4. **What are cells made of**? Cells are made of very small things called molecules, which are made of even smaller things called atoms. The most important molecules for life are:
+- **Proteins**: These do most of the work in cells.
+- **Lipids**: These make up the cell's outer layer.
+- **Carbohydrates**: These provide energy and structure.
+- **Nucleic Acids**: These store and pass on instructions for how the cell should work.
 
-5. **The shape of things in cells matters**: In cells, how something is shaped determines what it does. For example, proteins fold into specific shapes that let them do their jobs, like breaking down food or moving things around. The way different parts of the cell are arranged also helps the cell do different tasks.
+5. **How do cells get energy**? Cells need energy to do things like move, grow, and make more cells. They get energy in two main ways:
+- By breaking down food (like sugar) with oxygen to make energy.
+- In plant cells, by using sunlight to make food and energy.
 
-6. **Cells have an instruction manual**: Every cell has a set of instructions called DNA or RNA. This is like a recipe book that tells the cell how to make everything it needs. These instructions are the same in all living things and are used to make proteins, which do most of the work in cells.
+6. **How do cells reproduce**? Cells make more of themselves in two ways:
+- Regular division: A cell splits into two identical copies.
+- Special division: This makes cells for reproduction (like eggs and sperm) with half the usual genetic material.
 
-7. **Cells are always changing**: Cells aren't static - they're always doing something. They take in and release materials, fix themselves, divide into new cells, and react to what's happening around them. This constant activity helps them survive, adapt, and evolve.
+7. **How do cells communicate**? Cells talk to each other to work together. They do this by:
+- Having special parts on their surface that can detect messages.
+- When a message is received, it causes changes inside the cell that make the cell do something in response.
 
-8. **Cell walls control what goes in and out**: Cells have a special boundary called a membrane. This membrane is made of fats and controls what can enter or leave the cell. This helps the cell keep its inside environment just right, even if the outside changes.
+8. **How is information stored in cells**? Cells store information in DNA, which is like a set of instructions for building and running a living thing. DNA is made of four building blocks arranged in a specific order. This information is used to make proteins, which do most of the work in cells. The process goes like this: DNA makes RNA, and RNA is used to make proteins.
 
-9. **All parts of a cell work together**: Cells have different parts inside them, like a nucleus (which holds the DNA), mitochondria (which make energy), and ribosomes (which make proteins). All these parts work together to keep the cell alive and functioning, kind of like how different parts of a machine work together.
-
-In simple terms, we can think of cells as tiny, complex machines. They're powered by energy, follow a set of instructions, and obey the same rules as everything else in the universe. The amazing thing about life comes from how all these small parts work together in precise and constantly changing ways inside cells.
+In summary, cellular biology helps us understand how life works at its smallest level. By breaking it down into basic parts like molecules, energy, and information storage, we can see that cells are complex systems that follow chemical and physical rules to sustain life.
