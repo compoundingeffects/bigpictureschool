@@ -26,8 +26,8 @@ nav_order: 2
 - In plant cells, by using sunlight to make food and energy.
 
 6. **How do cells reproduce**? Cells make more of themselves in two ways:
-- Regular division: A cell splits into two identical copies.
-- Special division: This makes cells for reproduction (like eggs and sperm) with half the usual genetic material.
+- **Regular division**: A cell splits into two identical copies.
+- **Special division**: This makes cells for reproduction (like eggs and sperm) with half the usual genetic material.
 
 7. **How do cells communicate**? Cells talk to each other to work together. They do this by:
 - Having special parts on their surface that can detect messages.
