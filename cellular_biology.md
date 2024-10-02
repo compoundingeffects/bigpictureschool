@@ -19,7 +19,7 @@ nav_order: 2
 - **Proteins**: These do most of the work in cells.
 - **Lipids**: These make up the cell's outer layer.
 - **Carbohydrates**: These provide energy and structure.
-- **Nucleic Acids**: These store and pass on instructions for how the cell should work.
+- **Nucleic acids**: These store and pass on instructions for how the cell should work.
 
 5. **How do cells get energy**? Cells need energy to do things like move, grow, and make more cells. They get energy in two main ways:
 - By breaking down food (like sugar) with oxygen to make energy.
