@@ -14,11 +14,11 @@ nav_order: 4
 
 3. **What is Evolution**? Evolution is the process by which living things change over many generations. This happens because some traits help organisms survive and reproduce better in their environment. These helpful traits get passed down to future generations more often.
 
-There are several ways evolution happens:
-- Natural Selection: Organisms with traits that help them survive and reproduce better tend to pass these traits to their offspring.
-- Mutation: Sometimes, random changes happen in an organism's DNA. These changes can create new traits.
-- Genetic Drift: By chance, some traits might become more or less common in a population, especially in small groups.
-- Gene Flow: When different populations mix and breed, they share genetic material, which can change how both populations evolve.
+    There are several ways evolution happens:
+    - **Natural Selection**: Organisms with traits that help them survive and reproduce better tend to pass these traits to their offspring.
+    - **Mutation**: Sometimes, random changes happen in an organism's DNA. These changes can create new traits.
+    - **Genetic Drift**: By chance, some traits might become more or less common in a population, especially in small groups.
+    - **Gene Flow**: When different populations mix and breed, they share genetic material, which can change how both populations evolve.
 
 4. **What is a Species**? A species is a group of living things that can breed with each other and have offspring that can also breed. When groups of the same species get separated and can't breed with each other anymore, they might eventually become different species.
 
@@ -32,10 +32,10 @@ There are several ways evolution happens:
 7. **The Fossil Record and Genetic Evidence**: Fossils are the remains or traces of ancient life. They help us understand how living things have changed over millions of years. Modern genetics also helps us understand evolution by letting us compare the DNA of different species to see how closely related they are.
 
 8. **How Evolutionary Biology Works - The Scientific Method**: Scientists study evolution using a step-by-step process:
-1. They observe differences between organisms.
-2. They come up with ideas to explain these differences.
-3. They test their ideas through experiments or by studying fossils and DNA.
-4. If an idea is supported by lots of evidence, it becomes part of the broader theory of evolution.
-5. Some ideas in evolution are so well-supported that they're considered laws or principles, like the law of natural selection.
+    1. They observe differences between organisms.
+    2. They come up with ideas to explain these differences.
+    3. They test their ideas through experiments or by studying fossils and DNA.
+    4. If an idea is supported by lots of evidence, it becomes part of the broader theory of evolution.
+    5. Some ideas in evolution are so well-supported that they're considered laws or principles, like the law of natural selection.
 
 In conclusion, evolutionary biology helps us understand how the amazing variety of life on Earth came to be. It shows us that life is always changing and adapting, driven by the interplay between genes and the environment. This field of study reveals the fascinating story of life on our planet, showing how all living things are connected through their shared evolutionary history.
