@@ -45,5 +45,3 @@ has_children: true
    - It uses physics to study forces, energy, and how materials behave under different conditions.
    - It connects with biology to understand how living things interact with their environment and change over time.
    - It relates to astronomy because Earth is part of the solar system, and events in space can affect our planet.
-
-In essence, Earth Science combines knowledge from different areas to explain how our planet works and has changed over time. It breaks down complex systems into basic parts to understand the big picture of our planet's past, present, and future.
