@@ -14,9 +14,9 @@ has_children: true
 - Inference rules are like the steps we follow to reach a conclusion based on what we already know.
 
 3. W**hat is mathematics**? Mathematics is all about numbers, shapes, and patterns. It's a key part of formal science because it lets us describe abstract ideas precisely. It includes:
-- Numbers, which represent quantities (like counting apples);
-- Algebra, which is about using symbols and rules to solve problems;
-- Geometry, which studies shapes and their properties; and
+- Numbers, which represent quantities (like counting apples).
+- Algebra, which is about using symbols and rules to solve problems.
+- Geometry, which studies shapes and their properties.
 - Set theory, which looks at collections of objects and how they relate to each other.
 
 4. **What are abstract systems**? An abstract system is like a made-up world with its own objects and rules. Unlike the real world, these systems exist only in our minds or on paper. They often use math or logic to describe how things work within the system.
