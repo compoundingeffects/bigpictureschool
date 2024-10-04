@@ -50,5 +50,3 @@ has_children: true
 - Species change over time through natural selection.
 - Information in cells flows from DNA to RNA to proteins.
 - There are rules for how traits are passed from parents to offspring.
-
-By breaking down these complex ideas and constantly asking "why," life scientists can understand the basic building blocks of life and how they work together to create the amazing diversity of living things we see in the world.
