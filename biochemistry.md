@@ -51,5 +51,3 @@ nav_order: 1
     2. They come up with ideas about how these molecules might work.
     3. They test these ideas with experiments.
     4. If their ideas work out, they use them to form bigger theories about how life works at a molecular level.
-
-In summary, biochemistry helps us understand life by looking at its tiniest parts. By studying how molecules interact, store information, and use energy, we can understand how all living things work, from the smallest bacteria to the largest animals and plants.
