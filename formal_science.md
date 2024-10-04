@@ -24,16 +24,11 @@ has_children: true
 5. **The role of proof**: In formal science, a proof is a way to show that something is true within a system. It uses logic and previously established truths to build an argument. This ensures that conclusions drawn from formal systems are always valid within that system.
 
 6. **Core disciplines of formal science**: Formal science includes several main areas:
-
-- **Mathematics**: This is about studying numbers, structures, and patterns. It includes topics like algebra (studying mathematical structures), analysis (studying change and motion), and topology (studying space and continuous transformations).
-
-- **Logic**: This is about studying valid reasoning. It includes propositional logic (dealing with simple statements), predicate logic (dealing with objects and their relations), and modal logic (exploring different modes of truth like possibility and necessity).
-
-- **Computer Science**: This field, especially theoretical computer science, looks at algorithms, data structures, and theories of computation. It asks questions like "What can be computed?" and "How efficiently can we solve problems?"
-
-- **Statistics**: This area deals with collecting, analyzing, and interpreting data. It helps us understand randomness and uncertainty in a mathematical way.
-
-- **Game Theory**: This field studies situations where people (or players) make decisions that affect each other. It tries to understand the best strategies in competitive or cooperative situations.
+    - **Mathematics**: This is about studying numbers, structures, and patterns. It includes topics like algebra (studying mathematical structures), analysis (studying change and motion), and topology (studying space and continuous transformations).
+    - **Logic**: This is about studying valid reasoning. It includes propositional logic (dealing with simple statements), predicate logic (dealing with objects and their relations), and modal logic (exploring different modes of truth like possibility and necessity).
+    - **Computer Science**: This field, especially theoretical computer science, looks at algorithms, data structures, and theories of computation. It asks questions like "What can be computed?" and "How efficiently can we solve problems?"
+    - **Statistics**: This area deals with collecting, analyzing, and interpreting data. It helps us understand randomness and uncertainty in a mathematical way.
+    - **Game Theory**: This field studies situations where people (or players) make decisions that affect each other. It tries to understand the best strategies in competitive or cooperative situations.
 
 7. **The Scientific Method in Formal Science**: Even though formal science deals with abstract ideas, it still follows a kind of scientific method:
 - First, it starts with some basic truths (axioms) that are accepted without proof.
