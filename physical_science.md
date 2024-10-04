@@ -41,5 +41,3 @@ has_children: true
     - Quantum Mechanics explains how very tiny things like atoms behave.
 
     These laws help us understand everything from how atoms work to how galaxies move.
-
-In conclusion, physical science tries to understand the non-living world by looking at its most basic parts: what things are made of, what makes them move or change, and how they interact.
