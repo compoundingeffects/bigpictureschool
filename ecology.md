@@ -18,7 +18,7 @@ nav_order: 2
 
 5. **Matter Cycling in Ecosystems**: Unlike energy, matter (like carbon, nitrogen, and phosphorus) gets reused in ecosystems. Plants take these elements from soil, water, and air. Animals eat plants or other animals to get these elements. When things die, decomposers break them down, releasing the elements back into the environment for plants to use again.
 
-6.**Populations, Communities, and Ecosystems**: Ecology looks at different levels of organization:
+6. **Populations, Communities, and Ecosystems**: Ecology looks at different levels of organization:
 - An individual is a single organism.
 - A population is a group of the same species living in one area.
 - A community is different populations living and interacting in the same place.
@@ -38,9 +38,9 @@ nav_order: 2
 9. **Ecological Balance and Disturbance**: Ecosystems usually maintain a balance, but this can be upset by disturbances. These can be natural, like storms, or caused by humans, like pollution. After a disturbance, ecosystems slowly recover through a process called succession, where different species gradually repopulate the area.
 
 10. **How Ecology Works - The Scientific Method**: Ecologists use a step-by-step process to study nature:
-1. They observe something interesting in nature.
-2. They come up with a possible explanation.
-3. They test this explanation through experiments or field studies.
-4. If the explanation holds up, it can become part of larger theories about how nature works.
+    1. They observe something interesting in nature.
+    2. They come up with a possible explanation.
+    3. They test this explanation through experiments or field studies.
+    4. If the explanation holds up, it can become part of larger theories about how nature works.
 
 In summary, ecology is about understanding the complex web of relationships in nature. It looks at how living things depend on each other and their environment, how energy and matter move through ecosystems, and how species change over time. By breaking down these big ideas into simpler parts, we can better understand the natural world around us.
