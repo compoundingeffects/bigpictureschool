@@ -37,5 +37,3 @@ nav_order: 4
     3. They test their ideas through experiments or by studying fossils and DNA.
     4. If an idea is supported by lots of evidence, it becomes part of the broader theory of evolution.
     5. Some ideas in evolution are so well-supported that they're considered laws or principles, like the law of natural selection.
-
-In conclusion, evolutionary biology helps us understand how the amazing variety of life on Earth came to be. It shows us that life is always changing and adapting, driven by the interplay between genes and the environment. This field of study reveals the fascinating story of life on our planet, showing how all living things are connected through their shared evolutionary history.
