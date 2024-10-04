@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Political Science
-parent: Social Sciences
+parent: Social Science
 nav_order: 10
 has_children: true
 ---
