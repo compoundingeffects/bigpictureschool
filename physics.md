@@ -34,6 +34,3 @@ has_children: true
    - **Newton's Laws**: These explain how things move when forces act on them.
    - **Conservation Laws**: Some quantities, like energy, always stay the same in a closed system.
    - **Quantum Mechanics**: This explains how really tiny things behave, which is often very weird and different from how big things act.
-  
-Physics is all about breaking things down to their most basic parts and asking "why" a lot. By doing this, we can understand everything from how galaxies move to how the tiniest particles behave.
-
