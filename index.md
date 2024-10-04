@@ -49,7 +49,7 @@ Interested in sharing your feedback or collaborating with us? We would love to h
   - Astrophysics
   - Cosmology
 
-### 2. [Social Sciences](https://bigpictureschool.com/social_sciences.html)
+### 2. [Social Science](https://bigpictureschool.com/social_science.html)
 * Anthropology
 * Archaeology
 * [Business Studies](https://bigpictureschool.com/business_studies.html)
