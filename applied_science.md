@@ -30,7 +30,7 @@ has_children: true
 - **Environmental Science**: Uses knowledge about nature to solve environmental problems.
 - **Agriculture**: Uses biology to grow food better and more sustainably.
 
-5. The relationship between pure and applied science: Pure science asks "Why?" while applied science asks "How can we use this?" For example:
+5. **The relationship between pure and applied science**: Pure science asks "Why?" while applied science asks "How can we use this?" For example:
 - Pure science might study how very tiny particles behave (quantum mechanics).
 - Applied science might use that knowledge to build better computers or medical equipment.
 
