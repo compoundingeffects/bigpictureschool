@@ -23,5 +23,3 @@ nav_order: 3
 7. **Marine Ecosystems**: The ocean is home to all sorts of life, from tiny plants called phytoplankton to enormous whales. These living things are important for moving energy and materials around the globe. Tiny ocean plants make a lot of the oxygen we breathe. When things die in the ocean, they get broken down, and the nutrients get used again.
 
 8. **Geological Oceanography**: The ocean floor is always changing, but very slowly. New seafloor is made in some places and destroyed in others due to the movement of huge pieces of Earth's crust called tectonic plates. This movement can cause underwater volcanoes and earthquakes. The way the ocean floor moves is driven by heat from deep inside the Earth and by gravity.
-
-By breaking down oceanography into these basic parts, scientists can better understand how everything in the ocean works together and how the ocean affects the rest of the planet.
