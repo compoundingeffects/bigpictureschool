@@ -34,5 +34,3 @@ nav_order: 2
 - When a message is received, it causes changes inside the cell that make the cell do something in response.
 
 8. **How is information stored in cells**? Cells store information in DNA, which is like a set of instructions for building and running a living thing. DNA is made of four building blocks arranged in a specific order. This information is used to make proteins, which do most of the work in cells. The process goes like this: DNA makes RNA, and RNA is used to make proteins.
-
-In summary, cellular biology helps us understand how life works at its smallest level. By breaking it down into basic parts like molecules, energy, and information storage, we can see that cells are complex systems that follow chemical and physical rules to sustain life.
