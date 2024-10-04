@@ -18,7 +18,7 @@ nav_order: 2
 
 5. **Matter Cycling in Ecosystems**: Unlike energy, matter (like carbon, nitrogen, and phosphorus) gets reused in ecosystems. Plants take these elements from soil, water, and air. Animals eat plants or other animals to get these elements. When things die, decomposers break them down, releasing the elements back into the environment for plants to use again.
 
-6.** Populations, Communities, and Ecosystems**: Ecology looks at different levels of organization:
+6.**Populations, Communities, and Ecosystems**: Ecology looks at different levels of organization:
 - An individual is a single organism.
 - A population is a group of the same species living in one area.
 - A community is different populations living and interacting in the same place.
