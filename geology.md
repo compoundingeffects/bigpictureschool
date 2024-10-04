@@ -25,5 +25,3 @@ nav_order: 1
 8. **Geologic Hazards**: Geologists study natural dangers like earthquakes, volcanoes, tsunamis, and landslides. These happen because the Earth is always changing and moving. Understanding these helps us prepare for and possibly predict dangerous events.
 
 9. **How Geologists Study Earth**: Geologists use the scientific method to study the Earth. They observe things like rock formations, come up with ideas about how they formed, test these ideas (often using models or comparisons), and if an idea is supported by lots of evidence, it becomes a theory. This is how they figured out plate tectonics - the idea that the Earth's surface is made of moving plates.
-
-In essence, geology is about understanding our planet from the ground up, looking at the basic building blocks and processes that shape the world we live in.
