@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Media Studies
-parent: Social Sciences
+parent: Social Science
 nav_order: 9
 has_children: true
 ---
