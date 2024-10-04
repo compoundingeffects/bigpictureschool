@@ -56,5 +56,3 @@ has_children: true
     - Super tiny things like atoms and the particles inside them.
 
     By understanding how the smallest parts work, scientists can explain how bigger things in nature function. For example, knowing how atoms behave helps explain how living things grow or how engines work.
-
-In summary, natural science is about exploring the basic building blocks of the universe - matter, energy, life, and the forces that control them.
