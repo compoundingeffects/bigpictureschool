@@ -42,5 +42,3 @@ nav_order: 2
     2. They come up with a possible explanation.
     3. They test this explanation through experiments or field studies.
     4. If the explanation holds up, it can become part of larger theories about how nature works.
-
-In summary, ecology is about understanding the complex web of relationships in nature. It looks at how living things depend on each other and their environment, how energy and matter move through ecosystems, and how species change over time. By breaking down these big ideas into simpler parts, we can better understand the natural world around us.
