@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Law
-parent: Social Sciences
+parent: Social Science
 nav_order: 7
 has_children: true
 ---
