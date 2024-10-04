@@ -98,7 +98,7 @@ Interested in sharing your feedback or collaborating with us? We would love to h
   * Metaphysics
 * Visual Arts
 
-### 4. [Formal Sciences](https://bigpictureschool.com/formal_sciences.html)
+### 4. [Formal Science](https://bigpictureschool.com/formal_science.html)
 * [Computer Science](https://bigpictureschool.com/computer_science.html)
 * [Logic](https://bigpictureschool.com/logic.html)
 * [Mathematics](https://bigpictureschool.com/mathematics.html)
