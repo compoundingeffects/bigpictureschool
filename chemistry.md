@@ -42,5 +42,3 @@ has_children: true
     - **Acids**: They can give away tiny particles called hydrogen ions (think lemon juice).
     - **Bases**: They can take these hydrogen ions (think soap).
 The pH scale measures how acidic or basic something is, like a scoreboard for acids and bases.
-
-In summary, chemistry is all about understanding the world around us by looking at its tiniest parts. It explains how things are made, how they change, and why they behave the way they do. By breaking down complex ideas into simpler parts, we can better understand the amazing transformations happening all around us every day!
