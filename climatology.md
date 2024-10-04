@@ -23,5 +23,3 @@ nav_order: 4
 7. **Human-Caused Climate Change**: Human activities are now significantly impacting Earth's climate. By burning fossil fuels like coal and oil, we've increased the amount of heat-trapping gases in the air, leading to global warming. Cutting down forests reduces Earth's ability to absorb these gases. Other human activities also release potent greenhouse gases.
 
 8. **How Climatology Works**: Climatologists use the scientific method to understand climate. They collect data from various sources, come up with theories to explain what they see, create computer models to simulate Earth's climate, and then check their predictions against real-world data. They use basic principles of physics, like how energy and fluids behave, to understand the complex climate system.
-
-In essence, climatology is about understanding how energy moves through Earth's air, oceans, and land over long periods. By breaking it down into these basic ideas, we can better grasp how climate works and why it's changing.
