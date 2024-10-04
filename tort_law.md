@@ -2,7 +2,7 @@
 layout: default
 title: Tort Law
 parent: Law
-grand_parent: Social Sciences
+grand_parent: Social Science
 nav_order: 6
 ---
 
