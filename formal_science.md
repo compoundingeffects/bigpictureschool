@@ -13,7 +13,7 @@ has_children: true
 - Predicate logic is more complex, using variables and words like "all" or "some."
 - Inference rules are like the steps we follow to reach a conclusion based on what we already know.
 
-3. W**hat is mathematics**? Mathematics is all about numbers, shapes, and patterns. It's a key part of formal science because it lets us describe abstract ideas precisely. It includes:
+3. **What is mathematics**? Mathematics is all about numbers, shapes, and patterns. It's a key part of formal science because it lets us describe abstract ideas precisely. It includes:
 - Numbers, which represent quantities (like counting apples).
 - Algebra, which is about using symbols and rules to solve problems.
 - Geometry, which studies shapes and their properties.
