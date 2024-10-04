@@ -23,5 +23,3 @@ nav_order: 2
 7. **Climate vs. Weather**: Weather is what's happening in the atmosphere day to day, while climate is the average weather over a long time. Climate is affected by things like ocean currents, how Earth is tilted, and human activities. Climate change means these long-term patterns are shifting.
 
 8. **How Meteorology Works - The Scientific Method**: Meteorologists use a step-by-step method to study weather. They first collect data using tools like weather stations and satellites. Then they make educated guesses about what the weather will do. They test these guesses by comparing them to what actually happens. Over time, this helps them understand weather better and make more accurate predictions.
-
-At its core, meteorology is about understanding how the air moves and behaves because of energy from the Sun, differences in air pressure, and the amount of moisture in the air. By breaking down these basic ideas, scientists can understand and predict complex weather patterns.
