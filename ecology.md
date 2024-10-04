@@ -25,11 +25,11 @@ nav_order: 2
 - An ecosystem includes all the living things in an area plus their physical environment.
 
 7. **Interactions Between Organisms**: Organisms interact in various ways:
-    - Competition: Fighting over limited resources like food or space.
-    - Predation: One animal hunting and eating another.
-    - Mutualism: Two species helping each other out.
-    - Commensalism: One species benefits while the other isn't affected.
-    - Parasitism: One organism living off another and harming it.
+    - **Competition**: Fighting over limited resources like food or space.
+    - **Predation**: One animal hunting and eating another.
+    - **Mutualism**: Two species helping each other out.
+    - **Commensalism**: One species benefits while the other isn't affected.
+    - **Parasitism**: One organism living off another and harming it.
    
     These interactions shape how ecosystems work and how species change over time.
 
