@@ -48,3 +48,5 @@ has_children: true
     5. If these theories are supported by lots of evidence, they become widely accepted ways of understanding society.
 
     The main goal is to break down big questions about why people behave in certain ways or why societies change into smaller parts that can be studied and tested.
+
+In summary, social science looks at how people act, how groups of people live together, and how all the complex ways we interact with each other create the world we live in.
