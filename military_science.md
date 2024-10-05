@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Military Science
-parent: Applied Sciences
+parent: Applied Science
 nav_order: 10
 has_children: true
 ---
