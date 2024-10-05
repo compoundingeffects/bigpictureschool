@@ -40,7 +40,7 @@ has_children: true
 
 9. **How Earth's systems change over time**: Earth's history is shaped by slow, gradual processes and sudden, dramatic events. Slow processes include erosion (where rock is worn away), sedimentation (where eroded material builds up in layers), and fossilization (where remains of living things are preserved in rock). Sudden events might be meteor impacts or volcanic eruptions. These processes are ongoing and have shaped Earth's land, oceans, and life forms throughout its long history.
 
-10. **How Earth Science connects to other sciences**: Earth Science doesn't stand alone - it connects with many other scientific fields:
+10. **How earth science connects to other sciences**: Earth Science doesn't stand alone - it connects with many other scientific fields:
    - It uses chemistry to understand what rocks, minerals, water, and air are made of.
    - It uses physics to study forces, energy, and how materials behave under different conditions.
    - It connects with biology to understand how living things interact with their environment and change over time.
