@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Logic
-parent: Formal Sciences
+parent: Formal Science
 nav_order: 2
 ---
 
