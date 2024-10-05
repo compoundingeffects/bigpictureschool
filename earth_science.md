@@ -8,7 +8,7 @@ has_children: true
 
 ## Earth Science
 
-1. **Earth Science**: Earth Science is all about studying our planet Earth. It looks at how Earth is built, how it works, and its history. It also explores Earth's place in space. The main goal is to understand our home planet, how it operates, and all the natural systems that make it change over time.
+1. **Earth science**: Earth science is all about studying our planet Earth. It looks at how Earth is built, how it works, and its history. It also explores Earth's place in space. The main goal is to understand our home planet, how it operates, and all the natural systems that make it change over time.
 
 2. **What is Earth**? Earth is a rocky planet in our solar system. It's made up of different layers - rock, metals, gases, and liquids. Earth formed about 4.5 billion years ago from leftover dust and gas around the young Sun. It has three main parts: a rocky outer layer called the crust, a thick middle layer called the mantle that moves slowly, and a central core mostly made of iron and nickel.
 
@@ -26,7 +26,7 @@ has_children: true
     
     These energy sources are what make Earth's systems change and work.
 
-6. **Plate tectonics**: Plate tectonics is a key idea in Earth Science. It says that Earth's outer layer is split into large pieces called plates that float on the softer layer underneath. These plates are always moving because of heat-driven currents in the mantle below. When plates interact at their edges, it can cause earthquakes, volcanoes, and mountain formation. This theory explains many geological events we see on Earth.
+6. **Plate tectonics**: Plate tectonics is a key idea in earth science. It says that Earth's outer layer is split into large pieces called plates that float on the softer layer underneath. These plates are always moving because of heat-driven currents in the mantle below. When plates interact at their edges, it can cause earthquakes, volcanoes, and mountain formation. This theory explains many geological events we see on Earth.
 
 7. **The water cycle**: The water cycle is a crucial process that describes how water moves around on Earth. It's powered by the Sun and involves:
     - **Evaporation**: The Sun heats water, turning it into vapor.
@@ -40,11 +40,11 @@ has_children: true
 
 9. **How Earth's systems change over time**: Earth's history is shaped by slow, gradual processes and sudden, dramatic events. Slow processes include erosion (where rock is worn away), sedimentation (where eroded material builds up in layers), and fossilization (where remains of living things are preserved in rock). Sudden events might be meteor impacts or volcanic eruptions. These processes are ongoing and have shaped Earth's land, oceans, and life forms throughout its long history.
 
-10. **How earth science connects to other sciences**: Earth Science doesn't stand alone - it connects with many other scientific fields:
+10. **How earth science connects to other sciences**: Earth science doesn't stand alone - it connects with many other scientific fields:
    - It uses chemistry to understand what rocks, minerals, water, and air are made of.
    - It uses physics to study forces, energy, and how materials behave under different conditions.
    - It connects with biology to understand how living things interact with their environment and change over time.
    - It relates to astronomy because Earth is part of the solar system, and events in space can affect our planet.
 
-In summary, Earth Science looks at the main parts of our planet (the land, water, air, and living things) and studies how they change and work together to shape the world we see around us.
+In summary, earth science looks at the main parts of our planet (the land, water, air, and living things) and studies how they change and work together to shape the world we see around us.
 
