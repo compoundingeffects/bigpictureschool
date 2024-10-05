@@ -22,11 +22,11 @@ has_children: true
 
 3. **What are the core disciplines in humanities**? The main areas of study in humanities are:
 
-- **History**: History studies past events to understand how they affect the present and future. Historians look at old documents and objects to learn about how people lived in the past. History is about understanding cause and effect - how one event leads to another.
-- **Philosophy**: Philosophy asks big questions about life, knowledge, and ethics. It uses logical thinking to explore ideas like truth and justice. Philosophy starts by asking "Why?" and then builds up ways of thinking that help people deal with moral and life questions.
-- **Literature**: Literature is writing that expresses human thoughts and feelings. It includes stories, poems, plays, and essays. Literature helps us understand other people's experiences and feelings. It's based on our need to tell and hear stories, and to understand others.
-- **Art and aesthetics**: Art is how people express creativity through things like painting, sculpture, music, and theater. Art tries to make people feel emotions or think about new ideas. It often shows what a culture values and can challenge how people think about things.
-- **Linguistics**: Linguistics is the study of language - how it's structured, how it works, and how it changes over time. It looks at how humans use language to communicate, form relationships, and pass on knowledge.
+    - **History**: History studies past events to understand how they affect the present and future. Historians look at old documents and objects to learn about how people lived in the past. History is about understanding cause and effect - how one event leads to another.
+    - **Philosophy**: Philosophy asks big questions about life, knowledge, and ethics. It uses logical thinking to explore ideas like truth and justice. Philosophy starts by asking "Why?" and then builds up ways of thinking that help people deal with moral and life questions.
+    - **Literature**: Literature is writing that expresses human thoughts and feelings. It includes stories, poems, plays, and essays. Literature helps us understand other people's experiences and feelings. It's based on our need to tell and hear stories, and to understand others.
+    - **Art and aesthetics**: Art is how people express creativity through things like painting, sculpture, music, and theater. Art tries to make people feel emotions or think about new ideas. It often shows what a culture values and can challenge how people think about things.
+    - **Linguistics**: Linguistics is the study of language - how it's structured, how it works, and how it changes over time. It looks at how humans use language to communicate, form relationships, and pass on knowledge.
 
 4. **Why study the humanities**? Studying humanities is important because it helps us:
 - Understand ourselves better
