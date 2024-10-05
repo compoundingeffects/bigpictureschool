@@ -15,8 +15,8 @@ has_children: true
     - Thinking about the results and improving their ideas (analysis and refinement)
 
     There are two main types of science:
-    - Pure science: This is about learning new things just to understand them better.
-    - Applied science: This is about using what we've learned to solve problems or make useful things.
+    - **Pure science**: This is about learning new things just to understand them better.
+    - **Applied science**: This is about using what we've learned to solve problems or make useful things.
 
 3. **What is application**? In science, application means using scientific knowledge to solve a specific problem or meet a particular need. The steps for this are:
 - Figure out what problem needs solving
