@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Computer Science
-parent: Formal Sciences
+parent: Formal Science
 nav_order: 1
 ---
 
