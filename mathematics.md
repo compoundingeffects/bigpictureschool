@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Mathematics
-parent: Formal Sciences
+parent: Formal Science
 nav_order: 3
 ---
 
