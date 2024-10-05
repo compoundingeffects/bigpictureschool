@@ -2,7 +2,7 @@
 layout: default
 title: Medicine
 parent: Health Sciences
-grand_parent: Applied Sciences
+grand_parent: Applied Science
 nav_order: 4
 ---
 
