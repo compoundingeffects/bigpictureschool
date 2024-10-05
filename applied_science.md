@@ -24,7 +24,7 @@ has_children: true
 - Come up with a solution using those ideas
 - Test the solution and make it better
 
-4. **Fields of applied science**: Applied science is used in many different areas:
+4. **Fields of applied science**: Applied science is used in many different areas, including:
 - **Engineering**: Uses math and physics to design and build things like bridges and machines.
 - **Medicine**: Uses biology and chemistry to understand diseases and find ways to treat them.
 - **Environmental Science**: Uses knowledge about nature to solve environmental problems.
