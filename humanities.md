@@ -45,6 +45,4 @@ Humans are unique because we:
     - Human creativity and beauty
     Humanities influence how people think about laws, education, and justice. They encourage people to think about themselves, come up with new ideas, and talk to people from different cultures.
 
-In conclusion, the humanities break down what it means to be human into basic parts like language, creativity, moral reasoning, and historical context. By studying these, we can better understand ourselves, relate to others, and think about important questions in life.
-
 In summary, the humanities, at their core, explore what it means to be human.
