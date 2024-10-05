@@ -29,3 +29,5 @@ has_children: true
     2. Forming hypotheses using insights from different fields.
     3. Testing these hypotheses with methods from various disciplines.
     4. Developing theories that bring together knowledge from different areas.
+
+In summary, interdisciplinary fields are created to tackle real-world complexity. They combine insights and methods from multiple disciplines to offer more complete solutions to problems that one field alone can't solve.
