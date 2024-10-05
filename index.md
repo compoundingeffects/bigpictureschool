@@ -105,7 +105,7 @@ Interested in sharing your feedback or collaborating with us? We would love to h
 * [Statistics](https://bigpictureschool.com/statistics.html)
 * [Systems Science](https://bigpictureschool.com/systems_science.html)
 
-### 5. [Applied Sciences](https://bigpictureschool.com/applied_sciences.html)
+### 5. [Applied Sciences](https://bigpictureschool.com/applied_science.html)
 * Applied Physics
   * Nanotechnology
   * Nuclear Technology
