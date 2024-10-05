@@ -35,4 +35,4 @@ has_children: true
 - Then, it uses these axioms to define rules and relationships.
 - Finally, it uses rigorous logical reasoning to prove new facts (theorems) based on these rules and axioms.
 
-In summary, formal science looks at made-up systems instead of the real world, studying the basic rules and connections that make up logic and math.
+In summary, formal science steps away from the real world to look at the basic rules and connections that make up logical and mathematical systems.
