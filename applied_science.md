@@ -50,3 +50,5 @@ has_children: true
 - Test the idea by building prototypes or running simulations.
 - Put the solution to use in the real world.
 - Keep improving the solution based on how well it works.
+
+In summary, applied science starts with understanding basic scientific ideas and then uses them to solve real-world problems.
