@@ -51,3 +51,5 @@ nav_order: 1
     2. They come up with ideas about how these molecules might work.
     3. They test these ideas with experiments.
     4. If their ideas work out, they use them to form bigger theories about how life works at a molecular level.
+
+In summary, biochemistry looks at how tiny parts in living things work together to keep living things alive.
