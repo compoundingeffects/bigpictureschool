@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Statistics
-parent: Formal Sciences
+parent: Formal Science
 nav_order: 4
 ---
 
