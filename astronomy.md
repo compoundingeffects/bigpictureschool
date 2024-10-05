@@ -23,3 +23,5 @@ nav_order: 3
 7. **Building blocks of the universe**: The universe is made up of three main things: ordinary matter (the stuff we can see and touch), dark matter (a mysterious substance we can't see but can detect through its gravity), and dark energy (a weird form of energy making the universe expand faster).
 
 8. **Studying astronomy**: Astronomers use different tools to learn about space. Telescopes collect light from far away to help us see distant objects. They also use a technique called spectroscopy to figure out what space objects are made of by studying their light. Sometimes, we send spacecraft and probes into space to get a closer look at planets and other objects.
+
+In summary, astronomy is basically about figuring out how the main forces in nature, especially gravity, make everything in space work the way it does.
