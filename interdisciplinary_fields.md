@@ -19,8 +19,8 @@ has_children: true
 
 5. **Examples of interdisciplinary fields**:
 - **Biophysics**: Combines biology and physics to understand how physical laws apply to living things.
-- **Environmental Science**: Mixes ecology, chemistry, geology, and political science to study how ecosystems work and how humans impact them.
-- **AI Ethics**: Blends computer science, philosophy, and law to address ethical issues in artificial intelligence.
+- **Environmental science**: Mixes ecology, chemistry, geology, and political science to study how ecosystems work and how humans impact them.
+- **AI ethics**: Blends computer science, philosophy, and law to address ethical issues in artificial intelligence.
 
 6. **How interdisciplinary fields emerge**: They often start when people realize that one field alone can't solve a complex problem. Researchers then look for connections between different subjects and create new methods that combine approaches from multiple fields.
 
