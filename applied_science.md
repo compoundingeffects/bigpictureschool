@@ -45,8 +45,8 @@ has_children: true
 - Learning about diseases (pure science) helped create vaccines (applied science and technology).
 
 8. **Scientific method in applied science**: Applied science follows a process similar to regular science, but focuses on solving practical problems:
-- Notice a problem that needs solving
-- Suggest how science might solve it
-- Test the idea by building prototypes or running simulations
-- Put the solution to use in the real world
-- Keep improving the solution based on how well it works
+- Notice a problem that needs solving.
+- Suggest how science might solve it.
+- Test the idea by building prototypes or running simulations.
+- Put the solution to use in the real world.
+- Keep improving the solution based on how well it works.
