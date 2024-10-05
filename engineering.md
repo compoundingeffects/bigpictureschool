@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Engineering
-parent: Applied Sciences
+parent: Applied Science
 nav_order: 5
 has_children: true
 ---
