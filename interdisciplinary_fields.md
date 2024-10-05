@@ -13,9 +13,9 @@ has_children: true
 3. **Why combine disciplines**? We combine disciplines because some problems are too complex for just one field to solve. For instance, understanding human health involves biology (how the body works), psychology (mental health), sociology (how society affects us), and economics (healthcare systems).
 
 4. **Fundamental components of an interdisciplinary field**: There are three main parts:
-    a) **Multiple disciplines**: At least two different areas of study.
-    b) **Integration**: Combining theories and methods from these disciplines.
-    c) **Common goal**: A shared question or problem to solve.
+    1. **Multiple disciplines**: At least two different areas of study.
+    2. **Integration**: Combining theories and methods from these disciplines.
+    3. **Common goal**: A shared question or problem to solve.
 
 5. **Examples of interdisciplinary fields**:
 - **Biophysics**: Combines biology and physics to understand how physical laws apply to living things.
@@ -25,7 +25,7 @@ has_children: true
 6. **How interdisciplinary fields emerge**: They often start when people realize that one field alone can't solve a complex problem. Researchers then look for connections between different subjects and create new methods that combine approaches from multiple fields.
 
 7. **The scientific method in interdisciplinary research**: Interdisciplinary research follows the basic steps of the scientific method, but adapts them to include diverse tools and perspectives. This involves:
-    a) Observing complex problems that span multiple disciplines.
-    b) Forming hypotheses using insights from different fields.
-    c) Testing these hypotheses with methods from various disciplines.
-    d) Developing theories that bring together knowledge from different areas.
+    1. Observing complex problems that span multiple disciplines.
+    2. Forming hypotheses using insights from different fields.
+    3. Testing these hypotheses with methods from various disciplines.
+    4. Developing theories that bring together knowledge from different areas.
