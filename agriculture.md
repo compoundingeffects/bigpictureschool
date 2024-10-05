@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Agriculture
-parent: Applied Sciences
+parent: Applied Science
 nav_order: 4
 ---
 
