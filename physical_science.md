@@ -42,4 +42,4 @@ has_children: true
 
     These laws help us understand everything from how atoms work to how galaxies move.
 
-In summary, physical science helps us understand the non-living world around us. By studying matter, energy, and the forces that govern them, scientists uncover the basic rules of our universe. This knowledge explains everything from the tiniest particles to the largest celestial bodies.
+In summary, physical science looks at how the non-living world works by studying its basic parts: what things are made of, what makes them change, what pushes or pulls on them, and where and when things happen.
