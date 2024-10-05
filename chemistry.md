@@ -42,3 +42,5 @@ has_children: true
     - **Acids**: They can give away tiny particles called hydrogen ions (think lemon juice).
     - **Bases**: They can take these hydrogen ions (think soap).
 The pH scale measures how acidic or basic something is, like a scoreboard for acids and bases.
+
+In summary, chemistry is all about studying stuff and how it mixes, changes, and turns into new stuff.
