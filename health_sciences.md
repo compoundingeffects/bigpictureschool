@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Health Sciences
-parent: Applied Sciences
+parent: Applied Science
 nav_order: 9
 has_children: true
 ---
