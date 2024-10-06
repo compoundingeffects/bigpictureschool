@@ -45,4 +45,4 @@ has_children: true
     - Human creativity and beauty
     Humanities influence how people think about laws, education, and justice. They encourage people to think about themselves, come up with new ideas, and talk to people from different cultures.
 
-In summary, the humanities, at their core, explore what it means to be human.
+In summary, the humanities study what makes us human.
