@@ -67,3 +67,5 @@ has_children: true
     - Energy flows from plants (which make food using sunlight) to animals and decomposers.
     - Important substances like carbon, nitrogen, and water cycle through the system.
     - Living things often form relationships with each other, which can be beneficial, neutral, or harmful.
+
+In summary, biology is about studying life, from the tiniest parts of living things (cells) to how different living things interact with each other and their surroundings.
