@@ -9,18 +9,18 @@ has_children: true
 
 ## Biology
 
-1. **What is Biology**? Biology is the study of living things. It tries to understand what makes something alive, how living things work, and how they interact with each other and their surroundings.
+1. **What is biology**? Biology is the study of living things. It tries to understand what makes something alive, how living things work, and how they interact with each other and their surroundings.
 
-2. **What is Life**? Life is what separates living things from non-living things. Some key features of life include:
+2. **What is life**? Life is what separates living things from non-living things. Some key features of life include:
 - **Organization**: Living things have complex structures, from tiny parts to whole bodies.
 - **Metabolism**: Living things can take in energy, change it, and use it to stay alive.
 - **Homeostasis**: Living things can keep their insides stable, like maintaining body temperature.
-- **Growth and Development**: Living things get bigger and change over time.
+- **Growth and development**: Living things get bigger and change over time.
 - **Reproduction**: Living things can make more of themselves.
-- **Response to Stimuli**: Living things can sense and react to changes around them.
+- **Response to stimuli**: Living things can sense and react to changes around them.
 - **Evolution**: Groups of living things can change over long periods of time.
 
-3. **What is a Cell**? A cell is the smallest unit of life. All living things are made of one or more cells. There are two main types:
+3. **What is a cell**? A cell is the smallest unit of life. All living things are made of one or more cells. There are two main types:
     - **Simple cells (prokaryotic)**: These don't have a central compartment for DNA.
     - **Complex cells (eukaryotic)**: These have a central compartment for DNA and other specialized parts.
 
@@ -35,7 +35,7 @@ has_children: true
 - Can be copied and passed down when living things reproduce
 - Can change over time, which leads to evolution
 
-5. **What is Evolution**? Evolution is how groups of living things change over time. This happens because:
+5. **What is evolution**? Evolution is how groups of living things change over time. This happens because:
     - Individuals in a group are slightly different from each other.
     - Some individuals are better suited to their environment and are more likely to survive and have offspring.
     - Random changes in DNA can create new traits.
@@ -44,26 +44,26 @@ has_children: true
     
     Evolution explains why there are so many different types of living things and how they become suited to their environments.
 
-6. **What is Metabolism**? Metabolism is all the chemical reactions that happen inside living things to keep them alive. There are two main types:
+6. **What is metabolism**? Metabolism is all the chemical reactions that happen inside living things to keep them alive. There are two main types:
     - Breaking down substances to release energy
     - Building up substances using energy
 
     Living things get energy from different sources, like sunlight or food. They use a special energy-carrying molecule called ATP to power many of their functions.
 
-7. **What is Homeostasis**? Homeostasis is how living things keep their insides stable. This includes:
+7. **What is homeostasis**? Homeostasis is how living things keep their insides stable. This includes:
     - Keeping the right temperature
     - Maintaining the right balance of acidity
     - Controlling the amount of water and important minerals
 
     Homeostasis is crucial for survival. It involves systems in the body that constantly check and adjust internal conditions.
 
-8. **Reproduction and Genetics**: Reproduction is how living things make more of themselves. There are two main types:
+8. **Reproduction and genetics**: Reproduction is how living things make more of themselves. There are two main types:
     - **Asexual reproduction**: One parent makes an identical copy of itself.
     - **Sexual reproduction**: Two parents combine their genetic material to make offspring with a mix of traits.
     
     Genes are sections of DNA that carry instructions for specific traits. These traits are passed from parents to offspring.
 
-9. **Ecosystems and Ecology**: An ecosystem includes all the living things in an area and the non-living parts of their environment. In ecosystems:
+9. **Ecosystems and ecology**: An ecosystem includes all the living things in an area and the non-living parts of their environment. In ecosystems:
     - Energy flows from plants (which make food using sunlight) to animals and decomposers.
     - Important substances like carbon, nitrogen, and water cycle through the system.
     - Living things often form relationships with each other, which can be beneficial, neutral, or harmful.
