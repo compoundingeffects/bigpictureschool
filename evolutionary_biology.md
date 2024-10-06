@@ -37,3 +37,5 @@ nav_order: 4
     3. They test their ideas through experiments or by studying fossils and DNA.
     4. If an idea is supported by lots of evidence, it becomes part of the broader theory of evolution.
     5. Some ideas in evolution are so well-supported that they're considered laws or principles, like the law of natural selection.
+  
+In summary, evolutionary biology studies how living things change over time because of differences in their genes and the challenges they face in their surroundings.
