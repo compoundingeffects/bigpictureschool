@@ -26,7 +26,7 @@ Interested in sharing your feedback or collaborating with us? We would love to h
     - Modern Physics
   - [Chemistry](https://bigpictureschool.com/chemistry.html)
     - [Biochemistry](https://bigpictureschool.com/biochemistry.html)
-    - Inorganic Chemistry
+    - [Inorganic Chemistry](https://bigpictureschool.com/inorganic_chemistry.html)
     - [Organic Chemistry](https://bigpictureschool.com/organic_chemistry.html)
   - [Astronomy](https://bigpictureschool.com/astronomy.html)
 - [Earth Science](https://bigpictureschool.com/earth_science.html)
