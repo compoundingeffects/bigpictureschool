@@ -32,9 +32,9 @@ nav_order: 3
 5. **The periodic table - a map of elements**: The periodic table organizes all the elements. It puts them in order based on their structure and groups them by how they behave. Elements in the same column often act alike because their electrons are arranged similarly.
 
 6. **Reactivity**: Some elements or compounds react easily with others. This is called reactivity. It happens because atoms want to have a stable arrangement of electrons.
-- Metals often like to lose electrons
-- Non-metals often like to gain or share electrons
-- Transition metals (in the middle of the periodic table) can do both, making them very versatile
+- Metals often like to lose electrons.
+- Non-metals often like to gain or share electrons.
+- Transition metals (in the middle of the periodic table) can do both, making them very versatile.
 
 7. **Acids, bases, and salts**:
 
