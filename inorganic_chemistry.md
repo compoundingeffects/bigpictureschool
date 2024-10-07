@@ -38,9 +38,9 @@ nav_order: 3
 
 7. **Acids, bases, and salts**:
 
-- **Acids**: Substances that can give away hydrogen ions in water (like lemon juice)
-- **Bases**: Substances that can take hydrogen ions or give away hydroxide ions in water (like soap)
-- **Salts**: What you get when an acid and a base react (like table salt)
+    - **Acids**: Substances that can give away hydrogen ions in water (like lemon juice)
+    - **Bases**: Substances that can take hydrogen ions or give away hydroxide ions in water (like soap)
+    - **Salts**: What you get when an acid and a base react (like table salt)
 
 8. **Coordination compounds**: Some compounds have a metal atom in the middle, surrounded by other molecules or ions. These are called coordination compounds. They're important in many areas, like in our blood cells or in making new materials.
 
