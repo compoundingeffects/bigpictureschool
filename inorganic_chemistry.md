@@ -28,9 +28,9 @@ nav_order: 1
 6. **Reactivity**: Reactivity is how likely an element or compound is to undergo chemical reactions. It's driven by atoms wanting to achieve a stable electron arrangement. Metals tend to lose electrons, non-metals tend to gain or share electrons, and transition metals (in the middle of the periodic table) can do both, making them very versatile in chemical reactions.
 
 7. **Acids, bases, and salts**:
-   - Acids are substances that give away hydrogen ions (H⁺) in water. For example, hydrochloric acid (HCl) splits into H⁺ and Cl⁻ in water.
-   - Bases are substances that accept hydrogen ions or give away hydroxide ions (OH⁻) in water. Sodium hydroxide (NaOH) splits into Na⁺ and OH⁻ in water.
-   - Salts form when acids and bases react. They're made of positively and negatively charged ions, like table salt (NaCl).
+   - **Acids** are substances that give away hydrogen ions (H⁺) in water. For example, hydrochloric acid (HCl) splits into H⁺ and Cl⁻ in water.
+   - **Bases** are substances that accept hydrogen ions or give away hydroxide ions (OH⁻) in water. Sodium hydroxide (NaOH) splits into Na⁺ and OH⁻ in water.
+   - **Salts** form when acids and bases react. They're made of positively and negatively charged ions, like table salt (NaCl).
 
 8. **Coordination compounds**: These are special compounds where a metal atom or ion is surrounded by molecules or ions called ligands. The metal acts like a magnet for electrons, and the ligands provide the electrons. These compounds can have different shapes, which affect how they behave chemically. They're important in many areas, including biology (like in blood) and industry.
 
