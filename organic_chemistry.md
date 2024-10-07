@@ -45,4 +45,4 @@ This is why carbon can make so many different things, from simple stuff like the
 - New materials like plastics and fabrics.
 - Special new materials that can do cool things, like plastics that break down in nature or materials that can conduct electricity.
 
-In the end, organic chemistry helps us understand the world around us, from the tiniest parts of our cells to the plastic in our phones. It shows us how simple rules about how atoms stick together can create all the complex stuff we see in nature and in the things we make.
+In summary, organic chemistry helps us understand the world around us, from the tiniest parts of our cells to the plastic in our phones. It shows us how simple rules about how atoms stick together can create all the complex stuff we see in nature and in the things we make.
