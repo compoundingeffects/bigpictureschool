@@ -1,55 +1,39 @@
 ---
 layout: default
-title: Biochemistry
+title: Inorganic Chemistry
 parent: Chemistry
 grand_parent: Physical Science
 ancestor: Natural Science
 nav_order: 1
 ---
 
-## Biochemistry
+## Inorganic Chemistry
 
-1. **Biochemistry**: Biochemistry is about studying life at the tiny level of molecules. It looks at how the building blocks of life work together, how cells do their jobs, and how chemical processes let living things grow, make babies, and react to their surroundings.
+1. **Inorganic chemistry**: Inorganic chemistry studies compounds that usually don't have carbon-hydrogen bonds. It covers metals, salts, minerals, and other compounds. Unlike organic chemistry, which focuses on carbon-based compounds often found in living things, inorganic chemistry looks at a wider range of elements from the entire periodic table.
 
-2. **What makes something "alive"**: Living things have a few key features:
-   - They're organized, starting with cells as the basic unit.
-   - They use energy from food to power their activities.
-   - They grow bigger and can make more of themselves.
-   - They keep their insides stable even when things change outside.
+2. **Elements**: Elements are the simplest substances in chemistry, made of just one type of atom. They're organized in the periodic table. An atom has a center part called the nucleus, which contains positively charged protons and neutral neutrons. Negatively charged electrons orbit around this nucleus. How these electrons are arranged determines how the element behaves chemically.
 
-3. **Cells - the building blocks of life**: Cells are the smallest things we can call "alive." They're made of even smaller parts that each do different jobs. There are simple cells (like in bacteria) and more complex cells (like in plants and animals). All cells have a skin-like covering that controls what goes in and out.
+3. **Inorganic compounds**: Inorganic compounds form when elements join together. There are different types:
+   - **Ionic compounds**: These form when metals give electrons to non-metals, creating oppositely charged particles that attract each other. Table salt (NaCl) is an example.
+   - **Covalent compounds**: These form when atoms share electrons. Silicon dioxide (SiO₂) is an example.
+   - **Coordination compounds**: These involve metal atoms bonded to groups of molecules or ions called ligands. They're important in many biological and industrial processes.
 
-4. T**he ingredients of life**: Living things are made of four main types of molecules:
-   - **Proteins**: These do lots of jobs, like speeding up chemical reactions, giving shape to cells, and helping cells talk to each other.
-   - **DNA and RNA**: These store and pass on the instructions for making living things.
-   - **Fats**: These make up cell walls and store energy.
-   - **Carbohydrates**: These provide energy and help give structure to cells.
+4. **Chemical bonds**: Chemical bonds are what hold atoms together in compounds. They form because atoms try to become more stable by filling their outer electron shells. There are three main types:
+   - **Ionic bonds**: One atom gives electrons to another, creating oppositely charged ions that attract each other.
+   - **Covalent bonds**: Atoms share electrons.
+   - **Metallic bonds**: In metals, electrons move freely among positively charged metal ions, which is why metals conduct electricity and can be shaped easily.
 
-5. **What proteins are made of**: Proteins are like long chains made of smaller pieces called amino acids. Each amino acid has three parts: a part with nitrogen, a part with carbon and oxygen, and a unique part that gives it special properties. How these amino acids are arranged determines what shape the protein takes and what job it does.
+5. **The periodic table**: The periodic table is a crucial tool in inorganic chemistry. It organizes elements based on their atomic number (number of protons) and groups them by similar properties. Elements in the same vertical column (group) behave similarly because they have similar outer electron arrangements. For example, all elements in the first column (like sodium and potassium) react easily with other elements because they each have one electron in their outer shell that they can easily give away.
 
-6. **What DNA is**: DNA is like a long instruction manual for building and running living things. It's made of smaller units called nucleotides. Each nucleotide has three parts: a sugar, a phosphate group, and one of four special molecules (A, T, C, or G). The order of these A, T, C, and G molecules spells out the instructions for making proteins.
+6. **Reactivity**: Reactivity is how likely an element or compound is to undergo chemical reactions. It's driven by atoms wanting to achieve a stable electron arrangement. Metals tend to lose electrons, non-metals tend to gain or share electrons, and transition metals (in the middle of the periodic table) can do both, making them very versatile in chemical reactions.
 
-7. **How DNA instructions become proteins**: The process of turning DNA instructions into proteins happens in two steps:
-   1. The DNA instructions are copied into a similar molecule called RNA.
-   2. Special cell parts called ribosomes read the RNA and use it as a guide to build proteins.
+7. **Acids, bases, and salts**:
+   - Acids are substances that give away hydrogen ions (H⁺) in water. For example, hydrochloric acid (HCl) splits into H⁺ and Cl⁻ in water.
+   - Bases are substances that accept hydrogen ions or give away hydroxide ions (OH⁻) in water. Sodium hydroxide (NaOH) splits into Na⁺ and OH⁻ in water.
+   - Salts form when acids and bases react. They're made of positively and negatively charged ions, like table salt (NaCl).
 
-8. **How living things use energy**: All the chemical reactions that happen in living things to keep them alive are called metabolism. This includes breaking down food to get energy and using that energy to build new parts of the body.
+8. **Coordination compounds**: These are special compounds where a metal atom or ion is surrounded by molecules or ions called ligands. The metal acts like a magnet for electrons, and the ligands provide the electrons. These compounds can have different shapes, which affect how they behave chemically. They're important in many areas, including biology (like in blood) and industry.
 
-9. **How cells make energy**: Cells break down food molecules like sugar to make energy. This happens in a few steps:
-    1. First, sugar is broken down into smaller pieces, releasing a bit of energy.
-    2. These pieces are broken down further, releasing more energy.
-    3. Finally, the leftover parts are used to make lots of energy in a process that uses oxygen.
-    
-    The energy is stored in a molecule called ATP, which cells use like a battery to power their activities.
+9. **Transition metals**: Transition metals are found in the middle of the periodic table. They're special because they can form different types of ions by losing different numbers of electrons. This makes them useful in many chemical processes, like in catalytic converters in cars (which use platinum) or in the formation of rust (which involves iron).
 
-10. **Enzymes - nature's helpers**: Enzymes are special proteins that help chemical reactions happen faster. They work by grabbing onto the molecules involved in a reaction and helping them change more easily.
-
-11. **Keeping balance in the body**: Living things need to keep their insides stable even when things change outside. They do this through various processes, like using hormones to control blood sugar or using special chemicals to keep the right level of acidity in the body.
-
-12. **How scientists study biochemistry**: Scientists study biochemistry using a step-by-step process:
-    1. They observe how molecules behave in living things.
-    2. They come up with ideas about how these molecules might work.
-    3. They test these ideas with experiments.
-    4. If their ideas work out, they use them to form bigger theories about how life works at a molecular level.
-
-In summary, biochemistry looks at how tiny parts in living things work together to keep living things alive.
+In summary, inorganic chemistry helps us understand how elements and compounds that aren't based on carbon behave and interact. It explains a lot about the non-living world around us, from the metals in our electronics to the minerals in rocks.
