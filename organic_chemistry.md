@@ -18,7 +18,7 @@ nav_order: 2
     - It can make long chains or rings by sticking to other carbon atoms.
     - It sticks well to many other kinds of atoms, especially hydrogen, oxygen, and nitrogen.
 
-This is why carbon can make so many different things, from simple stuff like the gas in a stove to complex stuff like the DNA in our bodies.
+    This is why carbon can make so many different things, from simple stuff like the gas in a stove to complex stuff like the DNA in our bodies.
 
 4. **Basic types of carbon compounds**: Carbon compounds come in different types:
 - Some are made just of carbon and hydrogen. These are called hydrocarbons.
