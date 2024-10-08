@@ -48,6 +48,7 @@ Interested in sharing your feedback or collaborating with us? We would love to h
 - Space Science
   - Astrophysics
   - Cosmology
+  - Planetary Science
 
 ### 2. [Social Science](https://bigpictureschool.com/social_science.html)
 * Anthropology
