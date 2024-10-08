@@ -8,7 +8,7 @@ has_children: true
 
 ## Space Science
 
-1. **What is space science**? Space science is the study of everything beyond Earth's atmosphere. This includes studying stars, planets, galaxies, and how the universe works as a whole. It combines different fields like astronomy (studying space objects), astrophysics (applying physics to space), planetary science (studying planets), and cosmology (studying the origin and evolution of the universe).
+1. **What is space science**? Space science is the study of everything beyond Earth's atmosphere. This includes studying stars, planets, galaxies, and how the universe works as a whole. It covers different fields like astronomy (studying space objects), astrophysics (applying physics to space), planetary science (studying planets), and cosmology (studying the origin and evolution of the universe).
 
 2. **What is space**? Space is the vast, mostly empty area beyond Earth's atmosphere. It's often called a vacuum because it has very few particles compared to the air on Earth. However, space isn't completely empty. It contains tiny bits of dust, different types of radiation, and something scientists call dark matter, which we can't see but know is there because of its effects on other objects.
 
