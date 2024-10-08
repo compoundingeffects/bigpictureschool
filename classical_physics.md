@@ -1,55 +1,49 @@
 ---
 layout: default
-title: Biochemistry
-parent: Chemistry
+title: Classical Physics
+parent: Physics
 grand_parent: Physical Science
 ancestor: Natural Science
 nav_order: 1
 ---
 
-## Biochemistry
+## Classical Physics
 
-1. **Biochemistry**: Biochemistry is about studying life at the tiny level of molecules. It looks at how the building blocks of life work together, how cells do their jobs, and how chemical processes let living things grow, make babies, and react to their surroundings.
+1. **Classical physics**: Classical physics deals with things we can see and experience in everyday life. It covers how objects move, how heat works, electricity and magnetism, and how light behaves. This branch of physics was developed before we understood very small things (quantum mechanics) or very fast things (relativity). It assumes that time and space are fixed and unchanging, and that we can predict exactly how things will behave if we know all the forces acting on them.
 
-2. **What makes something "alive"**: Living things have a few key features:
-   - They're organized, starting with cells as the basic unit.
-   - They use energy from food to power their activities.
-   - They grow bigger and can make more of themselves.
-   - They keep their insides stable even when things change outside.
+2. **Classical mechanics**: This is the study of how objects move and why. It's based on three important rules called Newton's Laws:
+    a) **First Law**: Objects don't change their motion unless something pushes or pulls them. This is why things stay still or keep moving in a straight line unless a force acts on them.
+    b) **Second Law**: The more force you apply to an object, the more it speeds up. Heavier objects need more force to speed up than lighter ones.
+    c) **Third Law**: When you push on something, it pushes back on you just as hard. This is why when you jump, you push down on the ground, and the ground pushes you up.
 
-3. **Cells - the building blocks of life**: Cells are the smallest things we can call "alive." They're made of even smaller parts that each do different jobs. There are simple cells (like in bacteria) and more complex cells (like in plants and animals). All cells have a skin-like covering that controls what goes in and out.
+4. **Energy in classical mechanics**: Energy comes in different forms:
+    a) **Kinetic energy**: The energy an object has because it's moving.
+    b) **Potential energy**: Stored energy, like when you lift something up - it has the potential to fall.
+    c) **Mechanical energy**: The total of kinetic and potential energy.
 
-4. T**he ingredients of life**: Living things are made of four main types of molecules:
-   - **Proteins**: These do lots of jobs, like speeding up chemical reactions, giving shape to cells, and helping cells talk to each other.
-   - **DNA and RNA**: These store and pass on the instructions for making living things.
-   - **Fats**: These make up cell walls and store energy.
-   - **Carbohydrates**: These provide energy and help give structure to cells.
+    A key idea is that energy can't be created or destroyed, only changed from one form to another.
 
-5. **What proteins are made of**: Proteins are like long chains made of smaller pieces called amino acids. Each amino acid has three parts: a part with nitrogen, a part with carbon and oxygen, and a unique part that gives it special properties. How these amino acids are arranged determines what shape the protein takes and what job it does.
+5. **Thermodynamics**: This is the study of heat and energy. It has three main rules:
+    a) **First Law**: Energy can't be created or destroyed, only changed from one form to another.
+    b) **Second Law**: In any process, some energy always becomes unusable, often as heat. Things naturally tend to become more disorganized over time.
+    c) **Third Law**: As things get extremely cold, they become more organized.
 
-6. **What DNA is**: DNA is like a long instruction manual for building and running living things. It's made of smaller units called nucleotides. Each nucleotide has three parts: a sugar, a phosphate group, and one of four special molecules (A, T, C, or G). The order of these A, T, C, and G molecules spells out the instructions for making proteins.
+6. **Electromagnetism**: This studies electricity and magnetism, which are actually two sides of the same coin. Key ideas include:
+    a) Electric charges create electric fields around them.
+    b) Moving electric charges create magnetic fields.
+    c) Changing magnetic fields can create electric currents.
+    d) Light is a wave made of electric and magnetic fields.
 
-7. **How DNA instructions become proteins**: The process of turning DNA instructions into proteins happens in two steps:
-   1. The DNA instructions are copied into a similar molecule called RNA.
-   2. Special cell parts called ribosomes read the RNA and use it as a guide to build proteins.
+7. **Classical optics**: This is the study of light, treating it as a wave. It explains:
+    a) Reflection: Light bouncing off surfaces.
+    b) Refraction: Light bending when it passes from one material to another, like air to water.
+    c) Diffraction: Light spreading out when it passes through small openings.
 
-8. **How living things use energy**: All the chemical reactions that happen in living things to keep them alive are called metabolism. This includes breaking down food to get energy and using that energy to build new parts of the body.
+8. **Newton's law of gravitation**: This explains how everything with mass pulls on everything else with mass. The bigger the masses and the closer they are, the stronger the pull. This is why planets orbit the sun and why things fall to the ground.
 
-9. **How cells make energy**: Cells break down food molecules like sugar to make energy. This happens in a few steps:
-    1. First, sugar is broken down into smaller pieces, releasing a bit of energy.
-    2. These pieces are broken down further, releasing more energy.
-    3. Finally, the leftover parts are used to make lots of energy in a process that uses oxygen.
-    
-    The energy is stored in a molecule called ATP, which cells use like a battery to power their activities.
+9. **Classical waves and oscillations**: This part of physics deals with repeating motions and disturbances that travel through space or materials. Examples include sound waves and water waves. Key concepts are:
+    a) **Frequency**: How often the wave repeats.
+    b) **Wavelength**: The distance between one peak of the wave and the next.
+    c) **Amplitude**: How big the wave is, which relates to how much energy it carries.
 
-10. **Enzymes - nature's helpers**: Enzymes are special proteins that help chemical reactions happen faster. They work by grabbing onto the molecules involved in a reaction and helping them change more easily.
-
-11. **Keeping balance in the body**: Living things need to keep their insides stable even when things change outside. They do this through various processes, like using hormones to control blood sugar or using special chemicals to keep the right level of acidity in the body.
-
-12. **How scientists study biochemistry**: Scientists study biochemistry using a step-by-step process:
-    1. They observe how molecules behave in living things.
-    2. They come up with ideas about how these molecules might work.
-    3. They test these ideas with experiments.
-    4. If their ideas work out, they use them to form bigger theories about how life works at a molecular level.
-
-In summary, biochemistry looks at how tiny parts in living things work together to keep living things alive.
+In summary, classical physics gives us a way to understand and predict how things in our everyday world behave. While it doesn't work for very small things or things moving close to the speed of light, it's incredibly useful for most situations we encounter in daily life.
