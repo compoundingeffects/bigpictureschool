@@ -1,54 +1,50 @@
 ---
 layout: default
-title: Life Science
+title: Space Science
 parent: Natural Science
-nav_order: 3
+nav_order: 4
 has_children: true
 ---
 
-## Life Science
+## Space Science
 
-1. **What is life science**? Life science is the study of living things and how they work. It tries to understand what life is, where it comes from, how it functions, and how living things interact with their surroundings and each other.
+1. **What is space science**? Space science is the study of everything beyond Earth's atmosphere. This includes studying stars, planets, galaxies, and how the universe works as a whole. It combines different fields like astronomy (studying space objects), astrophysics (applying physics to space), planetary science (studying planets), and cosmology (studying the origin and evolution of the universe).
 
-2. **What is life**? Life refers to things that can:
-- Turn energy from their environment into usable energy (metabolism)
-- Make copies of themselves (reproduction)
-- Get bigger and more complex over time (growth and development)
-- Sense changes around them and react (response to stimuli)
-- Keep their internal conditions stable (homeostasis)
-- Change over time to survive better in their environment (adaptation)
+2. **What is space**? Space is the vast, mostly empty area beyond Earth's atmosphere. It's often called a vacuum because it has very few particles compared to the air on Earth. However, space isn't completely empty. It contains tiny bits of dust, different types of radiation, and something scientists call dark matter, which we can't see but know is there because of its effects on other objects.
 
-3. **What are cells**? Cells are the basic building blocks of all living things. They're made up of different molecules like proteins, fats, DNA/RNA, and sugars. These molecules are arranged in ways that let the cell do things like use energy, grow, and reproduce. Some cells have a nucleus (a central control center), while others don't.
+3. **What are celestial objects**? Celestial objects are the things we can see or detect in space. These include:
+    - **Stars**: Huge balls of gas, mostly hydrogen and helium, that produce their own light through a process called nuclear fusion.
+    - **Planets**: Large, round objects that orbit stars. Some are made of rock, like Earth, while others are made of gas or ice.
+    - **Moons**: Smaller objects that orbit planets.
+    - **Galaxies**: Enormous collections of stars, dust, and dark matter, all held together by gravity. Our galaxy is called the Milky Way.
 
-4. **What are biochemical molecules**? These are the main types of molecules that make up living things:
-- **Proteins**: Do most of the work in cells, like speeding up chemical reactions and giving cells structure
-- **DNA**: Stores genetic information, like a blueprint for making proteins
-- **Lipids**: Fats and oils that form cell boundaries and store energy
-- **Carbohydrates**: Sugars that provide energy and structure
+    All these objects are made of the same basic building blocks (atoms and particles) as everything on Earth, but on a much larger scale.
 
-5. **What is metabolism**? Metabolism is all the chemical processes that happen in living things to keep them alive. It involves breaking down molecules to release energy and building up molecules to store energy. Cells use a molecule called ATP as a kind of energy currency.
+4. **What is gravity**? Gravity is a force that pulls objects towards each other. It's what keeps planets orbiting around stars and holds galaxies together. While it's the weakest of the four fundamental forces in nature, it's the most noticeable on large scales because it always attracts and works over long distances.
 
-6. **What is DNA and heredity**? DNA is a molecule that stores genetic instructions. It's made up of four building blocks arranged in a specific order, which tells cells how to make proteins. When living things reproduce, they pass copies of their DNA to their offspring. Sometimes small changes (mutations) occur in DNA, which can lead to new traits and drive evolution.
+    There are two main ways to understand gravity:
+    - **Newton's view**: Gravity is a force of attraction between any two objects with mass.
+    - **Einstein's view**: Gravity is the result of massive objects bending the fabric of space and time around them.
 
-7. **What is evolution**? Evolution is the process by which species change over time. It happens because:
-    1. There are differences in genetic traits within a population.
-    2. Some individuals have traits that help them survive better in their environment.
-    3. These individuals tend to have more offspring, passing on their helpful traits.
-    4. Over time, these traits become more common in the population.
+5. **What is the universe made of**? The universe is made up of:
+   - **Matter**: This is the stuff we can see and touch, made up of atoms.
+   - **Energy**: This includes light and heat.
+   - **Dark matter**: A type of matter we can't see directly, but we know it's there because of its effects on galaxies.
+   - **Dark energy**: A mysterious form of energy that's causing the universe to expand faster and faster.
 
-8. **Ecosystems and interdependence**: Living things don't exist alone. They live in communities called ecosystems, where they interact with each other and their environment. These interactions include eating each other, helping each other, and competing for resources. The flow of energy and recycling of nutrients are important for keeping ecosystems balanced.
+6. **How do we study space**? Scientists study space in several ways:
+    - Using telescopes to observe distant objects.
+    - Sending spacecraft, rovers, and satellites to explore planets and other parts of space.
+    - Creating mathematical models to explain what we see and predict what we might find.
 
-10. **How life science works - the scientific method**: Life scientists use a step-by-step process to study living things:
-    1. They observe something interesting.
-    2. They come up with a possible explanation (hypothesis).
-    3. They test their explanation through experiments.
-    4. If their explanation is supported by lots of evidence, it might become a broader theory.
-    5. Some well-established ideas become scientific laws.
+    At its most basic, studying space involves collecting light and other signals from distant objects and using our understanding of physics to interpret this information.
 
-11. **Fundamental principles in life science**: Life science has discovered some key ideas that explain how life works:
-- All living things are made of cells, and all cells come from other cells.
-- Species change over time through natural selection.
-- Information in cells flows from DNA to RNA to proteins.
-- There are rules for how traits are passed from parents to offspring.
+7. **How did the universe begin**? According to the Big Bang theory, the universe started about 13.8 billion years ago from a very hot, dense point and has been expanding ever since. In the beginning, the universe was full of high-energy particles. As it expanded and cooled, these particles formed atoms, then stars and galaxies.
 
-In summary, life science tries to figure out what life is and how living things work.
+8. **Space-time and relativity**: Space-time is a way of thinking about space and time together, as one connected thing. Einstein's theory of relativity tells us that:
+    - Space is the three dimensions we move through (up/down, left/right, forward/backward).
+    - Time is the sequence of events that happen.
+    - The faster you move through space, the slower time passes for you compared to someone moving more slowly.
+    - Massive objects like stars and planets bend space-time around them, which is what we experience as gravity.
+
+In summary, space science is about understanding the universe beyond Earth. It involves studying the objects in space, how they interact, and how the universe as a whole works.
