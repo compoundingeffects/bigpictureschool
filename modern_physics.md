@@ -16,19 +16,19 @@ nav_order: 2
 3. **Relativity - special and general**: Relativity, developed by Einstein, deals with how space and time work, especially when things move very fast or when there's strong gravity.
 
     - **Special relativity (from 1905)**:
-    - It's based on two main ideas: physics laws are the same for everyone moving at a constant speed, and light always moves at the same speed no matter who's looking at it.
-    - This leads to some strange effects: time slows down for things moving very fast, objects get shorter when they move fast, and mass can be turned into energy (that's what E = mc² means).
+        - It's based on two main ideas: physics laws are the same for everyone moving at a constant speed, and light always moves at the same speed no matter who's looking at it.
+        - This leads to some strange effects: time slows down for things moving very fast, objects get shorter when they move fast, and mass can be turned into energy (that's what E = mc² means).
 
     - **General relativity (from 1915)**:
-    - Einstein said that gravity isn't a force, but instead it's the bending of space and time caused by heavy objects.
-    - This explains things like light bending around stars and why the universe is expanding.
+        - Einstein said that gravity isn't a force, but instead it's the bending of space and time caused by heavy objects.
+        - This explains things like light bending around stars and why the universe is expanding.
 
 4. **Quantum mechanics**: Quantum mechanics deals with very small things like atoms and the particles inside them. It's very different from classical physics:
    - It says that tiny things like light and electrons can act like both waves and particles.
    - There's a rule called the uncertainty principle that says you can't know everything about a particle at once. If you know exactly where it is, you can't know how fast it's moving, and vice versa.
    - Instead of saying exactly where a particle is, quantum mechanics uses math to describe the probability of where it might be.
 
-5. **Quantum field theory**: This is an advanced idea that combines quantum mechanics with special relativity:
+5. **Quantum field theory**: Quantum field theory is an idea that combines quantum mechanics with special relativity:
    - It says that particles are actually vibrations in fields that exist everywhere.
    - It explains how forces work between particles using special force-carrying particles.
    - This theory led to the Standard Model, which explains three of the four main forces in nature and all the basic particles we know about.
