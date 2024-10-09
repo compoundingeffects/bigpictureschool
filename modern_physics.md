@@ -39,4 +39,4 @@ nav_order: 2
    - The Big Bang Theory says the universe started as a very hot, dense point about 13.8 billion years ago and has been expanding ever since.
    - We've discovered that most of the universe is made of things we can't see directly: dark matter and dark energy. We know they're there because of how they affect things we can see, but we don't know exactly what they are.
 
-8. Conclusion: Modern physics is always changing as we learn more. It tries to explain how the universe works at the deepest level. While we've made a lot of progress, there are still big questions to answer, like how to combine all our theories into one complete explanation of everything.
+In summary, modern physics is our attempt to explain how the universe works at its most basic level, from the tiniest particles to the largest galaxies, using ideas that often seem strange compared to our everyday experiences.
