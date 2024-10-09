@@ -4,7 +4,7 @@ title: Modern Physics
 parent: Physics
 grand_parent: Physical Science
 ancestor: Natural Science
-nav_order: 1
+nav_order: 2
 ---
 
 ## Modern Physics
