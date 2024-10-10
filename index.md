@@ -147,6 +147,7 @@ Interested in sharing your feedback or collaborating with us? We would love to h
 * Cognitive Science
 * Cybersecurity
 * Data Science
+* Human Science
 * Library and Information Science
   * Information Science
   * Library Science
