@@ -139,7 +139,6 @@ Interested in sharing your feedback or collaborating with us? We would love to h
   * Pharmacy
 * Permaculture
 * [Military Science](https://bigpictureschool.com/military_science.html)
-* Space Science
 * Spatial Science
 
 ### 6. [Interdisciplinary Fields](https://bigpictureschool.com/interdisciplinary_fields.html)
