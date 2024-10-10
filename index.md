@@ -41,7 +41,7 @@ Interested in sharing your feedback or collaborating with us? We would love to h
     - Genetics
     - [Evolutionary Biology](https://bigpictureschool.com/evolutionary_biology.html)
     - [Microbiology](https://bigpictureschool.com/microbiology.html)
-    - Neurobiology
+    - [Neurobiology](https://bigpictureschool.com/neurobiology.html)
   - Botany
   - Zoology
   - [Ecology](https://bigpictureschool.com/ecology.html)
