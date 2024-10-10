@@ -56,4 +56,4 @@ nav_order: 5
     4. If their experiments support their guess, they develop broader ideas (theories) about how microorganisms work.
     5. They use this knowledge to solve problems in medicine, industry, and the environment.
 
-In summary, microbiology helps us understand the smallest forms of life. 
+In summary, microbiology is the study of tiny organisms that we can't see without a microscope.
