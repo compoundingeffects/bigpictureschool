@@ -20,10 +20,10 @@ nav_order: 2
     The smallest unit of life is called a cell. Cells are made up of even smaller parts called molecules, which molecular biologists study to understand how life works.
 
 3. **What are biological molecules**? Biological molecules are the building blocks that make up living things. There are four main types:
-    - Nucleic acids (DNA and RNA): These store and transmit genetic information.
-    - Proteins: These do most of the work in cells.
-    - Lipids: These include fats and are important for cell structure.
-    - Carbohydrates: These provide energy and structure.
+    - **Nucleic acids (DNA and RNA)**: These store and transmit genetic information.
+    - **Proteins**: These do most of the work in cells.
+    - **Lipids**: These include fats and are important for cell structure.
+    - **Carbohydrates**: These provide energy and structure.
 
     These molecules are made of even smaller parts called atoms, like carbon, hydrogen, oxygen, nitrogen, and phosphorus.
 
