@@ -30,16 +30,16 @@ nav_order: 2
 4. **What is DNA**? DNA is like a blueprint for life. It's made up of four chemical building blocks called nucleotides: adenine (A), thymine (T), cytosine (C), and guanine (G). These nucleotides pair up (A with T, C with G) to form a twisted ladder shape called a double helix. The order of these nucleotides forms a code that tells cells how to build and maintain living organisms.
 
 5. **What is RNA**? RNA is similar to DNA but has a few key differences. It helps turn the information in DNA into proteins, which do most of the work in cells. RNA is usually single-stranded (not twisted like DNA) and uses a slightly different set of building blocks. There are three main types of RNA:
-    - mRNA: Carries genetic instructions from DNA to where proteins are made.
-    - rRNA: Forms part of the protein-making factory in cells.
-    - tRNA: Helps translate the genetic code into proteins.
+    - **mRNA**: Carries genetic instructions from DNA to where proteins are made.
+    - **rRNA**: Forms part of the protein-making factory in cells.
+    - **tRNA**: Helps translate the genetic code into proteins.
 
 6. **What are proteins**? Proteins are molecules that do most of the work in cells. They're made of smaller building blocks called amino acids. There are 20 different amino acids that can be combined in various ways to make proteins. The order of amino acids is determined by the genetic code in DNA. Proteins can act as enzymes (which speed up chemical reactions), provide structure to cells, or carry signals within and between cells.
 
 7. **How does information flow in cells**? Information in cells flows from DNA to RNA to proteins. This happens through three main processes:
-    - Replication: DNA makes copies of itself when cells divide.
-    - Transcription: The information in DNA is copied into RNA.
-    - Translation: The information in RNA is used to make proteins.
+    - **Replication**: DNA makes copies of itself when cells divide.
+    - **Transcription**: The information in DNA is copied into RNA.
+    - **Translation**: The information in RNA is used to make proteins.
 
 8. **What is gene regulation**? Genes are sections of DNA that contain instructions for making proteins or other molecules. Not all genes need to be "on" all the time. Cells can turn genes on or off as needed. This on/off control is called gene regulation. Gene regulation works in a few ways:
     - Special sections of DNA interact with proteins called transcription factors. These proteins can either help turn genes on or keep them turned off.
