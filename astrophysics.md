@@ -1,71 +1,46 @@
 ---
 layout: default
-title: Biology
-parent: Life Science
+title: Astrophysics
+parent: Space Science
 grand_parent: Natural Science
 nav_order: 1
 has_children: true
 ---
 
-## Biology
+## Astrophysics
 
-1. **What is biology**? Biology is the study of living things. It tries to understand what makes something alive, how living things work, and how they interact with each other and their surroundings.
+1. **What is astrophysics**? Astrophysics is a field of science that uses physics to understand space and everything in it. It looks at how planets move, what stars are made of, how galaxies form, and why the universe is expanding. Basically, it's about using the laws of physics to figure out how everything in space works.
 
-2. **What is life**? Life is what separates living things from non-living things. Some key features of life include:
-- **Organization**: Living things have complex structures, from tiny parts to whole bodies.
-- **Metabolism**: Living things can take in energy, change it, and use it to stay alive.
-- **Homeostasis**: Living things can keep their insides stable, like maintaining body temperature.
-- **Growth and development**: Living things get bigger and change over time.
-- **Reproduction**: Living things can make more of themselves.
-- **Response to stimuli**: Living things can sense and react to changes around them.
-- **Evolution**: Groups of living things can change over long periods of time.
+2. **What is the universe**? The universe is everything that exists - all the stuff we can see and even the stuff we can't. It includes tiny particles, planets, stars, galaxies, and all the empty space in between. The universe also includes energy, like the light from stars. Everything in the universe exists in what scientists call "space-time," which is like a big 4D grid that includes up-down, left-right, forward-backward, and time.
 
-3. **What is a cell**? A cell is the smallest unit of life. All living things are made of one or more cells. There are two main types:
-    - **Simple cells (prokaryotic)**: These don't have a central compartment for DNA.
-    - **Complex cells (eukaryotic)**: These have a central compartment for DNA and other specialized parts.
+3. **What are celestial bodies**? Celestial bodies are objects in space. These include:
+    - **Stars**: Big balls of hot gas that make their own light and heat.
+    - **Planets**: Large objects that go around stars, like Earth going around the Sun.
+    - **Galaxies**: Huge collections of stars, planets, gas, and dust all held together by gravity.
+    - **Black holes**: Areas in space where gravity is so strong that nothing, not even light, can escape.
 
-    Cells have some basic parts:
-    - A membrane that separates the inside from the outside
-    - A jelly-like substance inside (cytoplasm)
-    - DNA, which contains instructions for the cell
-    - In complex cells, specialized structures that do specific jobs
+    All these objects are made of tiny particles and are affected by forces like gravity.
 
-4. **What is DNA**? DNA is like a instruction manual for living things. It's made up of small pieces called nucleotides. These pieces form a twisted ladder shape. DNA:
-- Contains instructions for how living things grow and work
-- Can be copied and passed down when living things reproduce
-- Can change over time, which leads to evolution
+4. **What is gravity**? Gravity is a force that makes things attract each other. It's why apples fall to the ground and why planets orbit around stars. The more massive something is, the stronger its gravity. Einstein explained gravity as a bending of space and time caused by mass and energy.
 
-5. **What is evolution**? Evolution is how groups of living things change over time. This happens because:
-    - Individuals in a group are slightly different from each other.
-    - Some individuals are better suited to their environment and are more likely to survive and have offspring.
-    - Random changes in DNA can create new traits.
-    - Different groups can mix and share traits.
-    - In small groups, traits can become more or less common by chance.
-    
-    Evolution explains why there are so many different types of living things and how they become suited to their environments.
+5. **What powers stars**? Stars like our Sun create energy through a process called nuclear fusion. This happens when it's so hot and crowded in the middle of a star that atoms smash together and stick, creating heavier atoms. This process releases a ton of energy, which is why stars are hot and bright. It's like turning a tiny bit of matter into a huge amount of energy, just like Einstein's famous equation E=mc² describes.
 
-6. **What is metabolism**? Metabolism is all the chemical reactions that happen inside living things to keep them alive. There are two main types:
-    - Breaking down substances to release energy
-    - Building up substances using energy
+6. **What is light**? Light is a form of energy that travels through space. It includes the light we can see, but also other types we can't see, like X-rays and radio waves. Light acts both like a wave (spreading out) and like a particle (tiny packets of energy). By studying the light from stars and galaxies, scientists can learn a lot about what they're made of, how they're moving, how hot they are, and how far away they are.
 
-    Living things get energy from different sources, like sunlight or food. They use a special energy-carrying molecule called ATP to power many of their functions.
+7. **The expanding universe**: Scientists have discovered that the universe is getting bigger all the time. Galaxies are moving away from each other, and the space between them is growing. This all started with the Big Bang, a massive explosion that created the universe about 13.8 billion years ago. As the universe expands, the light from far-away galaxies gets stretched out, making it look redder (this is called redshift).
 
-7. **What is homeostasis**? Homeostasis is how living things keep their insides stable. This includes:
-    - Keeping the right temperature
-    - Maintaining the right balance of acidity
-    - Controlling the amount of water and important minerals
+8. **What are dark matter and dark energy**? Most of the universe is made up of stuff we can't see:
+    - **Dark matter**: This is invisible stuff that we can only detect because of how it affects things we can see with its gravity. It helps hold galaxies together.
+    - **Dark energy**: This is a mysterious form of energy that's making the universe expand faster and faster.
+We don't fully understand these yet, but we know they make up most of the universe.
 
-    Homeostasis is crucial for survival. It involves systems in the body that constantly check and adjust internal conditions.
+9. **The lifecycle of stars**: Stars have a life cycle, just like living things:
+    - They're born when big clouds of gas collapse due to gravity.
+    - They spend most of their life fusing hydrogen into helium, which makes them shine.
+    - How they die depends on how big they are:
+        - Smaller stars (like our Sun) puff up and then shrink down to a "white dwarf."
+        - Big stars explode in a "supernova" and can leave behind a super-dense "neutron star" or a black hole.
 
-8. **Reproduction and genetics**: Reproduction is how living things make more of themselves. There are two main types:
-    - **Asexual reproduction**: One parent makes an identical copy of itself.
-    - **Sexual reproduction**: Two parents combine their genetic material to make offspring with a mix of traits.
-    
-    Genes are sections of DNA that carry instructions for specific traits. These traits are passed from parents to offspring.
+    Throughout a star's life, there's a constant battle between gravity pulling in and the energy from fusion pushing out. When the star runs out of fuel, gravity wins, and the star collapses or explodes.
 
-9. **Ecosystems and ecology**: An ecosystem includes all the living things in an area and the non-living parts of their environment. In ecosystems:
-    - Energy flows from plants (which make food using sunlight) to animals and decomposers.
-    - Important substances like carbon, nitrogen, and water cycle through the system.
-    - Living things often form relationships with each other, which can be beneficial, neutral, or harmful.
-
-In summary, biology is about studying life, from the tiniest parts of living things (cells) to how different living things interact with each other and their surroundings.
+In summary, astrophysics is the study of space using the rules of physics to figure out how everything from tiny atoms to giant galaxies works, helping us understand the amazing universe we live in.
