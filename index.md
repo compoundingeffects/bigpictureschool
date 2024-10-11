@@ -46,7 +46,7 @@ Interested in sharing your feedback or collaborating with us? We would love to h
   - Zoology
   - [Ecology](https://bigpictureschool.com/ecology.html)
 - [Space Science](https://bigpictureschool.com/space_science.html)
-  - Astrophysics
+  - [Astrophysics](https://bigpictureschool.com/astrophysics.html)
   - Cosmology
   - Planetary Science
 
