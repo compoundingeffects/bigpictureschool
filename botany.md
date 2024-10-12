@@ -28,11 +28,11 @@ nav_order: 1
 
 5. **More on photosynthesis**: Chlorophyll is the green pigment in plants that captures light energy. The process happens in two stages:
     - **Light reaction**: Light reaction happens in special membranes in the chloroplast. It's where sunlight is used to split water and make energy-rich molecules.
-    - **Calvin cycle**: This uses the energy from the light reaction to turn carbon dioxide into glucose.
+    - **Calvin cycle**: The Calvin cycle uses the energy from the light reaction to turn carbon dioxide into glucose.
 
 6. **How plants grow**: Plants grow in two main ways:
-    - **Primary growth**: This makes plants taller or longer. It happens at the tips of roots and shoots.
-    - **Secondary growth**: This makes woody plants thicker. It's why tree trunks get wider over time.
+    - **Primary growth**: Primary growth makes plants taller or longer. It happens at the tips of roots and shoots.
+    - **Secondary growth**: Secondary growth makes woody plants thicker. It's why tree trunks get wider over time.
 
 7. **Growth at the cellular level**:
     - New plant cells are made through a process called mitosis, where one cell divides into two identical cells.
