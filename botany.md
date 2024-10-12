@@ -3,7 +3,7 @@ layout: default
 title: Botany
 parent: Life Science
 grand_parent: Natural Science
-nav_order: 1
+nav_order: 2
 ---
 
 ## Botany
