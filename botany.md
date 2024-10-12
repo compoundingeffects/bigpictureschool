@@ -42,8 +42,8 @@ nav_order: 1
     - Plant hormones, which are like chemical messengers, control things like how cells grow, when plants flower, and when fruits develop.
 
 8. **Plant reproduction**: Plants can reproduce in two main ways:
-    - Sexual reproduction: This involves seeds. Male and female parts of the plant combine to make a seed, which can grow into a new plant.
-    - Asexual reproduction: This is when a new plant grows from a part of the parent plant, like a stem or root.
+    - **Sexual reproduction**: This involves seeds. Male and female parts of the plant combine to make a seed, which can grow into a new plant.
+    - **Asexual reproduction**: This is when a new plant grows from a part of the parent plant, like a stem or root.
 
 9. **More on plant reproduction**:
     - Flowers are the reproductive organs of many plants. They contain male parts (stamens) and female parts (pistils).
@@ -71,4 +71,4 @@ nav_order: 1
     - They test their idea with experiments.
     - If their idea holds up, it might become part of a larger theory about how plants work.
 
-In summary, botany is about understanding the basic processes that allow plants to live, grow, and interact with their environment. 
+In summary, botany is about understanding the basic processes that allow plants to live, grow, and interact with their environment.
