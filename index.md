@@ -42,7 +42,7 @@ Interested in sharing your feedback or collaborating with us? We would love to h
     - [Evolutionary Biology](https://bigpictureschool.com/evolutionary_biology.html)
     - [Microbiology](https://bigpictureschool.com/microbiology.html)
     - [Neurobiology](https://bigpictureschool.com/neurobiology.html)
-  - Botany
+  - [Botany](https://bigpictureschool.com/botany.html)
   - Zoology
   - [Ecology](https://bigpictureschool.com/ecology.html)
 - [Space Science](https://bigpictureschool.com/space_science.html)
