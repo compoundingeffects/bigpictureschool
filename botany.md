@@ -2,7 +2,7 @@
 layout: default
 title: Botany
 parent: Life Science
-grand_parent: Natural Sciences
+grand_parent: Natural Science
 nav_order: 1
 ---
 
@@ -26,11 +26,9 @@ nav_order: 1
     - The hydrogen then combines with carbon dioxide to make glucose (a type of sugar).
     - Oxygen is released as a byproduct, which is great for us because we need it to breathe!
 
-5. **More on photosynthesis**:
-    - Chlorophyll is the green pigment in plants that captures light energy.
-    - The process happens in two stages:
-        - **Light reaction**: This happens in special membranes in the chloroplast. It's where sunlight is used to split water and make energy-rich molecules.
-        - **Calvin cycle**: This uses the energy from the light reaction to turn carbon dioxide into glucose.
+5. **More on photosynthesis**: Chlorophyll is the green pigment in plants that captures light energy. The process happens in two stages:
+    - **Light reaction**: Light reaction happens in special membranes in the chloroplast. It's where sunlight is used to split water and make energy-rich molecules.
+    - **Calvin cycle**: This uses the energy from the light reaction to turn carbon dioxide into glucose.
 
 6. **How plants grow**: Plants grow in two main ways:
     - **Primary growth**: This makes plants taller or longer. It happens at the tips of roots and shoots.
@@ -42,8 +40,8 @@ nav_order: 1
     - Plant hormones, which are like chemical messengers, control things like how cells grow, when plants flower, and when fruits develop.
 
 8. **Plant reproduction**: Plants can reproduce in two main ways:
-    - **Sexual reproduction**: This involves seeds. Male and female parts of the plant combine to make a seed, which can grow into a new plant.
-    - **Asexual reproduction**: This is when a new plant grows from a part of the parent plant, like a stem or root.
+    - **Sexual reproduction**: Sexual reproduction involves seeds. Male and female parts of the plant combine to make a seed, which can grow into a new plant.
+    - **Asexual reproduction**: Asexual reproduction is when a new plant grows from a part of the parent plant, like a stem or root.
 
 9. **More on plant reproduction**:
     - Flowers are the reproductive organs of many plants. They contain male parts (stamens) and female parts (pistils).
