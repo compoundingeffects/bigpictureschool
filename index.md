@@ -47,7 +47,7 @@ Interested in sharing your feedback or collaborating with us? We would love to h
     - [Ecology](https://bigpictureschool.com/ecology.html)
 - [Space Science](https://bigpictureschool.com/space_science.html)
   - [Astrophysics](https://bigpictureschool.com/astrophysics.html)
-  - Cosmology
+  - [Cosmology](https://bigpictureschool.com/cosmology.html)
   - Planetary Science
 
 ### 2. [Social Science](https://bigpictureschool.com/social_science.html)
