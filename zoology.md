@@ -1,72 +1,69 @@
 ---
 layout: default
-title: Botany
-parent: Life Science
-grand_parent: Natural Science
-nav_order: 2
+title: Zoology
+parent: Biology
+grand_parent: Life Science
+ancestor: Natural Science
+nav_order: 7
 ---
 
-## Botany
+## Zoology
 
-1. **Botany**: Botany is the study of plants. Plants are living things that make their own food using sunlight. They're really important because they produce oxygen, store carbon, and are the basis of most food chains. Botanists try to understand how plants grow, work, reproduce, and interact with their surroundings.
+1. **What is zoology**? Zoology is a part of biology that studies animals. It looks at how animals behave, what they're made of, how they've changed over time, and how we group them. Zoologists try to understand what animals are, how they interact with each other and their surroundings, and how they've evolved.
 
-2. **What makes a plant**: Plants belong to a group called Plantae. They can make their own food through a process called photosynthesis. Plants have some key features:
-    - They have cell walls made of a material called cellulose, which gives them structure.
-    - They have special parts in their cells called chloroplasts, which contain chlorophyll for capturing sunlight.
-    - They typically have roots (for taking in water and nutrients), stems (for support), and leaves (for catching sunlight).
+2. **What is an animal**? An animal is a living thing that:
+    - Has many cells (not just one)
+    - Eats other living things for energy (can't make its own food like plants do)
+    - Can move at some point in its life (even if it doesn't move as an adult)
+    - Has special cells that work together to do different jobs
 
-3. **Plant structure**:
-    - Plants are made up of cells, just like animals, but plant cells have some special features.
-    - These cells group together to form tissues. For example, xylem tissue moves water up the plant, while phloem tissue moves sugars around.
-    - These tissues then form larger structures called organs, like roots, stems, and leaves.
+    Animals are made of cells with a center part called a nucleus. These cells form tissues (like muscle or nerve tissue), which then form organs (like the heart or brain), which work together in systems (like the digestive system).
 
-4. **Photosynthesis**: Photosynthesis is how plants make their food. It's a bit like cooking, but with sunlight as the heat source. Here's how it works:
-    - Plants take in sunlight, carbon dioxide from the air, and water from the soil.
-    - Inside the chloroplasts, the plant uses the energy from sunlight to split water into hydrogen and oxygen.
-    - The hydrogen then combines with carbon dioxide to make glucose (a type of sugar).
-    - Oxygen is released as a byproduct, which is great for us because we need it to breathe!
+    Animals break down food to get energy in a process called cellular respiration.
 
-5. **More on photosynthesis**: Chlorophyll is the green pigment in plants that captures light energy. The process happens in two stages:
-    - **Light reaction**: Light reaction happens in special membranes in the chloroplast. It's where sunlight is used to split water and make energy-rich molecules.
-    - **Calvin cycle**: The Calvin cycle uses the energy from the light reaction to turn carbon dioxide into glucose.
+3. **What is the role of evolution in zoology**? Evolution is how groups of animals change over time. It happens because:
+    - Animals with helpful features are more likely to survive and have babies, passing on those features (natural selection).
+    - Small changes in an animal's DNA can create new features (mutations).
+    - Over a very long time, groups of animals can become so different that they form new species.
 
-6. **How plants grow**: Plants grow in two main ways:
-    - **Primary growth**: Primary growth makes plants taller or longer. It happens at the tips of roots and shoots.
-    - **Secondary growth**: Secondary growth makes woody plants thicker. It's why tree trunks get wider over time.
+    Evolution explains why we see so many different types of animals and how they're all related.
 
-7. **Growth at the cellular level**:
-    - New plant cells are made through a process called mitosis, where one cell divides into two identical cells.
-    - Plant cells grow bigger mostly by taking in water, which makes them expand.
-    - Plant hormones, which are like chemical messengers, control things like how cells grow, when plants flower, and when fruits develop.
+4. **How do animals interact with their environment**? Animals are part of complex systems called ecosystems. In these systems:
+    - Each animal has a specific role or "job" (niche).
+    - Energy moves from one animal to another when they eat each other (food chains).
+    - Animals can have different types of relationships with each other, like helping each other, hurting each other, or not affecting each other much.
 
-8. **Plant reproduction**: Plants can reproduce in two main ways:
-    - **Sexual reproduction**: Sexual reproduction involves seeds. Male and female parts of the plant combine to make a seed, which can grow into a new plant.
-    - **Asexual reproduction**: Asexual reproduction is when a new plant grows from a part of the parent plant, like a stem or root.
+    Studying these interactions is called ecology.
 
-9. **More on plant reproduction**:
-    - Flowers are the reproductive organs of many plants. They contain male parts (stamens) and female parts (pistils).
-    - Pollination is when pollen (which contains male genetic material) is transferred to the female part of the flower.
-    - After pollination, a seed develops. The seed contains a baby plant (embryo) and food to help it start growing.
+5. **How are animals classified**? We group animals based on what they have in common. This system goes from very broad groups to very specific ones:
+    - All animals are in the kingdom Animalia.
+    - Animals with similar body plans are in the same phylum (like animals with backbones).
+    - Then we have more specific groups like class (e.g., mammals, birds).
+    - The most specific level is species, which identifies individual types of animals.
 
-10. **Plant genetics**:
-    - Like animals, plants have DNA that carries genetic information.
-    - This DNA controls things like flower color or how well a plant can survive drought.
-    - Sexual reproduction mixes up the DNA, creating plants that might be better at surviving in changing environments.
-    - Asexual reproduction creates plants that are genetically identical to the parent.
+    This system helps us understand how animals are related to each other.
 
-11. **How plants interact with their environment**:
-    - Plants can adapt to their surroundings. For example, desert plants often have waxy leaves to prevent water loss.
-    - Plants can sense and grow towards light sources.
-    - Many plants form partnerships with other organisms. For instance, some plants team up with fungi to help them get nutrients from the soil.
+6. **What is animal behavior**? Animal behavior is how animals act and interact. It includes:
+    - Things animals are born knowing how to do (innate behavior).
+    - Things animals learn to do (learned behavior).
+    - How animals act with each other (social behavior).
 
-12. **Plants in ecosystems**:
-    - Plants are super important in ecosystems because they're "primary producers." They take energy from the sun and turn it into food that other organisms can use.
-    - Plants also play a big role in the carbon cycle. They take in carbon dioxide when they make food and release it when they breathe or decompose.
+    Animals behave in ways that help them survive, have babies, and adapt to changes in their environment.
 
-13. **How botanists study plants**: Botanists use the scientific method to learn about plants:
-    - They observe something interesting about plants.
-    - They come up with an idea (hypothesis) about why it happens.
-    - They test their idea with experiments.
-    - If their idea holds up, it might become part of a larger theory about how plants work.
+7. **How does zoology use the scientific method**? Zoologists use a step-by-step process to learn new things:
+    1. They notice something interesting about animals.
+    2. They come up with an idea about why it happens.
+    3. They test their idea through experiments or careful watching.
+    4. If their idea seems right after lots of testing, it might become part of a bigger explanation (theory).
+    5. Sometimes, these explanations become so well-proven that we call them laws.
 
-In summary, botany is about understanding the basic processes that allow plants to live, grow, and interact with their environment.
+    This method helps zoologists build knowledge by asking questions and testing them carefully.
+
+8. **Fundamental concepts in zoology**: Some key ideas in zoology are:
+    - **Adaptation**: How animals develop features that help them survive
+    - **Homeostasis**: How animals keep their insides stable even when things change outside
+    - **Reproduction**: How animals have babies and pass on their genes
+
+    These ideas help us understand the basics of how animals live and survive.
+
+In summary, zoology is the study of animals - how they live, change over time, fit into categories, and behave.
