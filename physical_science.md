@@ -36,9 +36,9 @@ has_children: true
     5. If a theory is proven right over and over, it might become a scientific law.
 
 10. **Fundamental laws in physical science**: Scientists have discovered some basic rules about how the universe works:
-    - Newton's Laws of Motion explain how things move when forces act on them.
-    - The Laws of Thermodynamics are about how heat and energy behave.
-    - Quantum Mechanics explains how very tiny things like atoms behave.
+    - Newton's laws of motion explain how things move when forces act on them.
+    - The laws of thermodynamics are about how heat and energy behave.
+    - Quantum mechanics explains how very tiny things like atoms behave.
 
     These laws help us understand everything from how atoms work to how galaxies move.
 
