@@ -38,7 +38,7 @@ Interested in sharing your feedback or collaborating with us? We would love to h
   - [Biology](https://bigpictureschool.com/biology.html)
     - [Molecular Biology](https://bigpictureschool.com/molecular_biology.html)
     - [Cellular Biology](https://bigpictureschool.com/cellular_biology.html)
-    - Genetics
+    - [Genetics](https://bigpictureschool.com/genetics.html)
     - [Evolutionary Biology](https://bigpictureschool.com/evolutionary_biology.html)
     - [Microbiology](https://bigpictureschool.com/microbiology.html)
     - [Neurobiology](https://bigpictureschool.com/neurobiology.html)
