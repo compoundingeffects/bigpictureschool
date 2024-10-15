@@ -1,46 +1,45 @@
 ---
 layout: default
-title: Astrophysics
+title: Planetary Science
 parent: Space Science
 grand_parent: Natural Science
-nav_order: 1
+nav_order: 3
 has_children: true
 ---
 
-## Astrophysics
+## Planetary Science
 
-1. **What is astrophysics**? Astrophysics is a field of science that uses physics to understand space and everything in it. It looks at how planets move, what stars are made of, how galaxies form, and why the universe is expanding. Basically, it's about using the laws of physics to figure out how everything in space works.
+1. **What is planetary science**? Planetary science is the study of planets, moons, and other objects in space. It looks at what these objects are made of, how they formed, how they change over time, and how they interact with each other. This field combines knowledge from astronomy, geology, the study of atmospheres, and chemistry to understand how these space objects work.
 
-2. **What is the universe**? The universe is everything that exists - all the stuff we can see and even the stuff we can't. It includes tiny particles, planets, stars, galaxies, and all the empty space in between. The universe also includes energy, like the light from stars. Everything in the universe exists in what scientists call "space-time," which is like a big 4D grid that includes up-down, left-right, forward-backward, and time.
+2. **What are planets and celestial bodies**?
+    - Planets are large objects that orbit around stars, like our Sun. They're made up of matter, just like everything else in the universe. Planets can be different sizes and made of different materials. Some planets are rocky, like Earth, while others are mostly gas, like Jupiter. Celestial bodies also include moons (which orbit planets), asteroids (small rocky objects), comets (icy objects that develop a "tail" when near the Sun), and dwarf planets (objects similar to planets but smaller).
+    - The amount of matter in a planet (its mass) determines how strong its gravity is. This gravity is what gives planets their round shape and helps them clear other objects out of their orbit. The materials that make up a planet depend on what was available when it formed and how close it is to its star.
 
-3. **What are celestial bodies**? Celestial bodies are objects in space. These include:
-    - **Stars**: Big balls of hot gas that make their own light and heat.
-    - **Planets**: Large objects that go around stars, like Earth going around the Sun.
-    - **Galaxies**: Huge collections of stars, planets, gas, and dust all held together by gravity.
-    - **Black holes**: Areas in space where gravity is so strong that nothing, not even light, can escape.
+3. **How do planets and celestial bodies form**? Planets and other space objects form in a series of steps:
+    - It starts with a big cloud of gas and dust in space called a nebula.
+    - Gravity makes parts of this cloud collapse, forming a star in the center with a spinning disk of material around it.
+    - In this disk, tiny particles start to stick together due to static electricity and gravity.
+    - These clumps of particles collide and merge, growing bigger and bigger until they become large enough to be called planets.
+    - As planets grow, they can get hot inside. This heat can cause the materials inside the planet to separate into layers, like the core, mantle, and crust of Earth.
 
-    All these objects are made of tiny particles and are affected by forces like gravity.
+4. **What governs the behavior of planetary systems**? The way planets and other objects move and interact in space is controlled by a few key things:
+    - Gravity is the main force that shapes how planets orbit and interact with each other.
+    - Planets follow oval-shaped paths called orbits around their star. These orbits follow specific rules described by a scientist named Kepler.
+    - Something called "conservation of angular momentum" explains why planets spin and why they stay in stable orbits.
 
-4. **What is gravity**? Gravity is a force that makes things attract each other. It's why apples fall to the ground and why planets orbit around stars. The more massive something is, the stronger its gravity. Einstein explained gravity as a bending of space and time caused by mass and energy.
+    Understanding these basic rules helps scientists predict how planets will move and interact with each other.
 
-5. **What powers stars**? Stars like our Sun create energy through a process called nuclear fusion. This happens when it's so hot and crowded in the middle of a star that atoms smash together and stick, creating heavier atoms. This process releases a ton of energy, which is why stars are hot and bright. It's like turning a tiny bit of matter into a huge amount of energy, just like Einstein's famous equation E=mc² describes.
+5. **What are the internal and surface processes on planets**? Once planets form, they can change due to various processes:
+    - Geological activity, like volcanoes, movement of the planet's crust, and erosion, can shape the planet's surface. These processes are driven by heat inside the planet.
+    - Planets with atmospheres have weather and climate patterns. These are caused by heat from the star and can lead to wind, storms, and sometimes magnetic fields.
+    - Chemical reactions can occur in a planet's atmosphere and on its surface, which can change the environment over time.
 
-6. **What is light**? Light is a form of energy that travels through space. It includes the light we can see, but also other types we can't see, like X-rays and radio waves. Light acts both like a wave (spreading out) and like a particle (tiny packets of energy). By studying the light from stars and galaxies, scientists can learn a lot about what they're made of, how they're moving, how hot they are, and how far away they are.
+6. **How do we study planetary science**? Scientists study planets and other space objects using a specific method:
+    - They observe planets using telescopes, space probes, and rovers.
+    - They come up with ideas (hypotheses) about how things might work.
+    - They create models or simulations based on the laws of physics to predict how planets might behave.
+    - They compare their predictions with what they actually observe to improve their understanding.
 
-7. **The expanding universe**: Scientists have discovered that the universe is getting bigger all the time. Galaxies are moving away from each other, and the space between them is growing. This all started with the Big Bang, a massive explosion that created the universe about 13.8 billion years ago. As the universe expands, the light from far-away galaxies gets stretched out, making it look redder (this is called redshift).
+    By using basic principles from physics and chemistry, scientists can explain and predict many things about planets and other objects in space.
 
-8. **What are dark matter and dark energy**? Most of the universe is made up of stuff we can't see:
-    - **Dark matter**: This is invisible stuff that we can only detect because of how it affects things we can see with its gravity. It helps hold galaxies together.
-    - **Dark energy**: This is a mysterious form of energy that's making the universe expand faster and faster.
-We don't fully understand these yet, but we know they make up most of the universe.
-
-9. **The lifecycle of stars**: Stars have a life cycle, just like living things:
-    - They're born when big clouds of gas collapse due to gravity.
-    - They spend most of their life fusing hydrogen into helium, which makes them shine.
-    - How they die depends on how big they are:
-        - Smaller stars (like our Sun) puff up and then shrink down to a "white dwarf."
-        - Big stars explode in a "supernova" and can leave behind a super-dense "neutron star" or a black hole.
-
-    Throughout a star's life, there's a constant battle between gravity pulling in and the energy from fusion pushing out. When the star runs out of fuel, gravity wins, and the star collapses or explodes.
-
-In summary, astrophysics is the study of space using the rules of physics to figure out how everything from tiny atoms to giant galaxies works, helping us understand the amazing universe we live in.
+In summary, planetary science helps us understand how planets and other space objects form, change, and interact.
