@@ -7,22 +7,41 @@ nav_order: 1
 
 ## Computer Science
 
-1. **Information**: Computer science is all about dealing with information. Think of information as facts or details about something. In computers, we turn this information into data, usually as 1s and 0s (like a light switch being on or off). This makes it easy for computers to work with.
+1. **What is computer science**? Computer science is about studying how we can use machines to handle information. It looks at how we can do calculations, store data, and send messages using step-by-step instructions and organized ways of keeping information.
 
-2. **Computation**: Once we have information as data, we need to do something with it. That's where computation comes in. It's like following a recipe - you start with ingredients (input data), follow some steps (rules), and end up with a finished dish (output data). The basic steps are simple things like adding, subtracting, comparing, or moving data around.
+2. **What is computation**? Computation is like following a recipe. It's about doing math or following instructions to solve problems. It takes information you put in and changes it into a result. The main ideas in computation are:
+    - **Algorithms**: These are like detailed recipes that tell you exactly what to do to solve a problem.
+    - **Turing machines**: These are imaginary machines that can solve any problem by reading and writing symbols based on rules. They help us understand what computers can do.
+    - **Logical operations**: These are simple actions like "and," "or," and "not" that computers use to make decisions and process information.
 
-3. **Algorithms**: An algorithm is like a detailed recipe or set of instructions. It tells the computer exactly what steps to take to solve a problem or complete a task. Algorithms use the basic operations we talked about in computation to work on data and get the result we want.
+3. **What is information**? Information is data that means something. It's measured in bits, which are like tiny on/off switches (1 or 0). We can combine these to make more complex information. Important ideas about information include:
+    - **Data structures**: These are ways to organize information so computers can use it easily, like lists or trees.
+    - **Encoding**: This is how we turn information into a format computers can understand, like changing letters into numbers.
+    - **Information theory**: This area of study looks at how we can measure, store, and send information.
 
-4. **Abstraction**: Abstraction is about simplifying complex things. Imagine driving a car - you don't need to know how the engine works, you just need to know how to use the steering wheel and pedals. In computer science, we use abstraction to build complex systems by hiding complicated details behind simpler interfaces.
+4. **What is an algorithm**? An algorithm is a set of steps to solve a problem or do a task. It's like a very detailed recipe. Some important things about algorithms are:
+    - **Sorting and searching**: These are common tasks that algorithms do, like putting things in order or finding something in a list.
+    - **Time complexity**: This measures how long an algorithm takes as the amount of information grows.
+    - **Efficiency**: This is about finding the best way to solve a problem using the least time and resources.
 
-5. **Efficiency**: In computer science, we care a lot about doing things quickly and without wasting resources. When we talk about efficiency, we're looking at how fast a program runs (time) and how much memory it uses (space). It's like trying to complete a task as quickly as possible while using the least amount of effort.
+5. **What is a computer**? A computer is a machine that follows instructions to process information. It has:
+    - **Hardware**: The physical parts, like the brain (CPU), memory, and storage.
+    - **Software**: The instructions that tell the computer what to do.
+    - **Binary system**: The language computers use, which is just 1s and 0s.
 
-6. **Hardware**: Hardware is the physical stuff that makes computers work. At its most basic level, it uses electricity to perform calculations. The key component is called a transistor, which is like a tiny switch that can be turned on or off. These switches working together allow computers to process information.
+6. **Programming languages**: These are special languages we use to give instructions to computers. They help humans talk to machines more easily. Some key points:
+    - **Syntax and semantics**: Syntax is like grammar for the language, and semantics is what the instructions mean.
+    - **High-level vs. low-Level languages**: High-level languages are easier for humans to understand, while low-level languages are closer to what the machine understands.
+    - **Compilation and interpretation**: These are ways to turn human-written code into instructions the computer can understand.
 
-7. **Software**: Software is like a set of instructions that tells the hardware what to do. It's written in programming languages, which are ways for humans to write instructions that computers can understand. These instructions get translated into a language that the hardware can directly follow.
+7. **Theory of computation**: This area studies what computers can do and how efficiently they can do it. It includes:
+    - **Computability theory**: This looks at what problems can be solved by computers and what problems are too hard.
+    - **Complexity theory**: This studies how much time and memory different problems need to be solved.
+    - **Automata theory**: This explores simple models of computers to understand what they can do.
 
-8. **Networking and Communication**: Networking and communication refer to how computers share information with each other. It's like sending a letter, but for computers. The information gets broken down into small packages and sent using specific rules (called protocols) that ensure the information gets to the right place and can be understood.
+8. **Building systems - software engineering**: This is about making large, complex software systems. It involves:
+    - **Development methodologies**: These are ways to organize the work of building software.
+    - **Design patterns**: These are tried-and-true solutions to common problems in software design.
+    - **Testing and debugging**: These are ways to check if the software works correctly and fix it if it doesn't.
 
-9. **Logic and Decision Making**: Computers need to make decisions based on different conditions. They use logic, which is about determining if something is true or false. It's like a series of yes/no questions that help the computer decide what to do next. This is how computers can respond differently based on different inputs or situations.
-
-In summary, computer science is about working with information by representing it as data, using step-by-step instructions (algorithms) to process this data, and building complex systems by layering simpler ideas on top of each other. It involves both the physical parts of computers (hardware) and the instructions we give them (software), and it's concerned with doing all of this efficiently and enabling computers to communicate with each other.
+In summary, computer science is about understanding how we can use machines to handle information in all sorts of ways, from simple calculations to complex systems that can process vast amounts of data.
