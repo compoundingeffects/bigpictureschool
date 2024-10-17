@@ -2,38 +2,43 @@
 layout: default
 title: Logic
 parent: Formal Science
-nav_order: 2
+nav_order: 3
 ---
 
 ## Logic
 
-1. **Basic Definition of Logic**: Logic is a way of thinking that helps us figure out if our reasoning makes sense. It's like a set of rules that tell us when our thinking is correct and when it's not.
+1. **What is logic**? Logic is a way of thinking that helps us figure out if an argument makes sense. It's about understanding how to connect different ideas to reach a conclusion that's correct. Logic gives us rules to tell the difference between good arguments and bad ones.
 
-2. **Truth and Falsehood**: The most basic idea in logic is that statements can be either true or false, nothing in between. For example, "The sky is blue" is a statement that can be true or false. This true-or-false idea is the foundation of logical thinking.
+2. **What is a statement**? In logic, a statement is a sentence that can only be true or false, not both. It's like a fact you can agree or disagree with. For example, "The sky is blue" is a statement. We can combine simple statements to make more complex ones using words like "and," "or," and "not."
 
-3. **Structure of Propositions**: In logic, we look at sentences that make a clear statement. These statements need to be structured in a way that we can decide if they're true or false. Sometimes, we use letters like P or Q to stand in for these statements so we can focus on how they relate to each other rather than what they're actually about.
+3. **What is an argument**? An argument in logic is not like a disagreement between people. Instead, it's a set of statements where some (called premises) are used to support another statement (called the conclusion). The premises are like the reasons, and the conclusion is what you're trying to prove based on those reasons.
 
-4. **Connectives and Relationships**: Logic uses special words to connect different statements. These are like the glue that holds ideas together. For example:
-* "AND" means both things must be true
-* "OR" means at least one thing must be true
-* "NOT" is used to say the opposite of something
-* "IF...THEN" is used to show that one thing leads to another
+4. **Validity and soundness**: When we talk about arguments in logic, we look at two things:
+    - **Validity**: This is about the structure of the argument. If an argument is valid, it means that if the premises are true, the conclusion must be true too.
+    - **Soundness**: An argument is sound if it's valid AND all its premises are actually true in real life.
 
-    These connectors help us build more complex ideas from simple ones.
+5. **Types of logic**: There are different ways of using logic:
+    - **Deductive logic**: Deductive logic starts with general ideas and moves to specific conclusions. If you start with true statements, you'll always end up with a true conclusion.
+    - **Inductive logic**: Inductive logic starts with specific observations and tries to make general conclusions. It's not as certain as deductive logic, but it's useful for making predictions.
+    - Abductive logic: Abductive logic is about finding the most likely explanation for something when you don't have all the information.
 
-5. **Rules of Inference**: Rules of inference are about how we can use what we know to figure out new things. In logic, if we start with true statements and follow the rules correctly, we should end up with a true conclusion. It's like following a recipe - if you use the right ingredients and follow the steps, you should get the right dish at the end.
+6. **Logical connectives**: Logical connectives are words or symbols we use to join statements together:
+    - **AND**: True only if both statements are true.
+    - **OR**: True if at least one statement is true.
+    - **NOT**: Changes a true statement to false, or a false statement to true.
+    - **IMPLIES**: True unless the first statement is true and the second is false.
 
-6. **Deduction vs. Induction**: There are two main ways of reasoning:
-* **Deduction**: Deduction is when we start with a general rule and apply it to a specific case. It's very reliable if we start with true information.
-* **Induction**: Induction is when we look at many specific cases and try to find a general rule. It's not as certain as deduction, but it's still useful.
+7. **Truth tables and logical equivalence**: A truth table is a tool that shows all the possible true/false combinations for a logical statement. It helps us understand complex statements better. Two statements are logically equivalent if they're true and false in all the same situations.
 
-    In formal logic, we usually focus on deduction because it gives us sure answers.
+8. **Laws of logic**: Laws of logic are basic rules that form the foundation of logical thinking:
+    - **Law of identity**: A thing is always equal to itself.
+    - **Law of non-contradiction**: Something can't be true and false at the same time.
+    - **Law of the excluded middle**: Something must be either true or false, with no in-between.
 
-7. **Symbolic Representation**: Logic often uses symbols instead of words. This is like using x and y in math. It helps us focus on how ideas connect without getting distracted by what the ideas are about. It makes complex thinking clearer and easier to check.
+9. **How logic works - logical reasoning**: Using logic involves these steps:
+    1. Figure out what statements are involved.
+    2. Look at how these statements are connected.
+    3. Check if the conclusion makes sense based on the other statements.
+    4. See if the statements you started with are actually true in real life.
 
-8. **Consistency, Completeness, and Soundness**: Consistency, completeness, and soundness are important qualities for a good logical system:
-* **Consistency** means the system doesn't contradict itself.
-* **Completeness** means the system can figure out all the true statements that follow from what we start with.
-* **Soundness** means if we start with true information and follow the rules, we'll always end up with true conclusions.
-
-In summary, logic starts with simple ideas about truth and how statements are structured. It then builds up a system for checking if our thinking makes sense. By using special connectors, rules for making new statements, and symbols to represent ideas, logic gives us a powerful tool for reasoning correctly.
+In summary, logic is a way of thinking that helps us figure out how to reach correct conclusions from the information we start with. Logic gives us tools to check if an argument makes sense by looking closely at how it's put together and what it's saying.
