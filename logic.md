@@ -20,7 +20,7 @@ nav_order: 3
 5. **Types of logic**: There are different ways of using logic:
     - **Deductive logic**: Deductive logic starts with general ideas and moves to specific conclusions. If you start with true statements, you'll always end up with a true conclusion.
     - **Inductive logic**: Inductive logic starts with specific observations and tries to make general conclusions. It's not as certain as deductive logic, but it's useful for making predictions.
-    - Abductive logic: Abductive logic is about finding the most likely explanation for something when you don't have all the information.
+    - **Abductive logic**: Abductive logic is about finding the most likely explanation for something when you don't have all the information.
 
 6. **Logical connectives**: Logical connectives are words or symbols we use to join statements together:
     - **AND**: True only if both statements are true.
