@@ -10,11 +10,11 @@ nav_order: 4
 1. **What is mathematics**? Mathematics is all about studying patterns and quantities, and how they relate to each other. It's like a special language that helps us describe and understand structures and changes. This could be in numbers, shapes, or even abstract ideas. At its heart, mathematics is about understanding logic and structure.
 
 2. **What is a number**? A number is a basic building block in math. It helps us count things, measure stuff, and describe how big or small something is. There are different types of numbers:
-    - **Natural numbers**: These are the counting numbers we use every day, like 1, 2, 3, 4, and so on.
-    - **Integers**: These include positive numbers, zero, and negative numbers. So -3, 0, and 5 are all integers.
-    - **Rational numbers**: These are fractions, like 1/2 or 3/4. They help us measure parts of a whole.
-    - **Real numbers**: This includes all the numbers on a number line, even tricky ones like π (pi) that go on forever.
-    - **Complex numbers**: These are special numbers that include an "imaginary" part. They're useful for solving certain types of equations.
+    - **Natural numbers**: Natural numbers are the counting numbers we use every day, like 1, 2, 3, 4, and so on.
+    - **Integers**: Integers include positive numbers, zero, and negative numbers. So -3, 0, and 5 are all integers.
+    - **Rational numbers**: Rational numbers are fractions, like 1/2 or 3/4. They help us measure parts of a whole.
+    - **Real numbers**: Real numbers include all the numbers on a number line, even tricky ones like π (pi) that go on forever.
+    - **Complex numbers**: Complex numbers are special numbers that include an "imaginary" part. They're useful for solving certain types of equations.
 
 3. **What is addition (and other operations)**? Addition is simply combining quantities. When you add 2 and 3, you're putting 2 things and 3 things together to get 5 things. Other basic operations include:
     - **Subtraction**: Taking away or finding the difference between numbers.
@@ -34,8 +34,8 @@ nav_order: 4
 8. **What is logic**? Logic is about reasoning correctly. It provides rules for making valid arguments and figuring out if statements are true or false. In math, we use logic to prove that things are true. It's the foundation for all mathematical reasoning.
 
 9. **What is calculus**? Calculus is about studying change. It has two main parts:
-    - **Differentiation**: This is about finding how fast something is changing. For example, if you're driving a car, differentiation can help you find your speed at any moment.
-    - **Integration**: This is about finding the total of something that's changing. For example, if you know your speed over time, integration can help you find the total distance you've traveled.
+    - **Differentiation**: Differentiation is about finding how fast something is changing. For example, if you're driving a car, differentiation can help you find your speed at any moment.
+    - **Integration**: Integration is about finding the total of something that's changing. For example, if you know your speed over time, integration can help you find the total distance you've traveled.
 
 10. **What is probability**? Probability is about understanding chance and uncertainty. It helps us figure out how likely something is to happen. Probability is measured on a scale from 0 (impossible) to 1 (certain). We calculate probability by dividing the number of ways something can happen by the total number of possible outcomes.
 
