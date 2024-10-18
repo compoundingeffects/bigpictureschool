@@ -14,7 +14,7 @@ nav_order: 3
 3. **What is an argument**? An argument in logic is not like a disagreement between people. Instead, it's a set of statements where some (called premises) are used to support another statement (called the conclusion). The premises are like the reasons, and the conclusion is what you're trying to prove based on those reasons.
 
 4. **Validity and soundness**: When we talk about arguments in logic, we look at two things:
-    - **Validity**: This is about the structure of the argument. If an argument is valid, it means that if the premises are true, the conclusion must be true too.
+    - **Validity**: Validity is about the structure of the argument. If an argument is valid, it means that if the premises are true, the conclusion must be true too.
     - **Soundness**: An argument is sound if it's valid AND all its premises are actually true in real life.
 
 5. **Types of logic**: There are different ways of using logic:
