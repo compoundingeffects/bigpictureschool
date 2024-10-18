@@ -2,37 +2,41 @@
 layout: default
 title: Mathematics
 parent: Formal Science
-nav_order: 3
+nav_order: 4
 ---
 
 ## Mathematics
 
-1. **Numbers and Counting**:
-At its core, numbers are just a way to represent how much of something we have. When we count, we're basically giving each object a label in order. It's like putting a name tag on each apple in a basket, one by one. The last name tag tells us how many apples we have in total.
+1. **What is mathematics**? Mathematics is all about studying patterns and quantities, and how they relate to each other. It's like a special language that helps us describe and understand structures and changes. This could be in numbers, shapes, or even abstract ideas. At its heart, mathematics is about understanding logic and structure.
 
-2. **Addition**:
-Addition is really just putting things together and seeing how many we end up with. Imagine you have two piles of marbles. If you push them together into one big pile, addition is just counting how many marbles are in that new, bigger pile.
+2. **What is a number**? A number is a basic building block in math. It helps us count things, measure stuff, and describe how big or small something is. There are different types of numbers:
+    - **Natural numbers**: These are the counting numbers we use every day, like 1, 2, 3, 4, and so on.
+    - **Integers**: These include positive numbers, zero, and negative numbers. So -3, 0, and 5 are all integers.
+    - **Rational numbers**: These are fractions, like 1/2 or 3/4. They help us measure parts of a whole.
+    - **Real numbers**: This includes all the numbers on a number line, even tricky ones like π (pi) that go on forever.
+    - **Complex numbers**: These are special numbers that include an "imaginary" part. They're useful for solving certain types of equations.
 
-3. **Subtraction**:
-Subtraction is like taking things away and seeing what's left. If you have a jar of cookies and you eat some, subtraction helps you figure out how many cookies are still in the jar. It's counting what remains after something is removed.
+3. **What is addition (and other operations)**? Addition is simply combining quantities. When you add 2 and 3, you're putting 2 things and 3 things together to get 5 things. Other basic operations include:
+    - **Subtraction**: Taking away or finding the difference between numbers.
+    - **Multiplication**: Adding a number to itself multiple times (like 3 × 4 is adding 4 three times).
+    - **Division**: Splitting into equal parts or seeing how many times one number fits into another.
 
-4. **Multiplication**:
-Multiplication is a quicker way of adding the same number multiple times. Instead of saying "3 + 3 + 3 + 3" when you have 4 groups of 3 things, multiplication lets you say "4 times 3" to get the same result. It's a shortcut for repeated addition.
+    These operations follow certain rules, like how 2 + 3 gives the same result as 3 + 2.
 
-5. **Division**:
-Division is about sharing things equally. If you're splitting a pizza among friends, division tells you how big each person's share will be. It's figuring out how to cut something into equal portions.
+4. **What is a set**? A set is a collection of different things. These could be numbers, shapes, or any other mathematical objects. Sets can be finite (with a specific number of items) or infinite (going on forever). We can combine sets in different ways, like finding all the items that are in either of two sets, or finding the items that are in both sets.
 
-6. **Fractions**:
-Fractions are parts of a whole thing. If you cut a cake into 8 slices, each slice is 1/8 of the whole cake. Fractions help us talk about pieces of things, not just whole numbers.
+5. **What is a function**? A function is like a machine that takes an input and gives an output. For every input, there's exactly one output. For example, a function might take a number and double it. So if you put in 2, it gives you 4. If you put in 3, it gives you 6. Functions help us understand how things change in relation to each other.
 
-7. **Geometry**:
-Geometry is all about understanding shapes and spaces. It's like studying the different houses on a street – some are squares, some are triangles, and they all have different sizes and properties. Geometry helps us describe and understand these shapes and how they relate to each other.
+6. **What is geometry**? Geometry is all about shapes, sizes, and how things fit in space. It deals with points (which have no size, just location), lines (which are straight and go on forever), and shapes (like triangles and circles). Geometry helps us understand how things are arranged in space.
 
-8. **Algebra**:
-Algebra is like solving puzzles with numbers. Instead of knowing all the numbers, we use letters or symbols to stand in for numbers we don't know yet. It's like playing a guessing game where you use clues (equations) to figure out what number the letter stands for.
+7. **What is algebra**? Algebra is about using symbols (usually letters) to represent unknown numbers. It involves solving equations to find out what these unknown numbers are. For example, in the equation 2x + 3 = 7, we're trying to find what number x is. Algebra helps us solve more complex problems and make generalizations about numbers.
 
-9. **Calculus**:
-Calculus is about understanding how things change. It's like tracking the speed of a car throughout a journey. Sometimes the car goes fast, sometimes slow, and calculus helps us understand and predict these changes over time.
+8. **What is logic**? Logic is about reasoning correctly. It provides rules for making valid arguments and figuring out if statements are true or false. In math, we use logic to prove that things are true. It's the foundation for all mathematical reasoning.
 
-10. **Probability**:
-Probability is about predicting how likely something is to happen. It's like trying to guess if it will rain tomorrow based on how cloudy it is today. We can't be sure, but we can make educated guesses about how likely different outcomes are.
+9. **What is calculus**? Calculus is about studying change. It has two main parts:
+    - **Differentiation**: This is about finding how fast something is changing. For example, if you're driving a car, differentiation can help you find your speed at any moment.
+    - **Integration**: This is about finding the total of something that's changing. For example, if you know your speed over time, integration can help you find the total distance you've traveled.
+
+10. **What is probability**? Probability is about understanding chance and uncertainty. It helps us figure out how likely something is to happen. Probability is measured on a scale from 0 (impossible) to 1 (certain). We calculate probability by dividing the number of ways something can happen by the total number of possible outcomes.
+
+In summary, mathematics is all about looking at how things are put together, finding repeating patterns, and figuring out how different things connect to each other.
