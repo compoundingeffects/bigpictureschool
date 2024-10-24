@@ -101,7 +101,7 @@ Interested in sharing your feedback or collaborating with us? We would love to h
 
 ### 4. [Formal Science](https://bigpictureschool.com/formal_science.html)
 * [Computer Science](https://bigpictureschool.com/computer_science.html)
-* Game Theory
+* [Game Theory](https://bigpictureschool.com/game_theory.html)
 * [Logic](https://bigpictureschool.com/logic.html)
 * [Mathematics](https://bigpictureschool.com/mathematics.html)
 * [Statistics](https://bigpictureschool.com/statistics.html)
