@@ -21,7 +21,7 @@ nav_order: 2
     1. **Cooperative vs. non-cooperative**:
         - **Cooperative**: Players can work together and make deals (like teammates in sports)
         - **Non-cooperative**: Everyone acts alone (like competing businesses)
-    2. **Zero-sum vs. Non-zero-sum**:
+    2. **Zero-sum vs. non-zero-sum**:
         - **Zero-sum**: One person's win is another's loss (like splitting a pie)
         - **Non-zero-sum**: Everyone can win or lose to different degrees (like a group project where everyone can get a good grade)
     3. **Simultaneous vs. sequential**:
