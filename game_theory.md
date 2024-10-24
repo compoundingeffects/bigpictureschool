@@ -18,13 +18,13 @@ nav_order: 2
 3. **What is rational behavior**? In game theory, we assume everyone tries to get the best outcome for themselves. It's like shopping for a good deal - you want to get the most value for your money, and you assume other shoppers are doing the same.
 
 4. **Different types of games**:
-    A. **Cooperative vs. non-cooperative**:
+    1. **Cooperative vs. non-cooperative**:
         - **Cooperative**: Players can work together and make deals (like teammates in sports)
         - **Non-cooperative**: Everyone acts alone (like competing businesses)
-    B. **Zero-sum vs. Non-zero-sum**:
+    2. **Zero-sum vs. Non-zero-sum**:
         - **Zero-sum**: One person's win is another's loss (like splitting a pie)
         - **Non-zero-sum**: Everyone can win or lose to different degrees (like a group project where everyone can get a good grade)
-    C. **Simultaneous vs. sequential**:
+    3. **Simultaneous vs. sequential**:
         - **Simultaneous**: Everyone decides at the same time (like rock-paper-scissors)
         - **Sequential**: Players take turns (like chess)
 
