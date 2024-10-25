@@ -58,7 +58,6 @@ Interested in sharing your feedback or collaborating with us? We would love to h
   * Finance
   * [Management](https://bigpictureschool.com/management.html)
   * Marketing
-* Cultural Studies
 * Economics
 * Education
 * Geography
@@ -70,7 +69,6 @@ Interested in sharing your feedback or collaborating with us? We would love to h
   * [Property Law](https://bigpictureschool.com/property_law.html)
   * [Tort Law](https://bigpictureschool.com/tort_law.html)
 * Linguistics
-* [Media Studies](https://bigpictureschool.com/media_studies.html)
 * [Political Science](https://bigpictureschool.com/political_science.html)
   * Comparative Politics
   * International Relations
@@ -79,7 +77,6 @@ Interested in sharing your feedback or collaborating with us? We would love to h
   * Public Policy
 * Psychology
 * Religious Studies
-* Social Work
 * Sociology
 
 ### 3. [Humanities](https://bigpictureschool.com/humanities.html)
