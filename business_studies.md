@@ -5,7 +5,8 @@ parent: Social Science
 nav_order: 3
 has_children: true
 ---
-# **Business Studies**
+
+## Business Studies
 
 1. **What is business studies**? Think of business studies as learning about how people and companies handle money, make things, provide services, and create something valuable. It's like understanding how a company runs - from making decisions to selling products and managing people.
 
