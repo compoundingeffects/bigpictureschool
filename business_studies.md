@@ -8,7 +8,7 @@ has_children: true
 
 ## Business Studies
 
-1. **What is business studies**? Think of business studies as learning about how people and companies handle money, make things, provide services, and create something valuable. It's like understanding how a company runs - from making decisions to selling products and managing people.
+1. **What is business studies**? Business studies is learning about how people and companies handle money, make things, provide services, and create something valuable. It's like understanding how a company runs - from making decisions to selling products and managing people.
 
 2. **What is a business**? A business is simply an organization that provides something people want (like products or services) in exchange for money. It's like a bakery that turns flour, sugar, and other ingredients (inputs) into cakes (outputs) that people want to buy. Every business:
     - Uses raw materials and resources
@@ -16,7 +16,7 @@ has_children: true
     - Creates final products
     - Listens to what customers think to make improvements
 
-3. **What are resources**? Think of resources as the building blocks a business needs. These include:
+3. **What are resources**? Resources are the building blocks a business needs. These include:
     - People who work there
     - Money and equipment
     - Natural materials like wood or water
@@ -29,7 +29,7 @@ has_children: true
     - Earning more money than what it costs to make something
     - Giving customers something they think is worth the price
 
-5. **What is a market**? Think of a market like a farmers' market, but bigger. It's where businesses and customers come together. It works on two main things:
+5. **What is a market**? A market is like a farmers' market, but bigger. It's where businesses and customers come together. It works on two main things:
     - How much stuff businesses want to sell (supply)
     - How much stuff people want to buy (demand)
     
@@ -47,7 +47,7 @@ has_children: true
     - It allows the business to grow bigger
     - It rewards people who invested in the business
     
-    Think of it like saving money after paying all your expenses.
+    It's like saving money after paying all your expenses.
 
 8. **Business functions**: Business functions are the different jobs that keep a business running:
     - Making products
