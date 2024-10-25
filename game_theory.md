@@ -20,14 +20,14 @@ nav_order: 2
 
 4. **Different types of games**:
     1. **Cooperative vs. non-cooperative**:
-        - **Cooperative**: Players can work together and make deals (like teammates in sports)
-        - **Non-cooperative**: Everyone acts alone (like competing businesses)
+        - **Cooperative**: Players can work together and make deals (like teammates in sports).
+        - **Non-cooperative**: Everyone acts alone (like competing businesses).
     2. **Zero-sum vs. non-zero-sum**:
-        - **Zero-sum**: One person's win is another's loss (like splitting a pie)
-        - **Non-zero-sum**: Everyone can win or lose to different degrees (like a group project where everyone can get a good grade)
+        - **Zero-sum**: One person's win is another's loss (like splitting a pie).
+        - **Non-zero-sum**: Everyone can win or lose to different degrees (like a group project where everyone can get a good grade).
     3. **Simultaneous vs. sequential**:
-        - **Simultaneous**: Everyone decides at the same time (like rock-paper-scissors)
-        - **Sequential**: Players take turns (like chess)
+        - **Simultaneous**: Everyone decides at the same time (like rock-paper-scissors).
+        - **Sequential**: Players take turns (like chess).
 
 5. **Nash equilibrium**: Nash equilibrium is when everyone's happy enough with their choice that they wouldn't change it, assuming others stick to their choices too. It's like when everyone at a four-way stop sign follows the rules - nobody gains by breaking them if others follow them.
 
@@ -38,14 +38,14 @@ nav_order: 2
 7. **Payoff matrix**: Payoff matrix is just a chart showing what each player gets based on everyone's choices. Think of it like a menu showing prices for different meal combinations.
 
 7. **The prisoner's dilemma**: This famous example shows how two people might not help each other even when it's best for both. Imagine two suspects being questioned separately:
-    - If both stay quiet, they get light sentences
-    - If one talks and one stays quiet, the talker goes free while the other gets a harsh sentence
-    - If both talk, they both get medium sentences
+    - If both stay quiet, they get light sentences.
+    - If one talks and one stays quiet, the talker goes free while the other gets a harsh sentence.
+    - If both talk, they both get medium sentences.
     Usually, both end up talking because they're afraid of getting the worst outcome.
 
 8. **Repeated games and evolution**: When games are played multiple times:
-    - Players can learn from past experiences
-    - They might develop strategies like "I'll be nice if you're nice"
-    - Successful strategies become more common over time, like popular trends catching on
+    - Players can learn from past experiences.
+    - They might develop strategies like "I'll be nice if you're nice."
+    - Successful strategies become more common over time, like popular trends catching on.
 
 In summary, game theory looks at how people make choices when their success depends not just on what they do, but also on what others around them decide to do.
