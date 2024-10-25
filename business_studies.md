@@ -42,7 +42,7 @@ has_children: true
     
     This is just like restaurants in a food court compete for your business.
 
-7. **Profit**? Profit is the money left over after paying all the bills. It's important because:
+7. **Profit**: Profit is the money left over after paying all the bills. It's important because:
     - It helps the business stay open
     - It allows the business to grow bigger
     - It rewards people who invested in the business
