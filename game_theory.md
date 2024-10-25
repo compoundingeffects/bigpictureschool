@@ -13,6 +13,7 @@ nav_order: 2
     - **Players**: Players are the people (or companies, countries, etc.) making decisions
     - **Choices**: Each player has different options they can pick from
     - **Results**: What each player gets based on everyone's choices combined
+    
     Think of it like playing rock-paper-scissors - you're a player, you have three choices, and whether you win depends on what both you and your opponent choose.
 
 3. **What is rational behavior**? In game theory, we assume everyone tries to get the best outcome for themselves. It's like shopping for a good deal - you want to get the most value for your money, and you assume other shoppers are doing the same.
