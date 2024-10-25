@@ -70,6 +70,6 @@ has_children: true
     - Being fair to workers and customers
     - Being honest about how the company is run
     
-    Think of it as being a good citizen, but for businesses.
+    It's like being a good citizen, but for businesses.
 
 In summary, business studies is learning how companies turn their available resources (like people, money, and materials) into something customers want and will pay for.
