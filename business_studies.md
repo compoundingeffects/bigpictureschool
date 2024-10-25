@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Business Studies
+title: Business Studies1
 parent: Social Science
 nav_order: 3
 has_children: true
