@@ -8,7 +8,7 @@ nav_order: 3
 
 ## Management
 
-1. **What is management?** Management is the process of organizing and guiding resources—like people, tools, money, and information—to achieve specific goals. Think of management as the way an organization, team, or even a project stays on track and gets things done. 
+1. **What is management**? Management is the process of organizing and guiding resources—like people, tools, money, and information—to achieve specific goals. Think of management as the way an organization, team, or even a project stays on track and gets things done. 
 
     At its core, management involves two main actions:
     - **Coordinating resources**: This means making sure all the pieces, like people and equipment, are working together smoothly and efficiently.
@@ -16,7 +16,7 @@ nav_order: 3
 
     The purpose of management is to make the best use of resources to reach objectives efficiently (with as little waste as possible) and effectively (achieving the intended goals). It’s the process that keeps everything and everyone aligned and moving forward toward success.
 
-2. **What are resources?** Resources are the basic things a manager needs to achieve goals. They come in different types:
+2. **What are resources**? Resources are the basic things a manager needs to achieve goals. They come in different types:
 
     - **Human resources**: This is the team—everyone who brings their skills, knowledge, and energy to work.
     - **Physical resources**: These are the physical tools needed to get work done, like equipment, buildings, computers, or raw materials.
@@ -25,7 +25,7 @@ nav_order: 3
 
     A manager’s job is to use these resources wisely, avoiding waste and getting the best results.
 
-3. **What is a goal?** A goal is what a team or company wants to achieve, like increasing sales, launching a product, or growing the business. Goals give direction and purpose to everyone’s work. 
+3. **What is a goal**? A goal is what a team or company wants to achieve, like increasing sales, launching a product, or growing the business. Goals give direction and purpose to everyone’s work. 
 
     Goals often have smaller, measurable parts called:
     - **Objectives**: These are specific steps that, when achieved, help reach the bigger goal.
@@ -33,7 +33,7 @@ nav_order: 3
 
     Management focuses on keeping everyone and everything aimed toward these goals.
 
-4. **What is coordination?** Coordination means organizing and aligning resources and activities to work well together. It’s like making sure every part of a machine is working in sync.
+4. **What is coordination**? Coordination means organizing and aligning resources and activities to work well together. It’s like making sure every part of a machine is working in sync.
 
     Coordination includes:
     - **Communication**: Ensuring everyone knows what’s going on and what they need to do.
@@ -42,14 +42,14 @@ nav_order: 3
 
     The goal of coordination is to avoid wasted effort, prevent duplicated work, and ensure all parts of the team move smoothly toward the goal.
 
-5. **What is efficiency and effectiveness?** In management, success often depends on two things:
+5. **What is efficiency and effectiveness**? In management, success often depends on two things:
 
     - **Efficiency**: Using resources like time, money, and effort wisely to get things done with as little waste as possible. It’s about “doing things right.”
     - **Effectiveness**: Actually achieving the intended goal. This is about “doing the right things”—working toward the right objectives, even if it takes more resources.
 
     Good management is a balance of both: working smart (efficiently) and working toward the right outcomes (effectively).
 
-6. **What are the functions of management?** Management has four main jobs, or “functions”:
+6. **What are the functions of management**? Management has four main jobs, or “functions”:
 
     - **Planning**: Figuring out what needs to be done, setting goals, and deciding the best way to reach those goals. It’s about understanding the current situation, predicting what’s needed, and making a plan.
     - **Organizing**: Structuring the team and resources to best support the plan. This means setting up roles, responsibilities, and clear lines of communication so everyone knows their part.
@@ -58,7 +58,7 @@ nav_order: 3
 
     These functions together ensure that management guides the team effectively toward its goals.
 
-7. **What is decision-making?** Decision-making is the process of choosing the best course of action among options. It involves:
+7. **What is decision-making**? Decision-making is the process of choosing the best course of action among options. It involves:
 
     - **Problem identification**: Recognizing when a decision is needed.
     - **Data collection and analysis**: Gathering information to understand the problem or opportunity.
@@ -67,7 +67,7 @@ nav_order: 3
 
     Managers make decisions to solve problems and move the organization closer to its goals.
 
-8. **What is leadership?** Leadership is the skill of guiding and inspiring others to work toward common goals. It’s about more than just giving orders; it involves:
+8. **What is leadership**? Leadership is the skill of guiding and inspiring others to work toward common goals. It’s about more than just giving orders; it involves:
 
     - **Influence**: Persuading and motivating people to take action.
     - **Vision**: Setting a clear, compelling direction that others want to follow.
@@ -75,7 +75,7 @@ nav_order: 3
 
     Good leaders encourage and empower their teams to do their best, creating a positive work environment and achieving goals together.
 
-9. **What is organizational structure?** An organizational structure is the way a company or team is set up to operate. It defines how roles, responsibilities, and authority are organized. Different structures have different benefits:
+9. **What is organizational structure**? An organizational structure is the way a company or team is set up to operate. It defines how roles, responsibilities, and authority are organized. Different structures have different benefits:
 
     - **Hierarchy**: A traditional structure with clear authority levels, often seen in large organizations.
     - **Flat structure**: A less formal structure with fewer levels, promoting teamwork and faster decision-making.
