@@ -22,7 +22,7 @@ has_children: true
 
     So, from the start, laws are meant to balance individual freedom with the need for a stable society.
 
-3. **What Are the basic components of law**?
+3. **What are the basic components of law**?
     - **Rules and norms**:
         - **Rules** are clear instructions or restrictions on behavior (e.g., "Do not steal").
         - **Norms** are common expectations about how people should act, often rooted in culture and values. Laws often formalize these norms.
