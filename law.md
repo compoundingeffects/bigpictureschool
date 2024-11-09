@@ -34,58 +34,54 @@ has_children: true
 
 4. **The structure of law**: 
 
-- **Public law vs. private law**: 
-    - **Public law** deals with issues that affect society as a whole, such as criminal law (punishing crimes) and constitutional law (rules about government powers).
-    - **Private law** deals with relationships between individuals, such as contracts and property ownership.
+    - **Public law vs. private law**: 
+        - **Public law** deals with issues that affect society as a whole, such as criminal law (punishing crimes) and constitutional law (rules about government powers).
+        - **Private law** deals with relationships between individuals, such as contracts and property ownership.
 
-- **Substantive law vs. procedural law**: 
-    - **Substantive law** defines what your rights and responsibilities are (e.g., laws against theft).
-    - **Procedural law** explains how those rights and duties are enforced (e.g., court rules).
+    - **Substantive law vs. procedural law**: 
+        - **Substantive law** defines what your rights and responsibilities are (e.g., laws against theft).
+        - **Procedural law** explains how those rights and duties are enforced (e.g., court rules).
 
     In simple terms, substantive law is about **what** you can or can't do, and procedural law is about **how** the legal process works.
 
 5. **The foundations of legal systems**:
 
-- **Natural law vs. positive law**: 
-    - **Natural Llw** is based on universal moral principles believed to be inherent in human nature (e.g., fairness).
-    - **Positive law** is created by society’s institutions, like governments, and is not necessarily based on moral principles (e.g., speed limits).
+    - **Natural law vs. positive law**: 
+        - **Natural law** is based on universal moral principles believed to be inherent in human nature (e.g., fairness).
+        - **Positive law** is created by society’s institutions, like governments, and is not necessarily based on moral principles (e.g., speed limits).
 
-    Legal systems often mix both: laws are created and enforced by humans but often reflect ideas of what is fair or just.
+        Legal systems often mix both: laws are created and enforced by humans but often reflect ideas of what is fair or just.
 
-- **Legal traditions**:
-    - **Common law** uses past court decisions as guides for future cases.
-    - **Civil law** relies more on written codes and statutes.
-    - **Religious law** is based on religious teachings and texts.
+    - **Legal traditions**:
+        - **Common law** uses past court decisions as guides for future cases.
+        - **Civil law** relies more on written codes and statutes.
+        - **Religious law** is based on religious teachings and texts.
 
-    The way laws are applied and interpreted depends on history, values, and customs.
+        The way laws are applied and interpreted depends on history, values, and customs.
 
 6. **Sources of law**:
+   
+    - **Constitutions**: The highest form of law that outlines how the government is organized and what powers it has.
+    - **Legislation (statutes)**: Laws created by elected bodies like parliaments, setting specific rules for behavior.
+    - **Judicial decisions (case law)**: Courts interpret laws and their decisions guide future cases.
+    - **Regulations**: Rules made by government agencies to enforce specific laws.
 
-- **Constitutions**: The highest form of law that outlines how the government is organized and what powers it has.
+    These sources establish who has authority, what the rules are, and how they are enforced.
 
-- **Legislation (statutes)**: Laws created by elected bodies like parliaments, setting specific rules for behavior.
+8. **How laws are made and enforced**: 
 
-- **Judicial decisions (case law)**: Courts interpret laws and their decisions guide future cases.
+    - **Legislation**: New laws are proposed, debated, and passed by elected officials.
+    - **Judicial interpretation**: Courts settle disputes and clarify laws.
+    - **Enforcement**: Police and other agencies make sure people follow the laws.
 
-- **Regulations**: Rules made by government agencies to enforce specific laws.
-
-These sources establish who has authority, what the rules are, and how they are enforced.
-
-
-7. **How laws are made and enforced**: 
-
-- **Legislation**: New laws are proposed, debated, and passed by elected officials.
-- **Judicial Interpretation**: Courts settle disputes and clarify laws.
-- **Enforcement**: Police and other agencies make sure people follow the laws.
-
-Laws provide rules, courts decide what they mean in specific cases, and enforcement ensures compliance.
+    Laws provide rules, courts decide what they mean in specific cases, and enforcement ensures compliance.
 
 8. **Fundamental legal concepts**: 
 
-- **Justice**: The idea that people should be treated fairly and with respect for their rights.
-- **Equity**: Providing fair outcomes, even if it means changing how rules apply in certain cases.
-- **Rule of law**: No one is above the law, and everyone must be treated equally under it.
+    - **Justice**: The idea that people should be treated fairly and with respect for their rights.
+    - **Equity**: Providing fair outcomes, even if it means changing how rules apply in certain cases.
+    - **Rule of law**: No one is above the law, and everyone must be treated equally under it.
 
-These ideas guide how laws are created and applied to ensure fairness and order.
+    These ideas guide how laws are created and applied to ensure fairness and order.
 
 9. **Building law from first principles**: Law exists to create fairness, order, and predictability in how people live together. It is built on ideas like justice, rights, and rules for how society functions. Legal systems continue to develop by asking fundamental questions, adjusting rules, and making sure they work well in practice. Law structures human interaction around principles of fairness and order.
