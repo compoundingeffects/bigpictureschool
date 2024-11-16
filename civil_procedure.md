@@ -27,9 +27,9 @@ nav_order: 1
 
     - **Pleadings**:
         - **What they are**: Pleadings are written documents where the people involved explain their side of the case.
-        - **Complaint**: The first document where the person bringing the case (plaintiff) explains what they want and why.
-        - **Answer**: The response from the other person (defendant), either admitting or denying the claims and possibly raising their own defenses.
-        - **Motions to dismiss**: Requests to the court to stop the case early for specific legal reasons.
+            - **Complaint**: The first document where the person bringing the case (plaintiff) explains what they want and why.
+            - **Answer**: The response from the other person (defendant), either admitting or denying the claims and possibly raising their own defenses.
+            - **Motions to dismiss**: Requests to the court to stop the case early for specific legal reasons.
         - **Why it matters**: These documents clearly lay out the claims and defenses, so everyone knows what the dispute is about.
 
     - **Discovery**:
