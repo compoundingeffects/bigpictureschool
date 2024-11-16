@@ -33,8 +33,7 @@ nav_order: 1
         - **Why it matters**: These documents clearly lay out the claims and defenses, so everyone knows what the dispute is about.
 
     - **Discovery**:
-        - **What it is**: This phase allows both sides to gather evidence from each other before trial.
-        - **Tools of discovery**: Examples include depositions (witness interviews under oath), interrogatories (written questions), and requests for documents.
+        - **What it is**: This phase allows both sides to gather evidence from each other before trial. Tools of discovery include depositions (witness interviews under oath), interrogatories (written questions), and requests for documents.
         - **Why it matters**: This prevents surprises at trial by making sure both sides know what evidence the other has. It also encourages settlements when facts are clearly laid out.
 
     - **Pre-Trial motions and conferences**:
@@ -53,9 +52,7 @@ nav_order: 1
         - **What it is**: If a party believes a legal error occurred, they can ask a higher court to review the decision.
         - **Why it matters**: Appeals help correct mistakes and make sure laws are applied consistently.
 
-3. **Procedural rules and principles**:
-
-    Civil procedure relies on specific rules and principles that ensure cases are handled fairly:
+3. **Procedural rules and principles**: Civil procedure relies on specific rules and principles that ensure cases are handled fairly:
 
     - **Rules of civil procedure**: These rules dictate how cases progress (e.g., deadlines).
     - **Principles of due process**: This ensures everyone gets a fair opportunity to present their side (e.g., being notified of hearings).
