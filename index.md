@@ -4,7 +4,7 @@ title: Home
 nav_order: 1
 ---
 
-## Welcome to Big Picture School
+# Welcome to Big Picture School
 
 The world is changing fast. A holistic perspective and nimble thinking are increasingly essential. Big Picture School uses AI-assisted content to teach the core ideas of different academic fields. Why? To help induce interdisciplinary thought, and the creativity that results from that.
 <p>
