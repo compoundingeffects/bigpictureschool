@@ -5,7 +5,7 @@ nav_order: 2
 has_children: true
 ---
 
-# **Social Science**
+## Social Science
 
 At its most basic level, social science is the systematic study of human behavior, relationships, and societies. But to truly understand it, let's start with even more fundamental concepts:
 
