@@ -19,13 +19,13 @@ The foundation of natural science rests on a few key philosophical assumptions:
 
 Building on these foundations, natural science develops through a process of:
 
-- Observation: Scientists carefully observe natural phenomena, noting patterns and variations. For example, early astronomers tracked the movement of planets across the night sky.
+- **Observation**: Scientists carefully observe natural phenomena, noting patterns and variations. For example, early astronomers tracked the movement of planets across the night sky.
 
-- Hypothesis Formation: Based on observations, scientists propose tentative explanations for how things work. These hypotheses must be testable - meaning we can devise experiments to potentially prove them wrong.
+- **Hypothesis Formation**: Based on observations, scientists propose tentative explanations for how things work. These hypotheses must be testable - meaning we can devise experiments to potentially prove them wrong.
 
-- Experimentation: Scientists design and conduct experiments to test their hypotheses, controlling variables to isolate cause and effect relationships. Consider how Galileo tested ideas about gravity by dropping objects of different weights.
+- **Experimentation**: Scientists design and conduct experiments to test their hypotheses, controlling variables to isolate cause and effect relationships. Consider how Galileo tested ideas about gravity by dropping objects of different weights.
 
-- Theory Development: When hypotheses survive repeated testing and explain observations consistently, they can develop into theories - comprehensive explanations of aspects of the natural world. Think of Darwin's theory of evolution or Einstein's theory of relativity.
+- **Theory Development**: When hypotheses survive repeated testing and explain observations consistently, they can develop into theories - comprehensive explanations of aspects of the natural world. Think of Darwin's theory of evolution or Einstein's theory of relativity.
 
 This process leads to different branches of natural science, each building on more fundamental ones:
 
