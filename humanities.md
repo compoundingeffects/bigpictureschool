@@ -21,9 +21,7 @@ From these two fundamental principles - our capacity for meaning-making and our 
 
 These disciplines are interconnected because they all stem from the same fundamental human capacities. They each represent different approaches to understanding human experience and expression.
 
-**Why do we need the humanities**?
-
-Because they help us:
+**Why do we need the humanities**? Because they help us:
 
 1. Understand ourselves and our place in the world
 2. Develop critical thinking and interpretative skills
