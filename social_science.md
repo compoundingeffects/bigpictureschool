@@ -6,7 +6,7 @@ has_children: true
 ---
 
 # **Social Science**
-<br/>
+
 At its most basic level, social science is the systematic study of human behavior, relationships, and societies. But to truly understand it, let's start with even more fundamental concepts:
 
   1. **The Observable Nature of Human Behavior**: Human beings act in ways we can observe, document, and analyze. Just as physical scientists study the motion of particles, social scientists study the "motion" of human actions and interactions. Every time someone makes a choice, interacts with others, or participates in a group, they're creating observable data points.
