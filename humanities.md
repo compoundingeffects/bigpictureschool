@@ -8,13 +8,8 @@ has_children: true
 
 At its most basic level, the humanities are the study of human experience and human expression. But to truly understand what this means, let's start with even more fundamental questions:
 
-**What makes us human**?
-
-Humans are beings capable of creating and understanding meaning. We tell stories, make art, contemplate our existence, reason about right and wrong, and try to make sense of our experiences. This capacity for meaning-making is our first principle.
-
-**How do we express and understand meaning**?
-
-We do this through language, symbols, images, music, and various other forms of creative expression. We also do it through systematic analysis and interpretation of these expressions. This is our second principle.
+- **What makes us human**? Humans are beings capable of creating and understanding meaning. We tell stories, make art, contemplate our existence, reason about right and wrong, and try to make sense of our experiences. This capacity for meaning-making is our first principle.
+- **How do we express and understand meaning**? We do this through language, symbols, images, music, and various other forms of creative expression. We also do it through systematic analysis and interpretation of these expressions. This is our second principle.
 
 From these two fundamental principles - our capacity for meaning-making and our methods of expression - we can derive the core domains of the humanities:
 
