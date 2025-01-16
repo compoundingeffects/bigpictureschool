@@ -7,7 +7,6 @@ has_children: true
 
 ## Natural Science 
 <br/>
-
 At its core, natural science is the systematic study of the physical and natural world through observation, experimentation, and evidence-based reasoning. But to truly understand it from first principles, let's break this down further.
 
 The foundation of natural science rests on a few key philosophical assumptions:
