@@ -4,7 +4,7 @@ title: Applied Science
 nav_order: 5
 has_children: true
 ---
-# **Applied Science**
+## Applied Science
 
 First, let's understand what science itself is at its core. Science is a systematic method of understanding the natural world through observation, hypothesis formation, experimentation, and validation. It's our structured way of asking and answering questions about reality.
 
