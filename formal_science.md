@@ -12,13 +12,13 @@ Formal science is the study of formal systems - abstract structures that are def
 
 To understand this better, let's break down the fundamental characteristics of formal science:
 
-1) **Foundation in Logic**: At its most basic level, formal science rests on logical reasoning. This means every conclusion must follow necessarily from its premises through valid logical steps. For example, in mathematics, if we accept that 1+1=2 and 2+2=4, we must accept that 1+1+2=4 because it follows logically from our premises.
+1. **Foundation in Logic**: At its most basic level, formal science rests on logical reasoning. This means every conclusion must follow necessarily from its premises through valid logical steps. For example, in mathematics, if we accept that 1+1=2 and 2+2=4, we must accept that 1+1+2=4 because it follows logically from our premises.
 
-2) **Axioms and Rules**: Formal sciences build upon axioms - statements accepted as true without proof - and clearly defined rules of inference. Think of axioms as the "game rules" of formal systems. In geometry, for instance, one axiom is that through any two points, exactly one straight line can be drawn.
+2. **Axioms and Rules**: Formal sciences build upon axioms - statements accepted as true without proof - and clearly defined rules of inference. Think of axioms as the "game rules" of formal systems. In geometry, for instance, one axiom is that through any two points, exactly one straight line can be drawn.
 
-3) **Abstract Nature**: Unlike physical sciences that deal with tangible objects, formal sciences work with abstract concepts. These abstractions allow us to discover patterns and relationships that exist independently of physical reality. For example, the concept of a perfect circle exists in mathematics even though no physically perfect circle exists in nature.
+3. **Abstract Nature**: Unlike physical sciences that deal with tangible objects, formal sciences work with abstract concepts. These abstractions allow us to discover patterns and relationships that exist independently of physical reality. For example, the concept of a perfect circle exists in mathematics even though no physically perfect circle exists in nature.
 
-4) **Deductive Reasoning**: Formal sciences primarily use deductive reasoning rather than inductive reasoning. This means moving from general principles to specific conclusions with absolute certainty, rather than making general conclusions from specific observations.
+4. **Deductive Reasoning**: Formal sciences primarily use deductive reasoning rather than inductive reasoning. This means moving from general principles to specific conclusions with absolute certainty, rather than making general conclusions from specific observations.
 
 Let's see how these principles manifest in different branches of formal science:
 
