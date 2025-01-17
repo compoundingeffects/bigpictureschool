@@ -14,15 +14,15 @@ Now, what makes science "applied"? Applied science is the practical use of scien
 
 - **The Bridge Between Theory and Practice**: Applied science serves as a crucial bridge. It starts with theoretical understanding (like the physics of electricity) and transforms it into practical solutions (like designing an electric motor). This transformation process follows several essential steps:
 
-    1. Understanding the fundamental principles: First, we must deeply grasp the basic scientific laws and theories relevant to our problem. For example, to create a new battery, we need to understand electrochemistry at a fundamental level.
+    1. **Understanding the fundamental principles**: First, we must deeply grasp the basic scientific laws and theories relevant to our problem. For example, to create a new battery, we need to understand electrochemistry at a fundamental level.
 
-    2. Problem identification: We clearly define a specific real-world problem or need. What exactly are we trying to solve or improve?
+    2. **Problem identification**: We clearly define a specific real-world problem or need. What exactly are we trying to solve or improve?
 
-    3. Constraint analysis: We identify the practical limitations we must work within - physical laws, available materials, cost constraints, and other real-world factors.
+    3. **Constraint analysis**: We identify the practical limitations we must work within - physical laws, available materials, cost constraints, and other real-world factors.
 
-    4. Solution design: We use our understanding of scientific principles to design potential solutions that work within our identified constraints.
+    4. **Solution design**: We use our understanding of scientific principles to design potential solutions that work within our identified constraints.
 
-    5. Testing and refinement: We test our solutions, measure their effectiveness, and refine them based on real-world performance.
+    5. **Testing and refinement**: We test our solutions, measure their effectiveness, and refine them based on real-world performance.
 
     Let's look at a concrete example to illustrate this first principles approach: the development of solar panels.
 
