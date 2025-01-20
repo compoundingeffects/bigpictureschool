@@ -27,10 +27,10 @@ Let's consider a concrete example: A modern democracy like South Korea. Politica
 Each of these questions can be studied using scientific methods: gathering data, forming hypotheses, testing theories, and drawing conclusions. This is what makes political science a science - it applies rigorous methodology to understand political phenomena.
 
 Building on these foundations, political science branches into several key areas:
-1. Political theory - examining fundamental concepts like justice, liberty, and equality
-2. Comparative politics - studying how different political systems work
-3. International relations - analyzing how political units interact
-4. Public policy - investigating how governments solve problems
-5. Political behavior - understanding how individuals act in political contexts
+1. **Political theory**: examining fundamental concepts like justice, liberty, and equality
+2. **Comparative politics**: studying how different political systems work
+3. **International relations**: analyzing how political units interact
+4. **Public policy**: investigating how governments solve problems
+5. **Political behavior**: understanding how individuals act in political contexts
 
 All these branches connect back to the core question: How do humans organize themselves to make collective decisions? This question becomes increasingly complex as societies grow larger and more interconnected.
