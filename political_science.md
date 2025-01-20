@@ -7,7 +7,7 @@ has_children: true
 ---
 # **Political Science**
 
-Political science, at its core, is the systematic study of how humans organize themselves to make collective decisions and distribute power. To understand this fully, let's start with some basic human realities:
+Political science, at its core, is the systematic study of how humans organize themselves to make collective decisions and distribute power. To understand this fully, let's start with some basic human realities.
 
 First, humans are social creatures who must live together in groups to survive and thrive. This creates a fundamental need for coordination and decision-making. When people live together, they must answer essential questions: Who gets what resources? How are disputes settled? Who can use force, and when? 
 
