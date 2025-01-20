@@ -5,7 +5,7 @@ parent: Social Science
 nav_order: 10
 has_children: true
 ---
-# **Political Science**
+## Political Science**
 
 Political science, at its core, is the systematic study of how humans organize themselves to make collective decisions and distribute power. To understand this fully, let's start with some basic human realities.
 
