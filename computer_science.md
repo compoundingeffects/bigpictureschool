@@ -34,6 +34,7 @@ This process is computation, whether done by human or machine. The key principle
 As we build up from these basics, we encounter one of computer science's most powerful principles: abstraction. Abstraction means hiding complicated details behind simpler interfaces. For instance, when you use a smartphone, you don't need to understand how transistors work - you interact with higher-level abstractions like apps and buttons.
 
 Computer science builds up through many layers of abstraction:
+
 - Physical layer (transistors and circuits)
 - Logic gates (AND, OR, NOT operations)
 - Machine instructions (basic computer operations)
