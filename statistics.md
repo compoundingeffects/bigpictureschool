@@ -25,7 +25,6 @@ But how can we be confident about our conclusions? This brings us to probability
 Building on these foundations, statistics develops two main branches:
 
 - **Descriptive Statistics**: This helps us summarize and understand the data we have. When we calculate an average height from our 1,000 people, we're using descriptive statistics. It's about organizing and presenting what we observe.
-
 - **Inferential Statistics**: This is where statistics becomes truly powerful. It helps us make educated guesses about the population using our sample. If our 1,000 people have an average height of 170cm, inferential statistics helps us estimate the true population average and, crucially, tells us how confident we can be in this estimate.
 
 This leads us to perhaps the most profound principle of statistics: It provides a formal framework for learning from experience. When scientists test new medicines, when economists forecast growth, or when companies decide which products to develop, they're all using statistical methods to learn from data and make better decisions under uncertainty.
