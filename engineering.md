@@ -18,11 +18,11 @@ Humans have needs and desires that require manipulating the physical world - we 
 
 So what makes engineering distinct from other problem-solving approaches? Engineering combines three core elements in a unique way:
 
-1. Scientific Understanding: Engineers must deeply grasp the relevant natural laws and principles. For example, civil engineers need to understand forces, materials, and structural mechanics to build bridges that won't collapse.
+1. **Scientific Understanding**: Engineers must deeply grasp the relevant natural laws and principles. For example, civil engineers need to understand forces, materials, and structural mechanics to build bridges that won't collapse.
 
-2. Mathematical Modeling: Engineers use mathematics to precisely describe physical systems and predict their behavior. An electrical engineer uses calculus and differential equations to model how electrical signals will flow through a circuit.
+2. **Mathematical Modeling**: Engineers use mathematics to precisely describe physical systems and predict their behavior. An electrical engineer uses calculus and differential equations to model how electrical signals will flow through a circuit.
 
-3. Practical Implementation: Engineers must translate theoretical understanding into real-world solutions while considering constraints like cost, safety, and feasibility. A chemical engineer designing a manufacturing process needs to balance ideal chemical reactions with practical limitations of equipment and materials.
+3. **Practical Implementation**: Engineers must translate theoretical understanding into real-world solutions while considering constraints like cost, safety, and feasibility. A chemical engineer designing a manufacturing process needs to balance ideal chemical reactions with practical limitations of equipment and materials.
 
 Building up from these fundamentals, we can see that engineering is an iterative process:
 
