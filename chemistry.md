@@ -27,7 +27,7 @@ At its core, chemistry is the study of matter - everything that has mass and tak
 - How molecules will form
 - Which arrangements atoms prefer
 
-From these basic principles, we can understand increasingly complex phenomena:
+From these principles, we can understand increasingly complex phenomena:
 - How molecules form and behave
 - Why materials have different properties
 - How living organisms function
