@@ -18,9 +18,9 @@ The number of protons in an atom's nucleus determines which element it is. This 
 The way atoms interact is governed by their electron configurations. Electrons occupy different energy levels or "shells" around the nucleus, and atoms generally seek to achieve stable electron configurations by sharing, gaining, or losing electrons. This fundamental principle drives chemical bonding.
 
 Chemical bonding occurs in several ways:
-1. **Ionic bonding** - when electrons are transferred between atoms (like in table salt, NaCl)
-2. **Covalent bonding** - when atoms share electrons (like in water, H2O)
-3. **Metallic bonding** - when electrons are shared across many atoms in a metal structure
+1. Ionic bonding - when electrons are transferred between atoms (like in table salt, NaCl)
+2. Covalent bonding - when atoms share electrons (like in water, H2O)
+3. Metallic bonding - when electrons are shared across many atoms in a metal structure
 
 These bonds lead to the formation of molecules and compounds. The properties of these larger structures emerge from the underlying atomic interactions. For instance, water's unique properties (surface tension, ability to dissolve many substances) come from its molecular structure and the hydrogen bonding between molecules.
 
