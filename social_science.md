@@ -9,11 +9,17 @@ has_children: true
 
 Social science, at its most basic level, is the systematic study of human behavior, relationships, and societies. To understand it from first principles, we need to examine its core components and how they interconnect.
 
-**Fundamental Building Blocks**:
+**Individual Human Behavior** 
 
-- **Individual Human Behavior**: At the most elementary level, social science begins with studying how individual humans think, make decisions, and act. This includes examining cognitive processes, emotional responses, and behavioral patterns that form the foundation of all social interactions.
-- **Human Interaction**: When we add a second person, we encounter the next fundamental element - the dynamics between individuals. This creates new phenomena like communication, cooperation, competition, and exchange that don't exist at the individual level.
-- **Group Formation**: As more individuals interact, they naturally form groups, creating another layer of complexity. These groups develop their own characteristics, norms, and behaviors that emerge from, but transcend, individual interactions.
+At the most elementary level, social science begins with studying how individual humans think, make decisions, and act. This includes examining cognitive processes, emotional responses, and behavioral patterns that form the foundation of all social interactions.
+
+**Human Interaction**
+
+When we add a second person, we encounter the next fundamental element - the dynamics between individuals. This creates new phenomena like communication, cooperation, competition, and exchange that don't exist at the individual level.
+
+**Group Formation**
+
+As more individuals interact, they naturally form groups, creating another layer of complexity. These groups develop their own characteristics, norms, and behaviors that emerge from, but transcend, individual interactions.
 
 From these fundamental elements, we can derive the major branches of social science:
 
