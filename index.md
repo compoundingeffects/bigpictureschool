@@ -8,7 +8,7 @@ nav_order: 1
 
 The world is changing fast. A holistic perspective and nimble thinking are increasingly essential. Big Picture School uses AI-generated content to teach the core ideas of different academic fields. Why? To help induce interdisciplinary thought, and the creativity that results from that.
 <p>
-Big Picture School uses a first principles thinking approach to explain each subject. First principles thinking is a way to understand things by breaking them down to their most basic elements. Instead of relying on what others have said or done before, we start from scratch and build up our understanding from the core truths. In addition, Big Picture School uses plain English explanations. We want to make it relatively straightforward for people to understand the fundamentals of each topic. 
+Big Picture School uses a first principles thinking approach to explain each subject. First principles thinking is a way to understand things by breaking them down to their most basic elements. Instead of relying on what others have said or done before, we start from scratch and build up our understanding from the core truths. 
 </p>
 <p>
 Whether you're a student, a professional, or a lifelong learner, we hope you find this site helpful in building a more comprehensive understanding of the world.
