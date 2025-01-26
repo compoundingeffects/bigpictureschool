@@ -12,10 +12,10 @@ has_children: true
 Physics is the study of nature at its most fundamental level - how matter and energy behave and interact throughout the universe. To understand physics from first principles, we must begin with the most basic observations about reality.
 
 At the most fundamental level, we observe that the universe contains:
-1. Space - the three-dimensional volume in which everything exists
-2. Time - the progression of events from past to future
-3. Matter - physical substance that occupies space
-4. Energy - the capacity to do work or cause change
+1. **Space** - the three-dimensional volume in which everything exists
+2. **Time** - the progression of events from past to future
+3. **Matter** - physical substance that occupies space
+4. **Energy** - the capacity to do work or cause change
 
 These fundamentals are interconnected. Einstein showed that space and time are actually one unified concept called spacetime. Similarly, matter and energy are equivalent through his famous equation E = mc². 
 
