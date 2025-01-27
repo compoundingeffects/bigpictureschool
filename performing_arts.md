@@ -21,10 +21,9 @@ Building upon these foundational elements, we can identify the primary categorie
 
 These foundational forms then combine and evolve into more complex performing arts:
 
-Opera integrates theater, music, and sometimes dance to create a unified dramatic experience. Musical theater similarly synthesizes these elements but with different historical and cultural contexts.
+- Opera integrates theater, music, and sometimes dance to create a unified dramatic experience. Musical theater similarly synthesizes these elements but with different historical and cultural contexts.
+- Contemporary performance art often deliberately challenges the boundaries between these traditional categories, returning to the first principles to explore new possibilities of expression, embodiment, and audience interaction.
 
-Contemporary performance art often deliberately challenges the boundaries between these traditional categories, returning to the first principles to explore new possibilities of expression, embodiment, and audience interaction.
-
-Understanding performing arts through first principles also reveals why it has been central to human civilization: it uniquely combines immediate human presence, collective experience, and artistic expression in a way that fulfills fundamental social and cultural needs. Each performance is unrepeatable, existing only in that moment of shared experience between performers and audience.
+Understanding performing arts through first principles also reveals why it has been central to human civilization. It uniquely combines immediate human presence, collective experience, and artistic expression in a way that fulfills fundamental social and cultural needs. Each performance is unrepeatable, existing only in that moment of shared experience between performers and audience.
 
 This temporal nature has interesting implications for how performing arts evolve. While the fundamental principles remain constant, their expression continually adapts to new cultural contexts, technologies, and artistic visions. Virtual performances, for instance, maintain the principles of real-time expression and audience interaction while challenging traditional notions of physical presence.
