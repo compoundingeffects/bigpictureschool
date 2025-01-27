@@ -7,7 +7,7 @@ has_children: true
 ---
 ## Philosophy
 
-Philosophy, at its most basic level, is the systematic examination of fundamental questions about existence, knowledge, values, reason, and purpose. To understand it from first principles, let's examine its core components:
+Philosophy, at its most basic level, is the systematic examination of fundamental questions about existence, knowledge, values, reason, and purpose. To understand it from first principles, let's examine its core components.
 
 **Knowledge and Reality**
 
