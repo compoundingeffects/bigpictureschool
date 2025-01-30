@@ -7,7 +7,7 @@ nav_order: 1
 
 ## Computer Science
 
-At its core, computer science is the study of computation - the systematic process of solving problems through precise steps. To understand this from first principles, let's examine the foundational concepts:
+At its core, computer science is the study of computation - the systematic process of solving problems through precise steps. To understand this from first principles, let's examine the foundational concepts.
 
 **Information and Data**
 
