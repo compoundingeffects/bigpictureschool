@@ -7,20 +7,34 @@ nav_order: 2
 
 ## Game Theory
 
-At its core, game theory is the study of strategic decision-making between rational actors. But to truly understand it, let's start with even more basic concepts.
+Game theory, at its most fundamental level, is the study of strategic decision-making between rational actors. To understand it fully, let's start with its core components and build up.
 
-What is a decision? A decision is a choice between different possible actions, where each action leads to different outcomes. When we make decisions that affect only ourselves, the analysis is relatively straightforward - we simply choose the action that gives us the best outcome according to our preferences.
+**Rational Actors and Decision-Making**
 
-But what happens when our decisions affect others, and their decisions affect us? This is where game theory begins. Imagine two companies deciding whether to lower their prices. Each company's best outcome depends not just on their own action, but on what the other company does. This interdependence of decisions is the first fundamental principle of game theory.
+At the foundation of game theory is the concept of rational actors - entities who make decisions to maximize their own benefit or utility. These actors could be individuals, companies, nations, or any entity capable of making strategic choices. Each actor must consider not only their own decisions but also anticipate the decisions of others who are similarly trying to maximize their outcomes.
 
-The second fundamental principle is rationality. In game theory, we assume that each player acts to maximize their own benefit or "utility." This doesn't mean players are selfish - their utility might include benefits to others. But it does mean they act logically to achieve their goals.
+**Strategic Interaction**
 
-From these two principles - interdependent decisions and rational actors - we can derive the concept of strategic thinking. Players must consider not just what they want to do, but what others will do, knowing that others are thinking the same way. This leads to the idea of equilibrium - a situation where each player's strategy is optimal given what others are doing.
+The next fundamental principle is that these decisions don't happen in isolation. Unlike basic economic decisions where an actor might choose between clear alternatives, game theory involves interdependent decisions where the outcome for each actor depends on the choices made by others. This creates a complex web of strategic thinking: "I think they will do X, so I should do Y, but they might anticipate this and do Z instead..."
 
-Let's make this concrete with a simple example: Two prisoners are being interrogated separately (the famous Prisoner's Dilemma). Each has two choices: stay silent or betray the other. If both stay silent, they each get 1 year in prison. If both betray, they each get 3 years. If one betrays while the other stays silent, the betrayer goes free while the silent one gets 5 years.
+**Payoffs and Outcomes**
 
-Think about how you would analyze this situation. First, consider what's best for you if the other prisoner stays silent. In this case, betraying (0 years) is better than staying silent (1 year). What if the other prisoner betrays? Again, betraying (3 years) is better than staying silent (5 years). Therefore, regardless of what the other prisoner does, betraying is your best strategy. This is called a dominant strategy.
+Building on these foundations, we introduce the concept of payoffs - the quantifiable benefits or losses that result from different combinations of choices. These payoffs create the structure within which strategic decisions are made. For any given situation (or "game"), we can map out all possible combinations of choices and their resulting outcomes for each player.
 
-But since both prisoners think this way, they both betray and end up with 3 years each - worse than if they had both stayed silent. This illustrates another key principle: individual rationality can lead to collective irrationality.
+**Nash Equilibrium**
 
-From these foundations, game theory builds up to analyze more complex situations: games with many players, repeated interactions, incomplete information, and changing circumstances. Each adds new layers of strategic complexity while still building on the same fundamental principles of interdependent decisions and rational behavior.
+This leads us to one of the most important concepts in game theory - the Nash Equilibrium, named after mathematician John Nash. It represents a situation where each player is making the best decision they can, taking into account the decisions of others. At equilibrium, no player can benefit by unilaterally changing their strategy.
+
+**Types of Games**
+
+From these basic principles, we can identify different categories of strategic interactions:
+- Zero-sum games, where one player's gain is exactly equal to another's loss
+- Non-zero-sum games, where mutual benefit or mutual loss is possible
+- Cooperative games, where players can form binding agreements
+- Non-cooperative games, where players cannot form enforceable agreements
+
+**Applications**
+
+These fundamental concepts help us understand real-world situations ranging from business competition to international relations. For example, pricing strategies between competing firms can be analyzed as a game where each company must consider how their pricing decisions will affect and be affected by their competitors' choices.
+
+The power of game theory lies in its ability to reduce complex strategic situations to their essential elements, allowing us to analyze and predict behavior in situations ranging from simple two-player games to complex international negotiations. By understanding these fundamental principles, we can better analyze strategic situations and make more informed decisions.
