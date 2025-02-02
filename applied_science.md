@@ -30,10 +30,10 @@ Building upon these principles, applied science manifests in several key ways:
 
 The relationship between pure and applied science creates a cyclical process:
 
-1. Pure science generates fundamental knowledge
-2. Applied science uses this knowledge to create solutions
-3. Practical applications reveal new questions and challenges
-4. These questions drive new pure scientific research
+1. Pure science generates fundamental knowledge.
+2. Applied science uses this knowledge to create solutions.
+3. Practical applications reveal new questions and challenges.
+4. These questions drive new pure scientific research.
 
 This cycle demonstrates how applied science not only uses scientific principles but also contributes to advancing scientific understanding through practical implementation and testing.
 
