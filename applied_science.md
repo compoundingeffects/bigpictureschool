@@ -22,17 +22,11 @@ Applied science follows a systematic process: problem identification, analysis u
 
 Building upon these principles, applied science manifests in several key ways:
 
-**Engineering Applications**
+- **Engineering Applications**: Engineers use physics principles to design bridges, buildings, and machines. They translate theoretical understanding of forces, materials, and energy into functional structures and systems.
 
-Engineers use physics principles to design bridges, buildings, and machines. They translate theoretical understanding of forces, materials, and energy into functional structures and systems.
+- **Medical Innovations**: Medical researchers apply biological and chemical knowledge to develop treatments and technologies. Their work transforms understanding of human biology into practical healthcare solutions.
 
-**Medical Innovations**
-
-Medical researchers apply biological and chemical knowledge to develop treatments and technologies. Their work transforms understanding of human biology into practical healthcare solutions.
-
-**Technological Development**
-
-Computer scientists apply mathematical principles and logical frameworks to create software and hardware systems. This transforms abstract computational theory into useful tools.
+- **Technological Development**: Computer scientists apply mathematical principles and logical frameworks to create software and hardware systems. This transforms abstract computational theory into useful tools.
 
 The relationship between pure and applied science creates a cyclical process:
 
