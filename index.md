@@ -21,34 +21,33 @@ Interested in sharing your feedback or collaborating with us? We would love to h
 
 ### 1. [Natural Science](https://bigpictureschool.com/natural_science.html)
 - [Physical Science](https://bigpictureschool.com/physical_science.html)
-  - [Physics](https://bigpictureschool.com/physics.html)
-    - [Classical Physics](https://bigpictureschool.com/classical_physics.html)
-    - [Modern Physics](https://bigpictureschool.com/modern_physics.html)
+  - Physics
+    - Classical Physics
+    - Modern Physics
   - [Chemistry](https://bigpictureschool.com/chemistry.html)
-    - [Biochemistry](https://bigpictureschool.com/biochemistry.html)
-    - [Organic Chemistry](https://bigpictureschool.com/organic_chemistry.html)
-    - [Inorganic Chemistry](https://bigpictureschool.com/inorganic_chemistry.html)
+    - Biochemistry
+    - Organic Chemistry
+    - Inorganic Chemistry
   - [Earth Science](https://bigpictureschool.com/earth_science.html)
-    - [Geology](https://bigpictureschool.com/geology.html)
-    - [Meteorology](https://bigpictureschool.com/meteorology.html)
-    - [Oceanography](https://bigpictureschool.com/oceanography.html)
-    - [Climatology](https://bigpictureschool.com/climatology.html)
+    - Geology
+    - Meteorology
+    - Oceanography
+    - Climatology
 - [Life Science](https://bigpictureschool.com/life_science.html)
-  - [Biology](https://bigpictureschool.com/biology.html)
-    - [Molecular Biology](https://bigpictureschool.com/molecular_biology.html)
-    - [Cellular Biology](https://bigpictureschool.com/cellular_biology.html)
-    - [Genetics](https://bigpictureschool.com/genetics.html)
-    - [Evolutionary Biology](https://bigpictureschool.com/evolutionary_biology.html)
-    - [Microbiology](https://bigpictureschool.com/microbiology.html)
-    - [Neurobiology](https://bigpictureschool.com/neurobiology.html)
-    - [Botany](https://bigpictureschool.com/botany.html)
-    - [Zoology](https://bigpictureschool.com/zoology.html)
-    - [Ecology](https://bigpictureschool.com/ecology.html)
+    - Molecular Biology
+    - Cellular Biology
+    - Genetics
+    - Evolutionary Biology
+    - Microbiology
+    - Neurobiology
+    - Botany
+    - Zoology
+    - Ecology
 - [Space Science](https://bigpictureschool.com/space_science.html)
-  - [Astronomy](https://bigpictureschool.com/astronomy.html)
-  - [Astrophysics](https://bigpictureschool.com/astrophysics.html)
-  - [Cosmology](https://bigpictureschool.com/cosmology.html)
-  - [Planetary Science](https://bigpictureschool.com/planetary_science.html)
+  - Astronomy
+  - Astrophysics
+  - Cosmology
+  - Planetary Science
 
 ### 2. [Social Science](https://bigpictureschool.com/social_science.html)
 * Anthropology
@@ -56,18 +55,18 @@ Interested in sharing your feedback or collaborating with us? We would love to h
 * [Business Studies](https://bigpictureschool.com/business_studies.html)
   * Accounting
   * Finance
-  * [Management](https://bigpictureschool.com/management.html)
+  * Management
   * Marketing
 * Economics
 * Education
 * Geography
 * [Law](https://bigpictureschool.com/law.html)
-  * [Civil Procedure](https://bigpictureschool.com/civil_procedure.html)
-  * [Constitutional Law](https://bigpictureschool.com/constitutional_law.html)
-  * [Contract Law](https://bigpictureschool.com/contract_law.html)
-  * [Criminal Law](https://bigpictureschool.com/criminal_law.html)
-  * [Property Law](https://bigpictureschool.com/property_law.html)
-  * [Tort Law](https://bigpictureschool.com/tort_law.html)
+  * Civil Procedure
+  * Constitutional Law
+  * Contract Law
+  * Criminal Law
+  * Property Law
+  * Tort Law
 * Linguistics
 * [Political Science](https://bigpictureschool.com/political_science.html)
   * Comparative Politics
@@ -112,7 +111,7 @@ Interested in sharing your feedback or collaborating with us? We would love to h
 * Architecture 
 * [Agriculture](https://bigpictureschool.com/agriculture.html)
 * Aquaculture
-* [Engineering](https://bigpictureschool.com/engineering.html)
+* Engineering
   * Aerospace Engineering
   * Bioengineering
   * Chemical Engineering
@@ -125,17 +124,17 @@ Interested in sharing your feedback or collaborating with us? We would love to h
   * Mechanical Engineering
   * Software Engineering
   * Systems Engineering 
-* [Environmental Science](https://bigpictureschool.com/environmental_science.html)
+* Environmental Science
 * Forensic Science
-* [Health Sciences](https://bigpictureschool.com/health_sciences.html)
+* Health Sciences
   * Anatomy
   * Dentistry
   * Optometry
-  * [Medicine](https://bigpictureschool.com/medicine.html)
+  * Medicine
   * Nutrition
   * Pharmacy
 * Permaculture
-* [Military Science](https://bigpictureschool.com/military_science.html)
+* Military Science
 * Spatial Science
 
 ### 6. [Interdisciplinary Fields](https://bigpictureschool.com/interdisciplinary_fields.html)
