@@ -24,11 +24,11 @@ Interested in sharing your feedback or collaborating with us? We would love to h
   - Physics
     - Classical Physics
     - Modern Physics
-  - [Chemistry](https://bigpictureschool.com/chemistry.html)
+  - Chemistry
     - Biochemistry
     - Organic Chemistry
     - Inorganic Chemistry
-  - [Earth Science](https://bigpictureschool.com/earth_science.html)
+  - Earth Science
     - Geology
     - Meteorology
     - Oceanography
