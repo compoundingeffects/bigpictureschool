@@ -28,7 +28,7 @@ Interested in sharing your feedback or collaborating with us? We would love to h
     - Biochemistry
     - Organic Chemistry
     - Inorganic Chemistry
-  - Earth Science
+  - [Earth Science](https://bigpictureschool.com/earth_science.html)
     - Geology
     - Meteorology
     - Oceanography
