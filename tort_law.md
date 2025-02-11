@@ -8,34 +8,32 @@ nav_order: 6
 
 ## Tort Law
 
-1. **Basic Human Rights and Interactions**: In simple terms, this is about how people interact with each other in society. We all have basic rights that everyone is expected to respect. These include:
-* The right to be safe and not get hurt, 
-* The right to own things and not have them taken or damaged, and 
-* The right to make our own choices without others forcing us.
+At its most fundamental level, tort law addresses a basic human need: how to handle situations where one person causes harm to another outside of any contractual relationship. The word "tort" comes from the Latin "tortus," meaning twisted or wrong.
 
-2. **Understanding Harm**: Sometimes, people do things that hurt others or damage their stuff, either on purpose or by accident. This can include:
-* Physically hurting someone,
-* Breaking or stealing someone's belongings, or
-* Hurting someone's feelings or reputation.
+A tort occurs when three essential elements converge: duty, breach, and harm. Every person has certain duties to avoid causing foreseeable harm to others. When someone breaches that duty and causes harm, tort law provides a framework for making the injured party whole through compensation.
 
-3. **Taking Responsibility and Making Things Right**: If someone hurts another person or damages their property, they should take responsibility for it. This usually means the person who caused the harm should pay money to the person they hurt. The payment is meant to help fix the problem and put the hurt person back in the position they were in before the incident
+Building on these fundamentals, tort law developed into three main categories:
 
-4. **What Tort Law Does**: Tort law is the part of the legal system that deals with these situations. It helps decide:
-    * If someone did something wrong,
-    * How to hold them responsible, and
-    * How much they should pay to make things right.
+- **Intentional Torts**: These occur when someone deliberately causes harm to another. The key principle here is volition - the tortfeasor (person committing the tort) meant to perform the action that caused harm. Examples include battery, assault, and false imprisonment. The intent doesn't have to be malicious; they simply need to have intended the action itself.
 
-    Tort law covers different types of wrongs:
-    * When someone isn't careful enough (like causing an accident);
-    * When someone hurts another on purpose; and 
-    * Sometimes, when someone is doing something really dangerous, they're responsible even if they were being careful.
+- **Negligence**: This represents the largest category of torts and builds on the concept of reasonable care. The fundamental principle is that we all owe a duty of reasonable care to avoid causing foreseeable harm to others. When someone fails to meet this standard and causes harm, they become liable. This applies to everything from car accidents to medical malpractice.
 
-5. **Encouraging Good Behavior**: Tort law also helps keep society orderly by encouraging people to be more careful. For example:
-* If drivers know they'll have to pay if they cause an accident, they might drive more safely; or 
-* If companies know they can be sued for unsafe products, they might spend more time making sure their products are safe.
+- **Strict Liability**: This category exists for situations where society has determined that certain activities are so inherently dangerous that we hold people liable regardless of their level of care or intent. The core principle here is that those who create extraordinary risks should bear the costs of any resulting harm. This applies to things like keeping dangerous animals or manufacturing defective products.
 
-6. **Fairness**: At its core, tort law is about being fair. It's not right for someone to be hurt or have their stuff damaged and not have any way to make things right. Tort law tries to balance things out by making sure:
-* The person who got hurt gets some justice; and 
-* The person who caused the harm isn't punished too harshly, but still takes responsibility.
+**The Economic Foundation**
 
-In essence, tort law is a system that protects people's basic rights. When someone breaks these rights and causes harm, tort law provides a fair way to hold them accountable and help the person who was hurt. It not only fixes wrongs but also encourages everyone to act more responsibly, which helps keep society running smoothly.
+From an economic perspective, tort law serves to internalize externalities. When someone's actions impose costs on others, tort law ensures they bear those costs, creating incentives for efficient levels of care and risk-taking. This promotes both justice and economic efficiency.
+
+**Modern Application**
+
+Today's tort law builds on these principles while adapting to new challenges. For instance, cyber torts have emerged to address harms in the digital space. Product liability has evolved to handle complex global supply chains. Yet the fundamental principles remain: duty, breach, causation, and harm.
+
+Looking at how these principles interact in practice helps understand the system's coherence. For example, in a car accident case:
+- The driver has a duty to operate their vehicle safely
+- Speeding or texting while driving breaches that duty
+- If this breach causes an accident that damages someone's property or person
+- The driver becomes liable for those damages
+
+This framework provides both compensation for victims and incentives for careful behavior, serving both corrective and distributive justice while promoting social welfare.
+
+Understanding tort law through first principles reveals its elegant solution to a fundamental social problem: how to fairly allocate the costs of accidents and intentional harms in a complex society. It provides rules for responsibility and compensation while creating incentives for optimal care and risk-taking.
