@@ -66,7 +66,7 @@ Interested in sharing your feedback or collaborating with us? We would love to h
   * Contract Law
   * Criminal Law
   * Property Law
-  * Tort Law
+  * [Tort Law](https://bigpictureschool.com/tort_law.html)
 * Linguistics
 * [Political Science](https://bigpictureschool.com/political_science.html)
   * Comparative Politics
