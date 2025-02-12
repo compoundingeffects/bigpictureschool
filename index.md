@@ -63,7 +63,7 @@ Interested in sharing your feedback or collaborating with us? We would love to h
 * [Law](https://bigpictureschool.com/law.html)
   * Civil Procedure
   * Constitutional Law
-  * Contract Law
+  * [Contract Law](https://bigpictureschool.com/contract_law.html)
   * Criminal Law
   * Property Law
   * [Tort Law](https://bigpictureschool.com/tort_law.html)
