@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Microbiology
-parent: Life Science
+parent: Biology
 grand_parent: Natural Science
 nav_order: 5
 ---
