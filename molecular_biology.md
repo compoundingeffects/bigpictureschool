@@ -1,10 +1,9 @@
 ---
 layout: default
 title: Molecular Biology
-parent: Biology
-grand_parent: Life Science
-ancestor: Natural Science
-nav_order: 2
+parent: Life Science
+grand_parent: Natural Science
+nav_order: 1
 ---
 
 ## Molecular Biology
