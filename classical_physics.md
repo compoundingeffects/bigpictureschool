@@ -50,4 +50,4 @@ These limitations led to the development of modern physics theories – special 
 
 The power of classical physics lies in its ability to explain and predict a vast range of everyday phenomena using these fundamental principles. From the motion of planets to the flow of fluids, from the behavior of electric circuits to the propagation of sound waves, classical physics provides a coherent framework that continues to serve as the foundation for engineering and technology.
 
-This first principles approach shows how complex phenomena can be understood by breaking them down into fundamental concepts and building up from there. While modern physics has revealed a deeper reality, classical physics remains an excellent approximation for most practical purposes in our daily experience.
+While modern physics has revealed a deeper reality, classical physics remains an excellent approximation for most practical purposes in our daily experience.
