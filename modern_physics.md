@@ -11,8 +11,6 @@ nav_order: 2
 
 Modern physics encompasses the theoretical frameworks and discoveries that emerged in the 20th century and continue to evolve today, fundamentally changing our understanding of the universe from the classical physics of Newton and Maxwell.
 
-What constitutes reality at its most basic level?
-
 **Energy and Matter**
 
 Starting with Einstein's $$E = mc^2$$, we learn that matter and energy are fundamentally interchangeable. This leads us to question: What is the most basic form of matter? Following this thread, we arrive at quantum mechanics, which reveals that at the smallest scales, matter exists as both particles and waves, described by the wave function $$\psi(x,t)$$. This wave-particle duality is not just a mathematical construct but a fundamental aspect of reality.
