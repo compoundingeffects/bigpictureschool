@@ -9,7 +9,7 @@ nav_order: 1
 
 ## Classical Physics
 
-Classical physics is the branch of physics that describes the behavior of matter and energy at the macroscopic level, primarily developed between the 16th and early 20th centuries. Let's break this down using first principles thinking.
+Classical physics is the branch of physics that describes the behavior of matter and energy at the macroscopic level, primarily developed between the 16th and early 20th centuries.
 
 **Space and Time**
 
