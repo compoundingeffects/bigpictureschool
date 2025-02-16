@@ -23,7 +23,7 @@ Interested in sharing your feedback or collaborating with us? We would love to h
 - [Physical Science](https://bigpictureschool.com/physical_science.html)
   - [Physics](https://bigpictureschool.com/physics.html)
     - [Classical Physics](https://bigpictureschool.com/classical_physics.html)
-    - Modern Physics
+    - [Modern Physics](https://bigpictureschool.com/modern_physics.html)
   - [Chemistry](https://bigpictureschool.com/chemistry.html)
     - Biochemistry
     - Organic Chemistry
