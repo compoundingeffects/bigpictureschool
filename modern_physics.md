@@ -13,11 +13,11 @@ Modern physics encompasses the theoretical frameworks and discoveries that emerg
 
 **Energy and Matter**
 
-Starting with Einstein's '$$E = mc^2$$', we learn that matter and energy are fundamentally interchangeable. This leads us to question: What is the most basic form of matter? Following this thread, we arrive at quantum mechanics, which reveals that at the smallest scales, matter exists as both particles and waves, described by the wave function $$\psi(x,t)$$. This wave-particle duality is not just a mathematical construct but a fundamental aspect of reality.
+Starting with Einstein's $$E = mc^2$$, we learn that matter and energy are fundamentally interchangeable. This leads us to question: What is the most basic form of matter? Following this thread, we arrive at quantum mechanics, which reveals that at the smallest scales, matter exists as both particles and waves, described by the wave function $$\psi(x,t)$$. This wave-particle duality is not just a mathematical construct but a fundamental aspect of reality.
 
 **Space and Time**
 
-Classical physics treated space and time as absolute reference frames. However, Einstein's special relativity showed that space and time are relative and interconnected. The spacetime interval $ds^2 = c^2dt^2 - dx^2 - dy^2 - dz^2$ remains invariant, revealing that space and time are aspects of a single four-dimensional continuum.
+Classical physics treated space and time as absolute reference frames. However, Einstein's special relativity showed that space and time are relative and interconnected. The spacetime interval $$ds^2 = c^2dt^2 - dx^2 - dy^2 - dz^2$$ remains invariant, revealing that space and time are aspects of a single four-dimensional continuum.
 
 **Forces and Fields**
 
@@ -25,7 +25,7 @@ Moving from the classical concept of forces acting instantaneously at a distance
 
 **Probability and Determinism**
 
-Classical physics was deterministic, but quantum mechanics introduces fundamental probability. The Heisenberg Uncertainty Principle, $\Delta x \Delta p \geq \frac{\hbar}{2}$, shows that we cannot simultaneously know both position and momentum with arbitrary precision. This is not due to measurement limitations but is a fundamental property of reality.
+Classical physics was deterministic, but quantum mechanics introduces fundamental probability. The Heisenberg Uncertainty Principle, $$\Delta x \Delta p \geq \frac{\hbar}{2}$$, shows that we cannot simultaneously know both position and momentum with arbitrary precision. This is not due to measurement limitations but is a fundamental property of reality.
 
 **Symmetry and Conservation Laws**
 
