@@ -13,7 +13,7 @@ Modern physics encompasses the theoretical frameworks and discoveries that emerg
 
 **Energy and Matter**
 
-Starting with Einstein's $E = mc^2$, we learn that matter and energy are fundamentally interchangeable. This leads us to question: What is the most basic form of matter? Following this thread, we arrive at quantum mechanics, which reveals that at the smallest scales, matter exists as both particles and waves, described by the wave function $$\psi(x,t)$$. This wave-particle duality is not just a mathematical construct but a fundamental aspect of reality.
+Starting with Einstein's '$$E = mc^2$$', we learn that matter and energy are fundamentally interchangeable. This leads us to question: What is the most basic form of matter? Following this thread, we arrive at quantum mechanics, which reveals that at the smallest scales, matter exists as both particles and waves, described by the wave function $$\psi(x,t)$$. This wave-particle duality is not just a mathematical construct but a fundamental aspect of reality.
 
 **Space and Time**
 
