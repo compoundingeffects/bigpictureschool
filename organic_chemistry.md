@@ -12,9 +12,9 @@ nav_order: 2
 Organic chemistry, at its core, is the study of compounds containing carbon atoms. This definition stems from a fundamental observation: carbon has unique properties that allow it to form the basis of life as we know it.
 
 Starting with the carbon atom itself, what makes it special? Carbon has four valence electrons in its outer shell, allowing it to form exactly four bonds. This tetravalence is crucial because it enables carbon to:
-1) Form stable bonds with itself, creating long chains and rings
-2) Bond with other elements, particularly hydrogen, oxygen, and nitrogen
-3) Create three-dimensional structures due to its tetrahedral geometry
+1. Form stable bonds with itself, creating long chains and rings
+2. Bond with other elements, particularly hydrogen, oxygen, and nitrogen
+3. Create three-dimensional structures due to its tetrahedral geometry
 
 Building upon this foundation, we can understand why carbon forms such diverse compounds. The carbon-carbon bond is remarkably stable, with just the right amount of energy - strong enough to maintain molecular structure, but not so strong that it cannot be broken and reformed in chemical reactions. This balance enables the dynamic chemistry of life.
 
