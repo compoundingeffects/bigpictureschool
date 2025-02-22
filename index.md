@@ -29,7 +29,7 @@ Interested in sharing your feedback or collaborating with us? We would love to h
     - [Organic Chemistry](https://bigpictureschool.com/organic_chemistry.html)
     - [Inorganic Chemistry](https://bigpictureschool.com/inorganic_chemistry.html)
   - [Earth Science](https://bigpictureschool.com/earth_science.html)
-    - Geology
+    - [Geology](https://bigpictureschool.com/geology.html)
     - Meteorology
     - Oceanography
     - Climatology
