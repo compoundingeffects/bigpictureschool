@@ -11,7 +11,7 @@ The world is changing fast. A holistic perspective and nimble thinking are incre
 Big Picture School uses a first principles thinking approach to explain each subject. First principles thinking is a way to understand things by breaking them down to their most basic elements. Instead of relying on what others have said or done before, we start from scratch and build up our understanding from the core truths. 
 </p>
 <p>
-Whether you're a student, a professional, or a lifelong learner, we hope you find this site helpful in building a more comprehensive understanding of the world.
+Whether you are a student, a professional, or a lifelong learner, we hope you find this site helpful in building a more comprehensive understanding of the world.
 </p>
 <p>
 Interested in sharing your feedback or collaborating with us? We would love to hear from you. You can connect with us at hello@bigpictureschool.com.
