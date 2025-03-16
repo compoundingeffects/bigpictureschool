@@ -57,7 +57,7 @@ Interested in sharing your feedback or collaborating with us? We would love to h
   * Finance
   * Management
   * Marketing
-* Economics
+* [Economics](https://bigpictureschool.com/economics.html)
 * Education
 * Geography
 * [Law](https://bigpictureschool.com/law.html)
