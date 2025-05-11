@@ -28,19 +28,19 @@ Natural science is **empirical**, meaning it’s based on observation, experimen
 
 Let’s now reduce it to the most fundamental truths:
 
-#### *First Principle 1: Reality exists*
+**First Principle 1: Reality exists**
 
 There is a universe — something rather than nothing. It has structure, patterns, and behavior we can observe.
 
-#### *First Principle 2: The universe follows consistent laws*
+**First Principle 2: The universe follows consistent laws**
 
 Natural phenomena behave in consistent ways — things don’t randomly float, disappear, or defy logic. Gravity pulls things down. Water boils at 100°C (at sea level). These are laws, not guesses.
 
-#### *First Principle 3: Humans can observe and understand the universe*
+**First Principle 3: Humans can observe and understand the universe**
 
 We have senses, tools (like microscopes or telescopes), and brains that let us make sense of what's out there.
 
-#### *First Principle 4: Knowledge comes from evidence*
+**First Principle 4: Knowledge comes from evidence**
 
 We learn by:
 
