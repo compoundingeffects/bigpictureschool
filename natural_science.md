@@ -7,7 +7,7 @@ has_children: true
 
 ## Natural Science
 
-### 🌍 **Step 1: What is Natural Science?**
+### 🌍 Step 1: What is Natural Science?
 
 At its core:
 
@@ -24,7 +24,7 @@ Natural science is **empirical**, meaning it’s based on observation, experimen
 
 ---
 
-### 🧠 **Step 2: First Principles Thinking — Break It Down**
+### 🧠 Step 2: First Principles Thinking — Break It Down
 
 Let’s now reduce it to the most fundamental truths:
 
@@ -40,7 +40,7 @@ Natural phenomena behave in consistent ways — things don’t randomly float, d
 
 We have senses, tools (like microscopes or telescopes), and brains that let us make sense of what's out there.
 
-#### **First Principle 4: Knowledge comes from evidence**
+#### First Principle 4: Knowledge comes from evidence
 
 We learn by:
 
@@ -53,7 +53,7 @@ This is the **scientific method** in action — the tool of natural science.
 
 ---
 
-### 🧬 **Step 3: Building Up from First Principles**
+### 🧬 Step 3: Building Up from First Principles
 
 Using those building blocks, natural science becomes:
 
@@ -61,7 +61,7 @@ Using those building blocks, natural science becomes:
 
 ---
 
-### 🔬 **Natural Science in Action**
+### 🔬 Natural Science in Action
 
 It divides into major branches, all applying the same core logic:
 
