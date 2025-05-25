@@ -71,4 +71,5 @@ Let’s break life science down even further:
 
 ### Summary in One Line:
 
-Life science = understanding how organized systems of matter (living things) use energy and information to survive, reproduce, and evolve.
+**Life science = understanding how organized systems of matter (living things) use energy and information to survive, reproduce, and evolve.
+**
