@@ -45,7 +45,7 @@ Before we can understand life science, we have to understand life itself.
 
 Let’s break life science down even further:
 
-**A. What are living systems made of?**
+**1. What are living systems made of?**
 
 * **Cells** (basic unit of life)
 * Cells are made of **molecules** (like proteins, lipids, DNA)
@@ -53,7 +53,7 @@ Let’s break life science down even further:
 
 **First principle**: At its root, biology is built on **chemistry**, which is built on **physics** — the behavior of matter and energy.
 
-**B. How do living systems function?**
+**2. How do living systems function?**
 
 * Through chemical reactions (metabolism)
 * Information flow (DNA → RNA → Protein)
@@ -61,7 +61,7 @@ Let’s break life science down even further:
 
 **First principle**: Life is information-driven chemistry happening in a self-sustaining system.
 
-**C. How do living systems change and evolve?**
+**3. How do living systems change and evolve?**
 
 * Random genetic mutations
 * Natural selection
