@@ -5,7 +5,7 @@ nav_order: 1
 has_children: true
 ---
 
-## **Natural Science**
+# Natural Science
 
 ### **What is Natural Science?**
 
