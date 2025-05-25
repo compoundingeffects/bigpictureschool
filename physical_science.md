@@ -10,7 +10,7 @@ has_children: true
 
 ### What is Physical Science?
 
-**Physical science** is the branch of science that studies **non-living systems**—specifically, the **laws and properties of matter, energy, space, and time**. It's the foundation of how the physical universe behaves.
+Physical science is the branch of science that studies **non-living systems**—specifically, the **laws and properties of matter, energy, space, and time**. It's the foundation of how the physical universe behaves.
 
 It includes four main areas:
 
@@ -25,7 +25,6 @@ Let’s now rebuild physical science from the ground up using first principles.
 
 **Step 1: What is the universe made of?**
 
-**First principle:**
 Everything we can observe or measure is made of **matter** and affected by **energy**.
 
 * **Matter** = stuff (atoms, molecules)
@@ -66,8 +65,8 @@ Because **everything physical**—from smartphones to stars, volcanoes to vaccin
 
 ### Summary (First Principles Style)
 
-* **Reality is made of matter and energy**
-* **Matter and energy follow consistent, discoverable rules**
-* **We use observation and experiments to figure out those rules**
-* **The study of these rules = physical science**
+* Reality is made of matter and energy.
+* Matter and energy follow consistent, discoverable rules.
+* We use observation and experiments to figure out those rules.
+* The study of these rules = physical science.
 
