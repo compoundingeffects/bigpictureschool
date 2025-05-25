@@ -65,8 +65,8 @@ Because **everything physical**—from smartphones to stars, volcanoes to vaccin
 
 ### Summary (First Principles Style)
 
-* Reality is made of matter and energy.
-* Matter and energy follow consistent, discoverable rules.
-* We use observation and experiments to figure out those rules.
-* The study of these rules = physical science.
+* **Reality is made of matter and energy.**
+* **Matter and energy follow consistent, discoverable rules.**
+* **We use observation and experiments to figure out those rules.**
+* **The study of these rules = physical science.**
 
