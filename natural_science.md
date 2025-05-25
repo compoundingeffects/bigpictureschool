@@ -11,7 +11,7 @@ has_children: true
 
 At its core:
 
-> **Natural science is the study of the natural world — everything in the universe that behaves according to natural laws.**
+> Natural science is the study of the natural world — everything in the universe that behaves according to natural laws.
 
 That includes things like:
 
