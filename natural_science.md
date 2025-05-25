@@ -7,7 +7,7 @@ has_children: true
 
 # Natural Science
 
-### What is Natural Science?
+### **What is Natural Science?**
 
 At its core:
 
@@ -22,7 +22,7 @@ That includes things like:
 
 Natural science is **empirical**, meaning it’s based on observation, experimentation, and evidence.
 
-### First Principles Thinking — Break It Down
+### **First Principles Thinking — Break It Down**
 
 Let’s now reduce it to the most fundamental truths:
 
@@ -49,13 +49,13 @@ We learn by:
 
 This is the **scientific method** in action — the tool of natural science.
 
-### Building Up from First Principles
+### **Building Up from First Principles**
 
 Using those building blocks, natural science becomes:
 
 > A systematic way of understanding how the natural world works — using observation, experimentation, and reasoning — grounded in the idea that the universe follows consistent laws that we can discover and understand.
 
-### Natural Science in Action
+### **Natural Science in Action**
 
 It divides into major branches, all applying the same core logic:
 
