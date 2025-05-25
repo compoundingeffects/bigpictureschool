@@ -41,8 +41,6 @@ Before we can understand life science, we have to understand life itself.
 
 > **Life science is the systematic study of living systems — how they are built, how they function, how they change, and how they relate to each other and to their environment.**
 
----
-
 ### Digging Deeper from First Principles
 
 Let’s break life science down even further:
@@ -70,8 +68,6 @@ First principle: Life is information-driven chemistry happening in a self-sustai
 * Adaptation to environment
 
 First principle: Life evolves over time through variation and selection.
-
----
 
 ### Summary in One Line:
 
