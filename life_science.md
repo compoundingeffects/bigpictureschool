@@ -39,7 +39,7 @@ Before we can understand life science, we have to understand life itself.
 
 **3. Put it together: What is life science?**
 
-> **Life science is the systematic study of living systems — how they are built, how they function, how they change, and how they relate to each other and to their environment.**
+> Life science is the systematic study of living systems — how they are built, how they function, how they change, and how they relate to each other and to their environment.
 
 ### Digging Deeper from First Principles
 
@@ -51,7 +51,7 @@ Let’s break life science down even further:
 * Cells are made of **molecules** (like proteins, lipids, DNA)
 * Molecules are made of **atoms**
 
-First principle: At its root, biology is built on **chemistry**, which is built on **physics** — the behavior of matter and energy.
+**First principle**: At its root, biology is built on **chemistry**, which is built on **physics** — the behavior of matter and energy.
 
 **B. How do living systems function?**
 
@@ -59,7 +59,7 @@ First principle: At its root, biology is built on **chemistry**, which is built 
 * Information flow (DNA → RNA → Protein)
 * Coordination of processes (like brain signals or hormones)
 
-First principle: Life is information-driven chemistry happening in a self-sustaining system.
+**First principle**: Life is information-driven chemistry happening in a self-sustaining system.
 
 **C. How do living systems change and evolve?**
 
@@ -67,8 +67,8 @@ First principle: Life is information-driven chemistry happening in a self-sustai
 * Natural selection
 * Adaptation to environment
 
-First principle: Life evolves over time through variation and selection.
+**First principle**: Life evolves over time through variation and selection.
 
 ### Summary in One Line:
 
-**Life science = understanding how organized systems of matter (living things) use energy and information to survive, reproduce, and evolve.**
+Life science = understanding how organized systems of matter (living things) use energy and information to survive, reproduce, and evolve.
