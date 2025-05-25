@@ -18,7 +18,7 @@ At its core, **life science is the study of life**. That means it's concerned wi
 
 ### Step-by-Step Breakdown Using First Principles Thinking
 
-#### 1. Start with the question: "What is life?"
+**1. Start with the question: "What is life?"**
 
 Before we can understand life science, we have to understand life itself.
 
@@ -33,11 +33,11 @@ Before we can understand life science, we have to understand life itself.
 
 **Conclusion**: Life is a system of organized matter that sustains and reproduces itself using energy and genetic information.
 
-#### **2. What is science?**
+**2. What is science?**
 
 **First principle**: Science is a method to discover reliable knowledge about the world through **observation**, **experimentation**, and **logical reasoning**.
 
-#### **3. Put it together: What is life science?**
+**3. Put it together: What is life science?**
 
 > **Life science is the systematic study of living systems — how they are built, how they function, how they change, and how they relate to each other and to their environment.**
 
@@ -45,7 +45,7 @@ Before we can understand life science, we have to understand life itself.
 
 Let’s break life science down even further:
 
-#### **A. What are living systems made of?**
+**A. What are living systems made of?**
 
 * **Cells** (basic unit of life)
 * Cells are made of **molecules** (like proteins, lipids, DNA)
@@ -53,7 +53,7 @@ Let’s break life science down even further:
 
 First principle: At its root, biology is built on **chemistry**, which is built on **physics** — the behavior of matter and energy.
 
-#### **B. How do living systems function?**
+**B. How do living systems function?**
 
 * Through chemical reactions (metabolism)
 * Information flow (DNA → RNA → Protein)
@@ -61,7 +61,7 @@ First principle: At its root, biology is built on **chemistry**, which is built 
 
 First principle: Life is information-driven chemistry happening in a self-sustaining system.
 
-#### **C. How do living systems change and evolve?**
+**C. How do living systems change and evolve?**
 
 * Random genetic mutations
 * Natural selection
