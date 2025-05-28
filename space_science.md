@@ -8,9 +8,9 @@ has_children: true
 
 ## Space Science
 
-### What is *space science*?
+### What is space science?
 
-At its core, **space science** is the study of **everything beyond Earth’s atmosphere**. It seeks to understand:
+At its core, space science is the study of **everything beyond Earth’s atmosphere**. It seeks to understand:
 
 * **What’s out there** (planets, stars, galaxies, black holes, etc.)
 * **How it works** (physics, chemistry, motion, etc.)
@@ -28,23 +28,23 @@ Space science includes fields like:
 
 Let’s strip it all down to fundamental truths:
 
-#### 1. **We exist.**
+1. **We exist.**
 
 We are conscious beings who can observe and ask questions.
 
-#### 2. **We live on Earth.**
+2. **We live on Earth.**
 
 Earth is a physical object in a larger environment. This environment is called **space**.
 
-#### 3. **The universe behaves in patterns.**
+3. **The universe behaves in patterns.**
 
 Everything from falling apples to orbiting planets follows **natural laws** — like gravity, electromagnetism, and nuclear forces.
 
-#### 4. **Light travels from space to Earth.**
+4. **Light travels from space to Earth.**
 
 We see stars because **light** (or other signals like radio waves) travels across vast distances.
 
-#### 5. **We can measure and test.**
+5. **We can measure and test.**
 
 Using instruments like telescopes, satellites, and probes, we can collect data and test ideas about space.
 
