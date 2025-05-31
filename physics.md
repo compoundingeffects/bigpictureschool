@@ -11,7 +11,7 @@ has_children: true
 
 Physics is the study of how things move, interact, and change in the universe. At its core, it's humanity's attempt to understand the fundamental rules that govern everything from the smallest particles to the largest structures in space.
 
-Let me build this up from first principles:
+Let's build this up from first principles:
 
 **What are we actually observing?**
 When we look around, we notice that things happen. Objects fall, light travels, heat flows, particles collide. Physics asks: what are the underlying patterns and rules that make these events predictable rather than random?
