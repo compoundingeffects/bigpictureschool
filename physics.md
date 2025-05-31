@@ -19,7 +19,7 @@ Let's build this up from first principles:
 
 **From observations to patterns**: Early humans noticed regularities - the sun rises and sets, seasons repeat, thrown objects follow curved paths. Physics emerged when people began asking "why" and "how" rather than just accepting these patterns.
 
-**The method: controlled simplification**: Physics progresses by isolating variables. Instead of studying a falling leaf (affected by air resistance, irregular shape, wind), we study a falling ball in a vacuum. We deliberately create artificial, simplified situations to reveal the underlying rules.
+**The method - controlled simplification**: Physics progresses by isolating variables. Instead of studying a falling leaf (affected by air resistance, irregular shape, wind), we study a falling ball in a vacuum. We deliberately create artificial, simplified situations to reveal the underlying rules.
 
 **Building complexity from simplicity**: Once we understand simple rules, we combine them to explain complex phenomena. For example:
 - Understanding how individual particles move leads to understanding pressure and temperature
