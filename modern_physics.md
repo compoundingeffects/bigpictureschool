@@ -31,7 +31,7 @@ Let's build this understanding step by step:
 
 **The second revolution: Relativity**
 
-**Starting insight: The speed of light is constant**: Einstein began with the puzzling observation that light travels at the same speed regardless of how fast you're moving toward or away from the source. This simple fact forced a complete rethinking of space and time.
+**Starting insight - the speed of light is constant**: Einstein began with the puzzling observation that light travels at the same speed regardless of how fast you're moving toward or away from the source. This simple fact forced a complete rethinking of space and time.
 
 **Special relativity - space and time are unified**: If light speed is constant, then space and time must be flexible. Moving clocks run slower, moving objects contract in length, and simultaneity becomes relative. Space and time aren't separate entities but form a unified "spacetime."
 
