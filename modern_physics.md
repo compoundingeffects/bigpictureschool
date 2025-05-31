@@ -37,7 +37,7 @@ Let's build this understanding step by step:
 
 **Mass-energy equivalence (E=mc²)**: Matter and energy are different forms of the same thing. A small amount of matter can become an enormous amount of energy, explaining how stars shine and why atomic weapons are so powerful.
 
-**General relativity: Gravity as curved spacetime**: Einstein realized gravity isn't a force pulling objects together - it's the curvature of spacetime caused by mass and energy. Objects follow straight lines through curved spacetime, which appear to us as curved trajectories.
+**General relativity - gravity as curved spacetime**: Einstein realized gravity isn't a force pulling objects together - it's the curvature of spacetime caused by mass and energy. Objects follow straight lines through curved spacetime, which appear to us as curved trajectories.
 
 **The modern worldview**
 
