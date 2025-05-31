@@ -8,67 +8,24 @@ has_children: true
 
 ## Life Science
 
-### What is Life Science?
+Life science is the systematic study of living organisms and biological processes—examining how life emerges, functions, reproduces, and evolves. It encompasses biology, ecology, genetics, biochemistry, and related fields, unified by the goal of understanding what distinguishes living systems from non-living matter.
 
-At its core, **life science is the study of life**. That means it's concerned with:
+## Building from First Principles
 
-* What life *is*
-* How life *works*
-* How life *interacts* with the environment
+**What is life?** Starting with observation, we notice certain systems exhibit properties that non-living matter typically doesn't: they maintain organization against entropy, respond to their environment, grow, reproduce, and change over time. Life appears to be matter organized in specific ways that create these emergent behaviors.
 
-### Step-by-Step Breakdown Using First Principles Thinking
+**What are the basic requirements?** All living systems need energy input to maintain their organization, a boundary that separates inside from outside, and mechanisms to store and transmit information. This leads us to recognize that life is fundamentally about information processing and energy management within organized matter.
 
-**1. Start with the question: "What is life?"**
+**What are the minimal components?** Breaking down to the simplest level, all known life shares certain features: cells as basic units, carbon-based chemistry, DNA/RNA for information storage, and proteins for structure and function. These appear to be the minimal toolkit for creating living systems.
 
-Before we can understand life science, we have to understand life itself.
+**How does complexity build up?** Simple chemical reactions, when organized into networks, can create self-sustaining cycles. Molecules interact to form cells. Cells cooperate to form tissues, organs, and organisms. Organisms interact to form ecosystems. Each level exhibits properties not present at lower levels.
 
-**First principles of life** (things that are always true for living things):
+**How does information flow?** Living systems store information in DNA, express it through RNA, and implement it via proteins. This information gets copied, modified, and passed down through generations. Errors in copying create variation, which drives evolution.
 
-* Made of cells
-* Can grow and reproduce
-* Use energy (metabolism)
-* Respond to their environment
-* Maintain internal stability (homeostasis)
-* Evolve over generations
+**What drives change over time?** Organisms that successfully reproduce pass on their traits. Those less successful leave fewer offspring. This differential reproduction, operating on inherited variation, naturally leads to adaptation and evolution over time.
 
-**Conclusion**: Life is a system of organized matter that sustains and reproduces itself using energy and genetic information.
+**How do living systems maintain order?** Unlike non-living systems that tend toward disorder, living organisms actively maintain their organization by constantly consuming energy and materials from their environment. They are open systems far from thermodynamic equilibrium.
 
-**2. What is science?**
+**What governs interactions?** Chemical principles explain how molecules interact within cells. Physical principles govern how organisms move and exchange energy. Mathematical principles describe population dynamics and evolutionary change.
 
-**First principle**: Science is a method to discover reliable knowledge about the world through **observation**, **experimentation**, and **logical reasoning**.
-
-**3. Put it together: What is life science?**
-
-> Life science is the systematic study of living systems — how they are built, how they function, how they change, and how they relate to each other and to their environment.
-
-### Digging Deeper from First Principles
-
-Let’s break life science down even further:
-
-**1. What are living systems made of?**
-
-* **Cells** (basic unit of life)
-* Cells are made of **molecules** (like proteins, lipids, DNA)
-* Molecules are made of **atoms**
-
-**First principle**: At its root, biology is built on **chemistry**, which is built on **physics** — the behavior of matter and energy.
-
-**2. How do living systems function?**
-
-* Through chemical reactions (metabolism)
-* Information flow (DNA → RNA → Protein)
-* Coordination of processes (like brain signals or hormones)
-
-**First principle**: Life is information-driven chemistry happening in a self-sustaining system.
-
-**3. How do living systems change and evolve?**
-
-* Random genetic mutations
-* Natural selection
-* Adaptation to environment
-
-**First principle**: Life evolves over time through variation and selection.
-
-### Summary in One Line:
-
-**Life science = understanding how organized systems of matter (living things) use energy and information to survive, reproduce, and evolve.**
+This first-principles approach reveals life science as the study of how physical and chemical processes can be organized to create self-maintaining, reproducing, and evolving systems—essentially understanding how matter becomes alive.
