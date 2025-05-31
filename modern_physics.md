@@ -21,7 +21,7 @@ Let's build this understanding step by step:
 
 **The first revolution: Quantum mechanics**
 
-**Starting insight: Energy comes in chunks**: Max Planck discovered that energy isn't continuous like classical physics assumed - it comes in discrete packets called "quanta." This was like discovering that you can't pour water smoothly, but only in specific droplet sizes.
+**Starting insight - energy comes in chunks**: Max Planck discovered that energy isn't continuous like classical physics assumed - it comes in discrete packets called "quanta." This was like discovering that you can't pour water smoothly, but only in specific droplet sizes.
 
 **Wave-particle duality**: Experiments showed that light and matter exhibit both wave and particle properties depending on how you observe them. This isn't just a limitation of our instruments - it appears to be fundamental to nature. An electron isn't "really" a particle or "really" a wave; it's something more fundamental that can manifest as either.
 
