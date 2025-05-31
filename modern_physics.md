@@ -13,7 +13,7 @@ Modern physics is the revolution that occurred when scientists discovered that t
 
 Let's build this understanding step by step:
 
-**What observations broke classical physics**?: By the early 1900s, careful experiments revealed phenomena that classical physics couldn't explain:
+**What observations broke classical physics**? By the early 1900s, careful experiments revealed phenomena that classical physics couldn't explain:
 - Hot objects didn't radiate light as predicted (the "ultraviolet catastrophe")
 - Light sometimes behaved like particles, not waves
 - Atoms were stable, yet classical physics said electrons should spiral into the nucleus
