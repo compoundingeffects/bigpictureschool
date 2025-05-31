@@ -11,7 +11,7 @@ nav_order: 1
 
 Classical physics is the branch of physics that describes the behavior of objects and forces in our everyday experience - things we can see, touch, and directly observe. It's called "classical" because it was developed before we discovered the strange behaviors that emerge at atomic scales (quantum mechanics) or at extremely high speeds (relativity).
 
-Let me build this understanding from the ground up:
+Let's build this understanding from the ground up:
 
 **What observations led to classical physics?**
 Humans noticed that large, visible objects behave predictably. A thrown stone follows a curved path. A rolling ball eventually stops. Planets move in regular patterns across the sky. Classical physics emerged from trying to understand these macroscopic phenomena.
