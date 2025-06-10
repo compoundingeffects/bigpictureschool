@@ -11,7 +11,7 @@ has_children: true
 
 Earth science is the study of our planet's physical systems, processes, and history. It encompasses geology, meteorology, oceanography, and environmental science - essentially any scientific inquiry into how Earth works as a dynamic, interconnected system.
 
-Let me build this understanding from the ground up using first principles.
+Let's build this understanding from the ground up using first principles.
 
 **Starting with the most fundamental level: Matter and Energy**
 
