@@ -49,10 +49,10 @@ Changes in any of these components alter the energy balance and change climate.
 **Albedo: Surface Properties Matter**
 
 Different surfaces reflect different amounts of sunlight (albedo):
-- Fresh snow: ~90% reflection
-- Ice: ~60% reflection  
-- Forests: ~10% reflection
-- Oceans: ~6% reflection
+- **Fresh snow**: ~90% reflection
+- **Ice**: ~60% reflection  
+- **Forests**: ~10% reflection
+- **Oceans**: ~6% reflection
 
 This creates positive feedback loops - as ice melts and reveals darker ocean or land, more energy is absorbed, causing more warming and more melting.
 
@@ -103,12 +103,12 @@ Earth's 23.5° axial tilt creates seasons as different hemispheres receive more 
 The climate system contains feedback mechanisms:
 
 - **Positive feedbacks** (amplify changes):
-  - Ice-albedo feedback: melting ice reveals darker surfaces that absorb more heat
-  - Water vapor feedback: warmer air holds more water vapor (a greenhouse gas)
+  - **Ice-albedo feedback**: melting ice reveals darker surfaces that absorb more heat
+  - **Water vapor feedback**: warmer air holds more water vapor (a greenhouse gas)
 
 - **Negative feedbacks** (resist changes):
-  - Cloud feedback: more evaporation can create more clouds that reflect sunlight
-  - Rock weathering: higher CO₂ increases chemical weathering that removes CO₂
+  - **Cloud feedback**: more evaporation can create more clouds that reflect sunlight
+  - **Rock weathering**: higher CO₂ increases chemical weathering that removes CO₂
 
 **Time Scales: Climate Operates on Multiple Scales**
 
