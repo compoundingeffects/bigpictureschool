@@ -2,7 +2,7 @@
 layout: default
 title: Oceanography
 parent: Earth Science
-grand_parent: Natural Science
+grand_parent: Physical Science
 nav_order: 3
 ---
 
