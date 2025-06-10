@@ -102,13 +102,13 @@ Earth's 23.5° axial tilt creates seasons as different hemispheres receive more 
 
 The climate system contains feedback mechanisms:
 
-**Positive feedbacks** (amplify changes):
-- Ice-albedo feedback: melting ice reveals darker surfaces that absorb more heat
-- Water vapor feedback: warmer air holds more water vapor (a greenhouse gas)
+- **Positive feedbacks** (amplify changes):
+  - Ice-albedo feedback: melting ice reveals darker surfaces that absorb more heat
+  - Water vapor feedback: warmer air holds more water vapor (a greenhouse gas)
 
-**Negative feedbacks** (resist changes):
-- Cloud feedback: more evaporation can create more clouds that reflect sunlight
-- Rock weathering: higher CO₂ increases chemical weathering that removes CO₂
+- **Negative feedbacks** (resist changes):
+  - Cloud feedback: more evaporation can create more clouds that reflect sunlight
+  - Rock weathering: higher CO₂ increases chemical weathering that removes CO₂
 
 **Time Scales: Climate Operates on Multiple Scales**
 
