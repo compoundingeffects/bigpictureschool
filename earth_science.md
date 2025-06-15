@@ -7,7 +7,7 @@ nav_order: 4
 has_children: true
 ---
 
-## Earth Science
+# Earth Science
 
 Earth science represents the systematic study of our planet's physical systems, processes, and history through scientific observation, measurement, and analysis. This field encompasses the examination of Earth's solid materials, atmospheric envelope, hydrological systems, and the complex interactions between these components across multiple temporal scales.
 
