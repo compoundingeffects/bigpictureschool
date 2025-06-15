@@ -6,7 +6,7 @@ grand_parent: Social Science
 nav_order: 6
 ---
 
-## Tort Law
+# Tort Law
 
 Tort law represents one of the fundamental pillars of the legal system, designed to address civil wrongs between private parties. At its core, tort law serves to provide remedies when one person's conduct causes harm to another, distinct from criminal law which addresses wrongs against society as a whole.
 
