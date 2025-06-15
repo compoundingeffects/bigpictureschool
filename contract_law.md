@@ -6,7 +6,7 @@ grand_parent: Social Science
 nav_order: 3
 ---
 
-## Contract Law
+# Contract Law
 
 Contract law represents the legal framework governing voluntary agreements between parties. At its foundation, contract law serves to facilitate economic exchange and cooperation by providing predictable rules for making and enforcing promises.
 
@@ -16,13 +16,13 @@ From first principles, contract law addresses a fundamental challenge in human c
 
 ## Essential Elements Built from Basic Principles
 
-**Voluntary Agreement**: Contract law begins with the principle that individuals should be free to arrange their own affairs. This requires genuine consent from all parties, which explains why contracts are void when formed under duress, fraud, or other circumstances that compromise free choice.
+- **Voluntary Agreement**: Contract law begins with the principle that individuals should be free to arrange their own affairs. This requires genuine consent from all parties, which explains why contracts are void when formed under duress, fraud, or other circumstances that compromise free choice.
 
-**Mutual Benefit**: For an agreement to merit legal enforcement, both parties must receive something of value. This concept of "consideration" ensures that courts enforce genuine bargains rather than one-sided promises, reflecting the principle that legal intervention should support mutually beneficial exchanges.
+- **Mutual Benefit**: For an agreement to merit legal enforcement, both parties must receive something of value. This concept of "consideration" ensures that courts enforce genuine bargains rather than one-sided promises, reflecting the principle that legal intervention should support mutually beneficial exchanges.
 
-**Clear Terms**: Since enforcement requires understanding what was promised, contract law demands sufficient certainty in agreements. Vague or incomplete terms cannot be enforced because courts cannot determine what performance was actually required.
+- **Clear Terms**: Since enforcement requires understanding what was promised, contract law demands sufficient certainty in agreements. Vague or incomplete terms cannot be enforced because courts cannot determine what performance was actually required.
 
-**Capacity to Contract**: The law recognizes that meaningful consent requires mental capacity and legal standing. This principle protects those who cannot fully understand the consequences of their agreements, such as minors or individuals with cognitive impairments.
+- **Capacity to Contract**: The law recognizes that meaningful consent requires mental capacity and legal standing. This principle protects those who cannot fully understand the consequences of their agreements, such as minors or individuals with cognitive impairments.
 
 ## The Enforcement Mechanism
 
