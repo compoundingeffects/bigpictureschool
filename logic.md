@@ -5,7 +5,7 @@ parent: Formal Science
 nav_order: 3
 ---
 
-## Logic
+# Logic
 
 Logic represents the systematic study of valid reasoning and the principles that govern sound argumentation. At its foundation, logic examines how we can reliably move from premises to conclusions while preserving truth.
 
