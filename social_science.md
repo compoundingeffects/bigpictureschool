@@ -5,7 +5,7 @@ nav_order: 2
 has_children: true
 ---
 
-## Social Science
+# Social Science
 
 Social science represents the systematic study of human behavior, relationships, and societies using empirical methods and theoretical frameworks. To understand this field through first principles, we must begin with its fundamental components and build upward.
 
