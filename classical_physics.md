@@ -7,7 +7,7 @@ ancestor: Natural Science
 nav_order: 1
 ---
 
-## Classical Physics
+# Classical Physics
 
 Classical physics represents the foundational framework that describes the motion and behavior of matter and energy in our everyday world. It encompasses the physical laws and principles that govern objects from projectiles and pendulums to planets and stars, operating under conditions where speeds are much slower than light and scales are much larger than atomic dimensions.
 
