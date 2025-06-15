@@ -7,7 +7,7 @@ nav_order: 1
 has_children: true
 ---
 
-## Physics
+# Physics
 
 Physics represents the fundamental study of matter, energy, and their interactions within the universe. At its core, physics seeks to understand how things move, why they behave as they do, and what underlying principles govern natural phenomena.
 
