@@ -6,7 +6,7 @@ grand_parent: Physical Science
 nav_order: 2
 ---
 
-## Meteorology
+# Meteorology
 
 Meteorology is the scientific study of atmospheric processes and phenomena, encompassing the physics and chemistry of Earth's atmosphere and their effects on weather and climate patterns. This field applies fundamental scientific principles to understand, predict, and explain atmospheric behavior.
 
