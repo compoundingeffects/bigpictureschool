@@ -5,7 +5,7 @@ parent: Formal Science
 nav_order: 1
 ---
 
-## Computer Science
+# Computer Science
 
 Computer science represents the systematic study of algorithms, computational systems, and the design of computer systems and their applications. At its foundation, computer science emerges from the intersection of mathematical logic, engineering principles, and abstract problem-solving methodologies.
 
