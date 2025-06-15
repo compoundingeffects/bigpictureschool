@@ -7,7 +7,7 @@ nav_order: 2
 has_children: true
 ---
 
-## Chemistry
+# Chemistry
 
 Chemistry represents the systematic study of matter's composition, structure, properties, and transformations. At its most fundamental level, chemistry emerges from the behavior of atoms and their interactions, making it the bridge between physics and biology in our understanding of the natural world.
 
