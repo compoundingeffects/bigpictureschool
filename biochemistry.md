@@ -7,7 +7,7 @@ ancestor: Natural Science
 nav_order: 1
 ---
 
-## Biochemistry
+# Biochemistry
 
 Biochemistry represents the scientific discipline that examines the chemical processes occurring within and relating to living organisms. At its most fundamental level, biochemistry seeks to understand life through the lens of molecular interactions and chemical reactions.
 
