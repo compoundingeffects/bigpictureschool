@@ -6,7 +6,7 @@ nav_order: 3
 has_children: true
 ---
 
-## Life Science
+# Life Science
 
 Life science represents the systematic study of living organisms and the processes that sustain life. At its foundation, life science encompasses biology, biochemistry, genetics, physiology, ecology, and related disciplines that examine how living systems function, interact, and evolve.
 
