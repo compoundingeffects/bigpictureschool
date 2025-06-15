@@ -7,7 +7,7 @@ ancestor: Natural Science
 nav_order: 3
 ---
 
-## Inorganic Chemistry
+# Inorganic Chemistry
 
 Inorganic chemistry represents the scientific study of all chemical elements and their compounds, with the notable exception of most carbon-based organic compounds. This field encompasses the vast majority of the periodic table and includes metals, metalloids, nonmetals, and their various combinations in compounds such as salts, acids, bases, and complex coordination structures.
 
