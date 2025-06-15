@@ -6,7 +6,7 @@ grand_parent: Physical Science
 nav_order: 4
 ---
 
-## Climatology
+# Climatology
 
 Climatology is the scientific study of climate - the long-term statistical patterns of weather conditions over extended periods, typically 30 years or more. To understand climatology through first principles, we must build from fundamental concepts about Earth's energy systems and atmospheric processes.
 
@@ -41,4 +41,3 @@ Contemporary climatology must account for human activities that alter atmospheri
 Modern climatology employs sophisticated mathematical models based on fundamental physical laws - conservation of energy, mass, and momentum - to simulate climate processes and project future changes. These models integrate our understanding of radiation, fluid dynamics, thermodynamics, and chemistry to represent the complex interactions within the climate system.
 
 This first-principles approach reveals that climatology ultimately rests on well-established physical laws governing energy transfer, fluid motion, and chemical processes. The complexity emerges not from exotic phenomena but from the intricate interactions among relatively simple physical processes operating across vast ranges of space and time scales.
-
