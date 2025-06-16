@@ -9,8 +9,6 @@ nav_order: 2
 
 # Modern Physics
 
-## Defining Modern Physics
-
 Modern physics represents the fundamental departure from classical physics that occurred in the early 20th century. Classical physics, established by Newton and refined through the 19th century, operated under the assumption that the universe was deterministic, continuous, and governed by absolute space and time. Modern physics emerged when experimental observations could no longer be explained by these classical principles, necessitating revolutionary new frameworks.
 
 The field encompasses quantum mechanics, relativity theory, and their applications to understanding matter, energy, space, and time at scales ranging from subatomic particles to cosmic structures. Modern physics fundamentally altered our understanding of reality itself, revealing that the universe operates according to probabilistic rather than deterministic principles at the smallest scales, and that space and time are relative rather than absolute.
