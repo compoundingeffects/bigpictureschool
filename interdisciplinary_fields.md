@@ -4,7 +4,8 @@ title: Interdisciplinary Fields
 nav_order: 6
 has_children: true
 ---
-## Interdisciplinary Fields
+
+# Interdisciplinary Fields
 
 Interdisciplinary fields represent academic domains that integrate knowledge, methods, and perspectives from two or more distinct disciplines to address complex problems that cannot be adequately understood through a single disciplinary lens.
 
