@@ -12,7 +12,7 @@ Microbiology is the scientific study of microscopic organisms and their interact
 
 ## Building from Fundamental Concepts
 
-**The Scale of Life**
+### The Scale of Life
 
 To understand microbiology, we must first establish the scale at which microorganisms exist. Most microbes range from 0.1 to 100 micrometers in size. A micrometer is one millionth of a meter, placing these organisms in a realm invisible to human perception without technological assistance. This scale constraint shapes everything about how microbes function, from their metabolism to their reproduction strategies.
 
