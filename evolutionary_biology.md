@@ -15,15 +15,19 @@ Evolutionary biology is the scientific discipline that studies how life forms ch
 To understand evolutionary biology from the ground up, we must begin with several fundamental observations about life:
 
 **Observation One: Variation Exists**
+
 Within any population of organisms, individuals differ from one another. No two organisms are identical, even among siblings. This variation spans physical traits, behavioral patterns, and internal biological processes. Without variation, no evolutionary change would be possible.
 
 **Observation Two: Traits Are Heritable**
+
 Many characteristics pass from parents to offspring through mechanisms of inheritance. Offspring tend to resemble their parents more than they resemble random individuals from the population. This heredity means that variations can persist across generations rather than disappearing with each individual's death.
 
 **Observation Three: Resources Are Limited**
+
 Every environment has finite resources—food, space, mates, and other necessities for survival and reproduction. This scarcity creates competition among organisms, as not all individuals can access unlimited resources.
 
 **Observation Four: Reproductive Success Varies**
+
 Some individuals produce more offspring than others. This differential reproductive success stems from various factors, including an individual's ability to survive, find mates, and successfully raise young to reproductive age.
 
 ## The Logical Consequence: Natural Selection
