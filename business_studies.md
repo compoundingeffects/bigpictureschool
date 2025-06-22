@@ -8,11 +8,11 @@ has_children: true
 
 # Business Studies
 
-Business Studies is the academic discipline that examines how commercial organizations operate, make decisions, and interact with their environment. At its core, it seeks to understand the fundamental question: how do businesses create, deliver, and capture value while managing resources, people, and relationships?
+Business studies is the academic discipline that examines how commercial organizations operate, make decisions, and interact with their environment. At its core, it seeks to understand the fundamental question: how do businesses create, deliver, and capture value while managing resources, people, and relationships?
 
 ## The Foundation: Value Creation
 
-Business Studies begins with the recognition that businesses exist to solve problems and create value for stakeholders. This value creation occurs through the transformation of inputs (resources, labor, capital) into outputs (goods, services, experiences) that people are willing to pay for. The discipline studies this transformation process across multiple dimensions.
+Business studies begins with the recognition that businesses exist to solve problems and create value for stakeholders. This value creation occurs through the transformation of inputs (resources, labor, capital) into outputs (goods, services, experiences) that people are willing to pay for. The discipline studies this transformation process across multiple dimensions.
 
 ## Core Components Derived from Fundamental Questions
 
@@ -24,7 +24,7 @@ Since businesses involve people working together toward common goals, Business S
 
 ## Strategic Thinking and Competitive Dynamics
 
-Business Studies addresses how organizations position themselves relative to competitors and adapt to changing environments. This involves analyzing market structures, competitive advantages, and long-term planning. The field acknowledges that businesses operate within ecosystems where success depends on understanding and responding to external forces.
+Business studies addresses how organizations position themselves relative to competitors and adapt to changing environments. This involves analyzing market structures, competitive advantages, and long-term planning. The field acknowledges that businesses operate within ecosystems where success depends on understanding and responding to external forces.
 
 ## Interdisciplinary Integration
 
@@ -32,6 +32,6 @@ The discipline draws from economics to understand market mechanisms and resource
 
 ## Practical Application Framework
 
-Business Studies distinguishes itself by emphasizing the application of theoretical knowledge to real-world challenges. It develops frameworks for decision-making under uncertainty, problem-solving methodologies, and analytical tools that can be applied across different industries and contexts.
+Business studies distinguishes itself by emphasizing the application of theoretical knowledge to real-world challenges. It develops frameworks for decision-making under uncertainty, problem-solving methodologies, and analytical tools that can be applied across different industries and contexts.
 
 The field ultimately serves as a bridge between abstract economic theory and practical management challenges, providing both conceptual understanding and actionable insights for managing commercial enterprises effectively.
