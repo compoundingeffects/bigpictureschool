@@ -3,7 +3,7 @@ layout: default
 title: Ecology
 parent: Life Science
 grand_parent: Natural Science
-nav_order: 8
+nav_order: 9
 ---
 
 # Ecology
