@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Evolutionary Biology
-parent: Biology
+parent: Life Science
 grand_parent: Natural Science
 nav_order: 4
 ---
