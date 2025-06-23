@@ -41,8 +41,8 @@ Interested in sharing your feedback or collaborating with us? We would love to h
     - [Microbiology](https://bigpictureschool.com/microbiology.html)
     - [Neurobiology](https://bigpictureschool.com/neurobiology.html)
     - [Botany](https://bigpictureschool.com/botany.html)
-    - Zoology
-    - Ecology
+    - [Zoology](https://bigpictureschool.com/zoology.html)
+    - [Ecology](https://bigpictureschool.com/ecology.html)
 - [Space Science](https://bigpictureschool.com/space_science.html)
   - Astronomy
   - Astrophysics
