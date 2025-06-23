@@ -1,9 +1,8 @@
 ---
 layout: default
 title: Ecology
-parent: Biology
-grand_parent: Life Science
-ancestor: Natural Science
+parent: Life Science
+grand_parent: Natural Science
 nav_order: 8
 ---
 
