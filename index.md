@@ -150,6 +150,7 @@ Interested in sharing your feedback or collaborating with us? We would love to h
 * Machine Learning
 * Neuroscience
 * Public Health
+* [Quantum Biology](https://bigpictureschool.com/quantum_biology.html)
 * Robotics
 * Sustainability Studies
 * Urban Planning
