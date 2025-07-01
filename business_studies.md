@@ -20,7 +20,7 @@ The field emerges from addressing essential questions that any commercial entity
 
 ## Organizational Behavior and Structure
 
-Since businesses involve people working together toward common goals, Business Studies examines how human behavior affects organizational performance. This includes understanding motivation, leadership, communication, and decision-making processes. The discipline recognizes that businesses are social systems where individual actions aggregate into collective outcomes.
+Since businesses involve people working together toward common goals, Business studies examines how human behavior affects organizational performance. This includes understanding motivation, leadership, communication, and decision-making processes. The discipline recognizes that businesses are social systems where individual actions aggregate into collective outcomes.
 
 ## Strategic Thinking and Competitive Dynamics
 
