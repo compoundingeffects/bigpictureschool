@@ -50,8 +50,8 @@ Interested in sharing your feedback or collaborating with us? We would love to h
   - [Planetary Science](https://bigpictureschool.com/planetary_science.html)
 
 ### 2. [Social Science](https://bigpictureschool.com/social_science.html)
-* Anthropology
-* Archaeology
+* [Anthropology](https://bigpictureschool.com/anthropology.html)
+* [Archaeology](https://bigpictureschool.com/archaeology.html)
 * [Business Studies](https://bigpictureschool.com/business_studies.html)
   * Accounting
   * Finance
