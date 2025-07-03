@@ -54,9 +54,9 @@ Interested in sharing your feedback or collaborating with us? We would love to h
 * [Archaeology](https://bigpictureschool.com/archaeology.html)
 * [Business Studies](https://bigpictureschool.com/business_studies.html)
   * [Accounting](https://bigpictureschool.com/accounting.html)
-  * Finance
-  * Management
-  * Marketing
+  * [Finance](https://bigpictureschool.com/finance.html)
+  * [Management](https://bigpictureschool.com/management.html)
+  * [Marketing](https://bigpictureschool.com/marketing.html)
 * [Economics](https://bigpictureschool.com/economics.html)
 * Education
 * Geography
