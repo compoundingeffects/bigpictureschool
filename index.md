@@ -58,8 +58,8 @@ Interested in sharing your feedback or collaborating with us? We would love to h
   * [Management](https://bigpictureschool.com/management.html)
   * [Marketing](https://bigpictureschool.com/marketing.html)
 * [Economics](https://bigpictureschool.com/economics.html)
-* Education
-* Geography
+* [Education](https://bigpictureschool.com/education.html)
+* [Geography](https://bigpictureschool.com/geography.html)
 * [Law](https://bigpictureschool.com/law.html)
   * Civil Procedure
   * Constitutional Law
