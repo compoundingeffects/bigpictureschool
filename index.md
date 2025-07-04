@@ -61,13 +61,13 @@ Interested in sharing your feedback or collaborating with us? We would love to h
 * [Education](https://bigpictureschool.com/education.html)
 * [Geography](https://bigpictureschool.com/geography.html)
 * [Law](https://bigpictureschool.com/law.html)
-  * Civil Procedure
-  * Constitutional Law
+  * [Civil Procedure](https://bigpictureschool.com/civil_procedure.html)
+  * [Constitutional Law](https://bigpictureschool.com/constitutional_law.html)
   * [Contract Law](https://bigpictureschool.com/contract_law.html)
-  * Criminal Law
-  * Property Law
+  * [Criminal Law](https://bigpictureschool.com/criminal_law.html)
+  * [Property Law](https://bigpictureschool.com/property_law.html)
   * [Tort Law](https://bigpictureschool.com/tort_law.html)
-* Linguistics
+* [Linguistics](https://bigpictureschool.com/linguistics.html)
 * [Political Science](https://bigpictureschool.com/political_science.html)
   * Comparative Politics
   * International Relations
