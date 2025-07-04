@@ -1,37 +1,33 @@
 ---
 layout: default
-title: Business Studies
+title: Linguistics
 parent: Social Science
-nav_order: 3
-has_children: true
+nav_order: 8
+has_children: false
 ---
 
-# Business Studies
+# Linguistics
 
-Business studies is the academic discipline that examines how commercial organizations operate, make decisions, and interact with their environment. At its core, it seeks to understand the fundamental question: how do businesses create, deliver, and capture value while managing resources, people, and relationships?
+Linguistics is the scientific study of language as a systematic, rule-governed phenomenon. At its core, linguistics seeks to understand how human language works by examining its structure, use, and underlying principles across all human societies.
 
-## The Foundation: Value Creation
+## First Principles Foundation**
 
-Business studies begins with the recognition that businesses exist to solve problems and create value for stakeholders. This value creation occurs through the transformation of inputs (resources, labor, capital) into outputs (goods, services, experiences) that people are willing to pay for. The discipline studies this transformation process across multiple dimensions.
+Starting from fundamental observations, we can establish that humans possess a remarkable capacity: the ability to produce and understand an infinite number of novel sentences using finite resources. This capacity appears universal across all human populations, yet no other species demonstrates comparable linguistic abilities. These basic facts suggest that language represents a distinct cognitive system worthy of systematic investigation.
 
-## Core Components Derived from Fundamental Questions
+## Core Components of Linguistic Analysis
 
-The field emerges from addressing essential questions that any commercial entity must answer. How should resources be allocated efficiently? This leads to the study of operations management and supply chain optimization. How do organizations attract and retain customers? This generates marketing and sales theory. How do businesses measure success and manage financial resources? This creates accounting and finance disciplines.
+The field operates on the principle that language can be decomposed into discrete, analyzable levels. Phonetics and phonology examine the sound systems of languages, investigating how humans produce, perceive, and organize speech sounds. Morphology studies how words are constructed from meaningful units, while syntax analyzes how words combine to form sentences according to systematic rules.
 
-## Organizational Behavior and Structure
+Semantics addresses how meaning is encoded and interpreted in linguistic expressions, and pragmatics examines how context influences language use and interpretation. These levels interconnect systematically, creating the complex system we recognize as human language.
 
-Since businesses involve people working together toward common goals, Business studies examines how human behavior affects organizational performance. This includes understanding motivation, leadership, communication, and decision-making processes. The discipline recognizes that businesses are social systems where individual actions aggregate into collective outcomes.
+## Fundamental Principles
 
-## Strategic Thinking and Competitive Dynamics
+Several key principles guide linguistic inquiry. Language exhibits systematic patterns rather than random variation, suggesting underlying organizational principles. The principle of arbitrariness holds that the relationship between linguistic forms and their meanings is largely conventional rather than natural. Additionally, all languages demonstrate equal complexity and expressive capacity, contradicting hierarchical notions of linguistic sophistication.
 
-Business studies addresses how organizations position themselves relative to competitors and adapt to changing environments. This involves analyzing market structures, competitive advantages, and long-term planning. The field acknowledges that businesses operate within ecosystems where success depends on understanding and responding to external forces.
+## Methodological Approach
 
-## Interdisciplinary Integration
+Linguistics employs empirical methods to test hypotheses about language structure and function. Researchers collect and analyze linguistic data through various means, including native speaker intuitions, corpus analysis, experimental studies, and cross-linguistic comparison. This scientific approach distinguishes linguistics from prescriptive grammar or casual language commentary.
 
-The discipline draws from economics to understand market mechanisms and resource allocation, from psychology to comprehend consumer behavior and employee motivation, from sociology to grasp organizational culture and social responsibility, and from mathematics to enable quantitative analysis and modeling.
+## Broader Implications
 
-## Practical Application Framework
-
-Business studies distinguishes itself by emphasizing the application of theoretical knowledge to real-world challenges. It develops frameworks for decision-making under uncertainty, problem-solving methodologies, and analytical tools that can be applied across different industries and contexts.
-
-The field ultimately serves as a bridge between abstract economic theory and practical management challenges, providing both conceptual understanding and actionable insights for managing commercial enterprises effectively.
+Understanding linguistics provides insights into human cognition, social organization, and cultural transmission. The field reveals how humans acquire, process, and use language, contributing to our understanding of what makes human communication uniquely complex and effective. This knowledge has practical applications in education, technology, clinical practice, and cross-cultural communication.
