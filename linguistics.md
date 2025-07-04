@@ -10,7 +10,7 @@ has_children: false
 
 Linguistics is the scientific study of language as a systematic, rule-governed phenomenon. At its core, linguistics seeks to understand how human language works by examining its structure, use, and underlying principles across all human societies.
 
-## First Principles Foundation**
+## First Principles Foundation
 
 Starting from fundamental observations, we can establish that humans possess a remarkable capacity: the ability to produce and understand an infinite number of novel sentences using finite resources. This capacity appears universal across all human populations, yet no other species demonstrates comparable linguistic abilities. These basic facts suggest that language represents a distinct cognitive system worthy of systematic investigation.
 
