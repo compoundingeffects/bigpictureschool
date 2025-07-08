@@ -69,11 +69,11 @@ Interested in sharing your feedback or collaborating with us? We would love to h
   * [Tort Law](https://bigpictureschool.com/tort_law.html)
 * [Linguistics](https://bigpictureschool.com/linguistics.html)
 * [Political Science](https://bigpictureschool.com/political_science.html)
-  * Comparative Politics
-  * International Relations
-  * Political Theory
-  * Public Administration
-  * Public Policy
+  * [Comparative Politics](https://bigpictureschool.com/comparative_politics.html)
+  * [International Relations](https://bigpictureschool.com/international_relations.html)
+  * [Political Theory](https://bigpictureschool.com/political_theory.html)
+  * [Public Administration](https://bigpictureschool.com/public_administration.html)
+  * [Public Policy](https://bigpictureschool.com/public_policy.html)
 * Psychology
 * Religious Studies
 * Sociology
