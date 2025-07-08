@@ -26,15 +26,15 @@ Power emerges as a crucial currency because it provides the means to ensure secu
 
 ## Mechanisms of Interaction
 
-Within this anarchic structure, states interact through several mechanisms:
+Within this anarchic structure, states interact through several mechanisms.
 
-- Diplomacy serves as the primary tool for communication and negotiation. It allows states to signal intentions, resolve disputes, and coordinate policies without resorting to force.
+Diplomacy serves as the primary tool for communication and negotiation. It allows states to signal intentions, resolve disputes, and coordinate policies without resorting to force.
 
-- International law and institutions develop to reduce uncertainty and transaction costs. While lacking enforcement mechanisms comparable to domestic law, they create expectations and facilitate cooperation by establishing rules and procedures.
+International law and institutions develop to reduce uncertainty and transaction costs. While lacking enforcement mechanisms comparable to domestic law, they create expectations and facilitate cooperation by establishing rules and procedures.
 
-- Balance of power dynamics emerge naturally as states seek to prevent any single actor from dominating the system. This can occur through internal balancing (building one's own capabilities) or external balancing (forming alliances).
+Balance of power dynamics emerge naturally as states seek to prevent any single actor from dominating the system. This can occur through internal balancing (building one's own capabilities) or external balancing (forming alliances).
 
-- Economic interdependence creates both opportunities for cooperation and vulnerabilities. Trade relationships can align interests and raise the costs of conflict, but they also create dependencies that can be exploited.
+Economic interdependence creates both opportunities for cooperation and vulnerabilities. Trade relationships can align interests and raise the costs of conflict, but they also create dependencies that can be exploited.
 
 ## The Role of Domestic Politics
 
