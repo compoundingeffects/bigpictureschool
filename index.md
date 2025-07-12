@@ -88,11 +88,11 @@ Interested in sharing your feedback or collaborating with us? We would love to h
   * Musicology
   * Theater
 * [Philosophy](https://bigpictureschool.com/philosophy.html)
-  * Aesthetics
-  * Epistemology
-  * Ethics
-  * Logic
-  * Metaphysics
+  * [Aesthetics](https://bigpictureschool.com/aesthetics.html)
+  * [Epistemology](https://bigpictureschool.com/epistemology.html)
+  * [Ethics](https://bigpictureschool.com/ethics.html)
+  * [Logic](https://bigpictureschool.com/logic.html)
+  * [Metaphysics](https://bigpictureschool.com/metaphysics.html)
 * Visual Arts
 
 ### 4. [Formal Science](https://bigpictureschool.com/formal_science.html)
