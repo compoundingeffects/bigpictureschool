@@ -3,7 +3,7 @@ layout: default
 title: Ethics
 parent: Philosophy
 grand_parent: Humanities
-nav_order: 1
+nav_order: 3
 ---
 
 # Ethics
