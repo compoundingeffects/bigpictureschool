@@ -32,7 +32,7 @@ Constitutional law recognizes that certain fundamental rights exist independentl
 
 ## The Interpretive Framework
 
-Constitutional law operates through interpretation because constitutional texts typically contain broad principles rather than detailed rules. This interpretive process involves several key elements:
+Constitutional law operates through interpretation because constitutional texts typically contain broad principles rather than detailed rules. This interpretive process involves several key elements.
 
 ### Textual Analysis
 Constitutional law begins with the actual words of the constitutional document. The text provides the starting point for understanding constitutional meaning, though the interpretation of that text often requires sophisticated legal analysis.
