@@ -80,9 +80,9 @@ Interested in sharing your feedback or collaborating with us? We would love to h
 
 ### 3. [Humanities](https://bigpictureschool.com/humanities.html)
 * Classics
-* History
+* [History](https://bigpictureschool.com/history.html)
 * Language
-* Literature
+* [Literature](https://bigpictureschool.com/literature.html)
 * [Performing Arts](https://bigpictureschool.com/performing_arts.html)
   * Dance
   * Musicology
