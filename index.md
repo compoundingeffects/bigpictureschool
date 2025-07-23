@@ -74,9 +74,9 @@ Interested in sharing your feedback or collaborating with us? We would love to h
   * [Political Theory](https://bigpictureschool.com/political_theory.html)
   * [Public Administration](https://bigpictureschool.com/public_administration.html)
   * [Public Policy](https://bigpictureschool.com/public_policy.html)
-* Psychology
-* Religious Studies
-* Sociology
+* [Psychology](https://bigpictureschool.com/psychology.html)
+* [Religious Studies](https://bigpictureschool.com/religious_studies.html)
+* [Sociology](https://bigpictureschool.com/sociology.html)
 
 ### 3. [Humanities](https://bigpictureschool.com/humanities.html)
 * Classics
