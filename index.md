@@ -79,21 +79,21 @@ Interested in sharing your feedback or collaborating with us? We would love to h
 * [Sociology](https://bigpictureschool.com/sociology.html)
 
 ### 3. [Humanities](https://bigpictureschool.com/humanities.html)
-* Classics
+* [Classics](https://bigpictureschool.com/classics.html)
 * [History](https://bigpictureschool.com/history.html)
-* Language
+* [Language](https://bigpictureschool.com/language.html)
 * [Literature](https://bigpictureschool.com/literature.html)
 * [Performing Arts](https://bigpictureschool.com/performing_arts.html)
-  * Dance
-  * Musicology
-  * Theater
+  * [Dance](https://bigpictureschool.com/dance.html)
+  * [Musicology](https://bigpictureschool.com/musicology.html)
+  * [Theater](https://bigpictureschool.com/theater.html)
 * [Philosophy](https://bigpictureschool.com/philosophy.html)
   * [Aesthetics](https://bigpictureschool.com/aesthetics.html)
   * [Epistemology](https://bigpictureschool.com/epistemology.html)
   * [Ethics](https://bigpictureschool.com/ethics.html)
   * [Logic](https://bigpictureschool.com/logic.html)
   * [Metaphysics](https://bigpictureschool.com/metaphysics.html)
-* Visual Arts
+* [Visual Arts](https://bigpictureschool.com/visual_arts.html)
 
 ### 4. [Formal Science](https://bigpictureschool.com/formal_science.html)
 * [Computer Science](https://bigpictureschool.com/computer_science.html)
