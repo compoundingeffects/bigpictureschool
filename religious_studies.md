@@ -2,7 +2,7 @@
 layout: default
 title: Religious Studies
 parent: Social Science
-nav_order: 8
+nav_order: 11
 has_children: false
 ---
 
