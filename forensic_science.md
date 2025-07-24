@@ -1,42 +1,46 @@
 ---
 layout: default
-title: Environmental Science
+title: Forensic Science
 parent: Applied Science
-nav_order: 6
+nav_order: 7
 ---
 
-# Environmental Science
+# Forensic Science
 
-Environmental science represents the interdisciplinary study of the interactions between the physical, chemical, and biological components of the environment, combined with the effects of human activities on these systems. At its foundation, environmental science seeks to understand how natural systems function and how human activities alter these functions.
+Forensic science is the systematic application of scientific methods and principles to examine physical evidence for legal proceedings. At its core, it operates on the fundamental premise that every contact leaves a trace and that physical evidence can provide objective information about past events.
 
-## The Physical Foundation
+## Foundational Principles
 
-Environmental science begins with recognizing that Earth operates as an interconnected system of matter and energy flows. Matter follows the law of conservation - it cannot be created or destroyed, only transformed from one form to another. This principle governs all environmental processes, from the carbon cycle to the movement of pollutants through ecosystems. Energy, primarily from the sun, drives these material transformations and movements through the environment.
+The discipline rests on several key scientific principles. First, the principle of transfer states that when two objects come into contact, there is always an exchange of material between them, no matter how minute. This concept, known as Locard's Exchange Principle, forms the theoretical foundation for most forensic investigations.
 
-These fundamental physical laws create the basis for understanding environmental problems. When humans introduce substances into the environment, those materials must go somewhere - they do not simply disappear. This principle explains why pollution persists and why understanding the pathways of environmental contaminants becomes crucial.
+Second, forensic science relies on the principle of uniqueness—that certain characteristics of objects, substances, or patterns are sufficiently distinctive to allow identification. This applies to fingerprints, DNA profiles, handwriting samples, and other evidence types.
 
-## Biological Systems and Interactions
+Third, the discipline operates on the principle of comparison, which holds that unknown samples can be meaningfully compared to known standards to establish relationships or exclude possibilities.
 
-Living systems add complexity through their ability to concentrate, transform, and respond to environmental conditions. Organisms interact with their physical environment and with each other through relationships that can be understood through basic biological principles: organisms need energy and materials to survive, they reproduce, and they respond to environmental pressures through adaptation or migration.
+## Scientific Method Application
 
-These biological interactions create emergent properties at larger scales. Individual organisms form populations, populations form communities, and communities interact with their physical environment to create ecosystems. Each level of organization exhibits properties that cannot be predicted solely from understanding the components at lower levels.
+Forensic science applies the scientific method through systematic observation, hypothesis formation, testing, and analysis. When investigators encounter physical evidence, they first document its condition and context meticulously. They then develop hypotheses about how the evidence relates to the alleged crime and design tests to evaluate these hypotheses.
 
-## Human Systems Integration
+The process requires strict adherence to protocols that ensure reproducibility and reliability. Chain of custody procedures maintain evidence integrity, while standardized analytical methods ensure consistent results across different laboratories and practitioners.
 
-Environmental science recognizes humans as both biological organisms subject to environmental constraints and as agents capable of dramatically altering environmental systems. Human activities operate through the same fundamental principles as natural systems - we extract materials, transform them, and generate wastes - but at scales and rates that often overwhelm natural system capacities.
+## Evidence Categories and Analysis
 
-The discipline examines how human social, economic, and technological systems interact with natural systems. This integration requires understanding not only the physical and biological processes but also how human decision-making, institutions, and technologies influence environmental outcomes.
+Physical evidence falls into several categories, each requiring specific analytical approaches. Biological evidence includes blood, saliva, hair, and tissue samples that can provide DNA profiles for identification purposes. Chemical evidence encompasses drugs, explosives, paints, and other substances that can be characterized through various analytical techniques.
 
-## System Thinking and Scale
+Pattern evidence includes fingerprints, footwear impressions, tire marks, and ballistics evidence. These require comparison methodologies that evaluate both class characteristics (features common to a group) and individual characteristics (features that distinguish one item from all others).
 
-Environmental science applies systems thinking, recognizing that environmental problems rarely have simple, linear cause-and-effect relationships. Instead, environmental systems exhibit feedback loops, time delays, and threshold effects. Changes in one part of a system can have unexpected consequences in other parts, often at different spatial or temporal scales.
+Digital evidence represents a growing category that includes data from computers, mobile devices, and electronic systems. This requires specialized techniques for data recovery, authentication, and analysis while maintaining the integrity of the original information.
 
-The discipline operates across multiple scales simultaneously - from molecular processes affecting individual organisms to global climate systems affecting entire continents. Understanding environmental problems requires connecting processes operating at these different scales and recognizing how local actions can have regional or global consequences.
+## Quality Assurance and Validation
 
-## Problem-Solving Framework
+The reliability of forensic science depends on rigorous quality assurance measures. Laboratories must validate their methods through proficiency testing, equipment calibration, and adherence to established standards. Analysts require proper training and certification to ensure competency in their specialized areas.
 
-Environmental science functions as an applied discipline, using scientific understanding to address real-world environmental problems. This application requires not only understanding how systems work but also developing methods to monitor environmental conditions, assess risks, and evaluate potential solutions.
+Statistical interpretation plays an increasingly important role in forensic science. Rather than claiming absolute matches or exclusions, modern forensic science emphasizes the weight of evidence and the probability of observed results under different scenarios.
 
-The field integrates knowledge from multiple traditional disciplines - chemistry, biology, physics, geology, geography, and social sciences - because environmental problems transcend the boundaries of any single discipline. This integration creates a framework for understanding complex environmental challenges and developing comprehensive approaches to address them.
+## Integration with Legal Framework
 
-Through this first-principles approach, environmental science provides the conceptual foundation for understanding how natural systems function, how human activities affect these systems, and how we can work within natural constraints to meet human needs while maintaining environmental integrity.
+Forensic science exists at the intersection of science and law, requiring practitioners to communicate complex scientific concepts clearly to legal professionals and juries. The admissibility of forensic evidence depends on its scientific validity, relevance to the case, and adherence to established legal standards.
+
+This integration requires forensic scientists to understand both the capabilities and limitations of their methods. They must present findings objectively, acknowledging uncertainties and potential alternative explanations rather than overstating conclusions.
+
+The discipline continues to evolve as new technologies emerge and our understanding of existing methods improves. This evolution reflects the fundamental scientific principle that knowledge builds upon previous discoveries while remaining open to revision based on new evidence and improved methodologies.
