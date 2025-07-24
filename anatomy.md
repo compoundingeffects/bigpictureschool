@@ -6,7 +6,7 @@ grand_parent: Applied Science
 nav_order: 1
 ---
 
-## Anatomy
+# Anatomy
 
 Anatomy represents the systematic study of the structure and organization of living organisms. At its most fundamental level, anatomy concerns itself with understanding how biological systems are physically constructed and how their components relate to one another in space.
 
