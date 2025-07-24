@@ -1,42 +1,50 @@
 ---
 layout: default
-title: Environmental Science
+title: Permaculture
 parent: Applied Science
-nav_order: 6
+nav_order: 9
 ---
 
-# Environmental Science
+# Permaculture
 
-Environmental science represents the interdisciplinary study of the interactions between the physical, chemical, and biological components of the environment, combined with the effects of human activities on these systems. At its foundation, environmental science seeks to understand how natural systems function and how human activities alter these functions.
+Permaculture is a design philosophy and system of agricultural and social practices based on simulating or directly utilizing patterns and features observed in natural ecosystems. The term combines "permanent" and "agriculture," reflecting its goal of creating sustainable, self-maintaining systems that can endure indefinitely without depleting resources or requiring external inputs.
 
-## The Physical Foundation
+## First Principles Foundation
 
-Environmental science begins with recognizing that Earth operates as an interconnected system of matter and energy flows. Matter follows the law of conservation - it cannot be created or destroyed, only transformed from one form to another. This principle governs all environmental processes, from the carbon cycle to the movement of pollutants through ecosystems. Energy, primarily from the sun, drives these material transformations and movements through the environment.
+From first principles, permaculture begins with several fundamental observations about natural systems:
 
-These fundamental physical laws create the basis for understanding environmental problems. When humans introduce substances into the environment, those materials must go somewhere - they do not simply disappear. This principle explains why pollution persists and why understanding the pathways of environmental contaminants becomes crucial.
+**Energy flows are the foundation of all systems.** In nature, energy from the sun drives all biological processes. Natural ecosystems capture, store, and cycle this energy efficiently through multiple pathways, minimizing waste and maximizing productivity. This principle suggests that sustainable human systems must also work with natural energy flows rather than against them.
 
-## Biological Systems and Interactions
+**Diversity creates stability.** Natural ecosystems demonstrate that greater species diversity leads to greater resilience and stability. When multiple organisms fulfill similar functions, the system can continue operating even if individual components fail. This redundancy principle applies to both biological and social systems.
 
-Living systems add complexity through their ability to concentrate, transform, and respond to environmental conditions. Organisms interact with their physical environment and with each other through relationships that can be understood through basic biological principles: organisms need energy and materials to survive, they reproduce, and they respond to environmental pressures through adaptation or migration.
+**Waste equals food in natural systems.** In healthy ecosystems, the waste products of one organism become inputs for another. Nothing is truly discarded; materials cycle continuously through the system. This closed-loop principle challenges linear "take-make-dispose" models common in industrial systems.
 
-These biological interactions create emergent properties at larger scales. Individual organisms form populations, populations form communities, and communities interact with their physical environment to create ecosystems. Each level of organization exhibits properties that cannot be predicted solely from understanding the components at lower levels.
+**Edge zones are highly productive.** The boundaries between different ecosystems—such as forest edges, coastlines, or wetlands—typically support the greatest diversity and productivity. These transition zones capture resources and opportunities from multiple environments.
 
-## Human Systems Integration
+## Core Design Principles
 
-Environmental science recognizes humans as both biological organisms subject to environmental constraints and as agents capable of dramatically altering environmental systems. Human activities operate through the same fundamental principles as natural systems - we extract materials, transform them, and generate wastes - but at scales and rates that often overwhelm natural system capacities.
+Building from these natural observations, permaculture establishes three fundamental ethics that guide all decision-making:
 
-The discipline examines how human social, economic, and technological systems interact with natural systems. This integration requires understanding not only the physical and biological processes but also how human decision-making, institutions, and technologies influence environmental outcomes.
+**Earth care** requires designing systems that enhance rather than degrade natural environments. This principle recognizes that human welfare depends entirely on the health of natural systems that provide clean air, water, soil, and climate stability.
 
-## System Thinking and Scale
+**People care** emphasizes meeting human needs through cooperative systems that support community wellbeing. This principle acknowledges that sustainable solutions must address human social and economic needs alongside environmental concerns.
 
-Environmental science applies systems thinking, recognizing that environmental problems rarely have simple, linear cause-and-effect relationships. Instead, environmental systems exhibit feedback loops, time delays, and threshold effects. Changes in one part of a system can have unexpected consequences in other parts, often at different spatial or temporal scales.
+**Fair share** involves limiting consumption to sustainable levels and redistributing surplus resources. This principle recognizes the finite nature of Earth's resources and the necessity of equitable distribution for long-term stability.
 
-The discipline operates across multiple scales simultaneously - from molecular processes affecting individual organisms to global climate systems affecting entire continents. Understanding environmental problems requires connecting processes operating at these different scales and recognizing how local actions can have regional or global consequences.
+## Applied Design Methodology
 
-## Problem-Solving Framework
+Permaculture translates these principles into practical design through systematic observation and thoughtful planning. The methodology emphasizes understanding existing patterns—such as water flow, sun exposure, soil conditions, and microclimates—before implementing any changes.
 
-Environmental science functions as an applied discipline, using scientific understanding to address real-world environmental problems. This application requires not only understanding how systems work but also developing methods to monitor environmental conditions, assess risks, and evaluate potential solutions.
+Zones and sectors organize space and energy use efficiently. Zones arrange elements by frequency of use and maintenance requirements, placing high-maintenance items closest to living areas. Sectors identify external energies entering the system, such as sun, wind, rain, or fire, allowing designers to capture beneficial forces and deflect harmful ones.
 
-The field integrates knowledge from multiple traditional disciplines - chemistry, biology, physics, geology, geography, and social sciences - because environmental problems transcend the boundaries of any single discipline. This integration creates a framework for understanding complex environmental challenges and developing comprehensive approaches to address them.
+Stacking functions ensures each element serves multiple purposes while each function is supported by multiple elements. For example, a fruit tree provides food, shade, windbreak, habitat, and soil improvement simultaneously. This approach maximizes productivity while building system resilience.
 
-Through this first-principles approach, environmental science provides the conceptual foundation for understanding how natural systems function, how human activities affect these systems, and how we can work within natural constraints to meet human needs while maintaining environmental integrity.
+## Systems Integration
+
+Permaculture integrates multiple domains beyond agriculture, including water management, energy systems, building design, waste processing, and community organization. The approach recognizes that these elements function as interconnected components within larger systems.
+
+Water systems capture, store, and infiltrate precipitation through techniques such as swales, ponds, and rain gardens rather than allowing runoff to leave the property. Energy systems combine renewable sources, efficiency measures, and storage to reduce dependence on external inputs.
+
+Social systems apply the same principles to community organization, economic structures, and decision-making processes. This includes developing local currencies, cooperative ownership models, and consensus-based governance that distribute power and resources more equitably.
+
+The fundamental insight of permaculture is that by carefully observing natural patterns and designing human systems to work in harmony with these patterns, we can create productive, sustainable environments that regenerate rather than degrade the resources upon which they depend. This approach offers a systematic methodology for addressing complex environmental and social challenges through integrated, place-based solutions.
