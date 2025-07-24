@@ -104,13 +104,13 @@ Interested in sharing your feedback or collaborating with us? We would love to h
 * [Systems Science](https://bigpictureschool.com/systems_science.html)
 
 ### 5. [Applied Science](https://bigpictureschool.com/applied_science.html)
-* Applied Physics
+* [Applied Physics](https://bigpictureschool.com/applied_physics.html)
   * Nanotechnology
   * Nuclear Technology
   * Optics
-* Architecture 
+* [Architecture](https://bigpictureschool.com/architecture.html) 
 * [Agriculture](https://bigpictureschool.com/agriculture.html)
-* Aquaculture
+* [Aquaculture](https://bigpictureschool.com/aquaculture.html) 
 * [Engineering](https://bigpictureschool.com/engineering.html)
   * Aerospace Engineering
   * Bioengineering
@@ -124,18 +124,18 @@ Interested in sharing your feedback or collaborating with us? We would love to h
   * Mechanical Engineering
   * Software Engineering
   * Systems Engineering 
-* Environmental Science
-* Forensic Science
-* Health Sciences
+* [Environmental Science](https://bigpictureschool.com/environmental_science.html) 
+* [Forensic Science](https://bigpictureschool.com/forensic_science.html) 
+* [Health Sciences](https://bigpictureschool.com/health_sciences.html) 
   * Anatomy
   * Dentistry
   * Optometry
   * Medicine
   * Nutrition
   * Pharmacy
-* Permaculture
-* Military Science
-* Spatial Science
+* [Permaculture](https://bigpictureschool.com/permaculture.html) 
+* [Military Science](https://bigpictureschool.com/military_science.html) 
+* [Spatial Science](https://bigpictureschool.com/spatial_science.html) 
 
 ### 6. [Interdisciplinary Fields](https://bigpictureschool.com/interdisciplinary_fields.html)
 * Art History
