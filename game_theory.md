@@ -11,13 +11,13 @@ Game theory is the mathematical study of strategic decision-making among rationa
 
 ## Core Components from First Principles
 
-- **Players** represent the decision-makers in any strategic situation. These can be individuals, companies, countries, or any entity capable of making choices. Each player possesses their own objectives and constraints.
+**Players** represent the decision-makers in any strategic situation. These can be individuals, companies, countries, or any entity capable of making choices. Each player possesses their own objectives and constraints.
 
-- **Strategies** constitute the complete set of actions available to each player. A strategy specifies what a player will do in every possible situation they might encounter during the interaction.
+**Strategies** constitute the complete set of actions available to each player. A strategy specifies what a player will do in every possible situation they might encounter during the interaction.
 
-- **Payoffs** quantify the outcomes that result from the combination of all players' chosen strategies. These represent the value each player receives, which could be measured in profit, utility, satisfaction, or any other relevant metric.
+**Payoffs** quantify the outcomes that result from the combination of all players' chosen strategies. These represent the value each player receives, which could be measured in profit, utility, satisfaction, or any other relevant metric.
 
-- **Information** defines what each player knows about the game structure, other players' strategies, and the history of play. Games can involve complete or incomplete information, and perfect or imperfect information.
+**Information** defines what each player knows about the game structure, other players' strategies, and the history of play. Games can involve complete or incomplete information, and perfect or imperfect information.
 
 ## Fundamental Assumptions
 
