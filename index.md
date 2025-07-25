@@ -127,12 +127,12 @@ Interested in sharing your feedback or collaborating with us? We would love to h
 * [Environmental Science](https://bigpictureschool.com/environmental_science.html) 
 * [Forensic Science](https://bigpictureschool.com/forensic_science.html) 
 * [Health Sciences](https://bigpictureschool.com/health_sciences.html) 
-  * Anatomy
-  * Dentistry
-  * Optometry
-  * Medicine
-  * Nutrition
-  * Pharmacy
+  * [Anatomy](https://bigpictureschool.com/anatomy.html)
+  * [Dentistry](https://bigpictureschool.com/dentistry.html)
+  * [Optometry](https://bigpictureschool.com/optometry.html)
+  * [Medicine](https://bigpictureschool.com/medicine.html)
+  * [Nutrition](https://bigpictureschool.com/nutrition.html)
+  * [Pharmacy](https://bigpictureschool.com/pharmacy.html)
 * [Permaculture](https://bigpictureschool.com/permaculture.html) 
 * [Military Science](https://bigpictureschool.com/military_science.html) 
 * [Spatial Science](https://bigpictureschool.com/spatial_science.html) 
