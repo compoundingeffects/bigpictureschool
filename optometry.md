@@ -10,9 +10,7 @@ nav_order: 3
 
 Optometry is the healthcare profession dedicated to examining, diagnosing, treating, and managing diseases and disorders of the visual system, eye, and associated structures. Optometrists are primary healthcare providers who specialize in comprehensive eye and vision care.
 
-## Building from First Principles
-
-To understand optometry fundamentally, we must start with the basic premise that human vision is essential for navigating and interpreting our environment. This leads us through several foundational layers:
+To understand optometry fundamentally, we must start with the basic premise that human vision is essential for navigating and interpreting our environment. This leads us through several foundational layers.
 
 ## The Physics of Vision
 
