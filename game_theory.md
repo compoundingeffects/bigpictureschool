@@ -7,7 +7,7 @@ nav_order: 2
 
 # Game Theory
 
-## Definition
+## Introduction
 
 Game theory is the mathematical study of strategic decision-making among rational actors who recognize that their outcomes depend not only on their own choices, but also on the choices made by others. At its foundation, game theory provides a framework for analyzing situations where the success of each participant's strategy depends fundamentally on what other participants do.
 
