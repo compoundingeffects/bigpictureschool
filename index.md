@@ -105,9 +105,9 @@ Interested in sharing your feedback or collaborating with us? We would love to h
 
 ### 5. [Applied Science](https://bigpictureschool.com/applied_science.html)
 * [Applied Physics](https://bigpictureschool.com/applied_physics.html)
-  * Nanotechnology
-  * Nuclear Technology
-  * Optics
+  * [Nanotechnology](https://bigpictureschool.com/nanotechnology.html)
+  * [Nuclear Technology](https://bigpictureschool.com/nuclear_technology.html)
+  * [Optics](https://bigpictureschool.com/optics.html)
 * [Architecture](https://bigpictureschool.com/architecture.html) 
 * [Agriculture](https://bigpictureschool.com/agriculture.html)
 * [Aquaculture](https://bigpictureschool.com/aquaculture.html) 
