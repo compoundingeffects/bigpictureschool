@@ -8,7 +8,7 @@ nav_order: 1
 
 The world is changing fast. A holistic perspective and nimble thinking are increasingly essential. Big Picture School explains the core ideas of different academic fields. Why? To help induce interdisciplinary thought and the creativity that results.
 <p>
-Big Picture School uses a first principles thinking approach to explain each subject. First principles thinking is a way to understand things by breaking them down to their most basic elements. Instead of relying on what others have said or done before, we start from scratch and build up our understanding from the core truths. 
+Big Picture School uses a first principles thinking approach to explain each subject. First principles thinking is a way to understand things by breaking them down to their most basic elements. Instead of relying on what others have said or done before, we start from scratch and build up our understanding from core principles. 
 </p>
 <p>
 Whether you are a student, a professional, or a lifelong learner, we hope you find this site helpful in building a more comprehensive understanding of the world.
