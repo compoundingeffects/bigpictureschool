@@ -1,29 +1,47 @@
 ---
 layout: default
-title: Medicine
-parent: Health Sciences
+title: Aerospace Engineering
+parent: Engineering
 grand_parent: Applied Science
-nav_order: 4
+nav_order: 1
 ---
 
-## Medicine
+# Aerospace Engineering
 
-1. **Purpose of Medicine**: Medicine is all about keeping people healthy, finding and treating illnesses, and helping people feel better when they're sick or hurt. Doctors need to understand how our bodies work and what makes them stop working properly to do this job well.
+Aerospace engineering is the discipline that applies scientific and engineering principles to design, develop, test, and manufacture aircraft and spacecraft, along with their propulsion systems and related technologies. This field encompasses both aeronautical engineering (focused on atmospheric flight) and astronautical engineering (focused on space flight).
 
-2. **Fundamentals of the Human Body**: Our bodies are made up of tiny building blocks called cells. These cells work together to form tissues and organs, like your heart or lungs. These organs then team up to create systems in your body, like how your heart and blood vessels work together to move blood around.
+To understand aerospace engineering through first principles, we must begin with the fundamental physical laws that govern flight and space travel.
 
-3. **Homeostasis**: Our bodies like to keep things steady inside - not too hot, not too cold, not too acidic, not too alkaline. This balance is called homeostasis. When something disrupts this balance, like an infection or injury, we can get sick.
+## The Foundation: Newton's Laws of Motion
 
-4. **Pathophysiology (Understanding Disease)**: Diseases happen when our body's balance is upset. This can be caused by germs invading our body, changes in our genes, getting hurt, or even things in our environment like pollution or unhealthy food.
+All aerospace engineering derives from Newton's three laws of motion. The first law establishes that objects at rest remain at rest unless acted upon by a force, which explains why aircraft and spacecraft require propulsion systems. The second law, F = ma, quantifies the relationship between force, mass, and acceleration, forming the basis for all propulsion calculations and structural design requirements. The third law—for every action there is an equal and opposite reaction—is the fundamental principle behind all propulsion systems, from jet engines to rocket motors.
 
-5. **Body's Response to Disease**: Our body has its own defense system. It's like having a personal army (the immune system) that fights off invaders. When we're hurt or sick, the affected area might get red and swollen - that's inflammation, and it's our body's way of sending help to that area.
+## Atmospheric Flight Principles
 
-6. **Diagnosis (Identification of Disease)**: To treat a disease, doctors first need to figure out what's wrong. They do this by listening to how you feel (symptoms), looking for signs of illness, and running tests like blood work or X-rays.
+For aircraft operating within Earth's atmosphere, four fundamental forces determine flight capability: lift, drag, thrust, and weight. Lift generation relies on Bernoulli's principle and Newton's laws applied to airflow over wing surfaces. The pressure differential created between the upper and lower wing surfaces generates the upward force necessary to overcome gravitational weight.
 
-7. **Treatment (Restoring Homeostasis)**: Once doctors know what's wrong, they try to fix it. They might give you medicine to fight germs or help your body work better. Sometimes they need to do surgery to repair or remove damaged parts. Other times, they might recommend therapies to help you heal or feel better.
+Drag represents the resistance force opposing motion through the atmosphere, arising from both pressure differences and viscous friction. Thrust must overcome drag to maintain forward motion, while lift must exceed weight to achieve flight. These relationships establish the basic performance requirements for any atmospheric vehicle.
 
-8. **Prevention (Maintaining Health)**: It's often easier to stop diseases before they start. This includes things like getting vaccines to prepare your body to fight certain germs, living a healthy lifestyle, and getting regular check-ups to catch problems early.
+## Space Flight Principles
 
-9. **Adaptability and Innovation**: Medicine is always changing because new discoveries are made, and new problems arise. Germs can become resistant to medicines, and new diseases can appear. But we're also developing new ways to treat diseases, like using genetic information to create personalized treatments.
+Space flight operates under different constraints, primarily governed by orbital mechanics and the rocket equation. The fundamental challenge involves achieving sufficient velocity to escape Earth's gravitational influence or establish stable orbits. The rocket equation, derived from conservation of momentum, demonstrates that spacecraft velocity depends on exhaust velocity and the mass ratio between fueled and empty vehicle states.
 
-In simple terms, medicine is all about understanding how our bodies work, what makes them stop working properly, and how to fix or prevent those problems. It looks at our body's building blocks (cells), how they work together (in tissues and organs), and how to keep everything in balance. When something goes wrong, medicine focuses on figuring out the problem, fixing it, and finding ways to stop it from happening again.
+Orbital mechanics, based on Newton's law of universal gravitation, determines the trajectories and energy requirements for space missions. The relationship between orbital velocity, altitude, and gravitational force establishes the minimum performance requirements for launch vehicles and spacecraft propulsion systems.
+
+## Material and Structural Considerations
+
+Both atmospheric and space vehicles must withstand significant structural loads while minimizing weight. This requires materials engineering focused on strength-to-weight ratios, fatigue resistance, and environmental durability. The fundamental stress-strain relationships in materials science determine structural design approaches and material selection criteria.
+
+Temperature management presents another first-principles challenge, as vehicles experience extreme thermal environments from high-speed atmospheric flight or space radiation exposure. Heat transfer principles—conduction, convection, and radiation—guide thermal protection system design and spacecraft thermal management strategies.
+
+## Propulsion System Fundamentals
+
+All propulsion systems operate on momentum conservation principles, but implementation varies significantly between atmospheric and space applications. Air-breathing engines rely on atmospheric oxygen for combustion, enabling higher efficiency but limiting operational altitude. Rocket engines carry both fuel and oxidizer, providing space operation capability at the cost of lower overall efficiency.
+
+The thermodynamic cycles governing these systems—whether gas turbine cycles for jet engines or combustion processes for rockets—determine performance characteristics and design constraints.
+
+## Systems Integration Approach
+
+Aerospace engineering ultimately requires integrating these fundamental principles into complete vehicle systems. This involves balancing competing requirements: performance versus weight, reliability versus complexity, and cost versus capability. The systems engineering approach ensures that individual subsystems work together effectively while meeting overall mission requirements.
+
+Through this first-principles foundation, aerospace engineering addresses the fundamental challenge of enabling controlled flight through Earth's atmosphere and beyond, whether for transportation, exploration, defense, or scientific purposes. Each design decision traces back to these physical laws and engineering principles, ensuring that aerospace vehicles can safely and efficiently accomplish their intended missions.
