@@ -138,7 +138,7 @@ Interested in sharing your feedback or collaborating with us? We would love to h
 * [Spatial Science](https://bigpictureschool.com/spatial_science.html) 
 
 ### 6. [Interdisciplinary Fields](https://bigpictureschool.com/interdisciplinary_fields.html)
-* Art History
+* [Art History](https://bigpictureschool.com/art_history.html)
 * Bioinformatics
 * Biophysics
 * Cognitive Science
