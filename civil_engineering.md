@@ -12,18 +12,15 @@ Civil engineering is the professional practice of designing, constructing, and m
 
 ## First Principles Foundation
 
-To understand civil engineering from first principles, we must start with basic human needs and physical realities:
+To understand civil engineering from first principles, we must start with basic human needs and physical realities.
 
 ### Physical Laws as Constraints
-
 Civil engineering operates within immutable physical laws. Gravity dictates that structures must resist downward forces. Materials have inherent properties of strength, elasticity, and durability that determine what is possible. Water flows downhill and follows predictable hydraulic principles. Soil has specific bearing capacities and settlement characteristics. These natural laws form the non-negotiable boundaries within which all civil engineering solutions must operate.
 
 ### Human Needs as Drivers
-
 Humans require shelter, clean water, sanitation, transportation, and protection from natural hazards. As populations concentrate in settlements, these individual needs scale into collective infrastructure requirements. A single family needs a path to their dwelling; a city requires an integrated transportation network. One household needs waste disposal; a metropolitan area requires comprehensive sewage treatment systems.
 
 ### Resource Optimization as Method
-
 Civil engineering emerges from the necessity to meet these scaled human needs while optimizing the use of available materials, energy, time, and capital. Engineers must balance competing objectives: structures should be safe but not over-engineered, durable but cost-effective, functional but environmentally responsible.
 
 ## Core Disciplines Derived from Fundamental Problems
