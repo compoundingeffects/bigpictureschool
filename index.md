@@ -114,16 +114,16 @@ Interested in sharing your feedback or collaborating with us? We would love to h
 * [Engineering](https://bigpictureschool.com/engineering.html)
   * [Aerospace Engineering](https://bigpictureschool.com/aerospace_engineering.html)
   * [Bioengineering](https://bigpictureschool.com/bioengineering.html)
-  * Chemical Engineering
-  * Civil Engineering
-  * Computer Engineering
-  * Electrical Engineering
-  * Environmental Engineering
-  * Industrial Engineering
-  * Materials Science and Engineering
-  * Mechanical Engineering
-  * Software Engineering
-  * Systems Engineering 
+  * [Chemical Engineering](https://bigpictureschool.com/chemical_engineering.html)
+  * [Civil Engineering](https://bigpictureschool.com/civil_engineering.html)
+  * [Computer Engineering](https://bigpictureschool.com/computer_engineering.html)
+  * [Electrical Engineering](https://bigpictureschool.com/electrical_engineering.html)
+  * [Environmental Engineering](https://bigpictureschool.com/environmental_engineering.html)
+  * [Industrial Engineering](https://bigpictureschool.com/industrial_engineering.html)
+  * [Materials Science and Engineering](https://bigpictureschool.com/material_science_engineering.html)
+  * [Mechanical Engineering](https://bigpictureschool.com/mechanical_engineering.html)
+  * [Software Engineering](https://bigpictureschool.com/software_engineering.html)
+  * [Systems Engineering](https://bigpictureschool.com/systems_engineering.html) 
 * [Environmental Science](https://bigpictureschool.com/environmental_science.html) 
 * [Forensic Science](https://bigpictureschool.com/forensic_science.html) 
 * [Health Sciences](https://bigpictureschool.com/health_sciences.html) 
