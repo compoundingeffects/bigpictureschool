@@ -1,47 +1,41 @@
 ---
 layout: default
-title: Aerospace Engineering
+title: Electrical Engineering
 parent: Engineering
 grand_parent: Applied Science
-nav_order: 1
+nav_order: 6
 ---
 
-# Aerospace Engineering
+# Electrical Engineering
 
-Aerospace engineering is the discipline that applies scientific and engineering principles to design, develop, test, and manufacture aircraft and spacecraft, along with their propulsion systems and related technologies. This field encompasses both aeronautical engineering (focused on atmospheric flight) and astronautical engineering (focused on space flight).
+Electrical engineering is the discipline that studies and applies the principles governing electric charge, electromagnetic fields, and their practical utilization to create systems that benefit society. At its foundation, electrical engineering involves understanding how electrons behave and learning to control their movement to perform useful work.
 
-To understand aerospace engineering through first principles, we must begin with the fundamental physical laws that govern flight and space travel.
+## Building from Physical Fundamentals
 
-## The Foundation: Newton's Laws of Motion
+The discipline begins with electric charge itself—the fundamental property of matter that creates electric and magnetic phenomena. Electric charge naturally seeks equilibrium, and when charges move from areas of high concentration to low concentration, they create electric current. This movement can be harnessed to carry information, provide power, or create forces.
 
-All aerospace engineering derives from Newton's three laws of motion. The first law establishes that objects at rest remain at rest unless acted upon by a force, which explains why aircraft and spacecraft require propulsion systems. The second law, F = ma, quantifies the relationship between force, mass, and acceleration, forming the basis for all propulsion calculations and structural design requirements. The third law—for every action there is an equal and opposite reaction—is the fundamental principle behind all propulsion systems, from jet engines to rocket motors.
+Electric current flowing through materials creates magnetic fields, while changing magnetic fields induce electric currents. This electromagnetic relationship, described by Maxwell's equations, forms the theoretical foundation for virtually all electrical engineering applications.
 
-## Atmospheric Flight Principles
+## Core Engineering Principles
 
-For aircraft operating within Earth's atmosphere, four fundamental forces determine flight capability: lift, drag, thrust, and weight. Lift generation relies on Bernoulli's principle and Newton's laws applied to airflow over wing surfaces. The pressure differential created between the upper and lower wing surfaces generates the upward force necessary to overcome gravitational weight.
+From these physical principles emerge the fundamental engineering concepts. Voltage represents the potential energy difference that drives current flow, similar to pressure in a water system. Current measures the actual flow of charge, while resistance describes how materials oppose this flow. The relationship between these quantities, expressed in Ohm's Law, provides the basic framework for circuit analysis.
 
-Drag represents the resistance force opposing motion through the atmosphere, arising from both pressure differences and viscous friction. Thrust must overcome drag to maintain forward motion, while lift must exceed weight to achieve flight. These relationships establish the basic performance requirements for any atmospheric vehicle.
+Power represents the rate at which electrical energy is converted to other forms of energy, whether heat, light, motion, or information processing. Understanding power flow enables engineers to design efficient systems and prevent destructive failures.
 
-## Space Flight Principles
+## System Design and Analysis
 
-Space flight operates under different constraints, primarily governed by orbital mechanics and the rocket equation. The fundamental challenge involves achieving sufficient velocity to escape Earth's gravitational influence or establish stable orbits. The rocket equation, derived from conservation of momentum, demonstrates that spacecraft velocity depends on exhaust velocity and the mass ratio between fueled and empty vehicle states.
+Electrical engineers combine basic components—resistors, capacitors, inductors, and active devices like transistors—into circuits that perform specific functions. They apply systematic analysis methods, including Kirchhoff's laws and network theorems, to predict circuit behavior before construction.
 
-Orbital mechanics, based on Newton's law of universal gravitation, determines the trajectories and energy requirements for space missions. The relationship between orbital velocity, altitude, and gravitational force establishes the minimum performance requirements for launch vehicles and spacecraft propulsion systems.
+The engineering discipline extends beyond individual circuits to encompass entire systems. Power systems distribute electricity across continents, communication systems transmit information globally, and control systems automate industrial processes. Each application requires understanding how components interact within larger networks.
 
-## Material and Structural Considerations
+## Mathematical Framework
 
-Both atmospheric and space vehicles must withstand significant structural loads while minimizing weight. This requires materials engineering focused on strength-to-weight ratios, fatigue resistance, and environmental durability. The fundamental stress-strain relationships in materials science determine structural design approaches and material selection criteria.
+Mathematical analysis provides the tools for quantitative design. Differential equations describe how circuits respond to changing inputs over time. Fourier analysis breaks complex signals into fundamental frequency components. Complex number analysis simplifies alternating current calculations. These mathematical methods enable engineers to predict system performance and optimize designs.
 
-Temperature management presents another first-principles challenge, as vehicles experience extreme thermal environments from high-speed atmospheric flight or space radiation exposure. Heat transfer principles—conduction, convection, and radiation—guide thermal protection system design and spacecraft thermal management strategies.
+## Modern Applications and Integration
 
-## Propulsion System Fundamentals
+Contemporary electrical engineering increasingly integrates with other disciplines. Digital signal processing applies mathematical algorithms to manipulate information. Embedded systems combine electrical circuits with computer programming. Power electronics uses semiconductor devices to efficiently convert and control electrical energy.
 
-All propulsion systems operate on momentum conservation principles, but implementation varies significantly between atmospheric and space applications. Air-breathing engines rely on atmospheric oxygen for combustion, enabling higher efficiency but limiting operational altitude. Rocket engines carry both fuel and oxidizer, providing space operation capability at the cost of lower overall efficiency.
+The field continues evolving as engineers develop new materials, discover novel physical phenomena, and create innovative applications. However, the fundamental principles remain constant—understanding electric charge behavior and applying this knowledge to solve practical problems defines the essence of electrical engineering.
 
-The thermodynamic cycles governing these systems—whether gas turbine cycles for jet engines or combustion processes for rockets—determine performance characteristics and design constraints.
-
-## Systems Integration Approach
-
-Aerospace engineering ultimately requires integrating these fundamental principles into complete vehicle systems. This involves balancing competing requirements: performance versus weight, reliability versus complexity, and cost versus capability. The systems engineering approach ensures that individual subsystems work together effectively while meeting overall mission requirements.
-
-Through this first-principles foundation, aerospace engineering addresses the fundamental challenge of enabling controlled flight through Earth's atmosphere and beyond, whether for transportation, exploration, defense, or scientific purposes. Each design decision traces back to these physical laws and engineering principles, ensuring that aerospace vehicles can safely and efficiently accomplish their intended missions.
+Through this first-principles approach, electrical engineering emerges as a systematic discipline that transforms basic physical laws into practical solutions for communication, computation, power generation and distribution, automation, and countless other applications that define modern technological society.
