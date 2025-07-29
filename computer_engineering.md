@@ -1,47 +1,43 @@
 ---
 layout: default
-title: Aerospace Engineering
+title: Computer Engineering
 parent: Engineering
 grand_parent: Applied Science
-nav_order: 1
+nav_order: 5
 ---
 
-# Aerospace Engineering
+# Computer Engineering
 
-Aerospace engineering is the discipline that applies scientific and engineering principles to design, develop, test, and manufacture aircraft and spacecraft, along with their propulsion systems and related technologies. This field encompasses both aeronautical engineering (focused on atmospheric flight) and astronautical engineering (focused on space flight).
+Computer engineering represents the discipline that bridges electrical engineering and computer science to design, develop, and optimize computer systems and their components. At its foundation, computer engineering addresses the fundamental challenge of creating machines that can process information reliably, efficiently, and at scale.
 
-To understand aerospace engineering through first principles, we must begin with the fundamental physical laws that govern flight and space travel.
+## Starting from Physical Reality
 
-## The Foundation: Newton's Laws of Motion
+Computer engineering begins with the manipulation of matter and energy at the atomic level. The discipline leverages the fundamental properties of materials, particularly semiconductors like silicon, which can be engineered to control the flow of electrons. This control forms the basis for creating switches that can represent binary states - the foundation of all digital computation.
 
-All aerospace engineering derives from Newton's three laws of motion. The first law establishes that objects at rest remain at rest unless acted upon by a force, which explains why aircraft and spacecraft require propulsion systems. The second law, F = ma, quantifies the relationship between force, mass, and acceleration, forming the basis for all propulsion calculations and structural design requirements. The third law—for every action there is an equal and opposite reaction—is the fundamental principle behind all propulsion systems, from jet engines to rocket motors.
+The first principle here is that information can be represented through physical states. By creating reliable switches that can be either "on" or "off," computer engineers establish a physical basis for representing binary digits, which become the building blocks for all digital information processing.
 
-## Atmospheric Flight Principles
+## Building Logical Operations from Physical Switches
 
-For aircraft operating within Earth's atmosphere, four fundamental forces determine flight capability: lift, drag, thrust, and weight. Lift generation relies on Bernoulli's principle and Newton's laws applied to airflow over wing surfaces. The pressure differential created between the upper and lower wing surfaces generates the upward force necessary to overcome gravitational weight.
+Computer engineers construct logical operations by combining these basic switches into circuits that perform Boolean algebra. Transistors, the fundamental switching elements, are arranged into logic gates that implement operations such as AND, OR, and NOT. This represents a crucial abstraction layer where physical phenomena are organized to perform mathematical operations.
 
-Drag represents the resistance force opposing motion through the atmosphere, arising from both pressure differences and viscous friction. Thrust must overcome drag to maintain forward motion, while lift must exceed weight to achieve flight. These relationships establish the basic performance requirements for any atmospheric vehicle.
+The underlying principle is that complex logical operations can be decomposed into simpler binary operations, which can then be implemented through physical switching circuits. This decomposition allows engineers to build increasingly sophisticated computational capabilities from elementary components.
 
-## Space Flight Principles
+## Creating Memory and Processing Systems
 
-Space flight operates under different constraints, primarily governed by orbital mechanics and the rocket equation. The fundamental challenge involves achieving sufficient velocity to escape Earth's gravitational influence or establish stable orbits. The rocket equation, derived from conservation of momentum, demonstrates that spacecraft velocity depends on exhaust velocity and the mass ratio between fueled and empty vehicle states.
+From logic gates, computer engineers construct more complex systems including memory units and processing cores. Memory systems provide the capability to store and retrieve information, while processing units execute sequences of logical operations. The architecture of these systems determines their performance characteristics, power consumption, and capabilities.
 
-Orbital mechanics, based on Newton's law of universal gravitation, determines the trajectories and energy requirements for space missions. The relationship between orbital velocity, altitude, and gravitational force establishes the minimum performance requirements for launch vehicles and spacecraft propulsion systems.
+The fundamental insight is that computation requires both processing capability and information storage, and the relationship between these elements significantly impacts system performance. Computer engineers must optimize the balance between processing speed, memory capacity, and data transfer rates.
 
-## Material and Structural Considerations
+## System Integration and Optimization
 
-Both atmospheric and space vehicles must withstand significant structural loads while minimizing weight. This requires materials engineering focused on strength-to-weight ratios, fatigue resistance, and environmental durability. The fundamental stress-strain relationships in materials science determine structural design approaches and material selection criteria.
+Computer engineering extends beyond individual components to encompass entire systems. This includes designing communication pathways between components, managing power distribution, ensuring thermal stability, and creating interfaces that allow human interaction with these systems.
 
-Temperature management presents another first-principles challenge, as vehicles experience extreme thermal environments from high-speed atmospheric flight or space radiation exposure. Heat transfer principles—conduction, convection, and radiation—guide thermal protection system design and spacecraft thermal management strategies.
+The principle of system-level thinking recognizes that the performance of individual components must be optimized within the context of the complete system. Trade-offs between speed, power consumption, cost, and reliability require careful engineering decisions at every level of the design hierarchy.
 
-## Propulsion System Fundamentals
+## Interface with Software Systems
 
-All propulsion systems operate on momentum conservation principles, but implementation varies significantly between atmospheric and space applications. Air-breathing engines rely on atmospheric oxygen for combustion, enabling higher efficiency but limiting operational altitude. Rocket engines carry both fuel and oxidizer, providing space operation capability at the cost of lower overall efficiency.
+Computer engineers create the hardware foundation that enables software execution. This involves designing instruction set architectures, implementing compilers and operating systems interfaces, and ensuring that hardware capabilities align with software requirements. The hardware-software interface represents a critical boundary where physical limitations meet computational abstractions.
 
-The thermodynamic cycles governing these systems—whether gas turbine cycles for jet engines or combustion processes for rockets—determine performance characteristics and design constraints.
+The fundamental principle is that hardware must provide reliable, predictable behavior that software systems can depend upon, while also offering sufficient performance and flexibility to support diverse computational tasks.
 
-## Systems Integration Approach
-
-Aerospace engineering ultimately requires integrating these fundamental principles into complete vehicle systems. This involves balancing competing requirements: performance versus weight, reliability versus complexity, and cost versus capability. The systems engineering approach ensures that individual subsystems work together effectively while meeting overall mission requirements.
-
-Through this first-principles foundation, aerospace engineering addresses the fundamental challenge of enabling controlled flight through Earth's atmosphere and beyond, whether for transportation, exploration, defense, or scientific purposes. Each design decision traces back to these physical laws and engineering principles, ensuring that aerospace vehicles can safely and efficiently accomplish their intended missions.
+Computer engineering thus emerges from the systematic application of scientific principles to create machines that can process information. It requires understanding physics and materials science to create reliable switching elements, mathematics to design logical operations, and systems thinking to integrate components into functional computing platforms. The discipline continuously evolves as engineers discover new ways to manipulate matter and energy to create more capable, efficient, and reliable computational systems.
