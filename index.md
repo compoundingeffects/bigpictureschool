@@ -112,8 +112,8 @@ Interested in sharing your feedback or collaborating with us? We would love to h
 * [Agriculture](https://bigpictureschool.com/agriculture.html)
 * [Aquaculture](https://bigpictureschool.com/aquaculture.html) 
 * [Engineering](https://bigpictureschool.com/engineering.html)
-  * Aerospace Engineering
-  * Bioengineering
+  * [Aerospace Engineering](https://bigpictureschool.com/aerospace_engineering.html)
+  * [Bioengineering](https://bigpictureschool.com/bioengineering.html)
   * Chemical Engineering
   * Civil Engineering
   * Computer Engineering
@@ -140,6 +140,7 @@ Interested in sharing your feedback or collaborating with us? We would love to h
 ### 6. [Interdisciplinary Fields](https://bigpictureschool.com/interdisciplinary_fields.html)
 * Art History
 * Bioinformatics
+* Biophysics
 * Cognitive Science
 * Cybersecurity
 * Data Science
