@@ -139,9 +139,9 @@ Interested in sharing your feedback or collaborating with us? We would love to h
 
 ### 6. [Interdisciplinary Fields](https://bigpictureschool.com/interdisciplinary_fields.html)
 * [Art History](https://bigpictureschool.com/art_history.html)
-* Bioinformatics
-* Biophysics
-* Cognitive Science
+* [Bioinformatics](https://bigpictureschool.com/bioinformatics.html)
+* [Biophysics](https://bigpictureschool.com/biophysics.html)
+* [Cognitive Science](https://bigpictureschool.com/cognitive_science.html)
 * Cybersecurity
 * Data Science
 * Human Science
