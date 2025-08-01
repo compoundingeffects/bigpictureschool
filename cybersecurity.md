@@ -1,55 +1,53 @@
 ---
 layout: default
-title: Biophysics
+title: Cybersecurity
 parent: Interdisciplinary Fields
-nav_order: 3
+nav_order: 5
 has_children: false
 ---
 
-# Biophysics
+# Cybersecurity
 
-Biophysics represents the application of physical principles, methods, and theories to understand biological systems and processes. Rather than treating living organisms as fundamentally separate from the physical world, biophysics operates on the premise that all biological phenomena ultimately arise from and obey the same physical laws that govern non-living matter.
+Cybersecurity is fundamentally the practice of protecting digital assets, systems, and information from unauthorized access, use, modification, or destruction. At its core, it represents the application of security principles to digital environments where information exists as data that can be copied, transmitted, and manipulated electronically.
 
-## First Principles Foundation
+## Building from First Principles
 
-### Matter and Energy Conservation
+To understand cybersecurity from first principles, we must start with three foundational concepts: information, systems, and threats.
 
-At its foundation, biophysics recognizes that biological systems are composed of atoms and molecules that follow the fundamental laws of physics. The conservation of mass and energy applies universally—living cells cannot create or destroy matter or energy, only transform them. This principle immediately explains why organisms require continuous energy input (food, sunlight) and why they produce waste products.
+### Information as an Asset
 
-### Thermodynamics
+Information has inherent value that creates incentives for both protection and exploitation. Unlike physical assets, digital information can be copied without removing the original, transmitted instantly across global networks, and modified without leaving obvious traces. This unique nature of digital information creates both vulnerabilities and defensive challenges that do not exist in physical security.
 
-The laws of thermodynamics provide the fundamental framework for understanding life processes. The second law of thermodynamics states that entropy (disorder) in an isolated system always increases. Living organisms appear to defy this by creating highly ordered structures, but they accomplish this by consuming energy and increasing entropy in their surroundings. A cell maintains its organization by breaking down glucose and releasing heat, thereby increasing the total entropy of the system plus environment.
+### Systems as Enablers and Attack Surfaces
 
-### Forces and Interactions
+Computer systems exist to process, store, and transmit information. Each system component—hardware, software, networks, and human operators—represents both functionality and potential vulnerability. The interconnected nature of modern systems means that security weaknesses in one component can compromise entire networks of systems.
 
-All biological processes ultimately result from fundamental forces: electromagnetic interactions between charged particles, van der Waals forces, hydrogen bonding, and electrostatic attractions and repulsions. These forces determine protein folding, DNA structure, membrane formation, and molecular recognition events that drive cellular processes.
+### Threats as Motivated Actors
 
-## Scaling from Molecular to Cellular Level
+Cybersecurity threats emerge from the intersection of capability, opportunity, and motivation. Threat actors range from individual criminals seeking financial gain to nation-states pursuing strategic objectives. The digital realm provides these actors with tools that can amplify their impact while potentially maintaining anonymity and operating across jurisdictional boundaries.
 
-### Molecular Mechanics
+## Core Security Principles
 
-Individual biomolecules behave according to quantum mechanical and classical mechanical principles. Protein folding occurs because amino acid sequences adopt conformations that minimize free energy, following the same energy minimization principles that govern any physical system. Enzyme catalysis operates through transition state theory, where enzymes lower activation energy barriers by stabilizing intermediate molecular configurations.
+From these foundations emerge three fundamental security principles that govern all cybersecurity practices.
 
-### Statistical Mechanics
+**Confidentiality** ensures that information remains accessible only to authorized parties. This principle addresses the copyable nature of digital information by implementing access controls, encryption, and authentication mechanisms.
 
-The behavior of biological systems emerges from the collective behavior of vast numbers of molecules. Statistical mechanics explains how molecular-level interactions give rise to macroscopic properties. For example, the binding affinity of a drug to a protein receptor can be predicted from the statistical distribution of molecular conformations and interaction energies.
+**Integrity** maintains the accuracy and completeness of information and systems. Since digital information can be modified without detection, integrity controls such as checksums, digital signatures, and audit trails become essential.
 
-## Emergent Properties from Physical Constraints
+**Availability** ensures that authorized users can access information and systems when needed. This principle recognizes that denying access to information can be as damaging as unauthorized disclosure or modification.
 
-### Transport Phenomena
+## The Cybersecurity Framework
 
-The movement of molecules, ions, and larger particles in biological systems follows the same diffusion, convection, and transport principles that govern non-biological systems. Cell membranes function as selective barriers based on size exclusion, charge interactions, and solubility principles derived from physical chemistry.
+These principles translate into practical cybersecurity through five essential functions: identifying assets and risks, protecting critical systems, detecting security events, responding to incidents, and recovering from disruptions.
 
-### Mechanical Properties
+The identification function establishes what must be protected by cataloging assets, understanding business processes, and assessing vulnerabilities. Protection involves implementing safeguards such as access controls, security training, and defensive technologies. Detection creates capabilities to identify cybersecurity events through monitoring and analysis. Response encompasses activities during and after cybersecurity incidents, including communication, analysis, and mitigation. Recovery focuses on restoring capabilities and services impaired by cybersecurity incidents.
 
-Biological structures possess mechanical properties—elasticity, strength, viscosity—that arise from their molecular composition and organization. The mechanical behavior of bone, muscle, and cellular structures can be understood through materials science principles, considering how molecular-level interactions scale up to create bulk mechanical properties.
+## Fundamental Challenges
 
-### Information Processing
+Cybersecurity faces inherent challenges that emerge from first principles. The defender's dilemma requires protecting all potential attack vectors while attackers need only find one successful path. The complexity of modern systems creates emergent vulnerabilities that cannot be fully predicted or eliminated. The human element introduces behavioral risks that technical controls alone cannot address. Finally, the rapid pace of technological change continuously creates new attack surfaces faster than comprehensive defenses can be developed.
 
-Neural computation and cellular signaling networks operate through physical processes involving ion flows, electrical potentials, and molecular binding events. The brain processes information through electrochemical signals that follow the same principles governing electrical circuits and chemical reactions.
+## Practical Implications
 
-## Integration Across Scales
+Understanding cybersecurity from first principles reveals that effective security requires a systematic approach that addresses technology, processes, and people. It cannot be achieved through technology alone but requires integrating technical controls with organizational policies, user education, and risk management practices. This foundational understanding explains why cybersecurity is both a technical discipline and a business imperative that must align with organizational objectives and risk tolerance.
 
-Biophysics demonstrates that life emerges from the complex organization of matter following physical laws across multiple scales. Quantum effects influence photosynthesis and enzyme function. Molecular interactions determine protein structure and function. Cellular mechanics arise from cytoskeletal organization. Organ-level function results from coordinated cellular activities. Organism behavior emerges from integrated physiological systems.
-
-This first-principles approach reveals that biological complexity arises not from violations of physical laws, but from the sophisticated ways that living systems organize matter and energy within the constraints of those laws. The apparent purposefulness and complexity of life represent emergent properties of physical systems operating far from equilibrium, sustained by continuous energy flow and governed by the same fundamental principles that describe all natural phenomena.
+The first principles approach demonstrates that cybersecurity is ultimately about managing risk in an environment where perfect security is neither achievable nor economically viable, requiring organizations to make informed decisions about where and how to invest their security resources for optimal protection of their most critical assets.
