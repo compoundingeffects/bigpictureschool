@@ -143,7 +143,7 @@ Interested in sharing your feedback or collaborating with us? We would love to h
 * [Biophysics](https://bigpictureschool.com/biophysics.html)
 * [Cognitive Science](https://bigpictureschool.com/cognitive_science.html)
 * [Cybersecurity](https://bigpictureschool.com/cybersecurity.html)
-* Data Science
+* [Data Science](https://bigpictureschool.com/data_science.html)
 * Human Science
 * Library and Information Science
   * Information Science
