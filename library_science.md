@@ -1,37 +1,40 @@
 ---
 layout: default
-title: Cognitive Science
-parent: Interdisciplinary Fields
-nav_order: 4
+title: Library Science
+grand_parent: Interdisciplinary Fields
+parent: Library and Information Science
+nav_order: 2
 has_children: false
 ---
 
-# Cognitive Science
+# Library Science
 
-Cognitive science represents the interdisciplinary study of mind and intelligence, encompassing how information is processed, represented, and transformed within intelligent systems. To understand this field through first principles, we must begin with its fundamental premise: that mental processes can be studied scientifically and understood through computational and mechanistic principles.
+Library science represents the systematic study and professional practice of organizing, preserving, and facilitating access to information and knowledge resources. At its foundation, it addresses a fundamental human challenge: how societies can effectively collect, organize, and distribute information to serve individual and collective needs.
 
-## Foundational Assumptions
+## Core Premises and First Principles
 
-Cognitive science rests on several core assumptions derived from first principles. The field assumes that mental phenomena arise from physical processes in the brain and can be studied objectively through empirical methods. It posits that cognition involves the manipulation of representations and symbols, making mental processes amenable to computational modeling. The discipline also embraces the principle that complex cognitive behaviors emerge from simpler underlying mechanisms that can be identified and studied systematically.
+The discipline rests on several foundational principles that emerge from basic human information needs. First, information has inherent value that increases when it becomes accessible to those who need it. Second, knowledge preservation serves both current and future generations, requiring systematic approaches to collection and maintenance. Third, organization systems must balance comprehensiveness with usability, ensuring that stored information can be efficiently retrieved.
 
-## Core Components and Methodological Framework
+These principles lead to the recognition that information management requires specialized knowledge and methodologies. Random or ad-hoc approaches to information storage inevitably result in inefficiency, loss, and barriers to access. Professional expertise becomes necessary to develop and maintain systems that serve diverse user populations effectively.
 
-The field integrates multiple disciplines because understanding cognition requires diverse analytical approaches. Psychology provides experimental methods for studying behavior and mental processes. Neuroscience contributes knowledge about the biological substrate of cognition. Computer science offers computational models and artificial intelligence frameworks for understanding information processing. Linguistics examines the structure and use of language as a window into cognitive organization. Philosophy provides conceptual foundations and addresses fundamental questions about the nature of mind and knowledge.
+## Fundamental Components
 
-## Information Processing as the Central Paradigm
+Library science encompasses several interconnected domains that address different aspects of information management. Collection development involves systematic approaches to acquiring materials that serve specific community needs while considering factors such as relevance, quality, budget constraints, and preservation requirements.
 
-From first principles, cognitive science conceptualizes the mind as an information processing system. This approach treats mental processes as computational operations performed on mental representations. Information enters through sensory systems, undergoes various transformations through attention, perception, memory, and reasoning processes, and produces behavioral outputs. This framework allows researchers to study cognition at multiple levels, from neural mechanisms to abstract computational descriptions.
+Information organization constitutes another core component, involving the creation of systems that enable efficient storage and retrieval. This includes classification schemes, cataloging standards, and metadata frameworks that provide consistent ways to describe and locate resources. These systems must balance precision with practicality, ensuring that users can find materials without requiring extensive specialized knowledge.
 
-## Key Theoretical Constructs
+User services represent the interface between organized collections and information seekers. This domain addresses how to understand user needs, provide instruction in information literacy, and design services that effectively connect people with relevant resources. The principle here recognizes that even the best-organized collection provides limited value without effective mechanisms for user interaction.
 
-Several fundamental concepts emerge from this foundation. Mental representations serve as the internal structures that encode information about the world. Cognitive processes operate on these representations through algorithms and procedures. The architecture of cognition refers to the organizational principles that govern how different cognitive systems interact. Learning mechanisms explain how cognitive systems adapt and improve through experience.
+## Technological Integration and Evolution
 
-## Empirical and Theoretical Integration
+The field has continuously adapted to technological developments while maintaining its core mission of facilitating information access. Digital technologies have expanded possibilities for storage, organization, and distribution, but have also created new challenges related to digital preservation, authentication, and information overload.
 
-Cognitive science advances through the integration of empirical findings with theoretical models. Experimental psychology provides data about human performance under controlled conditions. Neuroimaging and neurophysiology reveal the biological mechanisms underlying cognitive processes. Computational modeling allows researchers to test theories by implementing them as working systems. Cross-cultural and developmental studies examine how cognitive processes vary across populations and change over time.
+These technological shifts reinforce rather than replace fundamental library science principles. The need for systematic organization becomes more critical as information volume increases. Professional expertise becomes more valuable as the complexity of information systems grows. User education becomes more important as information sources proliferate and vary in quality and reliability.
 
-## Contemporary Applications and Extensions
+## Societal Function and Professional Purpose
 
-Modern cognitive science extends beyond traditional boundaries to encompass embodied cognition, which emphasizes the role of the body in shaping mental processes. Social cognition examines how cognitive processes operate in social contexts. Cognitive neuroscience directly links mental processes to brain mechanisms. These developments reflect the field's commitment to understanding cognition as it actually occurs in real-world contexts.
+Library science ultimately serves broader societal functions related to education, research, cultural preservation, and democratic participation. It operates on the principle that equitable access to information strengthens communities and supports informed decision-making. This creates professional responsibilities that extend beyond technical competence to include ethical considerations about intellectual freedom, privacy, and social justice.
 
-The discipline continues to evolve as new technologies enable more sophisticated measurements of cognitive processes and as theoretical frameworks become more refined. Through this systematic, multi-disciplinary approach grounded in computational and empirical principles, cognitive science provides a comprehensive framework for understanding one of the most complex phenomena in the natural world: the nature of mind and intelligence.
+The discipline therefore combines technical expertise with service orientation, requiring professionals who understand both systematic approaches to information management and the diverse needs of user communities. This dual focus distinguishes library science from purely technical fields and connects it to broader educational and social missions.
+
+Through this first-principles analysis, library science emerges as a professional discipline that addresses fundamental information challenges through systematic approaches to collection, organization, preservation, and access, serving essential societal functions while adapting to technological and social changes.
