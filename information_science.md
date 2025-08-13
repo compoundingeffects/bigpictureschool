@@ -1,37 +1,50 @@
 ---
 layout: default
-title: Cognitive Science
-parent: Interdisciplinary Fields
-nav_order: 4
+title: Information Science
+grand_parent: Interdisciplinary Fields
+parent: Library and Information Science
+nav_order: 1
 has_children: false
 ---
 
-# Cognitive Science
+# Information Science
 
-Cognitive science represents the interdisciplinary study of mind and intelligence, encompassing how information is processed, represented, and transformed within intelligent systems. To understand this field through first principles, we must begin with its fundamental premise: that mental processes can be studied scientifically and understood through computational and mechanistic principles.
+Information science represents the systematic study of how information is created, organized, stored, retrieved, and used across various contexts and systems. At its foundation, information science examines the fundamental properties of information itself and develops methods to manage information effectively for human and organizational needs.
 
-## Foundational Assumptions
+## Foundational Principles of Information
 
-Cognitive science rests on several core assumptions derived from first principles. The field assumes that mental phenomena arise from physical processes in the brain and can be studied objectively through empirical methods. It posits that cognition involves the manipulation of representations and symbols, making mental processes amenable to computational modeling. The discipline also embraces the principle that complex cognitive behaviors emerge from simpler underlying mechanisms that can be identified and studied systematically.
+To understand information science through first principles, we must begin with information itself. Information can be defined as data that has been processed, organized, or structured in a way that provides meaning or value to a recipient. This distinguishes information from raw data, which consists of unprocessed facts or observations without context.
 
-## Core Components and Methodological Framework
+Information possesses several key characteristics that form the theoretical foundation of the field. Information has utility when it serves a purpose for decision-making or knowledge building. It exhibits varying degrees of accuracy, completeness, and timeliness, which directly impact its value. Information also demonstrates context dependency, meaning its relevance and interpretation can change based on the recipient's needs, background, and circumstances.
 
-The field integrates multiple disciplines because understanding cognition requires diverse analytical approaches. Psychology provides experimental methods for studying behavior and mental processes. Neuroscience contributes knowledge about the biological substrate of cognition. Computer science offers computational models and artificial intelligence frameworks for understanding information processing. Linguistics examines the structure and use of language as a window into cognitive organization. Philosophy provides conceptual foundations and addresses fundamental questions about the nature of mind and knowledge.
+## Core Components and Processes
 
-## Information Processing as the Central Paradigm
+Information science builds upon several fundamental processes that govern how information moves through systems and organizations. Information creation involves the generation of new knowledge through research, observation, or synthesis of existing information. Information organization requires classification, cataloging, and structuring to enable efficient retrieval and use.
 
-From first principles, cognitive science conceptualizes the mind as an information processing system. This approach treats mental processes as computational operations performed on mental representations. Information enters through sensory systems, undergoes various transformations through attention, perception, memory, and reasoning processes, and produces behavioral outputs. This framework allows researchers to study cognition at multiple levels, from neural mechanisms to abstract computational descriptions.
+Storage and preservation ensure information remains accessible over time, while retrieval systems enable users to locate relevant information when needed. Information dissemination involves the distribution and communication of information to appropriate audiences, and information use encompasses how recipients apply information to solve problems, make decisions, or generate new knowledge.
 
-## Key Theoretical Constructs
+## Interdisciplinary Foundations
 
-Several fundamental concepts emerge from this foundation. Mental representations serve as the internal structures that encode information about the world. Cognitive processes operate on these representations through algorithms and procedures. The architecture of cognition refers to the organizational principles that govern how different cognitive systems interact. Learning mechanisms explain how cognitive systems adapt and improve through experience.
+Information science draws from multiple disciplines to address complex information challenges. Computer science contributes algorithms, data structures, and system design principles that enable digital information processing. Library science provides frameworks for information organization, cataloging standards, and user service models that have evolved over centuries of practice.
 
-## Empirical and Theoretical Integration
+Cognitive science offers insights into how humans process, understand, and use information, informing the design of more effective information systems. Communication theory explains how information is transmitted between sources and recipients, including factors that enhance or impede successful communication. Mathematics and statistics provide quantitative methods for analyzing information patterns, measuring system performance, and modeling information behavior.
 
-Cognitive science advances through the integration of empirical findings with theoretical models. Experimental psychology provides data about human performance under controlled conditions. Neuroimaging and neurophysiology reveal the biological mechanisms underlying cognitive processes. Computational modeling allows researchers to test theories by implementing them as working systems. Cross-cultural and developmental studies examine how cognitive processes vary across populations and change over time.
+## Systems Perspective
 
-## Contemporary Applications and Extensions
+Information science adopts a systems approach, recognizing that information exists within complex networks of creators, processors, systems, and users. This perspective emphasizes the relationships and interactions between components rather than focusing solely on individual elements. Information systems must account for human factors, technological constraints, organizational requirements, and environmental influences that shape how information flows and functions.
 
-Modern cognitive science extends beyond traditional boundaries to encompass embodied cognition, which emphasizes the role of the body in shaping mental processes. Social cognition examines how cognitive processes operate in social contexts. Cognitive neuroscience directly links mental processes to brain mechanisms. These developments reflect the field's commitment to understanding cognition as it actually occurs in real-world contexts.
+The systems perspective also recognizes feedback loops where information use generates new information needs, system performance data improves design, and user behavior influences system evolution. This dynamic view acknowledges that effective information systems must adapt and evolve continuously.
 
-The discipline continues to evolve as new technologies enable more sophisticated measurements of cognitive processes and as theoretical frameworks become more refined. Through this systematic, multi-disciplinary approach grounded in computational and empirical principles, cognitive science provides a comprehensive framework for understanding one of the most complex phenomena in the natural world: the nature of mind and intelligence.
+## Practical Applications and Domains
+
+Information science principles apply across numerous domains and contexts. Digital libraries and databases implement information organization and retrieval principles to serve research and educational communities. Search engines apply information science concepts to index, rank, and retrieve web content for millions of users. Knowledge management systems in organizations capture, organize, and disseminate institutional knowledge to support decision-making and innovation.
+
+Healthcare informatics applies information science methods to medical records, research data, and clinical decision support systems. Archival science preserves cultural heritage and organizational memory through systematic collection and preservation practices. Information architecture guides the design of websites, applications, and digital products to optimize user experience and task completion.
+
+## Emerging Considerations
+
+Contemporary information science must address challenges arising from massive data volumes, diverse information formats, global connectivity, and evolving user expectations. Privacy and security considerations have become central concerns as information systems handle increasingly sensitive personal and organizational data. The democratization of information creation through social media and user-generated content requires new approaches to quality assessment and authority determination.
+
+Artificial intelligence and machine learning are transforming information processing capabilities, enabling automated analysis, pattern recognition, and content generation that extend human cognitive abilities. These developments require information scientists to understand both the capabilities and limitations of automated systems while maintaining focus on human information needs and behaviors.
+
+Information science thus represents a comprehensive approach to understanding and improving how societies create, manage, and use information resources to advance knowledge, support decision-making, and solve complex problems across all domains of human activity.
