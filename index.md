@@ -148,7 +148,7 @@ Interested in sharing your feedback or collaborating with us? We would love to h
 * [Library and Information Science](https://bigpictureschool.com/library_information_science.html)
   * [Information Science](https://bigpictureschool.com/information_science.html)
   * [Library Science](https://bigpictureschool.com/library_science.html)
-* Machine Learning
+* [Machine Learning](https://bigpictureschool.com/machine_learning.html)
 * Neuroscience
 * Public Health
 * [Quantum Biology](https://bigpictureschool.com/quantum_biology.html)
