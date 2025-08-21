@@ -149,10 +149,10 @@ Interested in sharing your feedback or collaborating with us? We would love to h
   * [Information Science](https://bigpictureschool.com/information_science.html)
   * [Library Science](https://bigpictureschool.com/library_science.html)
 * [Machine Learning](https://bigpictureschool.com/machine_learning.html)
-* Neuroscience
-* Public Health
+* [Neuroscience](https://bigpictureschool.com/neuroscience.html)
+* [Public Health](https://bigpictureschool.com/public_health.html)
 * [Quantum Biology](https://bigpictureschool.com/quantum_biology.html)
-* Robotics
-* Sustainability Studies
-* Urban Planning
+* [Robotics](https://bigpictureschool.com/robotics.html)
+* [Sustainability Studies](https://bigpictureschool.com/sustainability_studies.html)
+* [Urban Planning](https://bigpictureschool.com/urban_planning.html)
   
