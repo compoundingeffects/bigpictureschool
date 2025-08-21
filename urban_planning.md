@@ -1,37 +1,53 @@
 ---
 layout: default
-title: Cognitive Science
+title: Urban Planning
 parent: Interdisciplinary Fields
-nav_order: 4
+nav_order: 15
 has_children: false
 ---
 
-# Cognitive Science
+# Urban Planning
 
-Cognitive science represents the interdisciplinary study of mind and intelligence, encompassing how information is processed, represented, and transformed within intelligent systems. To understand this field through first principles, we must begin with its fundamental premise: that mental processes can be studied scientifically and understood through computational and mechanistic principles.
+Urban planning is the systematic design and organization of land use, infrastructure, and community development within cities and metropolitan areas. At its core, it represents society's attempt to coordinate the spatial arrangement of human activities to achieve specific economic, social, and environmental objectives.
 
-## Foundational Assumptions
+## Fundamental Components Through First Principles
 
-Cognitive science rests on several core assumptions derived from first principles. The field assumes that mental phenomena arise from physical processes in the brain and can be studied objectively through empirical methods. It posits that cognition involves the manipulation of representations and symbols, making mental processes amenable to computational modeling. The discipline also embraces the principle that complex cognitive behaviors emerge from simpler underlying mechanisms that can be identified and studied systematically.
+### Human Settlement Needs
 
-## Core Components and Methodological Framework
+Urban planning begins with the basic requirement that humans need places to live, work, and interact. These fundamental needs drive three primary land uses: residential areas for shelter and family life, commercial and industrial zones for economic activity, and public spaces for community interaction and civic functions.
 
-The field integrates multiple disciplines because understanding cognition requires diverse analytical approaches. Psychology provides experimental methods for studying behavior and mental processes. Neuroscience contributes knowledge about the biological substrate of cognition. Computer science offers computational models and artificial intelligence frameworks for understanding information processing. Linguistics examines the structure and use of language as a window into cognitive organization. Philosophy provides conceptual foundations and addresses fundamental questions about the nature of mind and knowledge.
+### Spatial Relationships and Accessibility
 
-## Information Processing as the Central Paradigm
+The second principle concerns how these different areas connect to each other. People must be able to move efficiently between home, work, shopping, and recreation. This creates the need for transportation systems and influences the optimal placement of different land uses relative to each other.
 
-From first principles, cognitive science conceptualizes the mind as an information processing system. This approach treats mental processes as computational operations performed on mental representations. Information enters through sensory systems, undergoes various transformations through attention, perception, memory, and reasoning processes, and produces behavioral outputs. This framework allows researchers to study cognition at multiple levels, from neural mechanisms to abstract computational descriptions.
+### Resource Distribution and Infrastructure
 
-## Key Theoretical Constructs
+Human settlements require essential services including water supply, waste management, energy distribution, and communications networks. Urban planning must coordinate where these systems are placed and how they serve different areas of the city.
 
-Several fundamental concepts emerge from this foundation. Mental representations serve as the internal structures that encode information about the world. Cognitive processes operate on these representations through algorithms and procedures. The architecture of cognition refers to the organizational principles that govern how different cognitive systems interact. Learning mechanisms explain how cognitive systems adapt and improve through experience.
+### Economic Efficiency and Value Creation
 
-## Empirical and Theoretical Integration
+Cities exist because they create economic advantages through concentration of activity. Urban planning seeks to maximize these benefits by facilitating beneficial interactions while minimizing conflicts between incompatible uses.
 
-Cognitive science advances through the integration of empirical findings with theoretical models. Experimental psychology provides data about human performance under controlled conditions. Neuroimaging and neurophysiology reveal the biological mechanisms underlying cognitive processes. Computational modeling allows researchers to test theories by implementing them as working systems. Cross-cultural and developmental studies examine how cognitive processes vary across populations and change over time.
+## Core Planning Mechanisms
 
-## Contemporary Applications and Extensions
+### Zoning and Land Use Regulation
 
-Modern cognitive science extends beyond traditional boundaries to encompass embodied cognition, which emphasizes the role of the body in shaping mental processes. Social cognition examines how cognitive processes operate in social contexts. Cognitive neuroscience directly links mental processes to brain mechanisms. These developments reflect the field's commitment to understanding cognition as it actually occurs in real-world contexts.
+Planning establishes rules about what activities can occur where, preventing conflicts such as heavy industry adjacent to residential neighborhoods while ensuring adequate space for each type of use.
 
-The discipline continues to evolve as new technologies enable more sophisticated measurements of cognitive processes and as theoretical frameworks become more refined. Through this systematic, multi-disciplinary approach grounded in computational and empirical principles, cognitive science provides a comprehensive framework for understanding one of the most complex phenomena in the natural world: the nature of mind and intelligence.
+### Transportation and Circulation Planning
+
+This involves designing street networks, public transit systems, and pedestrian infrastructure to enable efficient movement of people and goods throughout the urban area.
+
+### Infrastructure Coordination
+
+Planning coordinates the placement and capacity of utilities, public facilities, and services to serve projected population and economic activity efficiently.
+
+### Growth Management and Future Visioning
+
+Urban planning anticipates future needs and guides development patterns to achieve long-term community objectives while managing the pace and location of growth.
+
+## Underlying Objectives
+
+Urban planning ultimately serves to balance competing interests and limited resources. It addresses market failures that occur when individual development decisions create negative externalities or fail to provide public goods. The discipline seeks to create communities that are economically productive, environmentally sustainable, socially equitable, and physically functional.
+
+The practice recognizes that cities are complex systems where changes in one area affect others, requiring coordinated decision-making that considers these interconnections rather than addressing each issue in isolation.
