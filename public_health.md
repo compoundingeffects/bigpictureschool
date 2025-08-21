@@ -1,37 +1,35 @@
 ---
 layout: default
-title: Cognitive Science
+title: Public Health
 parent: Interdisciplinary Fields
-nav_order: 4
+nav_order: 11
 has_children: false
 ---
 
-# Cognitive Science
+# Public Health
 
-Cognitive science represents the interdisciplinary study of mind and intelligence, encompassing how information is processed, represented, and transformed within intelligent systems. To understand this field through first principles, we must begin with its fundamental premise: that mental processes can be studied scientifically and understood through computational and mechanistic principles.
+Public health represents the science and art of preventing disease, prolonging life, and promoting health through organized community efforts. At its foundation, public health operates on the principle that health outcomes are determined not merely by individual choices or medical care, but by the conditions in which populations live, work, and interact.
 
-## Foundational Assumptions
+## Core Principles of Public Health
 
-Cognitive science rests on several core assumptions derived from first principles. The field assumes that mental phenomena arise from physical processes in the brain and can be studied objectively through empirical methods. It posits that cognition involves the manipulation of representations and symbols, making mental processes amenable to computational modeling. The discipline also embraces the principle that complex cognitive behaviors emerge from simpler underlying mechanisms that can be identified and studied systematically.
+**Population-Level Focus**: Unlike clinical medicine, which treats individual patients, public health examines patterns of health and disease across entire populations. This perspective recognizes that individual health cannot be separated from community health, and that systematic approaches often prove more effective than individual interventions.
 
-## Core Components and Methodological Framework
+**Prevention Over Treatment**: Public health prioritizes preventing health problems before they occur rather than treating them after onset. This principle stems from the understanding that preventing one case of disease is typically more cost-effective and beneficial than treating multiple cases later.
 
-The field integrates multiple disciplines because understanding cognition requires diverse analytical approaches. Psychology provides experimental methods for studying behavior and mental processes. Neuroscience contributes knowledge about the biological substrate of cognition. Computer science offers computational models and artificial intelligence frameworks for understanding information processing. Linguistics examines the structure and use of language as a window into cognitive organization. Philosophy provides conceptual foundations and addresses fundamental questions about the nature of mind and knowledge.
+**Social Determinants Recognition**: Health outcomes result from complex interactions between genetic, behavioral, environmental, and social factors. Public health acknowledges that factors such as housing quality, education access, employment opportunities, and social networks often influence health more significantly than medical care itself.
 
-## Information Processing as the Central Paradigm
+**Collective Action Requirement**: Many health challenges cannot be addressed by individuals acting alone. Issues such as infectious disease control, environmental protection, and food safety require coordinated community responses and regulatory frameworks.
 
-From first principles, cognitive science conceptualizes the mind as an information processing system. This approach treats mental processes as computational operations performed on mental representations. Information enters through sensory systems, undergoes various transformations through attention, perception, memory, and reasoning processes, and produces behavioral outputs. This framework allows researchers to study cognition at multiple levels, from neural mechanisms to abstract computational descriptions.
+## Fundamental Functions
 
-## Key Theoretical Constructs
+Public health systems perform three essential functions that derive from these core principles. Assessment involves systematically collecting and analyzing health data to identify community health problems and their underlying causes. Policy development creates evidence-based strategies and regulations to address identified health challenges. Assurance ensures that necessary health services are available and accessible to all community members, regardless of their ability to pay.
 
-Several fundamental concepts emerge from this foundation. Mental representations serve as the internal structures that encode information about the world. Cognitive processes operate on these representations through algorithms and procedures. The architecture of cognition refers to the organizational principles that govern how different cognitive systems interact. Learning mechanisms explain how cognitive systems adapt and improve through experience.
+## Evidence-Based Decision Making
 
-## Empirical and Theoretical Integration
+Public health operates on the principle that interventions should be grounded in scientific evidence rather than assumptions or traditions. This approach requires rigorous data collection, analysis, and evaluation to determine which strategies most effectively improve population health outcomes. The field continuously evolves as new evidence emerges about disease patterns, risk factors, and intervention effectiveness.
 
-Cognitive science advances through the integration of empirical findings with theoretical models. Experimental psychology provides data about human performance under controlled conditions. Neuroimaging and neurophysiology reveal the biological mechanisms underlying cognitive processes. Computational modeling allows researchers to test theories by implementing them as working systems. Cross-cultural and developmental studies examine how cognitive processes vary across populations and change over time.
+## Equity as a Foundational Element
 
-## Contemporary Applications and Extensions
+Public health recognizes that health disparities often reflect broader social and economic inequities. Therefore, effective public health practice must address underlying structural factors that create unequal access to health-promoting resources and opportunities. This principle drives efforts to ensure that all population groups can achieve optimal health, regardless of race, income, geography, or other characteristics.
 
-Modern cognitive science extends beyond traditional boundaries to encompass embodied cognition, which emphasizes the role of the body in shaping mental processes. Social cognition examines how cognitive processes operate in social contexts. Cognitive neuroscience directly links mental processes to brain mechanisms. These developments reflect the field's commitment to understanding cognition as it actually occurs in real-world contexts.
-
-The discipline continues to evolve as new technologies enable more sophisticated measurements of cognitive processes and as theoretical frameworks become more refined. Through this systematic, multi-disciplinary approach grounded in computational and empirical principles, cognitive science provides a comprehensive framework for understanding one of the most complex phenomena in the natural world: the nature of mind and intelligence.
+Through this first principles analysis, public health emerges as a systematic approach to protecting and improving community health by addressing root causes, preventing problems before they occur, and ensuring that effective interventions reach all members of the population. These foundational concepts guide public health practice across diverse contexts, from local health departments to global health organizations.
