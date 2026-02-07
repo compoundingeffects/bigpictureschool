@@ -5,7 +5,7 @@ nav_order: 2
 has_children: true
 ---
 
-# Social Science: How We Study Human Behavior
+# Social Science
 
 ## What Is Social Science?
 
