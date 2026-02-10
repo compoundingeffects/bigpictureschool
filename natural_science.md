@@ -9,7 +9,7 @@ has_children: true
 
 Natural science is our most powerful tool for understanding how the world works. It's a systematic way of studying everything in nature—from the tiniest atoms to the largest galaxies—by carefully watching, testing, and developing explanations that we can verify. Instead of just guessing or relying on assumptions, natural science helps us discover real patterns and figure out why things happen the way they do.
 
-## The Ground Rules of Science
+## The ground rules of science
 
 Natural science operates on a few basic ideas that make the whole system work. 
 
@@ -19,7 +19,7 @@ Second, scientists trust that we can gather accurate information about the world
 
 Third, and perhaps most importantly, science looks for natural explanations for natural events. When lightning strikes, scientists don't stop at "that's just how it is." Instead, they investigate the electrical processes in storm clouds. This commitment to finding mechanisms—the actual step-by-step processes that make things happen—drives scientists to dig deeper and build real understanding.
 
-## How Science Actually Works
+## How science actually works
 
 The scientific method is the recipe that scientists follow to investigate questions. Think of it as a careful, step-by-step approach to solving mysteries about nature.
 
@@ -31,7 +31,7 @@ Here's where science gets really powerful: other people need to be able to repea
 
 Scientists also use peer review, which is essentially expert fact-checking. Before accepting new findings, other scientists examine the work to make sure the methods were sound, the analysis was correct, and the conclusions make sense. It's like having experienced editors review an article before publication, except the stakes involve our understanding of reality.
 
-## Different Flavors of Science, One Connected Whole
+## Different flavors of science, one connected whole
 
 Natural science includes several major fields, each studying different aspects of nature but all using the same basic approach.
 
@@ -45,7 +45,7 @@ Earth sciences pull together insights from physics, chemistry, and biology to un
 
 These fields aren't isolated islands; they constantly share insights and build on each other's discoveries. Understanding DNA requires chemistry. Understanding how birds fly requires physics. Good science recognizes these connections.
 
-## Building Knowledge That You Can Trust
+## Building knowledge that you can trust
 
 Science advances by accumulating evidence—lots of it. When scientists talk about a "theory," they don't mean a guess. In science, a theory is an explanation that has been tested extensively, supported by mountains of evidence, and proven capable of making accurate predictions. The theory of gravity isn't just an idea; it's a well-established explanation that lets us predict exactly how objects will fall, how planets orbit, and how to launch satellites.
 
@@ -53,7 +53,7 @@ Scientific knowledge also self-corrects. When new evidence appears that contradi
 
 One crucial skill scientists have developed is distinguishing between things that happen together and things that cause each other. Just because two things occur simultaneously doesn't mean one causes the other. Ice cream sales and drowning deaths both increase in summer, but ice cream doesn't cause drowning—warm weather causes both. Scientists use controlled experiments and statistical tools to identify genuine cause-and-effect relationships, not just coincidences.
 
-## Numbers Tell Stories
+## Numbers tell stories
 
 Mathematics is science's primary language. While that might sound intimidating, it simply means that scientists measure things carefully, look for patterns in numbers, and use mathematical tools to understand what they're seeing.
 
@@ -61,7 +61,7 @@ Imagine trying to understand climate change by saying "it feels warmer lately." 
 
 Scientists also create mathematical models—simplified representations of complex systems using equations and relationships. Think of these as blueprints that capture the essential features of how something works. A weather model, for example, represents how temperature, pressure, humidity, and wind interact. These models help scientists understand complicated systems and predict what might happen under different conditions.
 
-## The Proof Is in the Predictions
+## The proof is in the predictions
 
 The real test of scientific understanding is whether it works. A good scientific explanation doesn't just account for what we've already seen—it accurately predicts what we'll see in new situations.
 
@@ -69,7 +69,7 @@ When Einstein's theory predicted that starlight would bend around the sun, astro
 
 These practical successes aren't just useful—they're powerful confirmation that the underlying science is correct. Technologies based on scientific understanding work because the science accurately describes reality.
 
-## Why This Matters
+## Why this matters
 
 Natural science represents humanity's most reliable method for understanding the world around us. It works because it's built on observation rather than assumption, demands evidence rather than accepting claims at face value, and constantly tests its own conclusions against reality.
 
