@@ -18,27 +18,17 @@ For example, a pure scientist might study how cells divide, how gravity affects 
 
 Applied science comes into the picture when we take all that knowledge from pure science and put it to work solving actual problems that people face. It's the bridge between understanding something and doing something useful with that understanding.
 
-While pure science asks "What's happening and why?" applied science asks "How can we use what we know to make something better, safer, or more efficient?"
+While pure science asks "What's happening and why?", applied science asks "How can we use what we know to make something better, safer, or more efficient?"
 
-Here's a simple example: Pure scientists discovered how electricity works and how it flows through different materials. Applied scientists then used that knowledge to figure out how to deliver electricity to homes, create electric motors, and eventually develop everything from refrigerators to smartphones.
+Here's a simple example. Pure scientists discovered how electricity works and how it flows through different materials. Applied scientists then used that knowledge to figure out how to deliver electricity to homes, create electric motors, and eventually develop everything from refrigerators to smartphones.
 
 ## What Makes Applied Science Different
 
-Applied science has a few key features that set it apart:
-
-First, it's focused on achieving a specific goal. Whether that's curing a disease, building a stronger bridge, or growing more food, applied scientists are working toward a particular outcome.
-
-Second, it often combines knowledge from different areas of science. Solving real-world problems usually requires pulling together ideas from biology, chemistry, physics, and other fields.
-
-Third, applied scientists have to think about more than just whether something works scientifically. They also consider whether it's affordable, whether people will actually use it, and what impact it might have on society and the environment.
+Applied science has a few key features that set it apart. First, it's focused on achieving a specific goal. Whether that's curing a disease, building a stronger bridge, or growing more food, applied scientists are working toward a particular outcome. Second, it often combines knowledge from different areas of science. Solving real-world problems usually requires pulling together ideas from biology, chemistry, physics, and other fields. Third, applied scientists have to think about more than just whether something works scientifically. They also consider whether it's affordable, whether people will actually use it, and what impact it might have on society and the environment.
 
 ## How Applied Science Works
 
-The process of turning scientific knowledge into practical solutions follows a fairly predictable pattern.
-
-Scientists start by identifying a problem that needs solving—maybe a disease that needs treatment, or a more efficient way to produce energy. Then they look at what science already knows that might help solve this problem. They come up with ideas for solutions based on that knowledge, test those ideas, see what works and what doesn't, and keep refining their approach until they find something that actually solves the problem.
-
-This back-and-forth process of testing and improving continues until they develop a solution that works reliably in the real world.
+The process of turning scientific knowledge into practical solutions follows a fairly predictable pattern. Scientists start by identifying a problem that needs solving—maybe a disease that needs treatment, or a more efficient way to produce energy. Then they look at what science already knows that might help solve this problem. They come up with ideas for solutions based on that knowledge, test those ideas, see what works and what doesn't, and keep refining their approach until they find something that actually solves the problem. This back-and-forth process of testing and improving continues until they develop a solution that works reliably in the real world.
 
 ## Applied Science vs. Technology: What's the Difference?
 
