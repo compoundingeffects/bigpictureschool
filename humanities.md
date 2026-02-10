@@ -13,7 +13,7 @@ The humanities are fields of study that explore human culture, experience, and c
 
 ## Building from the basics
 
-To understand the humanities, let's start with some basic observations about human nature:
+To understand the humanities, let's start with some basic observations about human nature.
 
 **We're creatures who create meaning.** Unlike other animals, humans build complicated systems of symbols and meanings to make sense of our experiences. Think about it: we invented language, created art, developed religions, and built philosophical systems—all to help us understand and share what we're going through. This drive to find and create meaning is at the heart of what humanities studies.
 
@@ -23,7 +23,7 @@ To understand the humanities, let's start with some basic observations about hum
 
 ## What the humanities include
 
-Based on these fundamental ideas, the humanities cover several connected areas:
+Based on these fundamental ideas, the humanities cover several connected areas.
 
 **Language and literature** look at how we use words to create meaning, preserve what we know, and express complex feelings and ideas. When you read a novel, poem, or play, you're experiencing humanity's attempt to capture and share the full range of what it means to be human.
 
