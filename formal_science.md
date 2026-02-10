@@ -26,7 +26,7 @@ The key principle that makes formal science different from other sciences is how
 
 ## What makes formal sciences unique
 
-Formal sciences have several special characteristics that set them apart:
+Formal sciences have several special characteristics that set them apart.
 
 **Precision**: Every term has an exact, specific meaning. There's no room for vagueness. When a mathematician uses the word "triangle," everyone knows precisely what that means—not "sort of three-sided" but exactly three sides, no more, no less.
 
