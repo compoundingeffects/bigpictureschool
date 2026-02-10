@@ -8,13 +8,13 @@ has_children: true
 
 Applied science is all about taking what we know about how the world works and using it to solve everyday problems and make life better. Think of it as the practical side of science—the part that turns discoveries into things we can actually use.
 
-## Starting with the Basics: Pure Science
+## Starting with the basics: pure science
 
 To understand applied science, we first need to talk about pure science (sometimes called basic science). This is the kind of science where researchers study the world simply to understand it better. They're not necessarily trying to invent something or fix a specific problem—they just want to figure out how things work.
 
 For example, a pure scientist might study how cells divide, how gravity affects objects, or why certain chemicals react with each other. They're driven by curiosity and the desire to expand human knowledge. They ask questions like "What's happening here?" and "Why does this work the way it does?"
 
-## Making the Connection to Real Life
+## Making the connection to real life
 
 Applied science comes into the picture when we take all that knowledge from pure science and put it to work solving actual problems that people face. It's the bridge between understanding something and doing something useful with that understanding.
 
@@ -22,7 +22,7 @@ While pure science asks "What's happening and why?", applied science asks "How c
 
 Here's a simple example. Pure scientists discovered how electricity works and how it flows through different materials. Applied scientists then used that knowledge to figure out how to deliver electricity to homes, create electric motors, and eventually develop everything from refrigerators to smartphones.
 
-## What Makes Applied Science Different
+## What makes applied science different
 
 Applied science has a few key features that set it apart. 
 
@@ -32,7 +32,7 @@ Second, it often combines knowledge from different areas of science. Solving rea
 
 Third, applied scientists have to think about more than just whether something works scientifically. They also consider whether it's affordable, whether people will actually use it, and what impact it might have on society and the environment.
 
-## How Applied Science Works
+## How applied science works
 
 The process of turning scientific knowledge into practical solutions follows a fairly predictable pattern. 
 
@@ -40,7 +40,7 @@ Scientists start by identifying a problem that needs solving—maybe a disease t
 
 This back-and-forth process of testing and improving continues until they develop a solution that works reliably in the real world.
 
-## Applied Science vs. Technology: What's the Difference?
+## Applied science vs. technology: what's the difference?
 
 People often confuse applied science with technology, and it's easy to see why—they're closely connected. But here's the distinction.
 
@@ -50,7 +50,7 @@ For example, applied science involves understanding how to use materials science
 
 Think of applied science as the "know-how" and technology as the "thing itself."
 
-## Where We See Applied Science at Work
+## Where we see applied science at work
 
 Applied science touches nearly every part of our daily lives.
 
@@ -60,7 +60,7 @@ In engineering, knowledge of physics and materials helps us build everything fro
 
 In agriculture, understanding plant biology, soil nutrients, and how living things interact helps us grow more food more efficiently. This includes developing crops that resist diseases or need less water.
 
-## Why Applied Science Matters
+## Why applied science matters
 
 The real importance of applied science is that it transforms our understanding of nature into practical improvements in how we live. It takes the discoveries made by curious researchers in laboratories and turns them into medicines that save lives, technologies that connect us, and solutions that address major challenges facing society.
 
