@@ -7,11 +7,11 @@ has_children: true
 
 # Humanities
 
-## What Are the Humanities?
+## What are the humanities?
 
 The humanities are fields of study that explore human culture, experience, and creativity. In simple terms, these subjects investigate what makes us uniquely human by looking at our languages, art, history, philosophy, and the many ways we express ourselves and organize our societies.
 
-## Building From the Basics
+## Building from the basics
 
 To understand the humanities, let's start with some basic observations about human nature:
 
@@ -21,7 +21,7 @@ To understand the humanities, let's start with some basic observations about hum
 
 **We seek more than just survival.** Once humans meet our basic needs for food, water, and shelter, we don't stop there. We consistently look for purpose, beauty, truth, and connection with others. This search leads us to create art, write poetry, build monuments, develop philosophies, and ask big questions about why we're here. The humanities study all these creative and intellectual products.
 
-## What the Humanities Include
+## What the humanities include
 
 Based on these fundamental ideas, the humanities cover several connected areas:
 
@@ -35,7 +35,7 @@ Based on these fundamental ideas, the humanities cover several connected areas:
 
 **Religious and Cultural Studies** explore the belief systems and practices that communities create to answer life's biggest questions and organize how people live together.
 
-## Why the Humanities Matter
+## Why the humanities matter
 
 The humanities serve crucial purposes in our lives and society. These fields preserve and pass down cultural knowledge from one generation to the next. They help us develop critical thinking skills—the ability to analyze, question, and understand complex ideas. They give us tools for making sense of complicated human experiences, whether in our own lives or in distant times and places.
 
