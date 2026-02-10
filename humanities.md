@@ -25,15 +25,15 @@ To understand the humanities, let's start with some basic observations about hum
 
 Based on these fundamental ideas, the humanities cover several connected areas:
 
-**Language and Literature** look at how we use words to create meaning, preserve what we know, and express complex feelings and ideas. When you read a novel, poem, or play, you're experiencing humanity's attempt to capture and share the full range of what it means to be human.
+**Language and literature** look at how we use words to create meaning, preserve what we know, and express complex feelings and ideas. When you read a novel, poem, or play, you're experiencing humanity's attempt to capture and share the full range of what it means to be human.
 
 **History** investigates how human societies grow, change, and learn from their past. By studying history, we can spot patterns in how people behave and make decisions across different times and places.
 
 **Philosophy** tackles the big questions that arise from human consciousness and our ability to reason: What exists? How do we know what we know? What's right and wrong? What does life mean?
 
-**The Arts**—including painting, sculpture, music, theater, and dance—let us express and communicate experiences that go beyond what words alone can capture.
+**The arts**—including painting, sculpture, music, theater, and dance—let us express and communicate experiences that go beyond what words alone can capture.
 
-**Religious and Cultural Studies** explore the belief systems and practices that communities create to answer life's biggest questions and organize how people live together.
+**Religious and cultural studies** explore the belief systems and practices that communities create to answer life's biggest questions and organize how people live together.
 
 ## Why the humanities matter
 
