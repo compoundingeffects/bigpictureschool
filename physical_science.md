@@ -8,6 +8,8 @@ has_children: true
 
 # Physical Science
 
+## What is physical science?
+
 Physical science is all about studying the non-living things around us—from the tiniest atoms to the largest galaxies—to figure out the basic rules that make everything work. It includes physics, chemistry, astronomy, and earth sciences. What ties all these fields together? They all try to explain how nature works using measurements and tests that anyone can repeat.
 
 ## The building blocks: matter and energy
