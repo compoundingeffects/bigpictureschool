@@ -8,6 +8,8 @@ has_children: true
 
 # Life Science
 
+## What is life science?
+
 Life science is simply the study of living organisms and what keeps them alive. It includes biology, genetics (the study of inheritance), and other fields that examine how living things work, interact with each other, and change over time.
 
 ## What makes something alive?
