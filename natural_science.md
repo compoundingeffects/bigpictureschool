@@ -7,6 +7,8 @@ has_children: true
 
 # Natural Science
 
+## What is natural science?
+
 Natural science is our most powerful tool for understanding how the world works. It's a systematic way of studying everything in nature—from the tiniest atoms to the largest galaxies—by carefully watching, testing, and developing explanations that we can verify. Instead of just guessing or relying on assumptions, natural science helps us discover real patterns and figure out why things happen the way they do.
 
 ## The ground rules of science
