@@ -6,6 +6,8 @@ has_children: true
 ---
 # Applied Science
 
+## What is applied science?
+
 Applied science is all about taking what we know about how the world works and using it to solve everyday problems and make life better. Think of it as the practical side of science—the part that turns discoveries into things we can actually use.
 
 ## Starting with the basics: pure science
