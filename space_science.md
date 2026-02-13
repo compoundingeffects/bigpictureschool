@@ -18,9 +18,7 @@ At its core, space science starts with a simple idea: the universe is made of ma
 
 ## From tiny to tremendous: the scales of space
 
-The universe is organized like a set of Russian nesting dolls, with structures at many different size levels. 
-
-At the smallest level, you have individual atoms and molecules floating in space. These come together to form larger objects like specks of dust and ice. Over time, countless dust particles can clump together through collisions and gravity to form asteroids. Through similar processes involving even more material over millions of years, planets eventually form. 
+The universe is organized like a set of Russian nesting dolls, with structures at many different size levels. At the smallest level, you have individual atoms and molecules floating in space. These come together to form larger objects like specks of dust and ice. Over time, countless dust particles can clump together through collisions and gravity to form asteroids. Through similar processes involving even more material over millions of years, planets eventually form. 
 
 Planets orbit stars, creating solar systems like our own. These star systems group together into galaxies—massive collections of billions of stars. And galaxies themselves cluster together into even larger structures. Scientists need different tools and approaches to study each level, though the same basic rules of physics apply throughout.
 
