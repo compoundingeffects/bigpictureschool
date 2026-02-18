@@ -43,7 +43,7 @@ Atoms bond with each other because they're seeking stability, which usually mean
 
 This explains many common reactions: sodium readily gives up one electron (leaving it with a complete shell underneath), while chlorine eagerly accepts one electron (to complete its outer shell). When these two meet, the transfer happens naturally, and salt is formed.
 
-## The special sase of transition metals
+## The special case of transition metals
 
 The metals in the middle section of the periodic table—called transition metals—have special properties because they have partially filled electron zones called d-orbitals. These electrons can participate in bonding in flexible ways, which explains several interesting phenomena:
 
