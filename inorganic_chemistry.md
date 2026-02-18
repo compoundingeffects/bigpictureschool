@@ -88,9 +88,9 @@ Both frameworks are valid — they just emphasize different aspects of the same 
 
 Armed with these principles, chemists can predict how inorganic compounds will react and figure out how to make new ones. Some common reaction types include:
 
-- **Ion swapping**, where positive and negative ions trade partners — like a square dance at the atomic level
-- **Precipitation**, where mixing two liquids produces a solid that falls out of solution
-- **Electron-transfer reactions**, like rusting or the chemistry inside a battery
+- **Ion exchange reactions**, where positive and negative ions trade partners — like a square dance at the atomic level
+- **Precipitation reactions**, where mixing two liquids produces a solid that can't dissolve and sinks to the bottom — like sediment settling in a glass
+- **Redox reactions**, where electrons transfer between substances — like rusting or the chemistry inside a battery
 
 ## The beauty of the system
 
