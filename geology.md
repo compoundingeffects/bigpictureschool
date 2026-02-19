@@ -60,8 +60,8 @@ Geology is, in a sense, a history science. Geologists can't travel back in time,
 
 A few simple rules make this possible:
 
-- **Older layers are buried under newer ones.** Just like layers in a stack of pancakes, the bottom is oldest and the top is youngest.
-- **If one rock formation cuts across another, the cutting one formed later.** (Imagine hardened lava cutting through surrounding rock — the lava came after, because you can't cut through something that doesn't exist yet.)
+- **Older layers are buried under newer ones**. Just like layers in a stack of pancakes, the bottom is oldest and the top is youngest.
+- **If one rock formation cuts across another, the cutting one formed later**. (Imagine hardened lava cutting through surrounding rock — the lava came after, because you can't cut through something that doesn't exist yet.)
 - **Fossils** help identify the age of rock layers and tell us what life was like when the rock formed.
 
 Every rock formation, every cluster of minerals, every bend and fold in a cliff face is a clue — a piece of evidence about conditions that existed long ago. Geologists piece these clues together the way a detective pieces together a crime scene, testing their interpretations against the known laws of physics and chemistry.
