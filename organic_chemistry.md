@@ -4,7 +4,7 @@ title: Organic Chemistry
 parent: Chemistry
 grand_parent: Physical Science
 ancestor: Natural Science
-nav_order: 2
+nav_order: 1
 ---
 
 # Organic Chemistry
