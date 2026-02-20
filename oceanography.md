@@ -64,4 +64,4 @@ Consider this chain of events: if the ocean warms, circulation patterns change. 
 
 This is why modern oceanographers think of the ocean as a system — an intricate, interconnected web where pulling on one thread affects everything else. The ocean isn't just a giant body of water; it's one of the central engines of life on Earth, regulating our climate, driving weather patterns, and supporting an almost unimaginable diversity of life.
 
-Understanding the ocean means understanding our planet — and arguably, our future.
+Understanding the ocean means understanding our planet — and our future.
