@@ -24,11 +24,11 @@ But having water isn't enough — you also need somewhere to put it. The ocean b
 
 Water in the ocean is constantly moving, and there are a few key reasons why.
 
-**Sunlight and heat.** The Sun doesn't heat the ocean evenly. Tropical waters near the equator receive far more sunlight than polar regions, so temperatures vary dramatically across the globe. Those temperature differences cause water to move.
+**Sunlight and heat**. The Sun doesn't heat the ocean evenly. Tropical waters near the equator receive far more sunlight than polar regions, so temperatures vary dramatically across the globe. Those temperature differences cause water to move.
 
-**Earth's spin.** As water moves across the ocean, Earth's rotation gives it a twist — a phenomenon called the **Coriolis effect**. This invisible deflecting force is responsible for the large swirling current systems you see on maps of the ocean, like the Gulf Stream in the Atlantic.
+**Earth's spin**. As water moves across the ocean, Earth's rotation gives it a twist — a phenomenon called the **Coriolis effect**. This invisible deflecting force helps create large-scale **ocean current systems** — think of these as rivers flowing within the ocean itself, carrying water along predictable paths across entire ocean basins. The Gulf Stream, for example, is one such current, carrying warm water from the Gulf of Mexico northward along the U.S. East Coast and across the Atlantic toward Europe. It's one reason Western Europe enjoys a milder climate than you might expect. These individual currents don't work in isolation — they connect with one another to form larger systems that circulate water across the entire planet.
 
-**Wind.** The wind doesn't just move air — it also drags the surface of the ocean along with it through friction, creating waves and helping push major ocean currents.
+**Wind**. The wind doesn't just move air — it also drags the surface of the ocean along with it through friction, creating waves and helping push major ocean currents.
 
 One of the most important movements in the ocean isn't even visible from the surface. It's driven by differences in water density — how heavy water is. Cold water is denser (heavier) than warm water, and salty water is denser than fresh water, so they settle into layers, much like oil floating on top of water. The densest, coldest, saltiest water sinks to the ocean floor, while lighter, warmer water stays near the surface.
 
