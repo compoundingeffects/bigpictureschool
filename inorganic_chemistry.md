@@ -4,7 +4,7 @@ title: Inorganic Chemistry
 parent: Chemistry
 grand_parent: Physical Science
 ancestor: Natural Science
-nav_order: 3
+nav_order: 2
 ---
 
 # Inorganic Chemistry
