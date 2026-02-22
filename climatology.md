@@ -20,7 +20,7 @@ But this energy doesn't arrive evenly across the planet. Because Earth is round,
 
 ## The atmosphere and the greenhouse effect
 
-Earth is wrapped in a thin layer of air — the atmosphere — and its makeup matters enormously for climate. Most of the atmosphere is nitrogen and oxygen, which are fairly "invisible" to heat. But a small collection of other gases — including water vapor, carbon dioxide, and methane — act very differently. These gases trap heat that would otherwise escape into space, warming the planet in the process. This is called the **greenhouse effect**.
+Earth is wrapped in a thin layer of air — the atmosphere — and its makeup matters enormously for climate. Most of the atmosphere is nitrogen and oxygen, which don't trap heat — they let it pass straight through. But a small collection of other gases — including water vapor, carbon dioxide, and methane — act very differently. These gases trap heat that would otherwise escape into space, warming the planet in the process. This is called the **greenhouse effect**.
 
 Think of it like a blanket wrapped around the Earth. The blanket doesn't create heat — it just slows down how quickly heat escapes. Without this natural greenhouse effect, Earth's surface would be roughly 33°C (about 60°F) colder than it is today — far too cold to support most life as we know it.
 
@@ -36,7 +36,9 @@ Water is also remarkable at storing heat. Think of how long it takes a pot of wa
 
 ## Climate changes over time
 
-Climate isn't static. It shifts across different time scales. Seasons, for instance, are caused by the tilt of Earth's axis — not its distance from the sun. Over longer stretches of time, variations in the sun's energy output, massive volcanic eruptions, and shifts in ocean circulation can all alter global or regional climates.
+Climate isn't static. It shifts across different time scales. Seasons are one example of a regular, shorter-term cycle. Over longer stretches of time, variations in the sun's energy output, massive volcanic eruptions, and shifts in ocean circulation can all alter global or regional climates.
+
+Climate isn't static. It shifts across different time scales — from the rhythms we experience every year to changes that unfold over thousands of years. Seasons are a familiar example of a short, regular cycle. They happen because Earth is tilted on its axis, so as we orbit the sun, different parts of the planet receive more or less direct sunlight at different times of year — not, as many people assume, because we're closer to or farther from the sun. Over much longer stretches of time, other forces come into play. Gradual variations in the sun's energy output, massive volcanic eruptions that can temporarily block sunlight, and shifts in ocean circulation patterns can all alter climates on a regional or even global scale. The key point is that climate change — in the broadest sense — is not unusual. Earth's climate has always varied. What differs is the cause, the scale, and the speed of that change.
 
 The climate system also has a remarkable push-and-pull quality. Some processes amplify change, while others resist it. The melting of polar ice is a good example of an amplifying effect: ice is white and reflects sunlight back into space, helping to keep things cool. But when ice melts, it exposes darker ocean or land underneath, which absorbs more sunlight — causing more warming, which melts more ice, and so on. This is another example of a self-reinforcing feedback loop.
 
