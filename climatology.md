@@ -12,7 +12,7 @@ nav_order: 4
 
 Climatology is the scientific study of climate — not just day-to-day weather, but the long-term patterns of temperature, rainfall, and other conditions that define a region over decades. While weather tells you whether to grab an umbrella today, climate tells you whether you'll need one most days in October. Scientists typically look at 30 or more years of data to identify these patterns. To really understand how climate works, it helps to start from the basics — beginning with where Earth gets its energy.
 
-# The foundation: Earth's energy balance
+## The foundation: Earth's energy balance
 
 Everything in our climate starts with the sun. The sun sends energy to Earth in the form of light and heat. Earth absorbs this energy, warms up, and then radiates heat back out into space. The balance between the energy coming in and the energy going out is what determines Earth's overall temperature and drives our climate.
 
