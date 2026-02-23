@@ -2,8 +2,8 @@ title: Big Picture School
 description: Teaching the core principles of major disciplines to encourage interdisciplinary thought.
 theme: just-the-docs
 plausible_analytics:
-  domain: bigpictureschool.com
-  script_url: https://plausible.io/js/pa-GrLH6zVSyM1sY_EvWmhHO.js
+  domain: "bigpictureschool.com"
+  script_url: "https://plausible.io/js/pa-GrLH6zVSyM1sY_EvWmhHO.js"
 ga_tracking: G-1YB8FF6HCN
 favicon_ico: "/assets/images/favicon.ico"
 url: https://bigpictureschool.com
