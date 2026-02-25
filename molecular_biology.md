@@ -16,7 +16,7 @@ What makes something alive? A rock and a tree are both made of atoms and molecul
 
 So what *does* make living things different from non-living things? At its heart, life is a system that can do three remarkable things: keep itself organized, make copies of itself, and respond to its surroundings. To do all of this, living things need two essentials — a way to *store instructions*, and *machinery to carry out those instructions*. Molecular biology is largely the study of how both of these work.
 
-### The key players: four types of molecules
+## The key players: four types of molecules
 
 Living things depend on four main types of molecules, each with specific jobs.
 
