@@ -35,7 +35,7 @@ Interested in sharing your feedback or collaborating with us? We would love to h
     - [Climatology](https://bigpictureschool.com/climatology.html)
 - [Life Science](https://bigpictureschool.com/life_science.html)
     - [Molecular Biology](https://bigpictureschool.com/molecular_biology.html)
-    - [Cell Biology](https://bigpictureschool.com/cellular_biology.html)
+    - [Cell Biology](https://bigpictureschool.com/cell_biology.html)
     - [Genetics](https://bigpictureschool.com/genetics.html)
     - [Evolutionary Biology](https://bigpictureschool.com/evolutionary_biology.html)
     - [Microbiology](https://bigpictureschool.com/microbiology.html)
