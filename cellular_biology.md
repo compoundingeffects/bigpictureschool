@@ -1,9 +1,9 @@
 ---
 layout: default
 title: Cell Biology
-parent: Life Science
-grand_parent: Natural Science
-nav_order: 2
+parent: 
+grand_parent:
+nav_order: 
 ---
 
 # Cell Biology
