@@ -44,9 +44,7 @@ This also explains why traits can seem to skip generations — a recessive trait
 
 ## Variation and mutation
 
-If everyone inherited genes in exactly the same way, we'd all be nearly identical. So where does variety come from?
-
-Two main sources:
+If everyone inherited genes in exactly the same way, we'd all be nearly identical. So where does variety come from? There are two main sources.
 
 First, when parents produce reproductive cells (eggs and sperm), genes from both sides of the family get shuffled together in new combinations. This shuffling means every child receives a unique mix of genetic material.
 
