@@ -14,6 +14,7 @@ Evolutionary biology is the science of how living things change over time. It as
 
 ## It all starts with four basic observations
 
+
 **Observation One: No two individuals are exactly alike**.
 
 Look around any group of living things—a flock of birds, a garden full of flowers, even a litter of puppies—and you'll notice differences. Some individuals are larger, some are faster, some have slightly different coloring. This variety exists everywhere in nature, right down to differences we can't see with the naked eye. This might seem obvious, but it's actually the essential starting point for everything that follows. Without variety, evolution couldn't happen.
