@@ -1,6 +1,6 @@
 ---
-layout: default
-title: Cell Biology
+layout:
+title: 
 parent: 
 grand_parent:
 nav_order: 
