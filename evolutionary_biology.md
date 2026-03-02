@@ -14,6 +14,7 @@ Evolutionary biology is the science of how living things change over time. It as
 
 ## It all starts with four basic observations
 
+To see how evolution works, you just need to notice four things about the world around you.
 
 **Observation One: No two individuals are exactly alike**.
 
