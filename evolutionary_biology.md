@@ -14,19 +14,19 @@ Evolutionary biology is the science of how living things change over time. It as
 
 ## It all starts with four basic observations
 
-**Observation One: No two individuals are exactly alike**
+**Observation One: No two individuals are exactly alike**.
 
 Look around any group of living things—a flock of birds, a garden full of flowers, even a litter of puppies—and you'll notice differences. Some individuals are larger, some are faster, some have slightly different coloring. This variety exists everywhere in nature, right down to differences we can't see with the naked eye. This might seem obvious, but it's actually the essential starting point for everything that follows. Without variety, evolution couldn't happen.
 
-**Observation Two: Traits are passed down to offspring**
+**Observation Two: Traits are passed down to offspring**.
 
 Children tend to look like their parents. Kittens look like cats, not dogs. This is because many characteristics are inherited—they get passed from parent to child through biological information. This means that if a parent has a useful trait, their offspring are likely to have it too. Variations don't just disappear when an individual dies; they can carry forward through generations.
 
-**Observation Three: Resources are limited**
+**Observation Three: Resources are limited**.
 
 Food, space, water, and mates don't exist in unlimited supply. There's only so much to go around, which means living things are constantly competing—sometimes directly, sometimes indirectly—for what they need to survive and have offspring.
 
-**Observation Four: Some individuals have more offspring than others**
+**Observation Four: Some individuals have more offspring than others**.
 
 Not every creature survives long enough to reproduce, and not every one that does has the same number of offspring. Some individuals are simply more successful at surviving and raising young. This difference in reproductive success isn't random—it's often tied to the traits an individual happens to have.
 
