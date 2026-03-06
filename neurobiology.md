@@ -64,7 +64,7 @@ Energy is scarce. The brain uses about 20% of your body's energy despite being o
 
 To work within these constraints, the brain has evolved remarkably efficient strategies. Instead of representing every detail of the world, it uses **sparse coding** — activating only a small fraction of neurons at any given time to represent what matters most. It also uses **predictive coding**, essentially making educated guesses about what's coming next and only flagging what's unexpected. And it compresses information at each level of processing, keeping the essentials and discarding the rest — much like how a summary captures the key points of a long report.
 
-These efficiency strategies aren't just workarounds; they're deeply woven into how the brain is organized. Many features of brain architecture that might seem puzzling make perfect sense when you realize the brain has been optimized over millions of years of evolution to do the most with limited resources.
+These efficiency strategies aren't just workarounds; they're deeply woven into how the brain is organized. Many features of brain architecture that might seem puzzling make more sense when you realize the brain has been optimized over millions of years of evolution to do the most with limited resources.
 
 ## Putting it all together
 
