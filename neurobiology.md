@@ -40,7 +40,7 @@ Feedback loops within these networks allow the brain to sustain activity, create
 
 The brain isn't born fully formed. It's built through a combination of genetic instructions and real-world experience.
 
-During early development, immature brain cells multiply rapidly, travel to their designated locations, and mature into specific types of neurons. These young neurons then extend long branches to make initial connections with other neurons, guided by chemicals that attract them toward certain destinations and away from others. This process establishes the brain's basic structure — which neurons connect to which, and where.
+During early development, immature brain cells multiply rapidly, travel to their designated locations, and mature into specific types of neurons. These young neurons then extend long branches to make initial connections with other neurons, guided by chemicals that attract them toward certain destinations and away from others. This process builds the brain's basic structure, determining which neurons connect to which and where.
 
 But the real fine-tuning comes from experience. As a developing brain interacts with the world, the connections that get used are strengthened, while those that don't get used are pruned away. There's a famous saying in neuroscience: "neurons that fire together wire together." This activity-based sculpting is why early experiences — hearing language, seeing faces, exploring the world — are so important for brain development. The brain literally shapes itself to match the demands of its environment.
 
