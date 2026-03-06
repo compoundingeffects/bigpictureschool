@@ -16,7 +16,7 @@ Neurobiology is the study of the nervous system — your brain, spinal cord, and
 
 Everything in neurobiology starts with the neuron — a specialized cell built for communication. Your brain contains roughly 86 billion of them, and each one is designed to send and receive signals at remarkable speed.
 
-Think of a neuron like a tiny battery. The outer wall of the cell (called the membrane) carefully controls which electrically charged particles — called ions — can pass in and out. This creates a small voltage difference, similar to the charge stored in a battery. That stored electrical energy is what powers communication throughout the nervous system.
+Think of a neuron like a tiny battery. The outer wall of the cell (called the membrane) carefully controls which electrically charged particles — called ions — can pass in and out. By letting some ions through while keeping others out, the membrane ends up with more positive charge on the outside and more negative charge on the inside — creating a small voltage difference, similar to the charge stored in a battery. That stored electrical energy is what powers communication throughout the nervous system.
 
 When a neuron receives a strong enough signal, it "fires." Tiny gates along the neuron's long, wire-like extension (called the axon) snap open one after another, allowing ions to rush in and out in a rapid chain reaction. This creates an electrical pulse — known as an action potential — that shoots down the length of the neuron. It's an all-or-nothing event, much like flipping a light switch: the neuron either fires completely or doesn't fire at all. There's no halfway.
 
