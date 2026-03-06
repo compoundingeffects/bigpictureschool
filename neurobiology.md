@@ -27,7 +27,7 @@ When an electrical pulse reaches the end of a neuron, it triggers the release of
 
 When an electrical pulse reaches the end of a neuron, it hits a problem: neurons don't physically touch each other. Instead, they communicate across tiny gaps called synapses. The arriving pulse converts from an electrical signal into a chemical signal by triggering the release of chemical messengers called neurotransmitters. These molecules float across the gap and land on the neighboring neuron like a key fitting into a lock. If enough of these chemical keys turn their locks, the next neuron fires its own electrical signal, and the message continues on its way.
 
-What makes this system truly powerful is that these connections can change over time. Synapses that get used frequently become stronger, while those that are rarely used grow weaker. This ability to change — called plasticity — is the foundation of learning and memory. Every time you practice a skill or study new information, you're physically reshaping the connections between your neurons.
+What makes this system truly powerful is that these synapses can change over time. Synapses that get used frequently become stronger, while those that are rarely used grow weaker. This ability to change — called plasticity — is the foundation of learning and memory. Every time you practice a skill or study new information, you're physically reshaping the connections between your neurons.
 
 ## How networks think
 
