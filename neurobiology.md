@@ -28,7 +28,7 @@ These synapses can change over time. Synapses that get used frequently become st
 
 ## How networks think
 
-A single neuron on its own is fairly simple. But when billions of them are wired together, something remarkable happens: the network becomes capable of sophisticated processing that no individual neuron could achieve alone.
+A single neuron on its own is fairly simple. But when billions of them are wired together, something unexpected happens: the network becomes capable of sophisticated processing that no individual neuron could achieve alone.
 
 Each neuron is constantly collecting signals from thousands of other neurons — some saying "fire!" and others saying "don't fire!" The neuron adds up all these competing inputs and, if the "fire" signals win out, it passes its own signal along. This basic process of weighing inputs and making a decision is, at its core, a form of computation.
 
