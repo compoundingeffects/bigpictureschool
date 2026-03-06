@@ -46,7 +46,7 @@ But the real fine-tuning comes from experience. As a developing brain interacts 
 
 ## The big picture: brain systems
 
-At the largest scale, neural circuits are organized into specialized systems, each handling a different job.
+At the largest scale, networks of neurons are organized into specialized systems, each handling a different job.
 
 **Sensory systems** are your brain's input channels. Specialized cells in your eyes, ears, skin, and other organs detect signals from the outside world — light, sound, pressure, temperature — and send that information to the brain through dedicated processing pathways. At each stage, the brain extracts more meaningful features: edges become shapes, shapes become objects, objects become scenes.
 
