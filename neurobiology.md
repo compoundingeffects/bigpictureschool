@@ -70,4 +70,4 @@ These efficiency strategies aren't just workarounds; they're deeply woven into h
 
 From tiny electrical pulses in individual cells, to chemical messages crossing microscopic gaps, to vast networks performing complex computations, to systems that develop and refine themselves through experience — all while operating within tight energy and speed budgets — the brain builds the full range of what we can do. Simple reflexes, like pulling your hand from a hot stove. Complex abilities, like composing music, speaking a language, or reflecting on your own existence. It all emerges from these same fundamental principles, layered and interacting in endlessly intricate ways.
 
-That's the remarkable promise of neurobiology: by understanding the building blocks, we can begin to understand the whole.
+That's the real promise of neurobiology: by understanding the building blocks, we can begin to understand the whole.
