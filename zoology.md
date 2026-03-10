@@ -20,7 +20,7 @@ At the most basic level, an animal is a living thing made up of many cells that 
 
 This need to find and consume food shapes everything about how animals are built and how they function. Animals have specialized cells that form tissues and organs — think of muscles that allow movement or eyes that detect light. These systems work together to help animals sense their surroundings, move toward food or away from danger, and respond quickly to changes in their environment.
 
-Animals also use oxygen to convert the food they eat into usable energy — a process that happens inside every cell of the body. And most animals reproduce sexually, mixing genetic material from two parents. This mixing is important because it generates variety within a species, which helps populations adapt and survive over time.
+Most animals use oxygen to convert the food they eat into usable energy — a process that happens inside every cell of an animal's body. And most animals reproduce sexually, mixing genetic material from two parents. This mixing is important because it generates variety within a species, which helps populations adapt and survive over time.
 
 ## How zoology organizes itself
 
