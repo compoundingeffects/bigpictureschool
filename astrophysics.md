@@ -11,9 +11,7 @@ has_children: true
 
 ## What is astrophysics?
 
-Have you ever looked up at a star and wondered what it actually *is*? Astrophysics is the science that answers that question — and thousands more like it. Simply put, astrophysics is the study of everything in space using the laws of physics. The remarkable thing is that the same basic rules governing a falling apple or a burning candle here on Earth also explain how stars explode, how galaxies form, and how the universe began.
-
-The best way to understand astrophysics is to start from the ground up — building big ideas from small, simple ones.
+Astrophysics is the study of everything in space using the laws of physics. The remarkable thing is that the same basic rules governing a falling apple or a burning candle here on Earth also explain how stars explode, how galaxies form, and how the universe began. The best way to understand astrophysics is to start from the ground up — building big ideas from small, simple ones.
 
 ## The four forces that run everything
 
