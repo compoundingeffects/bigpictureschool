@@ -43,7 +43,7 @@ Here's a fascinating challenge: we can't visit stars or galaxies. So how do scie
 
 The color and intensity of light from a star can reveal its temperature. The way that light from a star is stretched or compressed tells us whether the star is moving toward or away from us. This is called the Doppler effect — the same phenomenon that makes an ambulance siren sound higher-pitched as it approaches and lower-pitched as it drives away. Just as the siren's pitch shifts with motion, the color of a star's light shifts depending on whether the star is moving toward us or away from us.
 
-Even more remarkably, every chemical element absorbs and emits light at very specific colors, creating a kind of unique barcode. By analyzing these "spectral lines" in starlight, scientists can tell exactly what a distant star is made of, even from billions of miles away.
+Even more remarkably, every chemical element interacts with light in its own unique way, absorbing and emitting light at very specific colors. This creates a kind of barcode — a distinctive pattern of bright and dark lines that scientists can read in starlight. By analyzing these patterns, scientists can tell exactly what a distant star is made of, even from trillions of miles away.
 
 ## When space and time bend: Einstein's big ideas
 
