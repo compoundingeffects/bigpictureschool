@@ -17,7 +17,7 @@ Astrophysics is the study of everything in space using the laws of physics. The 
 
 At the most basic level, everything in the universe is controlled by just four fundamental forces. These are gravity, electromagnetism, and two forces that operate inside the cores of atoms — the strong nuclear force and the weak nuclear force. Everything that happens anywhere in the universe, from a raindrop falling to a star collapsing, comes down to these four forces at work.
 
-All the "stuff" in the universe is made of atoms — tiny building blocks that combine to form every substance you've ever seen or touched. One of the most mind-bending ideas in physics is that matter and energy aren't entirely separate things. Einstein famously showed that they're two sides of the same coin. A tiny amount of matter can be converted into an enormous amount of energy — which, as we'll see, is exactly what powers the stars.
+All the "stuff" in the universe is made of atoms — tiny building blocks that combine to form every substance you've ever seen or touched. One of the most mind-bending ideas in physics is that matter and energy aren't entirely separate things. Einstein famously showed that they're two sides of the same coin — a relationship captured in his famous equation, E=mc². This deep connection between matter and energy underlies many of the processes that shape the universe.
 
 ## Gravity: the great organizer of the cosmos
 
