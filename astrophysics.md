@@ -41,7 +41,7 @@ A star is, in a sense, a constant tug-of-war. Gravity is always trying to pull a
 
 Here's a fascinating challenge: we can't visit stars or galaxies. So how do scientists study them? The answer is light — or more precisely, *electromagnetic radiation*, which includes not just visible light but also radio waves, X-rays, infrared, and more. Everything from a distant star reaches us as some form of this radiation, and it carries a surprising amount of information.
 
-The color and intensity of light from a star can reveal its temperature. The way that light is stretched or compressed tells us whether the star is moving toward or away from us — the same reason an ambulance siren sounds higher-pitched as it approaches and lower-pitched as it drives away. This is called the *Doppler effect*.
+The color and intensity of light from a star can reveal its temperature. The way that light from a star is stretched or compressed tells us whether the star is moving toward or away from us. This is called the Doppler effect — the same phenomenon that makes an ambulance siren sound higher-pitched as it approaches and lower-pitched as it drives away. Just as the siren's pitch shifts with motion, the color of a star's light shifts depending on whether the star is moving toward us or away from us.
 
 Even more remarkably, every chemical element absorbs and emits light at very specific colors, creating a kind of unique barcode. By analyzing these "spectral lines" in starlight, scientists can tell exactly what a distant star is made of, even from billions of miles away.
 
