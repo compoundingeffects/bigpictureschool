@@ -29,9 +29,9 @@ Once those structures exist, gravity keeps shaping them — pulling planets into
 
 ## Stars: nuclear furnaces in the sky
 
-So what actually makes a star shine? The answer is nuclear fusion — a process where the cores of small atoms are squeezed together so forcefully that they merge into larger atoms, releasing tremendous energy in the process. Think of it as the universe's ultimate power plant.
+So what actually makes a star shine? A star is an enormous ball of gas — mostly hydrogen — and gravity pulls all of that material inward, creating crushing pressure at its core. That pressure generates intense heat. Under these extreme conditions, the central cores of hydrogen atoms — normally repelling each other like matching ends of two magnets — are forced so close together that a powerful force kicks in, one that is extraordinarily strong but only operates across incredibly tiny distances. At those distances, this force overwhelms the repulsion and locks the hydrogen cores together into a new, larger core — a helium core. This merging process releases enormous amounts of energy — and that energy is what makes stars shine.
 
-Here's why it works: the cores of different atoms are held together with different amounts of energy. Iron atoms have the most stable, tightly-bound cores of all. Atoms lighter than iron (like hydrogen or helium) release energy when they're fused together into heavier atoms. This is exactly what happens inside stars — hydrogen nuclei are constantly smashing together to form helium, and the energy released is what makes stars glow.
+It's worth noting that this process has a limit. Each fusion step — hydrogen into helium, helium into heavier elements — releases energy, but only up to a point. Iron atoms have the most stable, tightly-bound cores of all. Fusing iron doesn't release energy — it consumes it. Fusing iron doesn't release energy — it consumes it. So when a star's core fills with iron, fusion stops. Without the outward push of fusion energy, gravity wins — the star collapses under its own weight, often triggering a catastrophic explosion.
 
 ## The balancing act inside every star
 
