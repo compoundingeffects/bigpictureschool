@@ -23,7 +23,9 @@ All the "stuff" in the universe is made of atoms — tiny building blocks that c
 
 On Earth, we mostly notice gravity as the force that keeps our feet on the ground. But on the scale of space, gravity is the dominant force shaping everything. The rule is simple: any two objects with mass pull toward each other. The heavier and bulkier the objects, and the closer together they are, the stronger the pull.
 
-This one straightforward idea explains a stunning range of things. In space, there are vast clouds of gas and dust — not heavy individually, but spread across such enormous distances that their combined mass adds up to something significant. Gravity slowly pulls this material together, and given enough time — millions of years — that process builds stars, planets, and galaxies. And once those structures exist, gravity keeps shaping them — pulling planets into orbit around stars, binding billions of stars together into galaxies, and organizing those galaxies into the vast cosmic web that gives the universe its large-scale structure. Gravity is the architect of the cosmos.
+This one straightforward idea explains a stunning range of things. In space, there are vast clouds of gas and dust — not heavy individually, but spread across such enormous distances that their combined mass adds up to something significant. Gravity slowly pulls this material together, and given enough time — millions of years — that process builds stars, planets, and galaxies. 
+
+Once those structures exist, gravity keeps shaping them — pulling planets into orbit around stars, binding billions of stars together into galaxies, and organizing those galaxies into the vast cosmic web that gives the universe its large-scale structure. Gravity is the architect of the cosmos.
 
 ## Stars: nuclear furnaces in the sky
 
