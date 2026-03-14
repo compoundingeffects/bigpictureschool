@@ -35,9 +35,7 @@ It's worth noting that this process has a limit. Each fusion step — hydrogen i
 
 ## The balancing act inside every star
 
-A star is, in a sense, a constant tug-of-war. Gravity is always trying to pull all the star's material inward and crush it. At the same time, the energy from nuclear fusion pushes outward. When these two forces are perfectly balanced, the star is stable. Scientists call this balance *hydrostatic equilibrium* — think of it like a balloon where the air pressure inside exactly counters the rubber pushing in from outside.
-
-The laws of thermodynamics — essentially the rules governing how heat moves and behaves — determine how energy travels from the hot core of a star to its outer surface, whether by radiation (like heat from a fire), convection (like boiling water), or conduction (like a metal spoon heating up in hot soup).
+A star is, in a sense, a constant tug-of-war. Gravity is always trying to pull all the star's material inward and crush it. At the same time, the energy from nuclear fusion pushes outward. When these two forces are perfectly balanced, the star is stable. Think of it like a balloon where the air pressure inside exactly counters the rubber pushing in from outside. The energy released by fusion has to travel from the core all the way to the star's surface before it can escape as light — a journey that can take thousands of years.
 
 ## Reading the universe's light
 
