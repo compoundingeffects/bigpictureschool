@@ -77,6 +77,6 @@ There's one more thing worth appreciating about astrophysics: scientists can't r
 
 ## The remarkable conclusion
 
-What makes astrophysics truly awe-inspiring is this: the same basic laws you could study in a high school physics class — gravity, heat, light, atomic behavior — are the exact same laws that determine the life cycle of stars, the structure of galaxies, and the fate of the universe. There's no separate set of "space rules." The cosmos plays by the same rulebook as everything else.
+What makes astrophysics truly awe-inspiring is this: as far as we can observe, the same laws apply everywhere — there appear to be no separate rules for space. The laws that explain a falling apple also explain orbiting planets. The laws that govern particles in a laboratory also govern the cores of stars. The laws discovered and tested here on Earth — gravity, electromagnetism, thermodynamics, quantum mechanics, relativity — turn out to be sufficient to explain an enormous range of cosmic phenomena, from the birth of stars to the large-scale structure of the universe itself.
 
 Astrophysics, at its heart, is the discovery that we are not separate from the universe — we are made of it, governed by it, and capable of understanding it.
