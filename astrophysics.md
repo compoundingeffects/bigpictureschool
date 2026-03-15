@@ -57,11 +57,11 @@ These aren't just theoretical curiosities. In the universe's most extreme enviro
 
 ## The quantum world in space
 
-There is one more set of rules needed to complete the picture — quantum mechanics, the physics of the very smallest particles. Quantum mechanics explains how fusion is possible at all. Recall that atomic nuclei naturally repel each other. Classical physics (the laws of physics as understood before quantum mechanics and relativity) says they could never get close enough to fuse — the repulsion is simply too strong. But quantum mechanics allows particles to slip through barriers that classical physics says are impenetrable — a phenomenon called quantum tunneling.
+There is one more set of rules needed to complete the picture — quantum mechanics, the physics of the very smallest particles. Quantum mechanics explains how fusion is possible at all. Recall that atomic nuclei naturally repel each other. Classical physics (the laws of physics as understood before quantum mechanics and relativity) says they could never get close enough to fuse — the repulsion is simply too strong. But quantum mechanics allows nuclei to slip through the repulsive barrier that would otherwise keep them apart — a phenomenon called quantum tunneling.
 
 Quantum mechanics also becomes important when we ask what happens to that incredibly dense remnant left behind after a star explodes. The answer depends on how massive the original star was. Smaller stars leave behind a white dwarf — an object roughly the size of Earth but containing the mass of an entire star. More massive stars leave behind something even denser — a neutron star, where an object no bigger than a city contains more mass than the Sun. 
 
-What stops these remnants from collapsing further under their own gravity? Quantum mechanics. The particles packed inside these objects — electrons in white dwarfs, neutrons in neutron stars — obey quantum rules that create a powerful resistance to further compression. It is essentially a quantum mechanical force holding these stellar corpses up. If the original star was massive enough, even this quantum resistance is overwhelmed — and the remnant collapses completely into a black hole.
+What stops these remnants from collapsing further under their own gravity? Quantum mechanics. The particles packed inside these objects — electrons in white dwarfs, neutrons in neutron stars — obey quantum rules that create a powerful resistance to further compression. It is a quantum mechanical force holding these stellar corpses up. If the original star was massive enough, even this quantum resistance is overwhelmed — and the remnant collapses completely into a black hole.
 
 ## The big picture: how complexity emerges
 
