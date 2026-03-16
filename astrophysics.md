@@ -17,6 +17,8 @@ Astrophysics is the study of everything in space using the laws of physics. The 
 
 At the most basic level, everything in the universe is controlled by just four fundamental forces. These are gravity, electromagnetism, and two forces that operate inside the cores of atoms — the strong nuclear force and the weak nuclear force. Everything that happens anywhere in the universe, from a raindrop falling to a star collapsing, comes down to these four forces at work.
 
+## Matter and energy
+
 All the "stuff" in the universe is made of atoms — tiny building blocks that combine to form every substance you've ever seen or touched. One of the most mind-bending ideas in physics is that matter and energy aren't entirely separate things. Einstein famously showed that they're two sides of the same coin — a relationship captured in his famous equation, E=mc². This deep connection between matter and energy underlies many of the processes that shape the universe.
 
 ## Gravity: the great organizer of the cosmos
@@ -51,7 +53,11 @@ Even more remarkably, every chemical element interacts with light in its own uni
 
 For most everyday situations, the basic laws of physics describe reality perfectly well. But under truly extreme conditions — objects moving close to the speed of light, or masses so enormous they warp the space around them — those laws become increasingly inaccurate. Albert Einstein's theories of relativity extend our understanding into those extremes, describing how the universe behaves under conditions far beyond anything we encounter in daily life.
 
+## General relativity: gravity as a bending of space and time
+
 Einstein's general theory of relativity reimagines gravity not as a simple pulling force, but as a bending of space and time itself. Imagine a heavy bowling ball placed on a stretched rubber sheet — it creates a dip, and anything rolling nearby will curve toward it. Massive objects do something similar to the fabric of the universe. This idea explains some of the most dramatic phenomena in astrophysics. Black holes are regions where space is so warped that nothing, not even light, can escape. Gravitational waves are ripples in the fabric of space caused by massive collisions between objects like black holes or neutron stars. And general relativity also predicts the expansion of the universe itself — the discovery that the fabric of space has been stretching outward in all directions ever since the universe began, a finding that sits at the heart of our understanding of how the universe came to be.
+
+## Special relativity: the physics of extreme speed
 
 Einstein's special theory of relativity describes what happens when objects move close to the speed of light — and its consequences are deeply strange. Time actually passes more slowly for fast-moving objects. A clock on a fast-moving spacecraft would tick more slowly than an identical clock sitting still on Earth. Mass also increases as objects approach the speed of light, making it harder and harder to accelerate them further — which is why nothing in the universe can ever quite reach the speed of light.
 
@@ -60,6 +66,8 @@ These aren't just theoretical curiosities. In the universe's most extreme enviro
 ## The quantum world in space
 
 There is one more set of rules needed to complete the picture — quantum mechanics, the physics of the very smallest particles. Quantum mechanics explains how fusion is possible at all. Recall that atomic nuclei naturally repel each other. Classical physics (the laws of physics as understood before quantum mechanics and relativity) says they could never get close enough to fuse — the repulsion is simply too strong. But quantum mechanics allows nuclei to slip through the repulsive barrier that would otherwise keep them apart — a phenomenon called quantum tunneling.
+
+## The fate of dead stars
 
 Quantum mechanics also becomes important when we ask what happens to that incredibly dense remnant left behind after a star explodes. The answer depends on how massive the original star was. Smaller stars leave behind a white dwarf — an object roughly the size of Earth but containing the mass of an entire star. More massive stars leave behind something even denser — a neutron star, where an object no bigger than a city contains more mass than the Sun. 
 
