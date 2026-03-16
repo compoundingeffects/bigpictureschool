@@ -37,8 +37,6 @@ So what actually makes a star shine? A star is an enormous ball of gas — mostl
 
 A star is, in a sense, a constant tug-of-war. Gravity is always trying to pull all the star's material inward and crush it. At the same time, the energy from nuclear fusion pushes outward. When these two forces are perfectly balanced, the star is stable. Think of it like a balloon where the air pressure inside exactly counters the rubber pushing in from outside. The energy released by fusion has to travel from the core all the way to the star's surface before it can escape as light — a journey that can take thousands of years.
 
-## The life and death of a star
-
 This balancing act has a limit. Each fusion step — hydrogen into helium, helium into heavier elements — releases energy, but only up to a point. Iron atoms have the most stable, tightly-bound cores of all. Fusing iron doesn't release energy — it consumes it. So when a star's core fills with iron, fusion stops. With nothing pushing back against gravity, the balance is broken. The star collapses under its own weight, triggering a spectacular explosion — the star's outer material is blasted across space, while its core is crushed into an incredibly dense remnant.
 
 ## Reading the universe's light
