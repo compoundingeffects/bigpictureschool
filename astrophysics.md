@@ -11,7 +11,7 @@ has_children: true
 
 ## What is astrophysics?
 
-Astrophysics is the study of everything in space using the laws of physics. The remarkable thing is that the same basic rules governing a falling apple or a burning candle here on Earth also explain how stars explode, how galaxies form, and how the universe began. The best way to understand astrophysics is to start from the ground up — building big ideas from small, simple ones.
+Astrophysics is the study of everything in space using the laws of physics. The remarkable thing is that the same basic rules discovered and tested here on Earth also explain how stars explode, how galaxies form, and how the universe began. The best way to understand astrophysics is to start from the ground up — building big ideas from small, simple ones.
 
 ## The four forces that run everything
 
@@ -23,7 +23,7 @@ All the "stuff" in the universe is made of atoms — tiny building blocks that c
 
 On Earth, we mostly notice gravity as the force that keeps our feet on the ground. But on the scale of space, gravity is the dominant force shaping everything. The rule is simple: any two objects with mass pull toward each other. The heavier and bulkier the objects, and the closer together they are, the stronger the pull.
 
-This one straightforward idea explains a stunning range of things. In space, there are vast clouds of gas and dust — not heavy individually, but spread across such enormous distances that their combined mass adds up to something significant. Gravity slowly pulls this material together, and given enough time — millions of years — that process builds stars, planets, and galaxies. 
+This one straightforward idea explains a stunning range of things. In space, there are vast clouds of gas and dust — not heavy individually, but spread across such enormous distances that their combined mass adds up to something significant. Gravity slowly pulls this material together, and given enough time — millions of years — that process builds stars, planets, and galaxies.
 
 Once those structures exist, gravity keeps shaping them — pulling planets into orbit around stars, binding billions of stars together into galaxies, and organizing those galaxies into the vast cosmic web that gives the universe its large-scale structure. Gravity is the architect of the cosmos.
 
@@ -31,11 +31,13 @@ Once those structures exist, gravity keeps shaping them — pulling planets into
 
 So what actually makes a star shine? A star is an enormous ball of gas — mostly hydrogen — and gravity pulls all of that material inward, creating crushing pressure at its core. That pressure generates intense heat. Under these extreme conditions, the central cores of hydrogen atoms — normally repelling each other like matching ends of two magnets — are forced so close together that a powerful force kicks in, one that is extraordinarily strong but only operates across incredibly tiny distances. At those distances, this force overwhelms the repulsion and locks the hydrogen cores together into a new, larger core — a helium core. This merging process releases enormous amounts of energy — and that energy is what makes stars shine.
 
-It's worth noting that this process has a limit. Each fusion step — hydrogen into helium, helium into heavier elements — releases energy, but only up to a point. Iron atoms have the most stable, tightly-bound cores of all. Fusing iron doesn't release energy — it consumes it. So when a star's core fills with iron, fusion stops. Remember that a star is a constant balancing act between gravity pulling inward and fusion energy pushing outward. When fusion stops, that balance is broken. With nothing pushing back, gravity pulls the star's material inward and the star collapses under its own weight, triggering a spectacular explosion — the star's outer material is blasted across space, while its core is crushed into an incredibly dense remnant.
-
 ## The balancing act inside every star
 
 A star is, in a sense, a constant tug-of-war. Gravity is always trying to pull all the star's material inward and crush it. At the same time, the energy from nuclear fusion pushes outward. When these two forces are perfectly balanced, the star is stable. Think of it like a balloon where the air pressure inside exactly counters the rubber pushing in from outside. The energy released by fusion has to travel from the core all the way to the star's surface before it can escape as light — a journey that can take thousands of years.
+
+## The life and death of a star
+
+This balancing act has a limit. Each fusion step — hydrogen into helium, helium into heavier elements — releases energy, but only up to a point. Iron atoms have the most stable, tightly-bound cores of all. Fusing iron doesn't release energy — it consumes it. So when a star's core fills with iron, fusion stops. With nothing pushing back against gravity, the balance is broken. The star collapses under its own weight, triggering a spectacular explosion — the star's outer material is blasted across space, while its core is crushed into an incredibly dense remnant.
 
 ## Reading the universe's light
 
@@ -77,6 +79,6 @@ There's one more thing worth appreciating about astrophysics: scientists can't r
 
 ## The remarkable conclusion
 
-What makes astrophysics truly awe-inspiring is this: as far as we can observe, the same laws apply everywhere — there appear to be no separate rules for space. The laws that explain a falling apple also explain orbiting planets. The laws that govern particles in a laboratory also govern the cores of stars. The laws discovered and tested here on Earth — gravity, electromagnetism, thermodynamics, quantum mechanics, relativity — turn out to be sufficient to explain an enormous range of cosmic phenomena, from the birth of stars to the large-scale structure of the universe itself.
+What makes astrophysics truly awe-inspiring is this: as far as we can observe, the same laws apply everywhere — there appear to be no separate rules for space. The laws that explain a falling apple also explain orbiting planets. The laws that govern particles in a laboratory also govern the cores of stars. The laws discovered and tested here on Earth — gravity, electromagnetism, thermodynamics, quantum mechanics, relativity — turn out to be sufficient to explain an enormous range of cosmic phenomena, from the birth of stars to the structure of the universe itself.
 
 Astrophysics, at its heart, is the discovery that we are not separate from the universe — we are made of it, governed by it, and capable of understanding it.
