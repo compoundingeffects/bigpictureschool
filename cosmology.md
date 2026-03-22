@@ -4,7 +4,7 @@ title: Cosmology
 parent: Space Science
 grand_parent: Natural Science
 nav_order: 2
-has_children: true
+has_children: false
 ---
 
 # Cosmology
