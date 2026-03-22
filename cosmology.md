@@ -47,7 +47,7 @@ Scientists measure how fast this expansion is happening using a value called Hub
 
 If the universe is expanding now, that means it was smaller in the past. Run the clock backward far enough, and everything in the observable universe was compressed into an unimaginably hot, dense state. About 13.8 billion years ago, this compressed state rapidly expanded — an event we call the Big Bang.
 
-The Big Bang wasn't an explosion in space. It was the beginning of space and time themselves. From that moment, the universe expanded and cooled. Over hundreds of thousands of years, things cooled enough for atoms to form. Eventually, gravity pulled matter together into the first stars, then galaxies, and ultimately the vast cosmic structures we see today.
+The Big Bang wasn't an explosion in space. It was the beginning of space and time themselves. From that moment, the universe expanded and cooled. Over hundreds of thousands of years, things cooled enough for atoms to form. Eventually, gravity — that curvature of space caused by matter — pulled the first clumps of matter together into stars, then galaxies, and ultimately the vast cosmic structures we see today.
 
 The faint background radiation we detect everywhere in space is the leftover heat from this early, hot period — a kind of fossil light from the universe's infancy.
 
