@@ -41,7 +41,7 @@ Applied to the universe as a whole, Einstein's theory helps us understand how al
 
 The redshift we see in distant galaxies reveals something remarkable: the universe is expanding. But here's the key distinction — galaxies aren't flying through space like shrapnel from an explosion. Instead, the space *between* galaxies is stretching, carrying them apart like dots drawn on a balloon that's being inflated.
 
-Scientists measure how fast this expansion is happening using a value called **Hubble's constant**, named after astronomer Edwin Hubble, who helped discover this expansion in the 1920s. This number is one of the most important measurements in cosmology.
+Scientists measure how fast this expansion is happening using a value called Hubble's constant, named after astronomer Edwin Hubble, who helped discover this expansion in the 1920s. This number is one of the most important measurements in cosmology.
 
 ## Tracing the universe back to its beginning
 
