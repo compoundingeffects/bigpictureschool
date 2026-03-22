@@ -55,9 +55,9 @@ The faint background radiation we detect everywhere in space is the leftover hea
 
 Here's where things get strange. If you add up all the ordinary matter in the universe — everything made of atoms, everything we can see or touch — it only accounts for about 5% of the universe's total contents.
 
-The rest? About 27% is **dark matter** — something that has gravity and affects how galaxies move and cluster, but doesn't emit, absorb, or reflect any light. We can't see it directly, but we can detect its gravitational influence, much like you can't see the wind but can watch it bend the trees. Nobody yet knows what dark matter actually is.
+The rest? About 27% is dark matter — something that has gravity and affects how galaxies move and cluster, but doesn't emit, absorb, or reflect any light. We can't see it directly, but we can detect its gravitational influence, much like you can't see the wind but can watch it bend the trees. Nobody yet knows what dark matter actually is.
 
-The remaining 68% is even more mysterious: **dark energy**, a kind of energy spread throughout all of space that appears to be pushing the universe's expansion to accelerate. Rather than the expansion slowing down as gravity pulls things together, the universe is actually speeding up. Dark energy is the leading explanation, but scientists are still working to understand it.
+The remaining 68% is even more mysterious: dark energy, a kind of energy spread throughout all of space that appears to be pushing the universe's expansion to accelerate. Rather than the expansion slowing down as gravity pulls things together, the universe is actually speeding up. Dark energy is the leading explanation, but scientists are still working to understand it.
 
 ## How the universe got its shape
 
