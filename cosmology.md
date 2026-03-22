@@ -57,7 +57,7 @@ Here's where things get strange. If you add up all the ordinary matter in the un
 
 The rest? About 27% is dark matter — something that has gravity and affects how galaxies move and cluster, but doesn't emit, absorb, or reflect any light. We can't see it directly, but we can detect its gravitational influence, much like you can't see the wind but can watch it bend the trees. Nobody yet knows what dark matter actually is.
 
-The remaining 68% is even more mysterious: dark energy, a kind of energy spread throughout all of space that appears to be pushing the universe's expansion to accelerate. Rather than the expansion slowing down as gravity pulls things together, the universe is actually speeding up. Dark energy is the leading explanation, but scientists are still working to understand it.
+The remaining 68% is even more mysterious. You might expect that gravity — all those galaxies pulling on each other — would gradually slow the universe's expansion down. Instead, the expansion is speeding up. Something is pushing outward against gravity, and scientists call it dark energy. It appears to be spread throughout all of space, but beyond that, very little is understood about what it actually is.
 
 ## How the universe got its shape
 
