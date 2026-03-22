@@ -27,7 +27,7 @@ These three observations aren't just interesting curiosities — they're clues t
 
 ## No special address in the universe
 
-One of cosmology's core assumptions is that our place in the universe isn't special. When you look out into deep space in any direction, the universe looks roughly the same — the same density of galaxies, the same large-scale patterns. This idea is called the **cosmological principle**, and it's backed up by observations.
+Cosmology rests on a humbling foundation — the universe has no special address. When you look out into deep space in any direction, the universe looks roughly the same — the same density of galaxies, the same large-scale patterns. This idea is called the **cosmological principle**, and it's backed up by observations.
 
 It's a humbling but important point: Earth isn't at the center of anything. Any observer, anywhere in the universe, would see roughly the same thing we do.
 
