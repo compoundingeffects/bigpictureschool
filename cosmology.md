@@ -61,7 +61,7 @@ The remaining 68% is even more mysterious. You might expect that gravity — all
 
 ## How the universe got its shape
 
-Look at the universe from far enough away, and you'd see an intricate structure — galaxies arranged in vast filaments and sheets, with enormous empty voids between them, like a cosmic sponge or spider web. This "cosmic web" is the result of a remarkably slow and steady process.
+Galaxies aren't scattered randomly through space. They're grouped together in vast interconnected structures, with enormous empty voids between them — an arrangement so striking that it has its own name: the cosmic web.  This cosmic web is the result of a remarkably slow and steady process.
 
 The early universe was almost perfectly uniform, but not quite. Tiny variations in density — some regions ever so slightly more packed with matter than others — gave gravity something to work with. Like a snowball rolling downhill and gathering more snow, denser regions pulled in surrounding matter, growing into galaxies and galaxy clusters. Meanwhile, the regions that started out slightly emptier were gradually stripped of their matter, becoming the vast voids we see today.
 
