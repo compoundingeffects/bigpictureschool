@@ -35,7 +35,7 @@ It's a humbling but foundational point: Earth isn't at the center of anything. A
 
 To understand how the universe behaves at the largest scales, cosmologists rely on Einstein's theory of general relativity. According to Einstein, gravity isn't really a pulling force the way we intuitively think of it. Instead, massive objects like stars and planets warp the fabric of space and time around them — like a heavy bowling ball sitting on a stretched rubber sheet. Other objects then follow the curves in that fabric, which is what we experience as gravity.
 
-At the scale of the entire universe, this framework tells us how matter and energy shape the overall structure and behavior of space itself over time.
+Applied to the universe as a whole, Einstein's theory helps us understand how all of the universe's matter and energy determines its overall shape and how it evolves over time.
 
 ## The universe is expanding — and space is doing the stretching
 
