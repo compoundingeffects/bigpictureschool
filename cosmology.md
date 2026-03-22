@@ -73,4 +73,4 @@ Cosmology combines two main tools: theoretical modeling and observation. On the 
 
 On the theoretical side, physicists build mathematical models — consistent with known physical laws — and test whether they match what we actually observe.
 
-This back-and-forth between theory and observation is how cosmology makes progress. It's a field that asks the biggest possible questions — *Where did everything come from? What is most of the universe made of? What happens in the end?* — and pursues answers with careful measurement, creative thinking, and a deep respect for what the evidence actually shows.
+This back-and-forth between theory and observation is how cosmology makes progress. It's a field that asks the biggest possible questions — *Where did everything come from? What is most of the universe made of? What happens in the end?* — and pursues answers through careful observation, mathematical modeling, and the application of known physical laws.
