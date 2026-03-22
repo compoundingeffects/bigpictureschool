@@ -4,7 +4,7 @@ title: Planetary Science
 parent: Space Science
 grand_parent: Natural Science
 nav_order: 3
-has_children: true
+has_children: false
 ---
 
 # Planetary Science
