@@ -49,7 +49,7 @@ If the universe is expanding now, that means it was smaller in the past. Run the
 
 The Big Bang wasn't an explosion in space. It was the beginning of space and time themselves. From that moment, the universe expanded and cooled. Over hundreds of thousands of years, things cooled enough for atoms to form. Eventually, gravity — that curvature of space caused by matter — pulled the first clumps of matter together into stars, then galaxies, and ultimately the vast cosmic structures we see today.
 
-The faint background radiation we detect everywhere in space is the leftover heat from this early, hot period — a kind of fossil light from the universe's infancy.
+The faint background radiation we detect everywhere in space is the leftover heat from this early, hot period — a kind of relic from the universe's infancy.
 
 ## The mystery ingredients: dark matter and dark energy
 
