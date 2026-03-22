@@ -19,7 +19,7 @@ Good science starts with observations that need explaining, and cosmology has so
 
 First, the night sky is dark. That might sound obvious, but it's actually a puzzle. If the universe were infinitely large and filled with stars in all directions, every line of sight would eventually land on a star, and the whole sky would blaze with light. The fact that it doesn't tells us something important about the universe's age and size.
 
-Second, light from distant galaxies is "stretched." When scientists examine the light coming from faraway galaxies, they notice it's shifted toward the red end of the color spectrum. This is similar to how a siren sounds lower-pitched as an ambulance drives away from you — the waves get stretched out. With light from galaxies, this "redshift" tells us those galaxies are moving away from us. And crucially, the farther away a galaxy is, the more its light is shifted — meaning things farther away are receding faster.
+Second, distant galaxies are moving away from us — and we can tell by their color. You've probably noticed how an ambulance siren sounds lower-pitched as it drives away. Light works the same way: as a galaxy moves away from us, its light gets stretched toward the red end of the spectrum. The greater the distance, the more the stretching — meaning the farthest galaxies are receding the fastest.
 
 Third, there's a faint glow of heat filling all of space. Everywhere you point a sensitive detector, you pick up an incredibly faint warmth — just barely above absolute zero (the coldest temperature physically possible). This "cosmic microwave background radiation" is essentially the afterglow of the universe's fiery birth, still lingering 13.8 billion years later.
 
