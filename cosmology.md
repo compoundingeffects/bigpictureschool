@@ -63,9 +63,9 @@ The remaining 68% is even more mysterious: **dark energy**, a kind of energy spr
 
 Look at the universe from far enough away, and you'd see an intricate structure — galaxies arranged in vast filaments and sheets, with enormous empty voids between them, like a cosmic sponge or spider web. This "cosmic web" is the result of a remarkably slow and steady process.
 
-In the early universe, matter wasn't perfectly smooth. There were tiny, random clumps — regions just slightly denser than others. Over billions of years, gravity amplified these differences. Denser regions attracted more matter, eventually forming galaxies and galaxy clusters. Emptier regions grew emptier still, becoming the giant voids we observe today.
+The early universe was almost perfectly uniform, but not quite. Tiny variations in density — some regions ever so slightly more packed with matter than others — gave gravity something to work with. Like a snowball rolling downhill and gathering more snow, denser regions pulled in surrounding matter, growing into galaxies and galaxy clusters. Meanwhile, the regions that started out slightly emptier were gradually stripped of their matter, becoming the vast voids we see today.
 
-The faint afterglow radiation we detect from across space actually contains a "snapshot" of those early clumps — tiny temperature variations that record what the universe looked like just after the Big Bang.
+The faint afterglow radiation we detect from across space actually contains a "snapshot" of those original density variations — subtle differences in temperature that record what the universe looked like before gravity had done any of its work.
 
 ## How cosmologists work
 
