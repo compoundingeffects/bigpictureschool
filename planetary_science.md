@@ -35,7 +35,9 @@ This layered structure matters more than you might think. Deep inside Earth and 
 
 ## How planets are born
 
-Planet formation unfolds over millions of years — beginning quietly, but growing increasingly turbulent as it progresses. It begins when a cloud of gas and dust — like the one our own solar system formed from — is pulled inward by the combined gravitational attraction of all its particles, slowly collapsing into a denser and denser mass. As the cloud collapses, it begins to spin. Just as a spinning skirt flares outward at the middle, the spinning cloud flattens into a disk shape. Most of the material falls toward the center, where the gravitational pull is strongest, and the pressure and heat that build up there eventually ignite a star. This swirling disk of material surrounding the young star is where planets are born.
+Planet formation unfolds over millions of years — beginning quietly, but growing increasingly turbulent as it progresses. It begins when a cloud of gas and dust — like the one our own solar system formed from — is pulled inward by the combined gravitational attraction of all its particles, slowly collapsing into a denser and denser mass. 
+
+As the cloud collapses, it begins to spin. Just as a spinning skirt flares outward at the middle, the spinning cloud flattens into a disk shape. Most of the material falls toward the center, where the gravitational pull is strongest, and the pressure and heat that build up there eventually ignite a star. This swirling disk of material surrounding the young star is where planets are born.
 
 Inside the disk, all the particles are orbiting the young star at slightly different speeds and paths, so they constantly run into each other — and when they do, they stick together, the way dust particles naturally cling to each other to form dust bunnies under furniture. Over millions of years, these tiny clumps grow into pebbles, then boulders, then mountain-sized rocks called planetesimals (essentially the building blocks of planets). Once these planetesimals got large enough, their own gravity helped them pull in even more material, gradually snowballing into full-sized planets.
 
