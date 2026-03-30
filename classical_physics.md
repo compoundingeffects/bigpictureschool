@@ -23,29 +23,29 @@ Another key idea is that space and time are absolute. In the classical view, spa
 
 Isaac Newton, the scientist who famously watched an apple fall from a tree, came up with three laws that explain how and why things move. These laws are the backbone of classical physics.
 
-**The First Law** is about inertia, which describes an object's tendency to keep doing what it's already doing. Something at rest wants to stay at rest, and something moving in a straight line wants to keep moving in that straight line—unless a force pushes or pulls it in a different direction. This law tells us that force isn't what keeps things moving; it's what *changes* their motion. Your car doesn't need a force to keep rolling on a flat road (ignoring friction)—it only needs force to speed up, slow down, or turn.
+The First Law is about inertia, which describes an object's tendency to keep doing what it's already doing. Something at rest wants to stay at rest, and something moving in a straight line wants to keep moving in that straight line—unless a force pushes or pulls it in a different direction. This law tells us that force isn't what keeps things moving; it's what *changes* their motion. Your car doesn't need a force to keep rolling on a flat road (ignoring friction)—it only needs force to speed up, slow down, or turn.
 
-**The Second Law** gives us the famous equation F = ma, which stands for force equals mass times acceleration. In plain English: the more force you apply to something, the more it speeds up (accelerates). But here's the catch—heavier objects (those with more mass) are harder to accelerate. It takes more force to get a bowling ball rolling than a tennis ball, even if you want them to speed up at the same rate.
+The Second Law gives us the famous equation F = ma, which stands for force equals mass times acceleration. In plain English: the more force you apply to something, the more it speeds up (accelerates). But here's the catch—heavier objects (those with more mass) are harder to accelerate. It takes more force to get a bowling ball rolling than a tennis ball, even if you want them to speed up at the same rate.
 
-**The Third Law** says that every action has an equal and opposite reaction. When you push against a wall, the wall pushes back against you with exactly the same force. When a rocket shoots exhaust gases downward, those gases push the rocket upward with equal force. This law explains why momentum (the combination of mass and velocity) is conserved when objects interact.
+The Third Law says that every action has an equal and opposite reaction. When you push against a wall, the wall pushes back against you with exactly the same force. When a rocket shoots exhaust gases downward, those gases push the rocket upward with equal force. This law explains why momentum (the combination of mass and velocity) is conserved when objects interact.
 
 ## Energy: the currency of physics
 
 Energy is one of the most important concepts in all of physics. It comes in different forms, but the total amount of energy never changes—it just transforms from one type to another.
 
-**Kinetic energy** is the energy something has because it's moving. A car speeding down the highway has kinetic energy; a parked car doesn't. The faster something moves and the heavier it is, the more kinetic energy it has.
+Kinetic energy is the energy something has because it's moving. A car speeding down the highway has kinetic energy; a parked car doesn't. The faster something moves and the heavier it is, the more kinetic energy it has.
 
-**Potential energy** is stored energy based on position. When you lift a book off the floor, you're giving it gravitational potential energy. Hold it higher, and it has more. When you let go, that potential energy converts to kinetic energy as the book falls.
+Potential energy is stored energy based on position. When you lift a book off the floor, you're giving it gravitational potential energy. Hold it higher, and it has more. When you let go, that potential energy converts to kinetic energy as the book falls.
 
-The **work-energy principle** connects these ideas. When you apply a force to move something over a distance (which physicists call "doing work"), you change its kinetic energy. Push a stalled car to get it rolling, and you're converting your muscular energy into the car's kinetic energy through the work you do.
+The work-energy principle connects these ideas. When you apply a force to move something over a distance (which physicists call "doing work"), you change its kinetic energy. Push a stalled car to get it rolling, and you're converting your muscular energy into the car's kinetic energy through the work you do.
 
 ## Forces at a distance: understanding fields
 
 One of the strangest things in classical physics is that objects can influence each other without touching. This happens through something called fields.
 
-A **gravitational field** surrounds anything with mass. The Earth creates a gravitational field that pulls objects toward it—that's why things fall down. The more massive an object, the stronger its gravitational field. Also, the farther you are from an object, the weaker its gravitational pull becomes.
+A gravitational field surrounds anything with mass. The Earth creates a gravitational field that pulls objects toward it—that's why things fall down. The more massive an object, the stronger its gravitational field. Also, the farther you are from an object, the weaker its gravitational pull becomes.
 
-**Electromagnetic fields** work similarly but involve electrically charged particles instead of mass. These fields can both attract and repel, unlike gravity which only attracts. Magnets, static electricity, and even light are all examples of electromagnetic phenomena.
+Electromagnetic fields work similarly but involve electrically charged particles instead of mass. These fields can both attract and repel, unlike gravity which only attracts. Magnets, static electricity, and even light are all examples of electromagnetic phenomena.
 
 These fields aren't just abstract concepts—they carry real energy and can travel through space as waves. Light, for instance, is a wave in the electromagnetic field that travels at, well, the speed of light.
 
@@ -53,11 +53,11 @@ These fields aren't just abstract concepts—they carry real energy and can trav
 
 When we zoom in to see what's really happening with temperature and heat, we discover it's all about the random motion of countless tiny particles (atoms and molecules).
 
-**Temperature** is essentially a measure of how fast these particles are jiggling around on average. In hot water, the molecules are vibrating and bouncing around faster than in cold water.
+Temperature is essentially a measure of how fast these particles are jiggling around on average. In hot water, the molecules are vibrating and bouncing around faster than in cold water.
 
-**Pressure** comes from all these particles constantly banging against the walls of their container—like millions of tiny basketballs hitting the inside of a balloon.
+Pressure comes from all these particles constantly banging against the walls of their container—like millions of tiny basketballs hitting the inside of a balloon.
 
-**Heat** is what we call energy when it moves from a hotter region to a cooler one. When you hold a cold glass, heat flows from your warm hand to the cold glass.
+Heat is what we call energy when it moves from a hotter region to a cooler one. When you hold a cold glass, heat flows from your warm hand to the cold glass.
 
 The laws of thermodynamics set the rules for how energy and heat behave. The most famous is the second law, which says that disorder (called entropy) tends to increase over time. That's why your room gets messier if you don't clean it, why ice cubes melt in warm drinks, and why perpetual motion machines are impossible.
 
