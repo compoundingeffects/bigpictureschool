@@ -55,7 +55,7 @@ Like a blanket that traps heat around your body, certain gases in the atmosphere
 
 ## How we study planets
 
-Planetary scientists use several tools to explore other worlds. Telescopes allow us to observe distant planets from Earth. Remote sensing — detecting signals from far away, like infrared light or radar — lets scientists figure out what a planet's surface and atmosphere are made of without actually visiting it. Meteorites, which are rocks from space that land on Earth, serve as free samples from asteroids and even Mars, giving us direct chemical information about other bodies in the solar system.
+Planetary scientists use several tools to explore other worlds. Telescopes allow us to observe distant planets from Earth, revealing details about their size, movement, and appearance. Remote sensing works by detecting different types of light and energy given off or reflected by a planet — infrared light, radar, and others — which reveal information about what a planet's surface and atmosphere are made of without actually visiting it. Meteorites — rocks from space that land on Earth, sometimes blasted loose from asteroids or even Mars by ancient collisions — serve as free samples, telling us directly what other bodies in the solar system are made of.
 
 But the most detailed information comes from spacecraft missions. Robots and probes have visited every planet in our solar system, as well as moons, asteroids, and comets. They've sent back up-close images, chemical measurements, and in some cases, have drilled into the surface or landed to take physical samples. These missions have confirmed many of our theories about how planets work and revealed surprising new discoveries.
 
