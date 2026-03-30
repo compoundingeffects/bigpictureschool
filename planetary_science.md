@@ -71,6 +71,6 @@ Studying planetary atmospheres also deepens our understanding of climate science
 
 ## A universe of worlds
 
-In the end, planetary science reveals something profound: the universe runs on a relatively small set of physical rules, but those rules produce an astonishing variety of worlds. Rocky planets, ice giants, worlds with oceans of lava, moons with underground seas — all of them arise from the same basic ingredients and processes, just mixed in different proportions and environments.
+In the end, planetary science reveals something profound: the universe runs on a relatively small set of physical rules, but those rules produce an astonishing variety of worlds. Rocky planets, ice giants, worlds with oceans of lava, moons with underground seas — all of them arise from the same basic materials and processes, just mixed in different proportions and environments.
 
 By studying planets, we're not just learning about faraway places. We're uncovering the deep logic of how the universe builds worlds — and perhaps, how it builds the conditions for life.
