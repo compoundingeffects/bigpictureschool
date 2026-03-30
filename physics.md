@@ -39,10 +39,10 @@ These unbreakable rules tell us something profound: certain aspects of the unive
 
 Things don't just start moving on their own—something has to push or pull them. These pushes and pulls are what we call forces. Through careful study, physicists have found that every single interaction in the universe comes down to just four fundamental forces:
 
-- **Gravity** pulls objects with mass toward each other—it keeps your feet on the ground and Earth orbiting the Sun.
-- **Electromagnetism** is responsible for electricity, magnets, light, and the forces that hold molecules together.
-- **The strong nuclear force** glues the centers of atoms together.
-- **The weak nuclear force** is involved in certain types of radioactive decay.
+- Gravity pulls objects with mass toward each other—it keeps your feet on the ground and Earth orbiting the Sun.
+- Electromagnetism is responsible for electricity, magnets, light, and the forces that hold molecules together.
+- The strong nuclear force glues the centers of atoms together.
+- The weak nuclear force is involved in certain types of radioactive decay.
 
 That's it. Everything that happens—from galaxies colliding to proteins folding in your cells—comes down to these four forces.
 
