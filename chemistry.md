@@ -25,11 +25,11 @@ Electrons arrange themselves in layers around the nucleus, kind of like shells. 
 
 Atoms connect to each other by sharing, swapping, or pooling their electrons. These connections are called chemical bonds, and there are three main types.
 
-**Ionic bonds** happen when one atom gives up electrons completely to another atom. This creates two charged particles (called ions)—one positive and one negative—that attract each other like magnets. Table salt is a classic example: sodium gives an electron to chlorine, and they stick together through this electrical attraction.
+Ionic bonds happen when one atom gives up electrons completely to another atom. This creates two charged particles (called ions)—one positive and one negative—that attract each other like magnets. Table salt is a classic example: sodium gives an electron to chlorine, and they stick together through this electrical attraction.
 
-**Covalent bonds** form when atoms share electrons, kind of like roommates sharing groceries. Water molecules form this way: each hydrogen atom shares electrons with an oxygen atom, and everyone gets a more stable arrangement.
+Covalent bonds form when atoms share electrons, kind of like roommates sharing groceries. Water molecules form this way: each hydrogen atom shares electrons with an oxygen atom, and everyone gets a more stable arrangement.
 
-**Metallic bonds** are unique to metals. The electrons aren't tied to specific atoms but float freely among all the metal atoms, like a shared pool that everyone can access. This explains why metals conduct electricity so well—those free-floating electrons can carry electrical current.
+Metallic bonds are unique to metals. The electrons aren't tied to specific atoms but float freely among all the metal atoms, like a shared pool that everyone can access. This explains why metals conduct electricity so well—those free-floating electrons can carry electrical current.
 
 These different bonding styles explain why certain elements combine readily while others don't, and why materials have the properties they do.
 
