@@ -30,10 +30,10 @@ Here's where it gets interesting: Albert Einstein figured out that space and tim
 
 Forces are simply pushes or pulls between objects that cause things to move or change shape. Scientists have discovered that every force in the universe comes down to just four fundamental types:
 
-- **Gravity** affects everything that has mass. It's why you stay on the ground and why planets orbit the sun.
-- **Electromagnetic force** works between things with electric charge. It's responsible for light, magnets, and the chemical bonds that hold molecules together.
-- **Strong nuclear force** holds the centers of atoms together. Without it, atoms would fly apart.
-- **Weak nuclear force** causes certain types of atoms to break down through radioactivity.
+- Gravity affects everything that has mass. It's why you stay on the ground and why planets orbit the sun.
+- Electromagnetic force works between things with electric charge. It's responsible for light, magnets, and the chemical bonds that hold molecules together.
+- Strong nuclear force holds the centers of atoms together. Without it, atoms would fly apart.
+- Weak nuclear force causes certain types of atoms to break down through radioactivity.
 
 Isaac Newton figured out three simple laws that describe how objects respond to forces. In plain language: things sitting still stay still unless something pushes them; the bigger the push and the lighter the object, the faster it accelerates; and when you push something, it pushes back with equal strength.
 
