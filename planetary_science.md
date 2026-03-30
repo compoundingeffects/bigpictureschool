@@ -67,7 +67,7 @@ Planetary science isn't just about satisfying our curiosity — though that alon
 
 Understanding how planets form and evolve helps us figure out which ones might be capable of hosting life, both in our solar system and around distant stars (planets orbiting other stars are called exoplanets). The same physical and chemical processes that shaped Earth operate throughout the universe, so studying other planets helps us understand what makes our own planet so special — and what conditions might allow life to exist elsewhere.
 
-Studying planetary atmospheres also deepens our understanding of climate science here on Earth. And tracking asteroids and comets — objects that could potentially collide with Earth — depends on understanding the very processes that have shaped planetary surfaces for billions of years.
+Studying planetary atmospheres also deepens our understanding of climate science here on Earth. And tracking asteroids and comets — objects that could potentially collide with Earth — depends on understanding the very processes that have shaped planets for billions of years.
 
 ## A universe of worlds
 
