@@ -35,23 +35,23 @@ Interdisciplinary fields have some common features that set them apart from trad
 
 When knowledge from different fields gets integrated, it happens through several processes.
 
-**Combining ideas** means taking concepts from different subjects and weaving them into new frameworks for understanding. It's like creating a new theory that draws from multiple sources.
+Combining ideas means taking concepts from different subjects and weaving them into new frameworks for understanding. It's like creating a new theory that draws from multiple sources.
 
-**Mixing methods** involves taking research approaches from various fields and adapting them to work together. A researcher might use chemistry lab techniques alongside ecological field observations.
+Mixing methods involves taking research approaches from various fields and adapting them to work together. A researcher might use chemistry lab techniques alongside ecological field observations.
 
-**Checking findings across fields** ensures that discoveries make sense from multiple perspectives. If something is true, it should hold up whether you're looking at it through a biological lens or a chemical one.
+Checking findings across fields ensures that discoveries make sense from multiple perspectives. If something is true, it should hold up whether you're looking at it through a biological lens or a chemical one.
 
-**Team problem-solving** brings together experts with different backgrounds to work on shared questions. Think of it like an all-star team where each player brings unique strengths.
+Team problem-solving brings together experts with different backgrounds to work on shared questions. Think of it like an all-star team where each player brings unique strengths.
 
 ## Real-world examples
 
-**Biochemistry** merges chemistry (the study of molecules and reactions) with biology (the study of living things). This combination lets us understand how life works at the tiniest scales—how proteins fold, how cells generate energy, and how DNA stores information.
+Biochemistry merges chemistry (the study of molecules and reactions) with biology (the study of living things). This combination lets us understand how life works at the tiniest scales—how proteins fold, how cells generate energy, and how DNA stores information.
 
-**Cognitive science** is an even bigger mix. It combines psychology (how minds work), neuroscience (how brains work), computer science (how to build intelligent machines), philosophy (what consciousness means), and linguistics (how language works). Together, these perspectives help us understand thinking and intelligence.
+Cognitive science is an even bigger mix. It combines psychology (how minds work), neuroscience (how brains work), computer science (how to build intelligent machines), philosophy (what consciousness means), and linguistics (how language works). Together, these perspectives help us understand thinking and intelligence.
 
-**Environmental science** pulls together geology, chemistry, biology, physics, and even social sciences to address ecological challenges. You can't understand environmental problems without knowing both the natural science and how human societies interact with nature.
+Environmental science pulls together geology, chemistry, biology, physics, and even social sciences to address ecological challenges. You can't understand environmental problems without knowing both the natural science and how human societies interact with nature.
 
-**Political economy** examines how political systems and economic systems affect each other. Pure economics might study market behavior, but political economy recognizes that government policies and power structures shape those markets.
+Political economy examines how political systems and economic systems affect each other. Pure economics might study market behavior, but political economy recognizes that government policies and power structures shape those markets.
 
 ## How these fields get started
 
@@ -67,9 +67,9 @@ Finally, the field matures. It gets its own professional organizations, academic
 
 ## The pros and cons
 
-**The advantages are significant.** Interdisciplinary approaches can tackle complex real-world problems that single subjects can't handle. They spark innovation by bringing together people who think differently. They create more complete solutions because they consider multiple angles.
+The advantages are significant. Interdisciplinary approaches can tackle complex real-world problems that single subjects can't handle. They spark innovation by bringing together people who think differently. They create more complete solutions because they consider multiple angles.
 
-**But there are challenges too.** Different fields sometimes have conflicting approaches or underlying assumptions. Interdisciplinary researchers need broader training, which takes more time and effort. Traditional university structures, built around single departments, sometimes struggle to accommodate these hybrid fields. And the integration process itself—bringing together different ways of thinking—can be intellectually difficult.
+But there are challenges too. Different fields sometimes have conflicting approaches or underlying assumptions. Interdisciplinary researchers need broader training, which takes more time and effort. Traditional university structures, built around single departments, sometimes struggle to accommodate these hybrid fields. And the integration process itself—bringing together different ways of thinking—can be intellectually difficult.
 
 ## Why this matters now more than ever
 
