@@ -59,7 +59,7 @@ Planetary scientists use several tools to explore other worlds. Telescopes allow
 
 But the most detailed information comes from spacecraft missions. Robots and probes have visited every planet in our solar system, as well as moons, asteroids, and comets. They've sent back up-close images, chemical measurements, and in some cases, have drilled into the surface or landed to take physical samples. These missions have confirmed many of our theories about how planets work and revealed surprising new discoveries.
 
-Scientists also use a strategy called comparative planetology — essentially, studying planets side by side to understand what makes each one different. Why does Venus, so similar in size to Earth, have a crushing, toxic atmosphere? Why does Mars have towering volcanoes but no active plate tectonics? Comparing planets helps answer these questions.
+Scientists also use a strategy called comparative planetology — essentially, studying planets side by side to understand what makes each one different. Why does Venus, so similar in size to Earth, have a crushing, toxic atmosphere? Why does Mars have towering volcanoes but no active plate tectonics — the process by which a planet's crust slowly shifts and moves, driving earthquakes and volcanic activity? Comparing planets helps answer these questions.
 
 ## Why it matters
 
