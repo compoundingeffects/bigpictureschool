@@ -20,11 +20,11 @@ But this energy doesn't arrive evenly across the planet. Because Earth is round,
 
 ## The atmosphere and the greenhouse effect
 
-Earth is wrapped in a thin layer of air — the atmosphere — and its makeup matters enormously for climate. Most of the atmosphere is nitrogen and oxygen, which don't trap heat — they let it pass straight through. But a small collection of other gases — including water vapor, carbon dioxide, and methane — act very differently. These gases trap heat that would otherwise escape into space, warming the planet in the process. This is called the **greenhouse effect**.
+Earth is wrapped in a thin layer of air — the atmosphere — and its makeup matters enormously for climate. Most of the atmosphere is nitrogen and oxygen, which don't trap heat — they let it pass straight through. But a small collection of other gases — including water vapor, carbon dioxide, and methane — act very differently. These gases trap heat that would otherwise escape into space, warming the planet in the process. This is called the greenhouse effect.
 
 Think of it like a blanket wrapped around the Earth. The blanket doesn't create heat — it just slows down how quickly heat escapes. Without this natural greenhouse effect, Earth's surface would be roughly 33°C (about 60°F) colder than it is today — far too cold to support most life as we know it.
 
-Water vapor is actually the most abundant of these heat-trapping gases, and it plays a fascinating role. Warmer air holds more moisture, and more moisture in the air means more heat is trapped, which can warm the air even further. This kind of chain reaction — where one change triggers more of the same — is called a **feedback loop**. In this case, it's a self-reinforcing cycle that can amplify warming.
+Water vapor is actually the most abundant of these heat-trapping gases, and it plays a fascinating role. Warmer air holds more moisture, and more moisture in the air means more heat is trapped, which can warm the air even further. This kind of chain reaction — where one change triggers more of the same — is called a feedback loop. In this case, it's a self-reinforcing cycle that can amplify warming.
 
 ## Circulation patterns: moving heat around the globe
 
