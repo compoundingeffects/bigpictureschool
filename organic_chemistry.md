@@ -33,12 +33,12 @@ The shape around each carbon atom depends on what kind of bonds it's making. Whe
 
 ## The power of functional groups
 
-Carbon forms the skeleton of organic molecules, but specific clusters of atoms — called **functional groups** — give each molecule its personality. Think of functional groups as tools on a Swiss Army knife: each one does something specific and predictable.
+Carbon forms the skeleton of organic molecules, but specific clusters of atoms — called functional groups — give each molecule its personality. Think of functional groups as tools on a Swiss Army knife: each one does something specific and predictable.
 
 For example:
-- **Alcohols** contain an oxygen-hydrogen pair attached to the carbon framework. Ethanol — the alcohol in beer and wine — is a familiar example.
-- **Carboxylic acids** are found in everyday substances like vinegar and aspirin.
-- **Amines** contain nitrogen and show up in many biological molecules, including the building blocks of proteins.
+- Alcohols contain an oxygen-hydrogen pair attached to the carbon framework. Ethanol — the alcohol in beer and wine — is a familiar example.
+- Carboxylic acids are found in everyday substances like vinegar and aspirin.
+- Amines contain nitrogen and show up in many biological molecules, including the building blocks of proteins.
 
 Each functional group behaves in predictable ways based on how its electrons are arranged. Take a carbon atom that's double-bonded to oxygen: the oxygen pulls electrons toward itself, leaving the carbon slightly "hungry" for more electrons. This makes that carbon a natural target for other molecules that have electrons to spare. Understanding these patterns lets chemists predict how molecules will react — like knowing that certain puzzle pieces will always fit together in certain ways.
 
@@ -48,13 +48,13 @@ Organic reactions follow two key principles: *whether* a reaction can happen, an
 
 The first question is about energy. Is the end result more stable than the starting point? The second is about the journey — how much energy does it take to get the reaction going?
 
-Imagine pushing a boulder over a hill. Whether the boulder ends up lower than where it started tells you if the whole process makes energetic sense. But you still need enough muscle to push it over the top before it can roll down the other side. That initial push is what scientists call **activation energy** — the energy needed to kick-start a reaction.
+Imagine pushing a boulder over a hill. Whether the boulder ends up lower than where it started tells you if the whole process makes energetic sense. But you still need enough muscle to push it over the top before it can roll down the other side. That initial push is what scientists call activation energy — the energy needed to kick-start a reaction.
 
 Chemists trace the step-by-step pathways that reactions follow, watching how electrons move from one atom to another. These movements — like players passing a ball in a game — determine exactly how bonds break and form. Understanding this gives chemists a logical system for predicting what will happen when chemicals mix, and for designing ways to build entirely new molecules.
 
 ## Molecular recognition: the lock-and-key principle
 
-One of the most fascinating things about organic molecules is how precisely they interact with each other. The right match depends on shape, electron distribution, and specific weak attractions between molecules (such as **hydrogen bonds** — gentle tugs between certain atoms that, while individually weak, are absolutely essential for life).
+One of the most fascinating things about organic molecules is how precisely they interact with each other. The right match depends on shape, electron distribution, and specific weak attractions between molecules (such as hydrogen bonds — gentle tugs between certain atoms that, while individually weak, are absolutely essential for life).
 
 These principles of molecular recognition explain how organic compounds work inside living things. Enzymes — the proteins that speed up chemical reactions in your body — are highly selective about which molecules they'll work with. Drugs are designed to find and bind to very specific targets inside the body. It's like a lock and key: only the right key, with the right shape and grooves, will open a specific lock. Molecules work the same way.
 
