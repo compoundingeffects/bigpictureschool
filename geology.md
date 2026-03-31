@@ -42,15 +42,15 @@ Perhaps the most mind-bending concept in geology is the sheer scale of time invo
 
 But deep time is what makes geology work. Many geological processes are incredibly slow — a mountain range might take tens of millions of years to rise, and just as long to wear away. Without vast stretches of time, none of the dramatic landscapes we see today would be possible.
 
-A key insight that unlocks Earth's history is this: **the same natural processes happening today have always been happening.** Water has always carved valleys. Volcanoes have always erupted. This idea lets geologists use what they observe in the present to make sense of the past. Combined with our understanding of how radioactive elements break down at predictable rates, this gives scientists a reliable "clock" for dating rocks and events going back billions of years.
+A key insight that unlocks Earth's history is this: the same natural processes happening today have always been happening. Water has always carved valleys. Volcanoes have always erupted. This idea lets geologists use what they observe in the present to make sense of the past. Combined with our understanding of how radioactive elements break down at predictable rates, this gives scientists a reliable "clock" for dating rocks and events going back billions of years.
 
 ## What powers it all
 
 Every major geological process can be traced back to an energy source.
 
-- **Heat from Earth's interior** drives plate tectonics — the slow movement of the giant slabs (called plates) that make up Earth's outer shell. New seafloor is constantly being created where plates pull apart (at underwater mountain ranges in the middle of the ocean), and old seafloor is pulled back down into the Earth where plates collide.
-- **Gravity** pulls rocks, soil, and water downhill, driving erosion and landslides.
-- **Chemical energy** drives weathering — the way rocks slowly break down when exposed to air, water, and living organisms.
+- Heat from Earth's interior drives plate tectonics — the slow movement of the giant slabs (called plates) that make up Earth's outer shell. New seafloor is constantly being created where plates pull apart (at underwater mountain ranges in the middle of the ocean), and old seafloor is pulled back down into the Earth where plates collide.
+- Gravity pulls rocks, soil, and water downhill, driving erosion and landslides.
+- Chemical energy drives weathering — the way rocks slowly break down when exposed to air, water, and living organisms.
 
 These energy sources aren't random. They're predictable and measurable, which is what allows geologists to build reliable explanations for how landscapes form and change.
 
