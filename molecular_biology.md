@@ -32,9 +32,9 @@ Living things depend on four main types of molecules, each with specific jobs.
 
 One of the most important ideas in molecular biology is how genetic information — the instructions stored in DNA — actually gets used. The process works like a chain:
 
-1. **DNA** holds the master blueprint, safely stored in the cell.
-2. **RNA** makes a working copy of the relevant instructions and carries them to the cell's protein-making machinery.
-3. **Proteins** are built based on those instructions and go off to do their jobs.
+1. DNA holds the master blueprint, safely stored in the cell.
+2. RNA makes a working copy of the relevant instructions and carries them to the cell's protein-making machinery.
+3. Proteins are built based on those instructions and go off to do their jobs.
 
 This one-way flow — from DNA to RNA to protein — is sometimes called the "central dogma" of molecular biology, and it explains how the genetic code stored in your DNA actually shapes everything your body does.
 
@@ -42,11 +42,11 @@ This one-way flow — from DNA to RNA to protein — is sometimes called the "ce
 
 Every biological process — digesting food, fighting infection, growing — comes down to molecules interacting with each other. These interactions follow the same basic rules of physics and chemistry that govern everything else in the universe. A few examples:
 
-- **Enzymes** are proteins that act like molecular tools, speeding up chemical reactions that would otherwise happen too slowly to sustain life. They work a bit like a lock and key — each enzyme is shaped to fit a specific molecule and help it react in a particular way.
+- Enzymes are proteins that act like molecular tools, speeding up chemical reactions that would otherwise happen too slowly to sustain life. They work a bit like a lock and key — each enzyme is shaped to fit a specific molecule and help it react in a particular way.
 
-- **Cell membranes** control what gets in and out of cells, allowing certain molecules to pass through while blocking others. This selective gating is essential for keeping the cell's internal environment stable.
+- Cell membranes control what gets in and out of cells, allowing certain molecules to pass through while blocking others. This selective gating is essential for keeping the cell's internal environment stable.
 
-- **Gene regulation** is the process by which cells "decide" which instructions to follow at any given moment. Certain proteins can bind to DNA and either switch genes on or off — like a light switch controlling which parts of the blueprint are being used.
+- Gene regulation is the process by which cells "decide" which instructions to follow at any given moment. Certain proteins can bind to DNA and either switch genes on or off — like a light switch controlling which parts of the blueprint are being used.
 
 ## The big picture: simple rules, complex life
 
