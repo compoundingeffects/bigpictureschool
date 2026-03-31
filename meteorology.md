@@ -24,7 +24,7 @@ Here's something that might seem surprising: despite being invisible, air behave
 
 Temperature differences create pressure differences — warm air expands and rises, leaving behind lower pressure, while cool air sinks and creates higher pressure. Air naturally flows from high-pressure areas toward low-pressure ones, creating wind. The greater the pressure difference, the stronger the wind — similar to how water flows faster when there's a bigger difference in height.
 
-But there's a twist. Because Earth is constantly spinning, air doesn't travel in straight lines. Instead, it gets deflected — to the right in the Northern Hemisphere and to the left in the Southern Hemisphere. This deflecting influence is called the **Coriolis effect**. Think of it this way: if you tried to roll a ball across a spinning merry-go-round, it would curve rather than travel straight. Earth's spin does the same thing to moving air. This is why weather systems like hurricanes and large storm systems spin in circular patterns rather than moving in straight lines.
+But there's a twist. Because Earth is constantly spinning, air doesn't travel in straight lines. Instead, it gets deflected — to the right in the Northern Hemisphere and to the left in the Southern Hemisphere. This deflecting influence is called the Coriolis effect. Think of it this way: if you tried to roll a ball across a spinning merry-go-round, it would curve rather than travel straight. Earth's spin does the same thing to moving air. This is why weather systems like hurricanes and large storm systems spin in circular patterns rather than moving in straight lines.
 
 The interplay between pressure differences, Earth's rotation, and friction near the surface creates the complex wind patterns we see around the world.
 
@@ -48,11 +48,11 @@ These scales don't operate in isolation. Small events can influence big ones. Fo
 
 To understand and predict weather, meteorologists need data — lots of it. They measure temperature, air pressure, humidity, wind speed and direction, and rainfall amounts using a vast network of tools.
 
-Weather stations on the ground provide continuous local readings. **Weather balloons** (officially called radiosondes) carry instruments high into the atmosphere, taking measurements as they ascend. Satellites watch the entire planet from space, tracking cloud systems and measuring temperatures across wide areas. Radar systems detect precipitation and track storms in real time. Together, these tools give meteorologists a detailed snapshot of the atmosphere's current state.
+Weather stations on the ground provide continuous local readings. Weather balloons (officially called radiosondes) carry instruments high into the atmosphere, taking measurements as they ascend. Satellites watch the entire planet from space, tracking cloud systems and measuring temperatures across wide areas. Radar systems detect precipitation and track storms in real time. Together, these tools give meteorologists a detailed snapshot of the atmosphere's current state.
 
 ## Putting it all together: weather forecasting
 
-Modern weather forecasting brings everything together in a remarkable way. Meteorologists take all those real-world measurements and feed them into powerful computer programs called **numerical weather prediction models**. These programs apply the laws of physics — the same principles of energy, motion, and water behavior described above — to mathematically simulate how the atmosphere will evolve over the coming hours and days.
+Modern weather forecasting brings everything together in a remarkable way. Meteorologists take all those real-world measurements and feed them into powerful computer programs called numerical weather prediction models. These programs apply the laws of physics — the same principles of energy, motion, and water behavior described above — to mathematically simulate how the atmosphere will evolve over the coming hours and days.
 
 The better the initial data, and the better the model's ability to capture the complex interactions happening in the atmosphere, the more accurate the forecast. This is why weather prediction has improved dramatically as computers have become more powerful and our observation networks have expanded.
 
