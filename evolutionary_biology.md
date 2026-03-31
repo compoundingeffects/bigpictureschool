@@ -38,7 +38,7 @@ Here's where it gets interesting. When you combine these four observations, a pa
 
 If individuals vary, and some variations help an individual survive and reproduce better, and those variations get passed to offspring...then over time, the helpful variations will become more and more common in a population. The less helpful traits will gradually fade out.
 
-This process is called **natural selection**. Think of it like an ongoing filter. The environment "selects"—not consciously, but as a natural consequence—which traits tend to stick around. No one is in charge of this process. It just happens automatically, as a result of those four conditions existing at the same time.
+This process is called natural selection. Think of it like an ongoing filter. The environment "selects"—not consciously, but as a natural consequence—which traits tend to stick around. No one is in charge of this process. It just happens automatically, as a result of those four conditions existing at the same time.
 
 A classic example: bacteria evolving resistance to antibiotics. When an antibiotic is used, most bacteria die—but a few individuals might happen to have a slight variation that helps them survive. Those survivors reproduce. Their offspring inherit that resistance. Over many generations, the whole population becomes resistant. No one planned it; it's simply natural selection in action.
 
@@ -46,11 +46,11 @@ A classic example: bacteria evolving resistance to antibiotics. When an antibiot
 
 Natural selection is the most famous driver of evolutionary change, but it's not the only one.
 
-**Random chance** also plays a role, especially in small populations. Sometimes traits become more or less common just by luck—like flipping a coin and getting heads several times in a row. Scientists call this "genetic drift," but you can think of it as evolution by accident.
+Random chance also plays a role, especially in small populations. Sometimes traits become more or less common just by luck—like flipping a coin and getting heads several times in a row. Scientists call this "genetic drift," but you can think of it as evolution by accident.
 
-**Migration** matters too. When individuals move into a new area, they bring their traits with them, introducing new variety into a population.
+Migration matters too. When individuals move into a new area, they bring their traits with them, introducing new variety into a population.
 
-And at the root of all variation are **mutations**—small, random changes in the biological instructions that living things pass to their offspring. Most mutations don't do much, but occasionally one creates a new trait that turns out to be useful. That's where truly new variation comes from.
+And at the root of all variation are mutations—small, random changes in the biological instructions that living things pass to their offspring. Most mutations don't do much, but occasionally one creates a new trait that turns out to be useful. That's where truly new variation comes from.
 
 ## The power of time
 
