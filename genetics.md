@@ -38,7 +38,7 @@ In the 19th century, a monk named Gregor Mendel conducted careful experiments wi
 
 Here's the key idea: you inherit two copies of every gene — one from your mother and one from your father. The different versions of a gene are called alleles. The combination of alleles you end up with determines how a trait shows up in you.
 
-Some alleles are **dominant** — meaning if you have even one copy, that version of the trait will show up. Others are **recessive** — meaning the trait only appears if you have two copies of that version. This is why two parents who both have brown eyes can sometimes have a blue-eyed child: they each carried a hidden "recessive" copy of the blue-eye version, and their child happened to inherit both hidden copies.
+Some alleles are dominant — meaning if you have even one copy, that version of the trait will show up. Others are recessive — meaning the trait only appears if you have two copies of that version. This is why two parents who both have brown eyes can sometimes have a blue-eyed child: they each carried a hidden "recessive" copy of the blue-eye version, and their child happened to inherit both hidden copies.
 
 This also explains why traits can seem to skip generations — a recessive trait might stay hidden for a generation or two before the right combination brings it back.
 
@@ -48,7 +48,7 @@ If everyone inherited genes in exactly the same way, we'd all be nearly identica
 
 First, when parents produce reproductive cells (eggs and sperm), genes from both sides of the family get shuffled together in new combinations. This shuffling means every child receives a unique mix of genetic material.
 
-Second, sometimes the DNA code gets changed — a letter gets swapped, deleted, or duplicated. These changes are called **mutations**. Most mutations are harmless, and some are actually harmful. But occasionally, a mutation gives an organism a small advantage — maybe it helps it survive better or reproduce more successfully. Over many generations, useful mutations tend to spread through a population. This is the engine behind evolution and explains the stunning variety of life on Earth.
+Second, sometimes the DNA code gets changed — a letter gets swapped, deleted, or duplicated. These changes are called mutations. Most mutations are harmless, and some are actually harmful. But occasionally, a mutation gives an organism a small advantage — maybe it helps it survive better or reproduce more successfully. Over many generations, useful mutations tend to spread through a population. This is the engine behind evolution and explains the stunning variety of life on Earth.
 
 ## The big picture: information flows one way
 
