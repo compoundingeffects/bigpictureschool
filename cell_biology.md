@@ -48,7 +48,7 @@ The membrane isn't just a wall, though. It's more like a smart security gate. It
 
 ## Growing, dividing, and evolving
 
-Cells reproduce by dividing. Before a cell can split into two, it needs to make a complete copy of its DNA so that each new cell gets a full set of instructions. This copying process is remarkably accurate — but not perfect. Occasional small errors creep in, and while most are harmless or corrected, some create slight variations. Over vast stretches of time, these variations fuel **evolution**: the gradual process by which living things change and adapt to their environments.
+Cells reproduce by dividing. Before a cell can split into two, it needs to make a complete copy of its DNA so that each new cell gets a full set of instructions. This copying process is remarkably accurate — but not perfect. Occasional small errors creep in, and while most are harmless or corrected, some create slight variations. Over vast stretches of time, these variations fuel evolution: the gradual process by which living things change and adapt to their environments.
 
 ## Teamwork: when cells specialize
 
