@@ -36,7 +36,7 @@ All of this chemistry happens in water, which turns out to be a remarkably good 
 
 Think of a cell like a factory. Every factory needs two things to run: power and instructions.
 
-For power, cells capture energy from their environment. Plants do this through **photosynthesis**, converting sunlight into stored energy. Animals do it through cellular respiration, breaking down food. In both cases, the usable energy ends up packaged in a molecule called ATP (adenosine triphosphate) — you can think of ATP as the cell's universal currency, the "coin" it spends to get things done.
+For power, cells capture energy from their environment. Plants do this through photosynthesis, converting sunlight into stored energy. Animals do it through cellular respiration, breaking down food. In both cases, the usable energy ends up packaged in a molecule called ATP (adenosine triphosphate) — you can think of ATP as the cell's universal currency, the "coin" it spends to get things done.
 
 For instructions, cells rely on DNA — the famous double helix molecule that acts like a master instruction manual. But DNA doesn't do its work alone. A related molecule called RNA acts as a messenger, carrying specific instructions from the DNA to the parts of the cell that build proteins. It's a bit like a manager (DNA) sending written orders (RNA) to the workers on the factory floor (proteins).
 
