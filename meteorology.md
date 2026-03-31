@@ -34,7 +34,7 @@ Water plays a starring role in meteorology, largely because of its ability to st
 
 When water evaporates — from oceans, lakes, or wet ground — it doesn't just disappear into the air. It carries energy with it, stored invisibly in water vapor. Think of this as the atmosphere charging up a battery. When that water vapor rises to cooler parts of the atmosphere, it condenses into the tiny liquid droplets that form clouds — and in doing so, releases all that stored energy back into the surrounding air. This energy release can be dramatic — it's what powers thunderstorms and fuels hurricanes.
 
-This process is the **water cycle** in action, and it's much more than just rain falling and evaporating. It's one of the atmosphere's primary ways of moving energy from one place to another. The water cycle both delivers precipitation (rain, snow, sleet) and serves as a massive, global heat-transport system.
+This process is the water cycle in action, and it's much more than just rain falling and evaporating. It's one of the atmosphere's primary ways of moving energy from one place to another. The water cycle both delivers precipitation (rain, snow, sleet) and serves as a massive, global heat-transport system.
 
 ## Weather at every scale
 
