@@ -16,9 +16,9 @@ Botany is the scientific study of plants — covering everything from how they g
 
 At the most fundamental level, plants share a few key traits that set them apart.
 
-The most remarkable is that plants make their own food. Unlike animals, which need to eat other organisms to get energy, plants can produce their own nutrition using just sunlight, water, and carbon dioxide from the air. This process is called **photosynthesis**, and it happens inside tiny structures within plant cells called **chloroplasts** — think of them as microscopic solar panels. The green color we associate with plants comes from **chlorophyll**, the substance inside chloroplasts that captures light energy.
+The most remarkable is that plants make their own food. Unlike animals, which need to eat other organisms to get energy, plants can produce their own nutrition using just sunlight, water, and carbon dioxide from the air. This process is called photosynthesis, and it happens inside tiny structures within plant cells called chloroplasts — think of them as microscopic solar panels. The green color we associate with plants comes from chlorophyll, the substance inside chloroplasts that captures light energy.
 
-Plant cells also have some unique features compared to animal cells. They have a firm outer layer called a **cell wall** (made of a tough material called cellulose) that acts like a sturdy frame, giving the plant its shape and protection. Inside each cell is a central control center — the **nucleus** — that contains the cell's genetic information.
+Plant cells also have some unique features compared to animal cells. They have a firm outer layer called a cell wall (made of a tough material called cellulose) that acts like a sturdy frame, giving the plant its shape and protection. Inside each cell is a central control center — the nucleus — that contains the cell's genetic information.
 
 ## How plants solve the basic challenges of life
 
@@ -32,7 +32,7 @@ Every part of a plant is shaped to do a specific job — a principle that botani
 
 - **Roots** anchor the plant in the soil and absorb water and nutrients. They branch out extensively to cover as much ground as possible, maximizing what they can take in.
 - **Stems** act as the plant's support structure and plumbing system, holding the plant upright and moving water, nutrients, and sugars to where they're needed.
-- **Leaves** are the plant's food factories. Their broad, flat shape captures as much sunlight as possible, and they're covered in tiny pores called **stomata** that allow air and water vapor to move in and out.
+- **Leaves** are the plant's food factories. Their broad, flat shape captures as much sunlight as possible, and they're covered in tiny pores called stomata that allow air and water vapor to move in and out.
 
 Even the way leaves are arranged on a plant is strategic — they're positioned to avoid shading each other too much, so every leaf gets its share of sunlight.
 
@@ -48,7 +48,7 @@ Plants use two main strategies to reproduce and keep their species going.
 
 Here's an interesting challenge plants face: they can't get up and walk away from bad conditions or toward good ones. So they've evolved clever ways to respond to their surroundings while staying put.
 
-Plants can slowly grow toward or away from stimuli — they lean toward light, grow roots downward in response to gravity, and even grow toward water. These gradual growth responses are called **tropisms**.
+Plants can slowly grow toward or away from stimuli — they lean toward light, grow roots downward in response to gravity, and even grow toward water. These gradual growth responses are called tropisms.
 
 Plants also produce chemical compounds to defend themselves against insects and disease. And many form partnerships with other organisms — for example, certain fungi live among plant roots and help the plant absorb nutrients from the soil more effectively, while the plant provides the fungi with sugars. It's a mutually beneficial relationship that helps both survive.
 
