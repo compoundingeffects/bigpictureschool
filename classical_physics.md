@@ -65,9 +65,9 @@ The laws of thermodynamics set the rules for how energy and heat behave. The mos
 
 As powerful as classical physics is, it doesn't work everywhere. It has boundaries beyond which its predictions become inaccurate.
 
-When things get extremely small—down to the scale of atoms—classical physics fails, and we need **quantum mechanics** instead. At these tiny scales, particles don't have definite positions, and things get genuinely weird.
+When things get extremely small—down to the scale of atoms—classical physics fails, and we need quantum mechanics instead. At these tiny scales, particles don't have definite positions, and things get genuinely weird.
 
-When things move extremely fast—approaching the speed of light—classical physics also fails. We need Einstein's **special relativity** to describe what happens at these speeds, where time itself can slow down and lengths can contract.
+When things move extremely fast—approaching the speed of light—classical physics also fails. We need Einstein's special relativity to describe what happens at these speeds, where time itself can slow down and lengths can contract.
 
 When gravity gets extremely strong—like near black holes—we need Einstein's **general relativity**, which describes gravity not as a force in a field, but as a bending of space and time itself.
 
