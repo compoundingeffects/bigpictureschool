@@ -53,9 +53,9 @@ Living things face another fundamental challenge: they need to store instruction
 DNA is a remarkably elegant information storage system. Instructions are written in a chemical "alphabet" of just four letters — four different molecular building blocks that can be strung together in different sequences. Those sequences spell out instructions for making proteins, which do most of the actual work inside cells.
 
 The process works in three steps:
-1. **DNA** holds the master instructions, like a reference book kept safely in the library
-2. **RNA** makes temporary copies of specific instructions, like a photocopy you can carry to your workbench
-3. **Proteins** are the products built according to those instructions, like furniture assembled from a blueprint
+1. DNA holds the master instructions, like a reference book kept safely in the library
+2. RNA makes temporary copies of specific instructions, like a photocopy you can carry to your workbench
+3. Proteins are the products built according to those instructions, like furniture assembled from a blueprint
 
 What makes this system so powerful is that it's precise and reliable. Information stored in DNA can be copied accurately and passed down from generation to generation — which is why children resemble their parents, and why living things stay recognizably themselves over time.
 
