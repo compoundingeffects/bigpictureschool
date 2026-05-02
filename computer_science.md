@@ -15,21 +15,21 @@ To understand computer science, it helps to start with the basics.
 
 ## The building blocks
 
-Everything a computer does starts with **information**. But computers can't handle vague or fuzzy data — they need information in a clear, exact form. That's why computers use the **binary system**: a language made up entirely of 1s and 0s. Think of it like a long series of light switches, each either on or off. Surprisingly, you can represent any piece of information — a photo, a song, a text message — using just those two states.
+Everything a computer does starts with information. But computers can't handle vague or fuzzy data — they need information in a clear, exact form. That's why computers use the binary system: a language made up entirely of 1s and 0s. Think of it like a long series of light switches, each either on or off. Surprisingly, you can represent any piece of information — a photo, a song, a text message — using just those two states.
 
-The second building block is the **algorithm**. An algorithm is simply a precise, step-by-step set of instructions for solving a problem. Think of a recipe: it tells you exactly what to do, in what order, with no room for guessing. Computer algorithms work the same way. They must be clear and specific enough that a machine can follow them without any judgment calls along the way. Interestingly, the idea of algorithms goes back long before computers existed — mathematicians have been writing logical, step-by-step proofs for centuries.
+The second building block is the algorithm. An algorithm is simply a precise, step-by-step set of instructions for solving a problem. Think of a recipe: it tells you exactly what to do, in what order, with no room for guessing. Computer algorithms work the same way. They must be clear and specific enough that a machine can follow them without any judgment calls along the way. Interestingly, the idea of algorithms goes back long before computers existed — mathematicians have been writing logical, step-by-step proofs for centuries.
 
 ## How computers actually work
 
-When a computer runs an algorithm, it takes in some data, follows the instructions, and produces a result. One key feature of this process: it's **consistent and predictable**. Give a program the same input twice, and you'll get the same output both times. This reliability is what makes computers so powerful and trustworthy for critical tasks.
+When a computer runs an algorithm, it takes in some data, follows the instructions, and produces a result. One key feature of this process: it's consistent and predictable. Give a program the same input twice, and you'll get the same output both times. This reliability is what makes computers so powerful and trustworthy for critical tasks.
 
-The physical machine — the chips, circuits, and hardware — is what actually carries out these instructions. But here's something interesting: the *logic* of how a program works doesn't depend on the specific machine running it. The same algorithm can run on a laptop, a phone, or a supercomputer. This separation between the logical idea of a program and its physical hardware is a key insight in computer science.
+The physical machine — the chips, circuits, and hardware — is what actually carries out these instructions. But here's something interesting: the logic of how a program works doesn't depend on the specific machine running it. The same algorithm can run on a laptop, a phone, or a supercomputer. This separation between the logical idea of a program and its physical hardware is a key insight in computer science.
 
 ## Breaking problems down
 
-One of the most important skills in computer science is tackling big, complicated problems by breaking them into smaller, more manageable pieces. This is called **problem decomposition** — and it's something humans do naturally all the time. Planning a road trip, for example, involves breaking the journey into legs, each leg into turns, and so on.
+One of the most important skills in computer science is tackling big, complicated problems by breaking them into smaller, more manageable pieces. This is called problem decomposition — and it's something humans do naturally all the time. Planning a road trip, for example, involves breaking the journey into legs, each leg into turns, and so on.
 
-Computer scientists also use **abstraction** — a way of focusing only on what's relevant and ignoring unnecessary details. For example, when you use a GPS app, you don't need to know how satellites communicate or how the map data is stored. You just need the directions. Abstraction allows computer scientists to build general solutions that can work across many different situations, not just one specific case.
+Computer scientists also use abstraction — a way of focusing only on what's relevant and ignoring unnecessary details. For example, when you use a GPS app, you don't need to know how satellites communicate or how the map data is stored. You just need the directions. Abstraction allows computer scientists to build general solutions that can work across many different situations, not just one specific case.
 
 The field also relies heavily on mathematics — particularly areas like logic and discrete math (math dealing with distinct, countable values) — to analyze problems rigorously and design efficient solutions.
 
