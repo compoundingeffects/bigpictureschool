@@ -15,7 +15,7 @@ Game theory is the study of how people make decisions when the outcome depends n
 
 ## The building blocks
 
-To understand game theory, it helps to know its four basic ingredients.
+Game theory is built around four key ideas.
 
 **Players** are simply the decision-makers — the people (or companies, countries, or any other group) involved in the situation. Each player has their own goals and limitations.
 
