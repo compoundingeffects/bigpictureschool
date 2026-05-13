@@ -7,38 +7,62 @@ nav_order: 2
 
 # Game Theory
 
-## Introduction
+## What is game theory?
 
-Game theory is the mathematical study of strategic decision-making among rational actors who recognize that their outcomes depend not only on their own choices, but also on the choices made by others. At its foundation, game theory provides a framework for analyzing situations where the success of each participant's strategy depends fundamentally on what other participants do.
+Imagine you're at a job interview, deciding whether to ask for a higher salary. Your success depends not just on what number you pick, but on how the hiring manager will respond. Or think about two coffee shops opening on the same street — each one's profits depend heavily on what the other charges. These are exactly the kinds of situations that game theory is designed to explain.
 
-## Core Components from First Principles
+Game theory is the study of how people make decisions when the outcome depends not only on their own choices, but on the choices of everyone else involved. It gives us a way to think clearly about situations where we're all, in a sense, playing off each other.
 
-**Players** represent the decision-makers in any strategic situation. These can be individuals, companies, countries, or any entity capable of making choices. Each player possesses their own objectives and constraints.
+## The building blocks
 
-**Strategies** constitute the complete set of actions available to each player. A strategy specifies what a player will do in every possible situation they might encounter during the interaction.
+To understand game theory, it helps to know its four basic ingredients.
 
-**Payoffs** quantify the outcomes that result from the combination of all players' chosen strategies. These represent the value each player receives, which could be measured in profit, utility, satisfaction, or any other relevant metric.
+**Players** are simply the decision-makers — the people (or companies, countries, or any other group) involved in the situation. Each player has their own goals and limitations.
 
-**Information** defines what each player knows about the game structure, other players' strategies, and the history of play. Games can involve complete or incomplete information, and perfect or imperfect information.
+**Strategies** are the options available to each player. More specifically, a strategy isn't just a single action — it's a complete plan that covers what a player will do in every possible situation they might face.
 
-## Fundamental Assumptions
+**Payoffs** are the results. What does each player actually get at the end? This could be money, satisfaction, a political advantage — whatever matters to the players involved.
 
-Game theory rests on several key assumptions derived from first principles. It assumes players are rational, meaning they consistently choose strategies that maximize their expected payoffs given their beliefs about other players' actions. Players are also assumed to have well-defined preferences that allow them to rank different outcomes.
+**Information** refers to what each player knows. Do you know what the other players are planning? Do they know what you know? In some situations, everyone has the same information; in others, some players are working with more knowledge than others.
 
-The theory assumes players understand the game structure, including who the other players are, what strategies are available, and what payoffs result from different strategy combinations. Additionally, players recognize the strategic nature of their situation and account for how their choices affect others and vice versa.
+## A key assumption: people are logical
 
-## Strategic Interdependence
+Game theory assumes that players are rational — meaning they consistently try to make the best choice for themselves based on what they believe others will do. It also assumes players understand the basic rules: who's involved, what choices are available, and what the possible outcomes are.
 
-The central insight of game theory emerges from recognizing strategic interdependence. Unlike individual optimization problems where one person's choice directly determines their outcome, strategic situations require players to form beliefs about others' likely actions and respond accordingly. This creates a complex web of mutual influence where optimal strategies are inherently relational rather than absolute.
+It's worth noting that "rational" here doesn't mean cold or unfeeling. It just means that players have clear goals and try to achieve them. The theory doesn't judge what those goals are — it simply assumes people act in line with them.
 
-## Equilibrium Concepts
+## The central insight: your outcome depends on others
 
-Game theory's primary analytical tool is the concept of equilibrium, particularly the Nash equilibrium. This represents a state where no player can unilaterally improve their payoff by changing their strategy, given that all other players maintain their current strategies. Equilibrium concepts help predict likely outcomes in strategic interactions by identifying stable strategy combinations.
+Here's what makes strategic situations different from everyday decisions. If you're choosing what to have for lunch, your choice alone determines your outcome. But if you're a business deciding whether to lower your prices, the result depends on whether your competitors do the same. You can't just think about what's best for you in isolation — you have to think about what everyone else is likely to do, and they're thinking the same thing about you.
 
-## Applications and Insights
+This back-and-forth influence is what game theorists call strategic interdependence. It's the heart of the whole framework.
 
-This framework illuminates strategic interactions across numerous domains. In business, it explains competitive pricing decisions, market entry strategies, and negotiation dynamics. In international relations, it helps analyze military conflicts, trade negotiations, and alliance formations. In everyday life, it provides insight into cooperation and conflict in social situations.
+## Finding a stable outcome: the Nash Equilibrium
 
-Game theory reveals why individually rational behavior can sometimes lead to collectively suboptimal outcomes, as demonstrated in scenarios like the prisoner's dilemma. It also shows how communication, reputation, and repeated interactions can facilitate cooperation even among self-interested actors.
+One of the most important ideas in game theory is the Nash equilibrium, named after mathematician John Nash (made famous by the film *A Beautiful Mind*). It describes a situation where no one can improve their outcome by changing their own strategy — as long as everyone else stays the course.
 
-The power of game theory lies in its ability to predict behavior and outcomes in strategic situations by working backward from the logical implications of rational choice under interdependence. This makes it an invaluable tool for anyone seeking to understand or influence strategic interactions in competitive and cooperative contexts.
+Think of it like this: imagine two gas stations across the street from each other, both charging the same price per gallon. If one station raises its price, it loses customers to the other. If it lowers the price, it might attract more customers but earn less per sale. At some point, both stations settle on a price where neither one benefits from changing — that's a Nash equilibrium. It's a kind of stable standoff.
+
+This concept helps predict how real-world situations are likely to play out because people tend to settle into strategies that they have no reason to abandon.
+
+## Why rational people sometimes end up worse off
+
+One of game theory's most surprising discoveries is that when everyone acts in their own best interest, the group as a whole can end up worse off. The classic illustration is something called the prisoner's dilemma.
+
+Picture two suspects arrested for a crime, held in separate rooms. Each one can either stay silent or betray the other. If both stay silent, they each get a light sentence. If one betrays and the other stays silent, the betrayer goes free and the silent one gets the harshest sentence. If both betray each other, they both get a moderate sentence.
+
+The logical move for each individual is to betray — it's the safer bet no matter what the other person does. But when both follow this logic, they both end up worse off than if they'd simply trusted each other and stayed silent. This is the dilemma: individual logic leads to a collectively bad outcome.
+
+The good news is that game theory also shows how this trap can be escaped. When people interact repeatedly, build reputations, or can communicate and make commitments, cooperation becomes more likely — even among self-interested players.
+
+## Where game theory shows up
+
+This framework turns out to be useful in a surprisingly wide range of situations:
+
+- **In business**: explaining how companies compete on price, decide whether to enter a new market, or negotiate deals
+- **In international relations**: analyzing military standoffs, trade disputes, and how countries form alliances
+- **In everyday life**: understanding why people cooperate or clash in social situations
+
+## Why it matters
+
+Game theory's real power is its ability to predict how people will behave — and to explain why — by starting from simple, logical assumptions about human decision-making. Whether you're a business strategist, a policy maker, or just curious about why the world works the way it does, game theory offers a remarkably clear lens for understanding any situation where what you do and what others do are deeply connected.
