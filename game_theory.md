@@ -37,13 +37,15 @@ Here's what makes strategic situations different from everyday decisions. If you
 
 This back-and-forth influence is what game theorists call strategic interdependence. It's the heart of the whole framework.
 
-## Finding a stable outcome: the Nash Equilibrium
+## Finding a stable outcome: the Nash equilibrium
 
-One of the most important ideas in game theory is the Nash equilibrium, named after mathematician John Nash (made famous by the film *A Beautiful Mind*). It describes a situation where no one can improve their outcome by changing their own strategy — as long as everyone else stays the course.
+One of the most important ideas in game theory is the Nash equilibrium, named after mathematician John Nash (made famous by the film *A Beautiful Mind*).
 
-Think of it like this: imagine two gas stations across the street from each other, both charging the same price per gallon. If one station raises its price, it loses customers to the other. If it lowers the price, it might attract more customers but earn less per sale. At some point, both stations settle on a price where neither one benefits from changing — that's a Nash equilibrium. It's a kind of stable standoff.
+Here's the core idea. In any strategic situation, you can ask a simple question about the current state of play: *Given what everyone else is doing, does any player have a reason to change their own strategy?* If the answer is no — if every player is already making the best choice they can, given what the others are doing — then you've found a Nash equilibrium.
 
-This concept helps predict how real-world situations are likely to play out because people tend to settle into strategies that they have no reason to abandon.
+Think about two gas stations across the street from each other. Suppose both are charging the same price per gallon. Now ask the question: does either station have a reason to change? If one raises its price, it loses customers to the other. If it lowers its price, it might attract more customers but earns less on each sale — and the other station will likely respond by lowering its price too, erasing the advantage. So at certain prices, neither station benefits from making a move. That's a Nash equilibrium: not because the stations stumbled into it, but because each one is already doing the best it can given what the other is doing.
+
+The concept is useful because it helps identify outcomes that are *stable* — situations that, once reached, no one has an incentive to walk away from.
 
 ## Why rational people sometimes end up worse off
 
