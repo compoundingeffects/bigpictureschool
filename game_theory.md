@@ -45,7 +45,7 @@ Here's the core idea. In any strategic situation, you can ask a simple question 
 
 Think about two gas stations across the street from each other. Suppose both are charging the same price per gallon. Now ask the question: does either station have a reason to change? If one raises its price, it loses customers to the other. If it lowers its price, it might attract more customers but earns less on each sale — and the other station will likely respond by lowering its price too, erasing the advantage. So at certain prices, neither station benefits from making a move. That's a Nash equilibrium: not because the stations stumbled into it, but because each one is already doing the best it can given what the other is doing.
 
-The concept is useful because it helps identify outcomes that are *stable* — situations that, once reached, no one has an incentive to walk away from.
+The concept is useful because it helps identify outcomes that are stable — situations that, once reached, no one has an incentive to walk away from.
 
 ## Why rational people sometimes end up worse off
 
