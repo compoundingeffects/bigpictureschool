@@ -9,7 +9,7 @@ nav_order: 3
 
 ## What is logic?
 
-Logic is the study of good reasoning. More specifically, it's about figuring out which arguments actually hold up — and which ones just *seem* like they do. At its heart, logic is concerned with how we get from point A to point B in our thinking, and whether that journey is reliable.
+Logic is the study of good reasoning. More specifically, it's about figuring out which arguments actually hold up and which ones just *seem* like they do. At its heart, logic is concerned with how we get from point A to point B in our thinking, and whether that journey is reliable.
 
 ## Why some reasoning works and some doesn't
 
@@ -27,7 +27,7 @@ Second, you need ways to connect those statements. Words like "and," "or," and "
 
 Third, you need rules about what conclusions you're actually allowed to draw. These are the guardrails that keep reasoning honest.
 
-One of the most important — and sometimes surprising — ideas in logic is the difference between an argument being *valid* and being *true*. An argument is valid when the conclusion *would* follow from the starting points, even if those starting points aren't actually true in real life. For example: "All birds can fly. Penguins are birds. Therefore, penguins can fly." That argument has a valid *structure* — the conclusion does follow from the premises — but it's built on a false starting point (not all birds can fly). Logic helps us separate these two questions: "Does this conclusion follow from these starting points?" and "Are the starting points actually correct?"
+One of the most important, and sometimes surprising, ideas in logic is the difference between an argument being *valid* and being *true*. An argument is valid when the conclusion *would* follow from the starting points, even if those starting points aren't actually true in real life. For example: "All birds can fly. Penguins are birds. Therefore, penguins can fly." That argument has a valid *structure* — the conclusion does follow from the premises — but it's built on a false starting point (not all birds can fly). Logic helps us separate these two questions: "Does this conclusion follow from these starting points?" and "Are the starting points actually correct?"
 
 ## Logic and the real world
 
