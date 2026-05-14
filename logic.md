@@ -15,7 +15,7 @@ Logic is the study of good reasoning. More specifically, it's about figuring out
 
 Consider this simple example: we know that all mammals are warm-blooded. We also know that whales are mammals. So what can we conclude? That whales are warm-blooded — and we can be completely confident in that conclusion. It follows automatically from the two facts we started with.
 
-This is the core idea behind logic. It recognizes that some ways of reasoning are solid, while others are shaky. And here's the really interesting part: what makes reasoning solid isn't *what* you're reasoning about, but *how* you're reasoning. The same logical structure that works for whales and mammals also works for apples and fruit, or employees and company policies. Logic is a universal template for clear thinking.
+This is the core idea behind logic. It recognizes that some ways of reasoning are solid, while others are shaky. And here's the really interesting part: what makes reasoning solid isn't *what* you're reasoning about, but *how* you're reasoning. The same logical structure that works for whales and mammals also works for apples and fruit, or employees and company policies. Logic is a universal template for sound thinking.
 
 ## The building blocks of logical thinking
 
