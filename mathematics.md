@@ -13,7 +13,7 @@ Mathematics is humanity's most powerful, and perhaps strangest, way of understan
 
 Most of us think of math as the stuff we learned in school: arithmetic, algebra, geometry. But at a deeper level, mathematics is a precise language for describing patterns and relationships. It's a system built on strict logical rules, where you start with a few basic assumptions and follow the logic wherever it leads.
 
-What makes math unusual is that it works on two levels at once. It's a practical tool for understanding the real world *and* a self-contained logical universe with its own internal rules — like a game where, if you follow the rules carefully enough, you'll uncover truths that had to be true all along.
+What makes math unusual is that it works on two levels at once. It's a practical tool for understanding the real world *and* a self-contained logical universe with its own internal rules — like a game where the rules, once set, determine certain outcomes completely because the logic leaves no other possibility.
 
 ## Starting from scratch: the building blocks
 
@@ -35,7 +35,7 @@ Numbers didn't arrive all at once. They developed in stages, each stage driven b
 
 **Fractions** arose the same way. If multiplication is valid, division must be too — and fractions are what you get when division doesn't produce a whole number.
 
-**Real numbers** (which include things like π or the square root of 2) came from a surprising problem: some quantities simply *can't* be expressed as fractions. For instance, if you draw a square with sides one unit long, the diagonal is √2 — and that number cannot be written as any fraction, no matter how hard you try. To handle continuous quantities (lengths, areas, and so on) without gaps in the system, mathematicians had to expand the number system once again.
+**Real numbers** (which include things like π or √2) came from a surprising problem. For a long time, mathematicians assumed that any quantity could be expressed as a fraction — some ratio of two whole numbers, like ½ or ¾ or 355/113. Then they encountered cases that broke that assumption. Take √2 — the number which, when multiplied by itself, gives you 2. This number turns up naturally in geometry: if you draw a square with sides one unit long, √2 is the length of its diagonal. It seems like a simple, concrete quantity. And yet no fraction, however precise, equals it exactly. Mathematicians didn't just fail to find one — they proved, through logical argument, that such a fraction cannot exist. To handle quantities like these without leaving gaps in the number system, mathematicians had to expand beyond fractions entirely, creating what we now call real numbers.
 
 Each expansion wasn't arbitrary. It was driven by the need to keep the logical system complete and consistent — no loose ends, no contradictions.
 
@@ -75,8 +75,6 @@ This brings us to one of mathematics' most fascinating philosophical questions: 
 
 The answer seems to be: both.
 
-We *create* the rules — the axioms, definitions, and frameworks. We chose to define things the way we did. But once those rules are in place, we *discover* the consequences. The theorems were always hiding there, implicit in the rules, waiting to be found. A mathematical truth isn't true because we decided it was. It's true because the logic forces it to be.
+We choose the starting assumptions — the definitions and rules the system is built on. Where do those starting assumptions come from? It's a mix. Some feel almost unavoidable — the idea that you can always count one higher, for instance, feels less like a choice and more like an observation about how numbers work. Others were adopted simply because they proved useful or led to consistent results. But however the starting assumptions were arrived at, once they're in place, we don't get to choose what follows. The consequences are forced by the logic, and it's those consequences that we discover rather than invent.
 
-In this sense, mathematics is unlike almost anything else humans do. It's a creative act that generates objective truths — a kind of exploration where the territory you're mapping is made entirely of ideas, and yet the map turns out to be real.
-
-Mathematics, at its best, is humanity's attempt to understand the deep structure of reality using nothing but careful thought. It gives us practical tools — from calculating a tip to landing a spacecraft on Mars. But it also gives us something rarer: a way of knowing things with absolute certainty, and a window into the hidden logical patterns that seem to underlie everything.
+Mathematics, at its best, is humanity's attempt to understand the deep structure of reality using nothing but careful thought. It gives us practical tools — from calculating a tip to landing a spacecraft on Mars. But it also gives us something rarer: a way of knowing things with a unique kind of certainty — once you accept the starting assumptions, the conclusions that follow are necessitated by logic alone. And in following that logic, we catch a glimpse of the patterns that seem to underlie everything.
