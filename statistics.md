@@ -72,6 +72,6 @@ Without careful design, even brilliant analysis can lead you to wrong conclusion
 
 ## The big picture
 
-Statistics is ultimately a bridge between the complicated, unpredictable world we live in and our very human need to understand it. It won't give you perfect certainty — nothing will. But it gives you honest, rigorous tools for learning from data, making smarter decisions, and knowing exactly how confident you should be in your conclusions.
+Statistics is ultimately a bridge between the complicated, unpredictable world we live in and our very human need to understand it. It won't give you perfect certainty. But it gives you honest, rigorous tools for learning from data, making smarter decisions, and knowing exactly how confident you should be in your conclusions.
 
 In a world overflowing with data and noise, that's an incredibly valuable thing to have.
