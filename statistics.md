@@ -45,7 +45,7 @@ Probability lets statisticians describe not just what *happened* in their data, 
 
 This is where statistics gets really powerful. Inferential statistics means using your sample data to draw conclusions about the bigger population — the part you didn't directly measure.
 
-When a news organization reports that a political candidate has 45% support based on a poll of 1,000 people, they're not just describing those 1,000 people. They're making an educated inference about millions of voters. Statistics makes that leap possible, and it also tells you how much uncertainty comes along for the ride — which is why you often hear phrases like "with a margin of error of 3 percentage points."
+When a news organization reports that a political candidate has 45% support based on a poll of 1,000 people, they're not just describing those 1,000 people. They're making an educated inference about millions of voters. Statistics makes that leap possible, and it also tells you how much uncertainty comes along for the ride — which is why you often hear phrases like "with a margin of error of 3 percentage points." That margin of error tells you the range within which the true answer probably falls — in this case, the candidate's real support is likely somewhere between 42% and 48%.
 
 ## Hypothesis testing: weighing the evidence
 
