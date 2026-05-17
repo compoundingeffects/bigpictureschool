@@ -57,7 +57,7 @@ Statistics doesn't give you absolute certainty — it never claims to. But it te
 
 ## Statistical models: useful simplifications
 
-The real world is enormously complicated. Statistical models are simplified mathematical descriptions of how a process works — kind of like a map. A map isn't the same as the actual territory, but a good map captures the important features and helps you navigate.
+The real world is enormously complicated. Statistical models are simplified mathematical descriptions of real-world behavior — how a disease might spread, or how sales might respond to a price change. Think of them like a map. A map isn't the same as the actual territory, but a good map captures the important features and helps you navigate.
 
 Similarly, a statistical model makes some simplifying assumptions about how data is generated. This lets mathematicians apply powerful tools for analysis. The trick is making sure your model is close enough to reality to be useful while knowing it will never be a perfect replica.
 
