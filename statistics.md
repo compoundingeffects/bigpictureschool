@@ -51,7 +51,7 @@ When a news organization reports that a political candidate has 45% support base
 
 Sometimes you want to test a specific claim. Did a new drug actually help patients, or did it just seem like it did? Is the difference in test scores between two schools real, or just random chance?
 
-Hypothesis testing is statistics' way of asking: is this finding genuine, or just a fluke? You start with a default assumption (often that nothing interesting is going on — "the drug has no effect"), then you collect data and ask: how surprising would these results be if that assumption were true? If the results would be extremely surprising, you have good reason to doubt your starting assumption and conclude something real is happening.
+Hypothesis testing is statistics' way of asking: is this finding genuine, or just a fluke? You start with a default assumption - often that nothing interesting is going on — "the drug has no effect". Then, you collect data and ask: how surprising would these results be if that assumption were true? If the results would be extremely surprising, you have good reason to doubt your starting assumption and conclude something real is happening.
 
 Statistics doesn't give you absolute certainty — it never claims to. But it tells you how strong your evidence is, so you can make an informed decision.
 
