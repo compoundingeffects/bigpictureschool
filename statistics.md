@@ -43,7 +43,7 @@ Probability lets statisticians describe not just what *happened* in their data, 
 
 ## Inferential statistics: going beyond what you can see
 
-This is where statistics gets really powerful. Inferential statistics means using your sample data to draw conclusions about the bigger population — the part you *didn't* directly measure.
+This is where statistics gets really powerful. Inferential statistics means using your sample data to draw conclusions about the bigger population — the part you didn't directly measure.
 
 When a news organization reports that a political candidate has 45% support based on a poll of 1,000 people, they're not just describing those 1,000 people. They're making an educated inference about millions of voters. Statistics makes that leap possible, and it also tells you how much uncertainty comes along for the ride — which is why you often hear phrases like "with a margin of error of 3 percentage points."
 
