@@ -17,7 +17,7 @@ Systems science is the study of how complex things work — not by pulling them 
 
 At its simplest, a system is any group of connected parts that work together toward some purpose. That could be a living body, a city's traffic network, a business organization, an ecosystem, or even a family. The parts could be physical objects, people, processes, or ideas.
 
-The key insight is this: a system is not just a pile of its ingredients. The way those ingredients connect and interact is what gives the system its character. A pile of bricks is not a house. But arrange those bricks in a certain way, with certain relationships to each other, and something new emerges — shelter, structure, a home.
+The key insight is this: a system is not just a collection of its parts. The way those parts connect and interact is what gives the system its character. A pile of bricks is not a house. But arrange those bricks in a certain way, with certain relationships to each other, and something new emerges — shelter, structure, a home.
 
 ## The magic of "emergence"
 
@@ -25,7 +25,7 @@ One of the most fascinating ideas in systems science is called emergence — whe
 
 Think about a single musician. They can play a melody. But when dozens of musicians play together in an orchestra, something appears that no individual player created alone: a rich, layered piece of music with depth and texture that a solo instrument simply can't achieve. The orchestra as a whole has qualities that emerge from the interaction of its members.
 
-An even more striking example: your brain is made up of billions of nerve cells (neurons), and yet no single neuron "thinks" or "feels." Consciousness — your ability to read these words and understand them — emerges from the enormous web of connections between neurons. You can't find consciousness in any one cell. It arises from how they all work together.
+An even more striking example: your brain is made up of billions of nerve cells (neurons), and yet no single neuron appears to think or feel on its own. Consciousness — your ability to read these words and understand them — seems to emerge from the enormous web of connections between neurons rather than residing in any one cell. The whole produces something that none of the parts could manage alone.
 
 This is why systems scientists argue that you can't fully understand something just by breaking it into smaller and smaller pieces. That approach, known as reductionism, is incredibly useful in many contexts, but it has limits. When you pull a system apart to study its components, you often destroy the very relationships that make it interesting.
 
@@ -49,8 +49,8 @@ One of the most important tools in systems science is the concept of the feedbac
 
 There are two main types:
 
-- **Reinforcing feedback** amplifies change. Think of a microphone held too close to a speaker — the sound gets picked up, amplified, picked up again, and quickly turns into a screeching noise. In business, success can breed more success: a popular product attracts more customers, which generates more revenue, which funds better products. This kind of loop can drive rapid growth or rapid collapse.
-
+- **Reinforcing feedback** amplifies change. Think of a microphone held too close to a speaker — the sound gets picked up, amplified, picked up again, and quickly turns into a screeching noise. This kind of loop can work in both directions. In business, success can breed more success: a popular product attracts more customers, which generates more revenue, which funds better products. But the same logic applies in reverse. A bank run is a classic example: a rumor that a bank is failing causes people to withdraw money, which weakens the bank further, which causes more withdrawals, and so on.
+  
 - **Balancing feedback** stabilizes things. Your home's thermostat is a perfect example. If the temperature drops, the heater kicks on; once it's warm enough, the heater shuts off. The output (room temperature) feeds back to control the input (heating). Your body uses countless balancing loops to keep things like temperature and blood sugar within safe ranges.
 
 Understanding these loops is crucial for predicting how a system will behave and for figuring out where and how to step in when something goes wrong.
