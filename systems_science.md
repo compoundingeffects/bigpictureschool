@@ -39,7 +39,7 @@ To truly understand something, systems science says you need to zoom in *and* zo
 
 **Looking at the whole picture**. Instead of isolating one variable at a time (the traditional scientific approach), systems science looks at the entire system in its real-world context. The reasoning is that pulling something out of its environment, like studying an animal only in a lab, can change its behavior so much that your findings don't reflect reality.
 
-**Spotting patterns across different fields**. One of the most powerful things systems science does is identify patterns that show up in very different kinds of systems. A forest recovering after a fire, a city rebuilding after a natural disaster, and a body fighting off an infection all respond to disruption in surprisingly similar ways. By recognizing these shared structures, lessons learned in one field can shed light on problems in a completely different one.
+**Spotting patterns across different fields**. One of the most powerful things systems science does is identify patterns that show up in very different kinds of systems. A forest recovering after a fire, a city rebuilding after a natural disaster, and a body fighting off an infection all follow a surprisingly similar arc: a rapid initial response, followed by gradual rebuilding, and eventually a new stable state. By recognizing these shared patterns, lessons learned in one field can shed light on problems in a completely different one.
 
 **Thinking about change over time**. Systems aren't static — they constantly change, adapt, and respond to what happens around them. A snapshot of a system at one moment can be misleading. Systems science emphasizes watching how things evolve and unfold, because timing and sequence often matter enormously.
 
