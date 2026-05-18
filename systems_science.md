@@ -11,7 +11,7 @@ nav_order: 6
 
 Have you ever wondered why traffic jams seem to appear out of nowhere, even when no single driver is doing anything wrong? Or why a colony of ants can build elaborate structures without any one ant having a blueprint? These are the kinds of puzzles that systems science was built to solve.
 
-Systems science is the study of how complex things work — not by pulling them apart, but by looking at how their pieces fit and work together. It draws on ideas from biology, engineering, sociology, and many other fields to understand one powerful truth: **the relationships between parts of a system often matter more than the parts themselves**.
+Systems science is the study of how complex things work — not by pulling them apart, but by looking at how their pieces fit and work together. It draws on ideas from biology, engineering, sociology, and many other fields to understand one powerful truth: *the relationships between parts of a system often matter more than the parts themselves*.
 
 ## What even is a "system"?
 
