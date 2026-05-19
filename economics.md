@@ -3,7 +3,7 @@ layout: default
 title: Economics
 parent: Social Science
 nav_order: 4
-has_children: true
+has_children: false
 ---
 
 # Economics
