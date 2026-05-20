@@ -14,7 +14,7 @@ The word "philosophy" comes from two ancient Greek words: *philos*, meaning "lov
 
 ## Starting from scratch: building on basic truths
 
-One of philosophy's most powerful approaches is starting from the ground up beginning only with things we know for certain and building from there. Think of it like stripping a problem down to its bare bones before adding anything back. (You might have heard this called "first principles thinking.")
+One of philosophy's most powerful approaches is starting from the ground up beginning only with things we know for certain and building from there. Think of it like stripping a problem down to its bare bones before adding anything back. You might have heard this called "first principles thinking."
 
 So what are philosophy's bare bones? Three simple but profound starting points:
 
