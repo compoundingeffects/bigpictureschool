@@ -77,4 +77,4 @@ Ultimately, political science circles back to some of the oldest and most import
 - What kinds of political systems best promote fairness, prosperity, and stability?
 - How can diverse societies manage conflict and find ways to cooperate?
 
-These questions aren't going away. As long as humans live together in societies — which is to say, forever — we'll need to keep asking and answering them. Political science gives us a rigorous, thoughtful way to do exactly that.
+These questions aren't going away. As long as humans live together in societies, we'll need to keep asking and answering them. Political science gives us a rigorous, thoughtful way to do exactly that.
