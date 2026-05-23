@@ -120,7 +120,7 @@ Interested in sharing your feedback or collaborating with us? We would love to h
   * [Electrical Engineering](https://bigpictureschool.com/electrical_engineering.html)
   * [Environmental Engineering](https://bigpictureschool.com/environmental_engineering.html)
   * [Industrial Engineering](https://bigpictureschool.com/industrial_engineering.html)
-  * [Materials Science and Engineering](https://bigpictureschool.com/material_science_engineering.html)
+  * [Materials Science and Engineering](https://bigpictureschool.com/materials_science_and_engineering.html)
   * [Mechanical Engineering](https://bigpictureschool.com/mechanical_engineering.html)
   * [Software Engineering](https://bigpictureschool.com/software_engineering.html)
   * [Systems Engineering](https://bigpictureschool.com/systems_engineering.html) 
