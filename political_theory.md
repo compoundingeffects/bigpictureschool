@@ -30,9 +30,7 @@ Think of political theory as a web of connected questions. Here are the main one
 
 **What is fair?** The concept of justice runs through almost every debate in political theory. How should a society distribute its benefits and burdens? Should wealth be shared equally? Should people be rewarded based on effort, need, or talent? These questions don't have easy answers, which is why they've kept thinkers busy for thousands of years.
 
-### How do we keep power from being abused?
-
-Even when authority is legitimate, it can go wrong. Political theory explores how to structure government so that power is kept in check — through laws, elections, independent courts, and other mechanisms.
+**How do we keep power from being abused?** Even when authority is legitimate, it can go wrong. Political theory explores how to structure government so that power is kept in check — through laws, elections, independent courts, and other mechanisms.
 
 ## How do political theorists think through these questions?
 
