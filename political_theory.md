@@ -24,17 +24,11 @@ Politics exists because we need ways to sort out these conflicts. Political theo
 
 Think of political theory as a web of connected questions. Here are the main ones:
 
-### Who has the right to make decisions for everyone else — and why?
+**Who has the right to make decisions for everyone else — and why?** This is about authority and legitimacy. It's not enough for someone to simply *have* power. Political theorists ask whether that power is *justified*. A dictator who seized control by force has power, but do people have a good reason to obey them? Most of us would say no — and political theory tries to explain why.
 
-This is about authority and legitimacy. It's not enough for someone to simply *have* power. Political theorists ask whether that power is *justified*. A dictator who seized control by force has power, but do people have a good reason to obey them? Most of us would say no — and political theory tries to explain why.
+**Do we have a duty to follow the rules?** This connects to the idea of consent — whether people have agreed, in some meaningful sense, to be governed. It's the difference between rules you've had a say in making and rules that were simply imposed on you.
 
-### Do we have a duty to follow the rules?
-
-This connects to the idea of consent — whether people have agreed, in some meaningful sense, to be governed. It's the difference between rules you've had a say in making and rules that were simply imposed on you.
-
-### What is fair?
-
-The concept of justice runs through almost every debate in political theory. How should a society distribute its benefits and burdens? Should wealth be shared equally? Should people be rewarded based on effort, need, or talent? These questions don't have easy answers, which is why they've kept thinkers busy for thousands of years.
+**What is fair?** The concept of justice runs through almost every debate in political theory. How should a society distribute its benefits and burdens? Should wealth be shared equally? Should people be rewarded based on effort, need, or talent? These questions don't have easy answers, which is why they've kept thinkers busy for thousands of years.
 
 ### How do we keep power from being abused?
 
