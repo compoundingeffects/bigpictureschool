@@ -30,11 +30,15 @@ Countries do the same thing.
 
 Because no outside force guarantees a nation's survival or safety, every country has to look out for itself. This leads to some predictable patterns:
 
-**Security becomes the top priority.** A country that can't defend itself risks being bullied, invaded, or worse. So nations spend heavily on militaries, build walls and fences, and form alliances — all in the name of staying safe.
+### Security becomes the top priority
+
+A country that can't defend itself risks being bullied, invaded, or worse. So nations spend heavily on militaries, build walls and fences, and form alliances — all in the name of staying safe.
 
 But here's where it gets tricky: there's something called the security dilemma. Imagine your neighbor buys a guard dog and installs security cameras. They're just trying to feel safe, but from your perspective, it looks like they might be preparing for something. So you buy your own guard dog. Now your neighbor is nervous again, and they add another lock to their door. Neither of you intended to start a conflict — but here you are, both more guarded and more suspicious than before. Countries fall into this same trap all the time. One nation builds up its military "just in case," and neighboring countries see a threat and start building up theirs too.
 
-**Power matters — a lot.** In a world where you have to fend for yourself, having resources, strength, and influence is the difference between getting what you want and getting pushed around. Power comes in many forms: military strength, economic size, diplomatic relationships, technological edge, and even cultural influence (think about how much American movies and music shape global attitudes). Countries are constantly sizing each other up — not just in absolute terms, but relative to one another. If Country A gets stronger, Country B's position, by comparison, gets weaker. That shift matters.
+### Power matters — a lot
+
+In a world where you have to fend for yourself, having resources, strength, and influence is the difference between getting what you want and getting pushed around. Power comes in many forms: military strength, economic size, diplomatic relationships, technological edge, and even cultural influence (think about how much American movies and music shape global attitudes). Countries are constantly sizing each other up — not just in absolute terms, but relative to one another. If Country A gets stronger, Country B's position, by comparison, gets weaker. That shift matters.
 
 ## How countries actually deal with each other
 
