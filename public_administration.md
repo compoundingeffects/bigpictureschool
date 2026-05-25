@@ -42,15 +42,15 @@ Public administration isn't just about handing out services—it's also about en
 
 ## How government organizations are structured
 
-## The case for bureaucracy
+### The case for bureaucracy
 
 "Bureaucracy" has become a bit of a dirty word, but it exists for a reason. The sociologist Max Weber, writing in the early 20th century, argued that large organizations—especially government ones—work best when they have clear chains of command, well-defined roles, standardized procedures, and staff hired based on skill rather than personal connections. This structure might feel slow sometimes, but it provides something important: predictability and fairness. When rules are clear and consistently applied, citizens know what to expect and are less likely to be treated arbitrarily.
 
-## The need for expertise
+### The need for expertise
 
 Running a modern government requires an enormous range of skills. Urban planners figure out how cities should grow. Public health officials respond to disease outbreaks. IT specialists keep government systems secure. Financial managers track massive budgets. These aren't jobs that just anyone can do—they require professionals with real expertise. The challenge is attracting and keeping talented people within the specific rules and constraints that come with working for government.
 
-## Getting everyone to work together
+### Getting everyone to work together
 
 Government programs rarely involve just one agency. Consider disaster relief after a hurricane: it might involve federal agencies, state emergency management offices, local governments, hospitals, and more—all needing to coordinate without duplicating effort or leaving gaps in coverage. Building systems that help different agencies and levels of government work together smoothly is one of the quieter but more important aspects of public administration.
 
