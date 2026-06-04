@@ -26,7 +26,7 @@ Over centuries, thinkers have developed three main approaches to ethics. Each on
 
 ### 1. It's all about outcomes
 
-The first approach says that whether an action is right or wrong depends entirely on what happens as a result of it. In other words, judge the action by its consequences. This is known as consequentialist ethics.
+The first approach says that whether an action is right or wrong depends entirely on what happens as a result of it. In other words, judge the action by its consequences. This is known as consequentialist ethics — the idea that the morality of an action lives entirely in its results.
 
 The most well-known version of this is called utilitarianism, which argues that the right action is the one that produces the greatest happiness for the greatest number of people. Think of it like a moral calculator: weigh up the benefits and harms for everyone involved, and choose whatever creates the most good overall.
 
