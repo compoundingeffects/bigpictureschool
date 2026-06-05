@@ -10,9 +10,9 @@ nav_order: 5
 
 ## What is metaphysics?
 
-Have you ever lain awake wondering: *Why does anything exist at all? What is reality, really? Is there more to the world than what we can see and touch?* If so, you've been doing metaphysics — one of philosophy's oldest and deepest pursuits.
+Have you ever lain awake wondering: Why does anything exist at all? What is reality, really? Is there more to the world than what we can see and touch? If so, you've been doing metaphysics — one of philosophy's oldest and deepest pursuits.
 
-Metaphysics is the branch of philosophy that asks the most fundamental questions about reality. Not "how does gravity work?" or "what are atoms made of?" — those are questions for science. Metaphysics goes one level deeper and asks: *What does it even mean for something to exist? What are the most basic ingredients of reality? How do things relate to one another at the most fundamental level?*
+Metaphysics is the branch of philosophy that asks the most fundamental questions about reality. Not "how does gravity work?" or "what are atoms made of?" — those are questions for science. Metaphysics goes one level deeper and asks: What does it even mean for something to exist? What are the most basic ingredients of reality? How do things relate to one another at the most fundamental level?
 
 Science investigates specific parts of reality through experiments and observation. Metaphysics, by contrast, tries to understand the underlying framework that makes reality possible in the first place. Think of it this way: science studies the rooms of a house, while metaphysics examines the foundation the whole house is built on.
 
@@ -22,7 +22,7 @@ One powerful way to do metaphysics is to start from first principles — that is
 
 In metaphysics, this approach gives us a few bedrock starting points:
 
-**Something exists.** This is the most basic truth we can land on. Even if you doubt everything — your senses, your memories, your surroundings — the very act of doubting proves that *something* is happening. At minimum, your doubt exists. You can't doubt your way out of existence itself. So our first unshakeable truth is: *something exists.*
+**Something exists.** This is the most basic truth we can land on. Even if you doubt everything — your senses, your memories, your surroundings — the very act of doubting proves that *something* is happening. At minimum, your doubt exists. You can't doubt your way out of existence itself. So our first unshakeable truth is: something exists.
 
 **Things have specific identities.** Whatever exists is what it is. A cat is a cat, not a bicycle. A number is a number, not an emotion. This sounds almost too obvious to say, but it's deeply important: it means reality isn't a formless, chaotic blur. Things have definite, distinguishable natures. An apple is an apple, not a symphony.
 
@@ -36,7 +36,7 @@ Once we've established these basics, a whole set of fascinating questions opens 
 
 ### What does it mean to "exist"?
 
-This one is trickier than it sounds. A rock clearly exists. But what about the number seven? You've never stubbed your toe on a seven, yet most of us feel like the number seven is *real* in some meaningful sense — it's not something you invented. Or think about justice, or beauty. Do these exist? And if so, do they exist in the same way a rock does? Metaphysics takes these questions seriously and tries to work out whether there are different *kinds* or *levels* of existence.
+This one is trickier than it sounds. A rock clearly exists. But what about the number seven? You've never stubbed your toe on a seven, yet most of us feel like the number seven is *real* in some meaningful sense — it's not something you invented. Or think about justice, or beauty. Do these exist? And if so, do they exist in the same way a rock does? Metaphysics takes these questions seriously and tries to work out whether there are different kinds or levels of existence.
 
 ### What are things made of, at the deepest level?
 
@@ -52,7 +52,7 @@ Are space and time actual features of reality — woven into the fabric of the u
 
 ## The puzzle of mind and reality
 
-One of the most captivating areas of metaphysics grows directly out of our first-principles starting point. We began by saying: *I know that I exist, because I am thinking and doubting.* But that immediately raises a thorny question — how do I know that anything *outside* my own mind exists?
+One of the most captivating areas of metaphysics grows directly out of our first-principles starting point. We began by saying: I know that I exist, because I am thinking and doubting. But that immediately raises a thorny question — how do I know that anything *outside* my own mind exists?
 
 Think about it. Everything you know about the world comes to you through your senses — light hitting your eyes, sound waves reaching your ears, pressure on your skin. But your senses could, in principle, be fooled. Dreams feel real while you're having them. So how do you know the world outside your head is genuinely there?
 
