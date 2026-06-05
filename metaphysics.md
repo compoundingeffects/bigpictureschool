@@ -10,9 +10,9 @@ nav_order: 5
 
 ## What is metaphysics?
 
-Have you ever lain awake wondering: Why does anything exist at all? What is reality, really? Is there more to the world than what we can see and touch? If so, you've been doing metaphysics — one of philosophy's oldest and deepest pursuits.
+Have you ever lain awake wondering: *Why does anything exist at all? What is reality, really? Is there more to the world than what we can see and touch?* If so, you've been doing metaphysics — one of philosophy's oldest and deepest pursuits.
 
-Metaphysics is the branch of philosophy that asks the most fundamental questions about reality. Not "how does gravity work?" or "what are atoms made of?" — those are questions for science. Metaphysics goes one level deeper and asks: What does it even mean for something to exist? What are the most basic ingredients of reality? How do things relate to one another at the most fundamental level?
+Metaphysics is the branch of philosophy that asks the most fundamental questions about reality. Not "how does gravity work?" or "what are atoms made of?" — those are questions for science. Metaphysics goes one level deeper and asks: *What does it even mean for something to exist? What are the most basic ingredients of reality? How do things relate to one another at the most fundamental level?*
 
 Science investigates specific parts of reality through experiments and observation. Metaphysics, by contrast, tries to understand the underlying framework that makes reality possible in the first place. Think of it this way: science studies the rooms of a house, while metaphysics examines the foundation the whole house is built on.
 
