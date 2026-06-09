@@ -68,6 +68,6 @@ Is the universe deterministic — does every event follow inevitably from prior 
 
 These aren't just abstract puzzles. The answers ripple outward into how we design moral systems, how we interpret scientific discoveries, and how we understand the meaning of our own lives.
 
-The first-principles approach to metaphysics offers a rigorous, clear-eyed way to wrestle with these ultimate questions. By starting only with what we can't deny and reasoning carefully from there, metaphysics tries to build a solid, coherent picture of reality — one that can serve as a foundation for everything else we think we know.
+The first principles approach to metaphysics offers a rigorous, clear-eyed way to wrestle with these ultimate questions. By starting only with what we can't deny and reasoning carefully from there, metaphysics tries to build a solid, coherent picture of reality — one that can serve as a foundation for everything else we think we know.
 
 In other words, metaphysics isn't the search for impractical abstractions. It's the search for the bedrock beneath all other knowledge.
