@@ -21,11 +21,11 @@ This is what separates architecture from ordinary construction. A contractor bui
 
 When you strip architecture down to its basics, three core elements emerge:
 
-- **Structure** — This is the physical skeleton of a building. It's what keeps the whole thing from falling down, using materials and engineering to hold up against gravity and weather.
+- **Structure**. This is the physical skeleton of a building. It's what keeps the whole thing from falling down, using materials and engineering to hold up against gravity and weather.
 
-- **Space** — This refers to the actual areas created inside and around a building. Architects think carefully about the size of rooms, how they connect to each other, and how people will move through them. A cramped hallway feels very different from a wide, open gallery — and that difference is entirely by design.
+- **Space**. This refers to the actual areas created inside and around a building. Architects think carefully about the size of rooms, how they connect to each other, and how people will move through them. A cramped hallway feels very different from a wide, open gallery — and that difference is entirely by design.
 
-- **Experience** — This is how a building makes you *feel*. The way sunlight streams through a window, the echo of footsteps in a marble lobby, the warmth of wooden walls — all of these sensory details are part of what an architect shapes.
+- **Experience**. This is how a building makes you *feel*. The way sunlight streams through a window, the echo of footsteps in a marble lobby, the warmth of wooden walls — all of these sensory details are part of what an architect shapes.
 
 ## Do buildings follow form or function?
 
