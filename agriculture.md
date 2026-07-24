@@ -49,7 +49,5 @@ Advances in food storage and preservation also mean that food grown in one seaso
 
 Agriculture scales remarkably. It can be as small as a family garden that feeds a household, or as large as vast industrial operations that supply entire continents. Modern farmers typically try to get more food out of the same amount of land — through better seeds, smarter techniques, and more efficient use of resources. This ability to scale up is what allows today's global food system to feed billions of people.
 
----
-
 When you step back and look at the big picture, agriculture is really about one thing: taking the biological processes that nature already uses and directing them purposefully. By controlling the environment, choosing the plants and animals best suited for producing food reliably and abundantly, and managing resources carefully, humans created something nature couldn't provide on its own — a reliable food surplus. And that surplus, more than almost anything else, is what built the world we live in today.
 
