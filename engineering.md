@@ -36,7 +36,7 @@ Next comes the detailed planning stage. Engineers use math, computer simulations
 
 Finally, engineering is rarely a one-and-done process. Designs get tested, tested again, and improved based on what's learned each time — similar to how a writer might revise a draft multiple times before it's ready to publish. This cycle of building, testing, and refining continues until the design meets all the necessary requirements — and does so reliably.
 
-## Engineering is about making smart trade-Offs
+## Engineering is about making smart trade-offs
 
 If you had to sum up engineering in one phrase, it might be this: finding the best possible solution while working within real limits. Engineers can't just focus on making something technically impressive — they also have to think about whether it's affordable, whether it's good for the environment, whether it follows legal regulations, and whether people will actually want to use it. Balancing all of these competing goals at once is what makes engineering uniquely challenging — and different from pure science, which is more focused on discovering truths about the world than on solving a practical problem within constraints.
 
