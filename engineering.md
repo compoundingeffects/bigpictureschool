@@ -26,7 +26,7 @@ But engineers don't just need to understand science — they also have to work w
 
 **Expecting things to fail — and planning for it anyway.** No engineered thing is risk-free. Bridges can crack. Circuits can short out. Software can crash. Good engineering doesn't pretend these risks don't exist — it plans for them. That's why bridges are built to hold far more weight than they'll ever actually need to (called a "safety factor"), why airplanes have backup systems in case one part fails ("redundancy"), and why some designs are built so that if something *does* go wrong, it fails in a way that's safe rather than catastrophic (a "fail-safe"). Elevators, for example, are designed so that if the cable snaps, brakes automatically engage — the elevator doesn't just plummet.
 
-## How engineers actually get from idea to finished product
+## How engineers get from idea to finished product
 
 Engineering projects tend to follow a similar path, no matter what's being built.
 
