@@ -23,7 +23,7 @@ Why does this matter for understanding pollution? Because when we dump chemicals
 
 ## Living things add complexity
 
-Life adds a whole new layer of complications. Unlike a rock or a river, living things can concentrate certain chemicals in their bodies, transform materials through their biology, and actively respond to changes around them.
+Life adds a whole new layer of complexity. Unlike a rock or a river, living things can concentrate certain chemicals in their bodies, transform materials through their biology, and actively respond to changes around them.
 
 At its core, biology is fairly simple: living things need energy and materials to survive, they reproduce, and they adapt to challenges—either by evolving over generations or by moving somewhere else. But when you scale this up, things get interesting.
 
