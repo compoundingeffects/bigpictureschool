@@ -10,7 +10,7 @@ nav_order: 7
   
 ## What is environmental engineering?
 
-Environmental engineering is all about using science and engineering to protect our air, water, and land while also keeping people healthy and safe. In simple terms, it's the field responsible for figuring out how humans can live, build, and manufacture things without wrecking the planet in the process.
+Environmental engineering is all about using science and engineering to protect our air, water, and land while also keeping people healthy and safe. In simple terms, it's the field responsible for figuring out how humans can live, build, and manufacture things without doing lasting harm to the planet.
 
 ## The basic ideas behind it all
 
