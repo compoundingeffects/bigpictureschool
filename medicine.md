@@ -8,6 +8,8 @@ nav_order: 4
 
 # Medicine
 
+## What is medicine?
+
 Medicine is the use of scientific knowledge to prevent, diagnose, and treat disease so that people can stay healthy or recover their health. Its central idea is that the human body is a complex living system. Like any complex system, it can go wrong. But those problems can be understood, predicted, and corrected in an organized way.
 
 ## The body as a system
