@@ -8,6 +8,8 @@ nav_order: 3
 
 # Optometry
 
+## What is optometry?
+
 Optometry is the healthcare profession that looks after eyes and eyesight. Optometrists examine eyes, diagnose problems, treat them, and manage ongoing conditions. They are primary care providers for the eyes, which means they are often the first professional you see for any vision concern and they handle a wide range of eye care.
 
 The starting point is simple: we rely on vision to find our way around and make sense of the world. Everything in optometry builds from there.
