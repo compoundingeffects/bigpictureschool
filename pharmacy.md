@@ -8,6 +8,8 @@ nav_order: 6
 
 # Pharmacy
 
+## What is pharmacy?
+
 Pharmacy is the science and practice of medications. It covers discovering them, making them, preparing them, handing them out, and keeping track of how they work, all so that they can be used safely and effectively to treat illness and support health.
 
 Pharmacy exists because of a few basic human needs and scientific facts. Here is how it builds from the ground up.
