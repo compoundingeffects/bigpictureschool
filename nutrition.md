@@ -8,6 +8,8 @@ nav_order: 5
 
 # Nutrition
 
+## What is nutrition?
+
 Nutrition is how living things get and use the substances they need to grow, stay healthy, and keep their bodies running. It covers the whole journey: taking in food, breaking it down, absorbing it, and putting it to work inside cells, where it supplies both energy and building materials.
 
 ## The basics: energy and raw materials
