@@ -8,26 +8,44 @@ has_children: false
 
 # Language
 
-Language, at its most fundamental level, is a system of symbolic representation that enables the transmission of information between conscious entities. To understand this through first principles, we must examine the basic components and mechanisms that make language possible.
+## What is language?
 
-## The Foundation: Symbolic Representation
+At its most basic, language is a system of symbols that lets one mind pass information to another. To see how it works, it helps to break it down into its basic parts and the mechanisms that make it possible.
 
-Language begins with the human capacity to assign arbitrary sounds, gestures, or marks as symbols that represent concepts, objects, actions, or relationships. This symbolic function distinguishes language from simple communication systems found in other species. A word like "tree" has no inherent connection to the physical object it represents—the relationship is entirely conventional and learned.
+## The foundation: symbols
 
-## Core Components
+Language starts with a distinctly human ability: we can pick a sound, a gesture, or a mark on a page and agree that it stands for something else, such as an object, an action, an idea, or a relationship. This is what sets language apart from the simpler communication systems of other species. A bird's alarm call or a bee's dance can signal something, but human language lets us build meaning out of symbols in a far more open-ended way.
 
-Language operates through several interconnected systems. The phonological system governs the sound patterns that carry meaning. The lexical system encompasses the vocabulary of meaningful units, from individual words to complex expressions. The grammatical system provides rules for combining these units into larger structures that convey complex relationships and ideas. The semantic system handles meaning itself, while the pragmatic system manages how context influences interpretation.
+Take the word "tree." Nothing about the sounds in that word looks, smells, or feels like a tree. Spanish speakers say *árbol* and Japanese speakers say *ki*, and all of them are talking about the same thing. The link between word and object is purely a matter of convention. We learn it from the people around us, and it works because everyone agrees to it.
 
-## The Mechanism of Communication
+## The building blocks
 
-Language functions as a communication technology through encoding and decoding processes. A speaker encodes thoughts into linguistic structures, transmitting them through sound waves, written symbols, or gestures. The listener receives these signals and decodes them back into meaningful concepts, ideally reconstructing something approximating the original thought.
+Language runs on several systems working together.
 
-## Emergent Properties
+- **Sounds.** The *phonological* system covers the sound patterns that carry meaning. It's why "bat" and "pat" are different words, even though they differ by just one sound.
+- **Vocabulary.** The *lexical* system is our stock of meaningful units, from single words to longer expressions like "kick the bucket."
+- **Grammar.** The *grammatical* system supplies the rules for combining those units into larger structures. It's the difference between "the dog bit the man" and "the man bit the dog," which use the same words but tell very different stories.
+- **Meaning.** The *semantic* system deals with what words and sentences actually mean.
+- **Context.** The *pragmatic* system handles how the situation shapes interpretation. If someone at the dinner table asks, "Can you pass the salt?" they aren't asking about your physical abilities.
 
-From these basic mechanisms emerge sophisticated capabilities that define human language. Compositionality allows speakers to create infinite novel expressions by combining known elements according to systematic rules. Displacement enables discussion of abstract concepts, past and future events, and hypothetical scenarios. Recursion permits the embedding of ideas within ideas, creating hierarchical structures of unlimited complexity.
+## How communication works
 
-## Social and Cognitive Dimensions
+You can think of language as a communication technology that works by encoding and decoding. A speaker takes a thought and encodes it into language, then sends it out as sound waves, written symbols, or gestures. The listener picks up those signals and decodes them back into ideas. When it works well, the listener ends up with something close to what the speaker had in mind. The word "close" matters, though. Misunderstandings happen precisely because the process is never perfect.
 
-Language exists simultaneously as an individual cognitive capacity and a social phenomenon. Each person possesses an internal linguistic system—their mental grammar—that generates and interprets expressions. Yet language only functions through shared conventions developed and maintained by communities of speakers. This dual nature explains both the universal properties of human language and the rich diversity of languages across cultures.
+## What emerges from these basics
 
-Understanding language through this foundational approach reveals it as perhaps humanity's most sophisticated tool—a system that not only enables communication but shapes thought itself, creating the conceptual frameworks through which we interpret and navigate reality.
+From these simple ingredients come the abilities that make human language so powerful.
+
+*Compositionality* means we can combine familiar pieces according to systematic rules to produce an endless supply of new expressions. You've almost certainly never heard the sentence "The purple giraffe filed its taxes in a submarine," yet you understood it instantly.
+
+*Displacement* means we can talk about things that aren't in front of us. We can discuss abstract ideas, remember the past, plan for the future, and imagine "what if" scenarios.
+
+*Recursion* means we can nest ideas inside other ideas. "The cat sat on the mat" can become "The woman who owns the cat that sat on the mat is my neighbor," and that sentence can be tucked inside yet another. In principle, this layering has no limit.
+
+## Language in the mind and in society
+
+Language exists in two places at once: inside individual minds and across communities. Each of us carries an internal system, sometimes called a *mental grammar*, that lets us produce and understand sentences. Most of us can't spell out its rules, but we follow them automatically. Still, language only works because of conventions that communities of speakers create and maintain together. A language no one else shares is of little use.
+
+This double nature helps explain two things that might otherwise seem to conflict: the features that all human languages have in common, and the huge variety of languages around the world.
+
+Seen this way, language may be humanity's most sophisticated tool. It lets us communicate, but it does more than that. It also shapes thought itself, building the mental frameworks through which we make sense of reality and find our way through it.
